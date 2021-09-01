@@ -12,6 +12,8 @@ https://nitro-drop.com/ - Fake Steam Login
 
 https://gamex.codes/7092bb7 - Fake Generator
 
+https://discordnitrocodes.blogspot.com/ - Fake Generator
+
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll
 
 

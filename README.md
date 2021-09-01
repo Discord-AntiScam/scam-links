@@ -10,8 +10,7 @@ https://dlscord-nitro.info/steam - Fake Steam Login
 https://nitro-drop.com/ - Fake Steam Login
   - Proof: https://nitro-drop.com/vdfnwHBA2xOEHJFWRAYCpz8fukGlqSiNx6o3jkbd4a5a8d2rgoaVttcTp
 
-
-## Rickrolls
+https://gamex.codes/7092bb7 - Fake Generator
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll
 

@@ -16,6 +16,8 @@ https://discordnitrocodes.blogspot.com/ - Fake Generator
 
 http://shared-tools.xyz/1a58e5a - Fake Generator
 
+https://techgenerator.xyz/discord~frestuf - Fake Generator
+
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll
 
 

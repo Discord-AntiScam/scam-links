@@ -14,6 +14,8 @@ https://gamex.codes/7092bb7 - Fake Generator
 
 https://discordnitrocodes.blogspot.com/ - Fake Generator
 
+http://shared-tools.xyz/1a58e5a - Fake Generator
+
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll
 
 

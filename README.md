@@ -13,6 +13,7 @@ https://nitro-drop.com/ - Fake Steam Login
 
 ## Rickrolls
 
+https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll
 
 
 

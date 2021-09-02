@@ -34,6 +34,8 @@ https://psp-haxors.com/discord/ - Fake Generator
 
 http://arcades.tech/discordnitro/ - Fake Generator
 
+https://discord.freehlp.com/ - Fake Generator
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll

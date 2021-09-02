@@ -30,6 +30,8 @@ https://genrates.xyz/08c3611 - Fake Generator
 
 https://psp-haxors.com/discord/ - Fake Generator
 
+http://arcades.tech/discordnitro/ - Fake Generator
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll

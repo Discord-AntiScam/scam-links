@@ -2,7 +2,7 @@
 This is a list of all fake nitro links (including rickrolls)
 
 ## Contributors
- - Raven#1311
+ - Raven#1311 (323611068503031810)
 
 ## Scams
 

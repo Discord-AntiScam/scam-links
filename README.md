@@ -24,6 +24,8 @@ http://shared-tools.xyz/1a58e5a - Fake Generator
 
 https://techgenerator.xyz/discord~frestuf - Fake Generator
 
+https://rbuxfree.com/dl/?discord - Fake Generator
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll

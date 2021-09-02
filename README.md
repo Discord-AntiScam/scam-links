@@ -26,6 +26,8 @@ https://techgenerator.xyz/discord~frestuf - Fake Generator
 
 https://rbuxfree.com/dl/?discord - Fake Generator
 
+https://genrates.xyz/08c3611 - Fake Generator
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll

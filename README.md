@@ -28,6 +28,8 @@ https://rbuxfree.com/dl/?discord - Fake Generator
 
 https://genrates.xyz/08c3611 - Fake Generator
 
+https://psp-haxors.com/discord/ - Fake Generator
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll

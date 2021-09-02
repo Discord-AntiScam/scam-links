@@ -1,6 +1,9 @@
 # fake-nitro-links
 This is a list of all fake nitro links (including rickrolls)
 
+## Contributors
+ - Raven#1311
+
 ## Scams
 
 ### Fake Steam Logins

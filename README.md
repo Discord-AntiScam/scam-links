@@ -1,4 +1,4 @@
-# fake-nitro-links
+# Fake Nitro Links
 This is a list of all fake nitro links (including rickrolls)
 
 ## Contributors

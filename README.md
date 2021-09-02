@@ -14,6 +14,8 @@ https://nitro-drop.com/ - Fake Steam Login
  
 https://steamcomminuty.com/give-nitro - Fake Steam Login
 
+https://steamcomminuty.com/glft - Fake Steam Login
+
 ### Fake Generators
 
 https://gamex.codes/7092bb7 - Fake Generator

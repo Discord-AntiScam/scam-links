@@ -36,6 +36,8 @@ http://arcades.tech/discordnitro/ - Fake Generator
 
 https://discord.freehlp.com/ - Fake Generator
 
+https://sehotgame.xyz/discord-nitro/ - Fake Generator
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll

@@ -8,39 +8,41 @@ This is a list of all fake nitro links (including rickrolls). Make a pull reques
 
 ### Fake Steam Logins
 
-https://dlscord-nitro.info/steam - Fake Steam Login
+https://dlscord-nitro.info/steam
 
-https://nitro-drop.com/ - Fake Steam Login
+https://nitro-drop.com/
  
-https://steamcomminuty.com/give-nitro - Fake Steam Login
+https://steamcomminuty.com/give-nitro
 
-https://steamcomminuty.com/glft - Fake Steam Login
+https://steamcomminuty.com/glft
 
 ### Fake Generators
 
-https://gamex.codes/7092bb7 - Fake Generator
+https://gamex.codes/7092bb7
 
-https://discordnitrocodes.blogspot.com/ - Fake Generator
+https://discordnitrocodes.blogspot.com/
 
-http://shared-tools.xyz/1a58e5a - Fake Generator
+http://shared-tools.xyz/1a58e5a
 
-https://techgenerator.xyz/discord~frestuf - Fake Generator
+https://techgenerator.xyz/discord~frestuf
 
-https://rbuxfree.com/dl/?discord - Fake Generator
+https://rbuxfree.com/dl/?discord
 
-https://genrates.xyz/08c3611 - Fake Generator
+https://genrates.xyz/08c3611
 
-https://psp-haxors.com/discord/ - Fake Generator
+https://psp-haxors.com/discord/
 
-http://arcades.tech/discordnitro/ - Fake Generator
+http://arcades.tech/discordnitro/
 
-https://discord.freehlp.com/ - Fake Generator
+https://discord.freehlp.com/
 
-https://sehotgame.xyz/discord-nitro/ - Fake Generator
+https://sehotgame.xyz/discord-nitro/
+
+https://www.appninjas.xyz/a43ab53/
 
 ## Rickrolls
 
-https://discordgift.site/qYdLLCnv7KYFsKVL - Rickroll
+https://discordgift.site/qYdLLCnv7KYFsKVL
 
 
 

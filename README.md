@@ -30,7 +30,7 @@ https://steamcomminutty.ru/tradeofter/?partner=1278625821&token=ZcsQc7Zk
 
 ### Fake Generators
 
-#### Nitro
+#### Nitro Generators
 
 https://gamex.codes/7092bb7
 

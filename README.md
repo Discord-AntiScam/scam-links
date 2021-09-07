@@ -1,5 +1,5 @@
-# Fake Nitro Links
-This is a list of all fake nitro links (including rickrolls). Make a pull request to add more fake links. All fake links will be checked using `browserling.com`! Stay Safe!
+# Scam Links
+This is a list of all scam links (including rickrolls). Make a pull request to add more fake links. All fake links will be checked using `browserling.com`! Stay Safe!
 
 ## Contributors
  - Raven#1311 (323611068503031810)
@@ -19,6 +19,8 @@ https://steamcomminuty.com/glft
 https://steamcomminutty.ru/tradeofter/?partner=1278625821&token=ZcsQc7Zk
 
 ### Fake Generators
+
+#### Nitro
 
 https://gamex.codes/7092bb7
 

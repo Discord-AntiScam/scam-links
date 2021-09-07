@@ -16,6 +16,8 @@ https://steamcomminuty.com/give-nitro
 
 https://steamcomminuty.com/glft
 
+https://steamcomminutty.ru/tradeofter/?partner=1278625821&token=ZcsQc7Zk
+
 ### Fake Generators
 
 https://gamex.codes/7092bb7

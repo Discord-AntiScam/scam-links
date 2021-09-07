@@ -1,6 +1,16 @@
 # Scam Links
 This is a list of all scam links (including rickrolls). Make a pull request to add more fake links. All fake links will be checked using `browserling.com`! Stay Safe!
 
+## Table of Contents
+
+- [Scam Links](#scam-links)
+  * [Contributors](#contributors)
+  * [Scams](#scams)
+    + [Fake Steam Logins](#fake-steam-logins)
+    + [Fake Generators](#fake-generators)
+      - [Nitro](#nitro)
+  * [Rickrolls](#rickrolls)
+
 ## Contributors
  - Raven#1311 (323611068503031810)
 

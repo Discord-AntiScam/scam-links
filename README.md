@@ -28,6 +28,8 @@ https://steamcomminuty.com/glft
 
 https://steamcomminutty.ru/tradeofter/?partner=1278625821&token=ZcsQc7Zk
 
+https://discord.giveawey.com/steam
+
 
 ### Fake Generators
 

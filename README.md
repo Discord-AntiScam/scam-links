@@ -30,6 +30,12 @@ https://steamcomminutty.ru/tradeofter/?partner=1278625821&token=ZcsQc7Zk
 
 https://discord.giveawey.com/steam
 
+https://steamsnitro.ru/airdrop
+
+http://discorcl-gift.ru/nitr0/steam
+
+https://dlscorldnitro.store/gift
+
 
 ### Fake Generators
 

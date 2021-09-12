@@ -36,6 +36,8 @@ http://discorcl-gift.ru/nitr0/steam
 
 https://dlscorldnitro.store/gift
 
+https://steamdiscord.com/airdrop
+
 
 ### Fake Generators
 

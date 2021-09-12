@@ -38,6 +38,8 @@ https://dlscorldnitro.store/gift
 
 https://steamdiscord.com/airdrop
 
+https://dlscord-app.com/give-nitro
+
 
 ### Fake Generators
 

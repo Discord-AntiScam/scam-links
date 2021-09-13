@@ -42,6 +42,8 @@ https://dlscord-app.com/give-nitro
 
 https://discords-nitro.xyz/=
 
+https://discord-drop.xyz/nitro
+
 
 ### Fake Generators
 

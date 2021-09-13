@@ -40,6 +40,8 @@ https://steamdiscord.com/airdrop
 
 https://dlscord-app.com/give-nitro
 
+https://discords-nitro.xyz/=
+
 
 ### Fake Generators
 

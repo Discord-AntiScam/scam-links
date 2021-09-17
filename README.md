@@ -44,6 +44,8 @@ https://discords-nitro.xyz/=
 
 https://discord-drop.xyz/nitro
 
+https://discord-app.net/nitro-gift
+
 
 ### Fake Generators
 

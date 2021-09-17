@@ -13,6 +13,9 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 
 ## Contributors
  - Raven#1311 (323611068503031810)
+ - Heromaex#8187 (693169973538848818)
+ - Exxtream#7181 (696942612741095474)
+ - TheAdminHammer#0284 (455163804787933205)
 
 ## Scams
 

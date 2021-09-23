@@ -49,6 +49,8 @@ https://discord-drop.xyz/nitro
 
 https://discord-app.net/nitro-gift
 
+http://gift-g2.ru/steamcommunity/id/drvgonfire
+
 
 ### Fake Generators
 

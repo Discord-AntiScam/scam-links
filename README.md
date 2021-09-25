@@ -53,6 +53,8 @@ http://gift-g2.ru/steamcommunity/id/drvgonfire
 
 https://discord-give.com/RVqqputPG8PNEV46
 
+https://discord-app.net/steam
+
 ### Fake Generators
 
 #### Nitro Generators

@@ -55,6 +55,8 @@ https://discord-give.com/RVqqputPG8PNEV46
 
 https://discord-app.net/steam
 
+http://discocrd-nitro.com/gift
+
 ### Fake Generators
 
 #### Nitro Generators

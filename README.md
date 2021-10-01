@@ -1,5 +1,5 @@
 # Scam Links
-This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. All fake links will be checked using `browserling.com`! Stay Safe!
+This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. All fake links will be checked using `browserling.com`! Some links may not work anymore as they have been taken down. Stay Safe!
 
 ## Table of Contents
 

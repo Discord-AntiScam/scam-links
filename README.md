@@ -25,6 +25,8 @@ https://dlscord-nitro.info/steam
 
 https://dlscord.org/free/nitro
 
+https://dlscordsteam.com/airdrop
+
 https://nitro-drop.com/
  
 https://steamcomminuty.com/give-nitro

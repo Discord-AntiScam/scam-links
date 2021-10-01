@@ -23,6 +23,8 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 
 https://dlscord-nitro.info/steam
 
+https://dlscord.org/free/nitro
+
 https://nitro-drop.com/
  
 https://steamcomminuty.com/give-nitro

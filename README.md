@@ -87,6 +87,10 @@ https://sehotgame.xyz/discord-nitro/
 
 https://www.appninjas.xyz/a43ab53/
 
+## Fake Nitro Gifts
+
+https://discorid.gift/MZpp71ngPF
+
 https://discorcll.com/gift/JzAOMFEgDr7u
 
 ## Rickrolls

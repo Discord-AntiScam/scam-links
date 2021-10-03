@@ -61,6 +61,8 @@ https://discord-app.net/steam
 
 http://discocrd-nitro.com/gift
 
+https://dlscord.org/free/nitro
+
 ### Fake Generators
 
 #### Nitro Generators

@@ -96,6 +96,8 @@ https://discorcll.com/gift/JzAOMFEgDr7u
 
 https://dlscord-app.info/q2uUTKRJMzkLfcdF
 
+https://discord-app.uk/billing/promotions/QReoY8xtNmpdCZT4tXriewYr (discord-app.uk redirects to discord.com making it look realistic)
+
 ## Rickrolls
 
 https://discordgift.site/qYdLLCnv7KYFsKVL

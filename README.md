@@ -22,85 +22,84 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 
 ### Fake Steam Logins
 
-https://dlscord-nitro.info/steam
+https://dlscord-nitro.info/
 
-https://dlscord.org/free/nitro
+https://dlscord.org/
 
-https://dlscordsteam.com/airdrop
+https://dlscordsteam.com/
 
 https://nitro-drop.com/
  
-https://steamcomminuty.com/give-nitro
+https://steamcomminuty.com/
 
-https://steamcomminuty.com/glft
+https://steamcomminuty.com/
 
-https://steamcomminutty.ru/tradeofter/?partner=1278625821&token=ZcsQc7Zk
+https://steamcomminutty.ru/
 
-https://discord.giveawey.com/steam
+https://discord.giveawey.com/
 
-https://steamsnitro.ru/airdrop
+https://steamsnitro.ru/
 
-http://discorcl-gift.ru/nitr0/steam
+http://discorcl-gift.ru/
 
-https://dlscorldnitro.store/gift
+https://dlscorldnitro.store/
 
-https://steamdiscord.com/airdrop
+https://steamdiscord.com/
 
-https://dlscord-app.com/give-nitro
+https://dlscord-app.com/
 
-https://discords-nitro.xyz/=
+https://discords-nitro.xyz/
 
-https://discord-drop.xyz/nitro
+https://discord-drop.xyz/
 
-https://discord-app.net/nitro-gift
+https://discord-app.net/
 
-http://gift-g2.ru/steamcommunity/id/drvgonfire
+http://gift-g2.ru/steamcommunity/
 
-https://discord-give.com/RVqqputPG8PNEV46
+https://discord-give.com/
 
-https://discord-app.net/steam
+https://discord-app.net/
 
-http://discocrd-nitro.com/gift
+http://discocrd-nitro.com/
 
 ### Fake Generators
 
 #### Nitro Generators
 
-https://gamex.codes/7092bb7
+https://gamex.codes/
 
 https://discordnitrocodes.blogspot.com/
 
-http://shared-tools.xyz/1a58e5a
+http://shared-tools.xyz/
 
-https://techgenerator.xyz/discord~frestuf
+https://techgenerator.xyz/
 
-https://rbuxfree.com/dl/?discord
+https://rbuxfree.com/
 
-https://genrates.xyz/08c3611
+https://genrates.xyz/
 
-https://psp-haxors.com/discord/
+https://psp-haxors.com/
 
-http://arcades.tech/discordnitro/
+http://arcades.tech/
 
 https://discord.freehlp.com/
 
-https://sehotgame.xyz/discord-nitro/
+https://sehotgame.xyz/
 
-https://www.appninjas.xyz/a43ab53/
+https://www.appninjas.xyz/
 
 ## Fake Nitro Gifts
 
-https://discorid.gift/MZpp71ngPF
+https://discorid.gift/
 
-https://discorcll.com/gift/JzAOMFEgDr7u
+https://discorcll.com/
 
-https://dlscord-app.info/q2uUTKRJMzkLfcdF
+https://dlscord-app.info/
 
 https://discord-app.uk/billing/promotions/QReoY8xtNmpdCZT4tXriewYr (discord-app.uk redirects to discord.com making it look realistic)
 
 ## Rickrolls
 
-https://discordgift.site/qYdLLCnv7KYFsKVL
-
+https://discordgift.site/
 
 

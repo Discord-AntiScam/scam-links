@@ -54,7 +54,7 @@ https://discord-drop.xyz/
 
 https://discord-app.net/
 
-http://gift-g2.ru/steamcommunity/
+http://gift-g2.ru/
 
 https://discord-give.com/
 
@@ -96,7 +96,7 @@ https://discorcll.com/
 
 https://dlscord-app.info/
 
-https://discord-app.uk/billing/promotions/QReoY8xtNmpdCZT4tXriewYr (discord-app.uk redirects to discord.com making it look realistic)
+https://discord-app.uk/
 
 ## Rickrolls
 

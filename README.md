@@ -64,6 +64,8 @@ http://discocrd-nitro.com/
 
 https://steancornminuty.com/
 
+https://dlscordnitro.com
+
 ### Fake Generators
 
 #### Nitro Generators

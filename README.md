@@ -32,8 +32,6 @@ https://nitro-drop.com/
  
 https://steamcomminuty.com/
 
-https://steamcomminuty.com/
-
 https://steamcomminutty.ru/
 
 https://discord.giveawey.com/

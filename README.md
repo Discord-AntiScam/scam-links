@@ -66,6 +66,8 @@ https://steancornminuty.com/
 
 https://dlscordnitro.com
 
+https://dlscord.net
+
 ### Fake Generators
 
 #### Nitro Generators

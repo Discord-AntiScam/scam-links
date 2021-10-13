@@ -104,6 +104,8 @@ https://discord-app.uk/
 
 https://disordapp.codes/
 
+https://discordsgift.com
+
 ## Rickrolls
 
 https://discordgift.site/

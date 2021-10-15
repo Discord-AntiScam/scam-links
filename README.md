@@ -110,7 +110,7 @@ https://disordapp.codes/
 
 https://discordsgift.com/
 
-https://discordsgift.com/
+https://discordrgift.com/
 
 ## Rickrolls
 

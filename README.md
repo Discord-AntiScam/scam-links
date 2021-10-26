@@ -56,8 +56,6 @@ http://gift-g2.ru/
 
 https://discord-give.com/
 
-https://discord-app.net/
-
 http://discocrd-nitro.com/
 
 https://steancornminuty.com/
@@ -67,8 +65,6 @@ https://dlscordnitro.com
 https://dlscord.net
 
 https://discordrgift.com/
-
-http://dlscord.net
 
 ### Fake Generators
 
@@ -113,6 +109,8 @@ https://discordsgift.com/
 https://discordrgift.com/
 
 https://discordc.gift/
+
+https://dliscord.com/
 
 ## Rickrolls
 

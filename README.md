@@ -112,6 +112,8 @@ https://discordc.gift/
 
 https://dliscord.com/
 
+http://discorl.com
+
 ## Rickrolls
 
 https://discordgift.site/

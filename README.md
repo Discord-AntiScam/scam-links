@@ -68,6 +68,8 @@ https://discordrgift.com/
 
 https://dlscordniltro.com/
 
+https://dliscords.com/
+
 ### Fake Generators
 
 #### Nitro Generators

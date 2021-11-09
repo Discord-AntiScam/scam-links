@@ -72,6 +72,10 @@ https://dliscords.com/
 
 https://discrocl-gift.xyz/
 
+https://boostnitro.shop/
+
+https://discord-nltro.xyz/
+
 ### Fake Generators
 
 #### Nitro Generators

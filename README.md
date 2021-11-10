@@ -22,66 +22,66 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 
 ### Fake Steam Logins
 
-https://dlscord-nitro.info/
-https://dlscord.org/
-https://dlscordsteam.com/
-https://nitro-drop.com/
-https://steamcomminuty.com/
-https://steamcomminutty.ru/
-https://discord.giveawey.com/
-https://steamsnitro.ru/
-http://discorcl-gift.ru/
-https://dlscorldnitro.store/
-https://steamdiscord.com/
-https://dlscord-app.com/
-https://discords-nitro.xyz/
-https://discord-drop.xyz/
-https://discord-app.net/
-http://gift-g2.ru/
-https://discord-give.com/
-http://discocrd-nitro.com/
-https://steancornminuty.com/
-https://dlscordnitro.com
-https://dlscord.net
-https://discordrgift.com/
-https://dlscordniltro.com/
-https://dliscords.com/
-https://discrocl-gift.xyz/
-https://boostnitro.shop/
-https://discord-nltro.xyz/
+- https://dlscord-nitro.info/
+- https://dlscord.org/
+- https://dlscordsteam.com/
+- https://nitro-drop.com/
+- https://steamcomminuty.com/
+- https://steamcomminutty.ru/
+- https://discord.giveawey.com/
+- https://steamsnitro.ru/
+- http://discorcl-gift.ru/
+- https://dlscorldnitro.store/
+- https://steamdiscord.com/
+- https://dlscord-app.com/
+- https://discords-nitro.xyz/
+- https://discord-drop.xyz/
+- https://discord-app.net/
+- http://gift-g2.ru/
+- https://discord-give.com/
+- http://discocrd-nitro.com/
+- https://steancornminuty.com/
+- https://dlscordnitro.com
+- https://dlscord.net
+- https://discordrgift.com/
+- https://dlscordniltro.com/
+- https://dliscords.com/
+- https://discrocl-gift.xyz/
+- https://boostnitro.shop/
+- https://discord-nltro.xyz/ 
 
 ### Fake Generators
 
 #### Nitro Generators
 
-https://gamex.codes/
-https://discordnitrocodes.blogspot.com/
-http://shared-tools.xyz/
-https://techgenerator.xyz/
-https://rbuxfree.com/
-https://genrates.xyz/
-https://psp-haxors.com/
-http://arcades.tech/
-https://discord.freehlp.com/
-https://sehotgame.xyz/
-https://www.appninjas.xyz/
+- https://gamex.codes/
+- https://discordnitrocodes.blogspot.com/
+- http://shared-tools.xyz/
+- https://techgenerator.xyz/
+- https://rbuxfree.com/
+- https://genrates.xyz/
+- https://psp-haxors.com/
+- http://arcades.tech/
+- https://discord.freehlp.com/
+- https://sehotgame.xyz/
+- https://www.appninjas.xyz/
 
 ## Fake Nitro Gifts
 
-https://discorid.gift/
-https://discorcll.com/
-https://dlscord-app.info/
-https://discord-app.uk/
-https://disordapp.codes/
-https://discordsgift.com/
-https://discordrgift.com/
-https://discordc.gift/
-https://dliscord.com/
-http://discorl.com
-https://discorde.gift/
+- https://discorid.gift/
+- https://discorcll.com/
+- https://dlscord-app.info/
+- https://discord-app.uk/
+- https://disordapp.codes/
+- https://discordsgift.com/
+- https://discordrgift.com/
+- https://discordc.gift/
+- https://dliscord.com/
+- http://discorl.com
+- https://discorde.gift/
 
 ## Rickrolls
 
-https://discordgift.site/
+- https://discordgift.site/
 
 

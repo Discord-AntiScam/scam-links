@@ -49,6 +49,8 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://discrocl-gift.xyz/
 - https://boostnitro.shop/
 - https://discord-nltro.xyz/ 
+- https://discord.gifte.com/
+- https://gifte.com
 
 ### Fake Generators
 

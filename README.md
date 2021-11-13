@@ -82,6 +82,8 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://dliscord.com/
 - http://discorl.com
 - https://discorde.gift/
+- https://discocrd-gifts.com/
+- https://dlscocrdapp.com/
 
 ## Rickrolls
 

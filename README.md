@@ -8,7 +8,8 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
   * [Scams](#scams)
     + [Fake Steam Logins](#fake-steam-logins)
     + [Fake Generators](#fake-generators)
-      - [Nitro](#nitro)
+      - [Nitro](#nitro-generators)
+    + [Fake Nitro Gifts](#fake-nitro-gifts)
   * [Rickrolls](#rickrolls)
 
 ## Contributors
@@ -68,7 +69,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://sehotgame.xyz/
 - https://www.appninjas.xyz/
 
-## Fake Nitro Gifts
+### Fake Nitro Gifts
 
 - https://discorid.gift/
 - https://discorcll.com/

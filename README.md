@@ -43,7 +43,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - http://discocrd-nitro.com/
 - https://steancornminuty.com/
 - https://dlscordnitro.com
-- https://dlscord.net
+- https://dlscord.net/
 - https://discordrgift.com/
 - https://dlscordniltro.com/
 - https://dliscords.com/
@@ -51,7 +51,8 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://boostnitro.shop/
 - https://discord-nltro.xyz/ 
 - https://discord.gifte.com/
-- https://gifte.com
+- https://gifte.com/
+- https://steamcommunityx.com/
 
 ### Fake Generators
 

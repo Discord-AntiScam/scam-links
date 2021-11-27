@@ -87,6 +87,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://discorde.gift/
 - https://discocrd-gifts.com/
 - https://dlscocrdapp.com/
+- https://dicsord-gifted.ru/
 
 ## Rickrolls
 

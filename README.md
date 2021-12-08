@@ -55,6 +55,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://steamcommunityx.com/
 - https://steams-csgo.com/
 - https://discort-nittro.com/
+- https://disccord-club.com/
 
 ### Fake Generators
 

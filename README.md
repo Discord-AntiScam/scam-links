@@ -94,7 +94,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 - https://discord-app.me/
 - https://dlsccord-apps.club/
 - https://discooord-nitro.com/
-
+- https://dlisocrd.ru/
 
 ## Rickrolls
 

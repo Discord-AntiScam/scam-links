@@ -8,9 +8,9 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
   * [Scams](#scams)
     + [Fake Steam Logins](#fake-steam-logins)
     + [Fake Generators](#fake-generators)
-      - [Nitro](#nitro-generators)
+    + [Nitro](#nitro-generators)
     + [Fake Nitro Gifts](#fake-nitro-gifts)
-  * [Rickrolls](#rickrolls)
+    + [Rickrolls](#rickrolls)
 
 ## Contributors
  - Raven#1311 (323611068503031810)

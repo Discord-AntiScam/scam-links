@@ -17,7 +17,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
  - Heromaex#8187 (693169973538848818)
  - Exxtream#7181 (696942612741095474)
  - TheAdminHammer#0284 (455163804787933205)
- - TheAdminBoi#7366 (737479579693875201)
+ - Fabatax#6403 (347256569848922123)
 
 ## Scams
 

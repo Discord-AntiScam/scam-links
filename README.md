@@ -7,6 +7,8 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
  - Exxtream#7181 (696942612741095474)
  - TheAdminHammer#0284 (455163804787933205)
  - Fabatax#6403 (347256569848922123)
+ - Build_Bot#9090 (https://github.com/BuildBot42)
+ - https://github.com/DevSpen 
 
 | File | Description |
 | :--- | :--- |

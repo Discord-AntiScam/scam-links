@@ -1,5 +1,5 @@
 # Scam Links
-This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. Some links may not work anymore as they have been taken down. `youtube.txt` & `youtube.json` contains the YouTube ids. Stay Safe!
+This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. Some links may not work anymore as they have been taken down. c contains the YouTube IDs. Stay Safe!
 
 ## Contributors
 ### Discord
@@ -29,4 +29,4 @@ scam-links/
 
 ## Contributing
 
-Make a pull request with `urls.json` and `list.txt` modified with scam links. Please do not add the protocol (https:// or http://) and don't add any slashes.
+Make a pull request with `urls.json` and `list.txt` modified with scam links. Please do not add the protocol (https:// or http://) and don't add any slashes. If adding rickrolls in `youtube.txt` & `youtube.json` please put only the YouTube ID.

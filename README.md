@@ -18,10 +18,14 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
 
 ## File Directory
 
-| File | Description |
-| :--- | :--- |
-| [`links.txt`](./list.txt) | List of malicious links in text format.
-| [`urls.json`](./urls.json) | List of malicious links in json format.
+```
+scam-links/
+├── list.txt
+├── urls.json
+└── rickrolls/
+    ├── youtube.txt
+    └── youtube.json
+```
 
 ## Contributing
 

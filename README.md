@@ -15,6 +15,7 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
  - https://github.com/ShadoHax
  - https://github.com/iBuseWinner
  - https://github.com/Rawiros
+ - https://github.com/Nickwasused
 
 ## File Directory
 

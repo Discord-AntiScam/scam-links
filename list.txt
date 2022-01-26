@@ -1440,6 +1440,7 @@ discordinvite.ml
 discordist.com
 discordisteam.com
 discordj.gift
+discordjapp.com
 discordjob.com
 discordjs.tech
 discordjsteam.com
@@ -1871,6 +1872,7 @@ dizscord.com
 djiscord.com
 djscord.com
 dkscord.com
+dlcorcl-me.com
 dlcord.gift
 dlcsorcl.com
 dlcsorcl.ru

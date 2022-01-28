@@ -10,13 +10,14 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
  - Fabatax#6403
  - Build_Bot#9090
  - Kirima#2409
+ - Animan8000#0820
 ### Github
  - https://github.com/DevSpen
  - https://github.com/ShadoHax
  - https://github.com/iBuseWinner
  - https://github.com/Rawiros
  - https://github.com/Nickwasused
-
+ - https://github.com/Animan8000
 ## File Directory
 
 ```

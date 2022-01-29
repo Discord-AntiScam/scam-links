@@ -1,5 +1,5 @@
 # Scam Links
-This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. Some links may not work anymore as they have been taken down. c contains the YouTube IDs. Stay Safe!
+This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. Some links may not work anymore as they have been taken down.  Stay Safe!
 
 ## Contributors
 ### Discord
@@ -17,6 +17,10 @@ This is a list of most scam links (including rickrolls). Make a pull request to 
  - https://github.com/iBuseWinner
  - https://github.com/Rawiros
  - https://github.com/Nickwasused
+ - https://github.com/Animan8000
+ - https://github.com/Little-RR
+ - https://github.com/Jarrio
+ - https://github.com/Pixal-Aqua
  - https://github.com/Animan8000
 ## File Directory
 

@@ -24,7 +24,6 @@ https://discord.gg/yputCttUQN
  - https://github.com/Little-RR
  - https://github.com/Jarrio
  - https://github.com/Pixal-Aqua
- - https://github.com/Animan8000
 ## File Directory
 
 ```

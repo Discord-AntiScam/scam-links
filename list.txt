@@ -485,6 +485,7 @@ disccordapp.live
 disccords.com
 disccrd.com
 disccrd.gifts
+discerd.gift
 discerdapp.com
 discford.com
 discgrd.com
@@ -2774,6 +2775,8 @@ nitro-discords.org
 nitro-discorld.xyz
 nitro-drop.com
 nitro-ds.com
+nitro-ds.online
+nitro-ds.ru
 nitro-ds.xyz
 nitro-free.ru
 nitro-from-steam.com
@@ -2816,6 +2819,7 @@ nitrodsgiveways.xyz
 nitrogeneral.ru
 nitrogift.xyz
 nitrogive.com
+nitrogive.xyz
 nitroisteam.com
 nitroo-discord.xyz
 nitroos-frieie.ru

@@ -1065,6 +1065,7 @@ discord.best
 discord.biz
 discord.buzz
 discord.cc
+discord.ceo
 discord.cheap
 discord.cloud
 discord.cm
@@ -1965,6 +1966,7 @@ dlscocrd.ru
 dlscocrdapp.com
 dlscod-apps.space
 dlscorb-nutro.online
+dlscorb.gift
 dlscorcl-app.xyz
 dlscorcl.com
 dlscorcl.gift

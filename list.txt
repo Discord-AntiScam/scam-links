@@ -1461,6 +1461,7 @@ discordl.pw
 discordl.site
 discordl.xyz
 discordlapp.fun
+discordlapps.com
 discordlegal.zendesk.com
 discordlgift.com
 discordlgift.ru.com
@@ -1726,6 +1727,7 @@ discovd.com
 discozd.com
 discpordapp.com
 discprd.com
+discprd.gift
 discqorcl.com
 discqrc.gift
 discqrdapp.com
@@ -2783,6 +2785,7 @@ nitro-ds.com
 nitro-ds.online
 nitro-ds.ru
 nitro-ds.xyz
+nitro-for-you.xyz
 nitro-free.ru
 nitro-from-steam.com
 nitro-full.com
@@ -3727,6 +3730,7 @@ steamccommunityy.ru
 steamccommunyty.ru
 steamccommutinny.ru.com
 steamccommyunity.com
+steamccomunitly.com
 steamccomunnity.ru.com
 steamcconmmuunity.co
 steamcconmuunity.co
@@ -6369,6 +6373,7 @@ up-nitro.com
 upcs.monster
 ur-l.me
 v-roblox.com
+valve-nitro.xyz
 varfabit.com
 vbucksminer.ru
 verif-nitro.ru

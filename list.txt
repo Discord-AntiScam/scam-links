@@ -486,6 +486,7 @@ disccordapp.live
 disccords.com
 disccrd.com
 disccrd.gifts
+disceord.gift
 discerd.gift
 discerdapp.com
 discford.com
@@ -1581,6 +1582,7 @@ discords-gifts.com
 discords-gifts.ru
 discords-gifts.xyz
 discords-glft.com
+discords-go.com
 discords-hypes.com
 discords-hypesquad.com
 discords-hypesquads.com
@@ -1739,6 +1741,7 @@ discrd.gg
 discrd.gifts
 discrdapp.cf
 discrdapp.com
+discrdgift.com
 discrdspp.com
 discrocl-gift.xyz
 discrocl.xyz
@@ -2785,6 +2788,7 @@ nitro-ds.com
 nitro-ds.online
 nitro-ds.ru
 nitro-ds.xyz
+nitro-emoji.xyz
 nitro-for-you.xyz
 nitro-free.ru
 nitro-from-steam.com
@@ -2839,6 +2843,7 @@ nitrostore.com
 nitrostore.org
 nitrotypehack.club
 nitrowithsteam.com
+nitroworld.co
 nltro.site
 nltroclassic.com
 nv-box.com
@@ -3972,6 +3977,7 @@ steamcommunit.ru.com
 steamcommunita.ru
 steamcommunite.com
 steamcommunite.com.ru
+steamcommunitee.com
 steamcommunites.com
 steamcommunites.tk
 steamcommunitey.com
@@ -6486,5 +6492,3 @@ z93729n9.beget.tech
 zeusclicks.com
 zipansion.com
 zipsetgo.com
-disceord.gift
-e-giftpremium.com

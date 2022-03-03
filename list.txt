@@ -181,6 +181,7 @@ cpbldi.com
 cpp-discord.com
 creditscpfree.website
 crosflah.online
+cryptonix-platform.com
 cryptoreserve.space
 cs-boom.org.ru
 cs-cool.net.ru
@@ -1554,6 +1555,7 @@ discordq.com
 discordqapp.com
 discordqpp.com
 discordqr.com
+discordqr.org
 discordr.xyz
 discordre.store
 discordresearch.com
@@ -2519,6 +2521,8 @@ giftsdiscord.online
 giftsdiscord.ru
 giftsdiscord.site
 giiveaway-discord.com
+gitvhub.com
+gitxhub.com
 givaewey.com
 give-csgorun.ru
 give-csgorun.xyz
@@ -6499,4 +6503,3 @@ z93729n9.beget.tech
 zeusclicks.com
 zipansion.com
 zipsetgo.com
-egift-now.com

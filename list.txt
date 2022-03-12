@@ -1061,6 +1061,7 @@ discord-verify.ru
 discord-vetify.com
 discord-xnitro.com
 discord.ac
+discord.academymoderators.repl.co
 discord.app
 discord.app.br
 discord.bargains

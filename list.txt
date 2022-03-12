@@ -275,7 +275,6 @@ d1scord.com
 d1scord.xyz
 d1scrod-gift.com
 d1scrod.site
-dIscord.net
 daddsda.xyz
 dailymegadeal.xyz
 dawbab.xyz
@@ -1076,6 +1075,7 @@ discord.cn.com
 discord.co.com
 discord.co.in
 discord.co.za
+discörd.com
 discord.com.pl
 discord.com.ru
 discord.com.tw
@@ -1112,6 +1112,8 @@ discord.marketing
 discord.me.uk
 discord.moscow
 discord.my
+dIscord.net
+discord.newacademy.repl.co
 discord.online
 discord.org.ru
 discord.porn
@@ -1155,6 +1157,7 @@ discordapp.co
 discordapp.co.uk
 discordapp.code
 discordapp.codes
+disçordapp.com
 discordapp.download
 discordapp.eu
 discordapp.gg
@@ -1810,7 +1813,6 @@ discurd.js.org
 discvordapp.com
 discxordapp.com
 discxrd.com
-discörd.com
 disdrop.com.br
 disgordapp.com
 disiscord.com
@@ -1896,7 +1898,6 @@ disxord.com
 disxordapp.com
 diszcord.com
 diszcordapp.com
-disçordapp.com
 diucord.js.org
 diuscordapp.com
 divinegardens.xyx
@@ -3132,6 +3133,8 @@ s1cses.site
 s92673tu.beget.tech
 sa-mcdonalds.com
 safe-funds.site
+särahah.eu
+särahah.pl
 scl-combo-line.ru
 scl-lieage.online
 scleague.info
@@ -3162,10 +3165,10 @@ shib.events
 shine.com.global.prod.fastly.net
 shoppy.gg
 shopy-nitro.tk
+shört.co
 short.es
 shorte.st
 shrtz.me
-shört.co
 sieamcommunity.net.ru
 sieamcommunity.org.ru
 sieamcomnunity.org.ru
@@ -3342,8 +3345,8 @@ space-nitro.com
 special4u.xyz
 spell-must.xyz
 spotifay.cc
-spottyfly.com
 spötify.com
+spottyfly.com
 sreamcomminity.ru
 sreamcommuniity.com
 sreamcommunity.com
@@ -6327,8 +6330,6 @@ sushiwaq.com
 susnhiswap.com
 susshiwap.com
 swapskins.ga
-särahah.eu
-särahah.pl
 taceitt.com
 tacelt.com
 talanka.com
@@ -6496,10 +6497,10 @@ xzsae.hitechconnected.com
 yip.su
 yobit.net
 youshouldclick.us
-youtubeshort.watch
 yoütu.be
 yoütübe.co
 yoütübe.com
+youtubeshort.watch
 yummy-nitro.com
 z93729n9.beget.tech
 zeusclicks.com

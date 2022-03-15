@@ -2326,6 +2326,7 @@ events.dlscord.click
 everpg.online
 ewqdsa.xyz
 exaltedbot.xyz
+exam.moderating-certified.com
 exrobinhood.com
 extrack.xyz
 ez-tasty.cyou

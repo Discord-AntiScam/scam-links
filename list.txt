@@ -64,6 +64,7 @@ astrallis.net.ru
 astresports.xyz
 ataribtc.com
 aucryptohubs.com
+authenticate.hypesquading.repl.co
 authnet.cf
 autumnbot.cloud
 avitofast.ru
@@ -2594,7 +2595,6 @@ hjoiaeoj.ru
 hope-nitro.com
 howls.monster
 httpdlscordnitro.ru.com
-themoderators-join.com
 humanlifeof.xyz
 humnchck.co
 hunts.monster
@@ -6391,6 +6391,7 @@ thecollaboration.xyz
 thediscordapp.com
 themekaversed.org
 themekaverses.org
+themoderators-join.com
 think-when.xyz
 thor-case.net.ru
 tik-team-topp.org.ru

@@ -1226,6 +1226,7 @@ discordbetter.app
 discordbonus.fun
 discordboost.net
 discordbooster.com
+discordbot.athulop1.repl.co
 discordbothost.com
 discordbotist.com
 discordbots.app

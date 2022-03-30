@@ -1111,6 +1111,7 @@ discord.giveweay.com
 discord.glfte.com
 discord.gq
 discord.homes
+discord.hypesquad-events-invite.repl.co
 discord.hypesquad-hc.repl.co
 discord.hypesquad-ne.repl.co
 discord.in

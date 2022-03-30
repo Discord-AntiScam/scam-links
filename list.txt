@@ -1138,6 +1138,7 @@ discord.ru.com
 discord.ru.net
 discord.shop
 discord.si
+discord.stateauthor.repl.co
 discord.study
 discord.team
 discord.tools

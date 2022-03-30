@@ -741,6 +741,7 @@ discord-bot.ru
 discord-bounty.ru
 discord-bugs.com
 discord-canary.com
+discord-candidate.com
 discord-certified.com
 discord-christmas.com
 discord-christmasnitro.xyz

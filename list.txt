@@ -1061,6 +1061,7 @@ discord-verify-account.ml
 discord-verify.com
 discord-verify.ru
 discord-vetify.com
+discord-vip.com
 discord-xnitro.com
 discord.ac
 discord.academymoderators.repl.co

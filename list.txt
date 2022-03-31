@@ -2609,6 +2609,7 @@ hyperz.monster
 hypesquad-appeal.com
 hypesquad-event.ga
 hypesquad-form-eventes.com
+hypesquad-qualify.com
 hypesquad-solicitaciony.com
 hypesquadapp.com
 hypesquads.ga

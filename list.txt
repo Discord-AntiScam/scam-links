@@ -4200,6 +4200,7 @@ steamcommunity.trade
 steamcommunity.us
 steamcommunity1.com
 steamcommunitya.com
+steamcommunitya.ru
 steamcommunityc.com
 steamcommunityc.ru
 steamcommunitycom.com

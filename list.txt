@@ -1155,6 +1155,7 @@ discord.study
 discord.team
 discord.tools
 discord.tw
+discord.verifysquad.repl.co
 discord.voto
 discord.world
 discord1-nitr0.xyz

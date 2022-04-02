@@ -1133,6 +1133,7 @@ discord.hypesquad-login.repl.co
 discord.hypesquad-ne.repl.co
 discord.in
 discord.istanbul
+discord.join-hypesquad.repl.co
 discord.kaiograbber.repl.co
 discord.limited
 discord.link

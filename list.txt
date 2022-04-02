@@ -1143,6 +1143,7 @@ discord.ltd
 discord.luxe
 discord.marketing
 discord.me.uk
+discord.moderator-academy-login.repl.co
 discord.moderators-event.repl.co
 discord.moscow
 discord.my

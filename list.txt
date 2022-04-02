@@ -2706,6 +2706,7 @@ listycommunity.ru
 lkdiscord.com
 login-moderator.discordauth.repl.co
 login.discord-moderator-academy.repl.co
+login.moderator-discord.repl.co
 login.verify-discord-hypesquad.repl.co
 loginrun.info
 longxrun.online

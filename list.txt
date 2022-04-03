@@ -2442,6 +2442,7 @@ form-academy-moderators.com
 form-squad.com
 forms-hypesquad-intents.com
 forms-hypesquad-program.com
+formulary-hype-signup.com
 formulary-hypesquad-join.com
 fornite.best
 fortnight.space

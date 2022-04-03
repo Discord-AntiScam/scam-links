@@ -52,6 +52,7 @@ app-discords.com
 app-nitro.com
 application-discord.com
 apply-discord.com
+apply-hypesquad-exam.com
 apply-to-hypesquad-exam.com
 appnitro-discord.com
 appnitro-discord.ru.com

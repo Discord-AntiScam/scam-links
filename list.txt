@@ -222,6 +222,7 @@ csgo-game-steam.ru
 csgo-gamesteam.ru
 csgo-lute.net.ru
 csgo-market.ru.com
+csgo-nitro.xyz
 csgo-run.info
 csgo-run.site
 csgo-st.ru

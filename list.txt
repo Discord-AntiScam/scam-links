@@ -2771,6 +2771,7 @@ listycommunity.ru
 lkdiscord.com
 login-moderator.discordauth.repl.co
 login.discord-moderator-academy.repl.co
+login.hype-squad-discord.repl.co
 login.moderator-discord.repl.co
 login.verifier-hypsequad.repl.co
 login.verify-discord-hypesquad.repl.co

@@ -2081,7 +2081,6 @@ dlscord-app.info
 dlscord-app.net
 dlscord-app.ru
 dlscord-app.ru.com
-dlscord-app.shop
 dlscord-app.site
 dlscord-app.su
 dlscord-app.xyz
@@ -2093,6 +2092,7 @@ dlscord-apps.ru
 dlscord-apps.site
 dlscord-apps.space
 dlscord-apps.su
+dlscord-apps.xyz
 dlscord-boost.fun
 dlscord-claim.com
 dlscord-collaboration.com
@@ -2850,6 +2850,7 @@ minero.cc
 miniurl.pw
 moderating-verified-school.club
 moderator-academysignup.com
+moderator-forms-academy.com
 moderator-forms-now.com
 moderator-school-verified.com
 moderatorteamsignup.com

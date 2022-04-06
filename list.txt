@@ -2472,6 +2472,7 @@ fnaticteam.org.ru
 fnaticwin.xyz
 fnskins.online
 form-academy-moderators.com
+form-invite.repl.co
 form-squad.com
 forms-hypesquad-intents.com
 forms-hypesquad-join.com

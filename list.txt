@@ -361,6 +361,7 @@ dicsord-show.com
 dicsord-ticket.com
 dicsord.cf
 dicsord.club
+dicsord.ga
 dicsord.gg
 dicsord.gift
 dicsord.gifts

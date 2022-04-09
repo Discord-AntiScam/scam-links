@@ -2521,6 +2521,7 @@ fnskins.online
 form-academy-moderators.com
 form-invite.repl.co
 form-squad.com
+forms-hypes-join.com
 forms-hypesquad-intents.com
 forms-hypesquad-join-now.com
 forms-hypesquad-join.com

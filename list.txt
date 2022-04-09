@@ -644,6 +644,7 @@ discorcl-apps.xyz
 discorcl-boost.ru
 discorcl-boost.shop
 discorcl-club.com
+discorcl-full.xyz
 discorcl-gift.com
 discorcl-gift.org.ru
 discorcl-gift.ru
@@ -2258,7 +2259,6 @@ dlscordapp.xyz
 dlscordapps.com
 dlscordapps.me
 dlscordd.ru
-dlscorde-gg.com
 dlscordfreegift.com
 dlscordfull.ru
 dlscordfull.xyz

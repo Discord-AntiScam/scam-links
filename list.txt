@@ -2512,6 +2512,7 @@ form-academy-moderators.com
 form-invite.repl.co
 form-squad.com
 forms-hypesquad-intents.com
+forms-hypesquad-join-now.com
 forms-hypesquad-join.com
 forms-hypesquad-program.com
 forms-hypesquadevent-join.com

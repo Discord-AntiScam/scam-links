@@ -2796,6 +2796,7 @@ invite-for-hypesquad-new.com
 invite-formulary-hypesquad-events-new.com
 invite-hypesquad-events-now.com
 invite-hypesquad-now.com
+invite-moderator-apply.com
 invite.hype-squad-events-forms.repl.co
 invite7btqr1c.cc
 invitey3tbr8c.cc

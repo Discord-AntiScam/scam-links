@@ -3032,6 +3032,7 @@ new-hypesquad-join.com
 new-hypesquadevent-form.com
 new-hypesquadevents-forms.com
 new-hypesquadevents.com
+new-join-moderation.com
 new-steamcommunlty.xyz
 new.discord-academy.repl.co
 new.mychaelknight.com

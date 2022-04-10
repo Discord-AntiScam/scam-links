@@ -191,6 +191,7 @@ comsteamcommunity.com
 connect-events-hypesquad.com
 connect-forms-renews-moderetors.com
 connect-moderator-certified.com
+connect-testers-academy-moderator.com
 connect-testers-renews-moderetors.com
 connect-to-new-hypesquad-exam.com
 contact-infoservice.com

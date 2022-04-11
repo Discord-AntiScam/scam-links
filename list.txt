@@ -2803,6 +2803,7 @@ hypesquad-solicitaciony.com
 hypesquadapp.com
 hypesquadevent-forms.com
 hypesquadeventoss-access.com
+hypesquadevents-rules.com
 hypesquadeventsformulary.com
 hypesquads-apply.com
 hypesquads-event.com
@@ -3051,7 +3052,6 @@ netfilxde.com
 netfllix-de.com
 new-academy-forms-renew-testers-moderetors-connect.com
 new-collects.xyz
-new-connect-testers-forms-academy-moderator.com
 new-drop.net.ru
 new-forms-testers-renews-moderetors.com
 new-give.com

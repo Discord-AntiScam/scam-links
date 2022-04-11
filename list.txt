@@ -3969,6 +3969,7 @@ steam-csgo-store.ru
 steam-csgocom.ru
 steam-csgogame.ru
 steam-csgoplay.ru
+steam-discord-glft.com
 steam-discord-nitro.ru
 steam-discord.com
 steam-discord.ru

@@ -14,6 +14,7 @@ https://discord.gg/yputCttUQN
  - Build_Bot#9090
  - Kirima#2409
  - Animan8000#0820
+ - actually akac#1686
 ### Github
  - https://github.com/DevSpen
  - https://github.com/ShadoHax
@@ -26,6 +27,7 @@ https://discord.gg/yputCttUQN
  - https://github.com/Pixal-Aqua
  - https://github.com/Vondyy
  - https://github.com/Coder-Tavi
+ - https://github.com/actually-akac
 ## File Directory
 
 ```

@@ -2818,6 +2818,7 @@ hypesquad-appeal.com
 hypesquad-apply-teams.com
 hypesquad-event.ga
 hypesquad-form-eventes.com
+hypesquad-formulary-signups.com
 hypesquad-join-event.com
 hypesquad-qualify.com
 hypesquad-review-form.com

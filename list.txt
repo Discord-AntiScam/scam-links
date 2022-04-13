@@ -1128,6 +1128,7 @@ discord-steam.gift
 discord-steam.ru
 discord-steam.shop
 discord-steam.site
+discord-steami.com
 discord-steams.com
 discord-stemdrop.me
 discord-store.club

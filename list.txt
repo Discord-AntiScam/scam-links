@@ -2599,6 +2599,7 @@ formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hypesquad-join.com
 formulary-progam.com
+formulary.dev
 formularys-academy.com
 fornite.best
 fortnight.space

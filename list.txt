@@ -390,6 +390,7 @@ dicsord.net
 dicsord.pl
 dicsord.pw
 dicsord.ru
+dicsord.shop
 dicsord.space
 dicsord.uk
 dicsord.website

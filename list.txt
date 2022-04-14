@@ -2468,6 +2468,7 @@ ds-nitro.gq
 ds-nitro.site
 ds-nitro.xyz
 ds-premium.com
+dscd-nitro.ru
 dscocrd.com
 dscord-generaot.store
 dscord-nitro.com

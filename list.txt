@@ -2950,6 +2950,7 @@ join-moderator-events.com
 join-moderator-formulary.com
 join-moderators-school.com
 join-new-hypesquad-events.com
+join-newhypesquad-events.com
 join-newhypesquad-program.com
 join-now-hypesquad-program.com
 join-the-hypesquad-new.com

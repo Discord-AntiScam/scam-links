@@ -7075,6 +7075,7 @@ twitch-starter.com
 twitch.facepunch-llc.com
 twitch.facepunchstudio.com
 twitch.rust-ltd.com
+twitchd.org.ru
 twitchdrops.net.ru
 u924157p.beget.tech
 udmoney.club

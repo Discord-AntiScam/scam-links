@@ -2625,6 +2625,7 @@ forms-hypesquad-program.com
 forms-hypesquadevent-join.com
 formulary-hype-signup.com
 formulary-hype-squad-event.com
+formulary-hypesquad-invite.com
 formulary-hypesquad-join.com
 formulary-progam.com
 formulary.dev

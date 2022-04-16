@@ -3640,6 +3640,7 @@ seed-nitro.com
 sehotgame.xyz
 selected-hypesquad-events.com
 selected-hypesquad-team.com
+selected-hypesquadteam.com
 selected-thehypesquad.com
 selly.gg
 services.runescape.rs-tt.xyz

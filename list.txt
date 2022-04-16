@@ -2987,6 +2987,7 @@ join-hypesquadevent-now.com
 join-hypesquadevents-new.com
 join-moderator-events.com
 join-moderator-formulary.com
+join-moderator-register.com
 join-moderators-school.com
 join-new-hypesquad-events.com
 join-newhypesquad-events.com

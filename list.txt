@@ -2904,6 +2904,7 @@ hypesquad-formulary-signups.com
 hypesquad-join-event.com
 hypesquad-member-signup.com
 hypesquad-qualify.com
+hypesquad-register-now.com
 hypesquad-review-form.com
 hypesquad-selected.com
 hypesquad-sign-up-today.com

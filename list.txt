@@ -3231,6 +3231,7 @@ new-hypesquad-join.com
 new-hypesquad-register.com
 new-hypesquadevent-form.com
 new-hypesquadevents-forms.com
+new-hypesquadevents-join.com
 new-hypesquadevents-program.com
 new-hypesquadevents.com
 new-join-moderation.com

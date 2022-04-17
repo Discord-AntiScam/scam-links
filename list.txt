@@ -3688,6 +3688,7 @@ selected-hypesquad-team.com
 selected-hypesquadteam.com
 selected-thehypesquad.com
 selection-hypesquad.com
+selection-hypesquadteam.com
 selly.gg
 services.runescape.rs-tt.xyz
 services.runescape.rs-ui.xyz

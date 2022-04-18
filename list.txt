@@ -2702,6 +2702,7 @@ formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hypesquad-invite.com
 formulary-hypesquad-join.com
+formulary-invite.dev
 formulary-progam-moderator.com
 formulary-progam.com
 formulary.dev

@@ -3259,6 +3259,7 @@ new-hypesquadevents-forms.com
 new-hypesquadevents-join.com
 new-hypesquadevents-program.com
 new-hypesquadevents.com
+new-join-hypesquads-moderators.com
 new-join-moderation.com
 new-moderator-academy-test-forms.com
 new-moderator-academy.com

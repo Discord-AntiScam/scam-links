@@ -2624,6 +2624,7 @@ event-discord.com
 events-discord.com
 events-hypesquad-subscription.com
 events.dlscord.click
+events.formulary-invite.dev
 everpg.online
 ewqdsa.xyz
 ex-drops.org.ru

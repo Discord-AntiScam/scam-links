@@ -1039,6 +1039,7 @@ discord-invite-link.com
 discord-job.com
 discord-jobs.com
 discord-join.com
+discord-joinhypesquad.com
 discord-list.cf
 discord-load.ru
 discord-login.cf

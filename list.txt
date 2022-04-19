@@ -1039,7 +1039,6 @@ discord-invite-link.com
 discord-job.com
 discord-jobs.com
 discord-join.com
-discord-joinhypesquad.com
 discord-list.cf
 discord-load.ru
 discord-login.cf
@@ -3766,6 +3765,7 @@ selected-thehypesquad.com
 selectedforhypesquad.com
 selection-hypesquad.com
 selection-hypesquadteam.com
+seletion-hypesquad.com
 selly.gg
 seltectedformy-hypesquad.com
 services.runescape.rs-tt.xyz

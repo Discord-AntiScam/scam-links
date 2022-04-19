@@ -2704,6 +2704,7 @@ forms-hypesquad-join-now.com
 forms-hypesquad-join.com
 forms-hypesquad-program.com
 forms-hypesquadevent-join.com
+forms-moderators-votes-events.com
 formulary-app-join.com
 formulary-hype-signup.com
 formulary-hype-squad-event.com

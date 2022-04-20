@@ -3449,6 +3449,7 @@ official-hypesquad-events.com
 official-hypesquad-review.com
 official-moderation-exam.com
 official-moderator-exam.com
+official-moderators-exam.com
 official-nitro.com
 official-nitro.fun
 official-register-hypesquadevents.com

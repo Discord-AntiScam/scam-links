@@ -2993,6 +2993,7 @@ hypesquad-formulary-team.com
 hypesquad-houses.com
 hypesquad-join-event.com
 hypesquad-member-signup.com
+hypesquad-moderators-academy.com
 hypesquad-qualify.com
 hypesquad-register-now.com
 hypesquad-review-form.com

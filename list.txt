@@ -3074,6 +3074,7 @@ join-moderator-formulary.com
 join-moderator-register.com
 join-moderators-school.com
 join-new-hypesquad-events.com
+join-new-hypesquads-moderator.com
 join-newhypesquad-events.com
 join-newhypesquad-program.com
 join-newhypesquad-programs.com

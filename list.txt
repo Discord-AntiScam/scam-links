@@ -3049,6 +3049,7 @@ invite-moderator-apply.com
 invite-new-hypesquad.com
 invite-newhypesquad-program.com
 invite-newhypesquad-program.com
+invite-official-hypesquad.com
 invite-the-hypesquadevents.com
 invite.hype-squad-events-forms.repl.co
 invite.hype-squad-program.repl.co

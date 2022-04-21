@@ -3007,6 +3007,7 @@ hypesquad-integrate.com
 hypesquad-join-event.com
 hypesquad-member-signup.com
 hypesquad-moderators-academy.com
+hypesquad-official-invite.com
 hypesquad-qualify.com
 hypesquad-register-now.com
 hypesquad-review-form.com

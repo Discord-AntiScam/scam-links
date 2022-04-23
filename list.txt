@@ -57,6 +57,7 @@ app-discord.ru
 app-discordc.com
 app-discords.com
 app-nitro.com
+app-nitro.ru
 appeal-hypesquad.com
 application-discord.com
 application-hypesquad-events.com

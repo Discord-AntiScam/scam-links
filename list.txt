@@ -2747,6 +2747,7 @@ form-hypeteam.com
 form-invite.repl.co
 form-moderation-academyapp.com
 form-squad.com
+forms-connects-academy-new.com
 forms-for-new-hypesquad-testers.com
 forms-hype-discord-events-support.com
 forms-hypes-join.com

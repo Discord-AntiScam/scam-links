@@ -7402,6 +7402,7 @@ testbot2021.ru
 teste.hypesquad-invitation.repl.co
 testers-academy-moderation.com
 testers-connect-academy.com
+testers-connect-moderator-academy.com
 testingsomething.crisp.help
 the-join-hypesquadevents-news.com
 thebiblestudies.com

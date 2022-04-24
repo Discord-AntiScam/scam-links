@@ -2763,6 +2763,7 @@ forms-moderators-votes-events.com
 forms-new-for-hypesquad-testers.com
 forms-to-new-hypesquad-tester.com
 formulary-app-join.com
+formulary-events-hypesquad.com
 formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hypesquad-invite.com

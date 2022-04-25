@@ -3078,6 +3078,7 @@ hypesquad-sign-up-today.com
 hypesquad-signatory.com
 hypesquad-signup-events.com
 hypesquad-solicitaciony.com
+hypesquad-soliciting.com
 hypesquad.app
 hypesquadapp.com
 hypesquadevent-forms.com

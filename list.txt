@@ -3114,6 +3114,7 @@ invite-formulary-hypesquad-events-new.com
 invite-formulary.app
 invite-formulary.events
 invite-hypesquad-events-now.com
+invite-hypesquad-moderator-event.com
 invite-hypesquad-now.com
 invite-moderator-academy.academy
 invite-moderator-apply.com

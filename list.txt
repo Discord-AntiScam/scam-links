@@ -3269,6 +3269,7 @@ loot-conveyor.com
 loot-item.xyz
 loot.net.ru
 loot.pp.ru
+loots-nitro.gq
 lootship.ga
 lootweapons.com
 lsteamcommunity.com

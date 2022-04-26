@@ -3080,6 +3080,7 @@ hypesquad-claim.com
 hypesquad-connect-now.com
 hypesquad-discord-forms.com
 hypesquad-event-join.com
+hypesquad-event-official.com
 hypesquad-event.ga
 hypesquad-events-aplly.com
 hypesquad-events-house.com

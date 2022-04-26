@@ -1452,6 +1452,7 @@ discordc-nitro.com
 discordc.gift
 discordc.space
 discordcanary.com
+discordcdn.co
 discordcdn.sa.com
 discordcgift.cf
 discordcharity.org

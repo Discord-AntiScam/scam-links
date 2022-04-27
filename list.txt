@@ -3791,6 +3791,7 @@ register-community-hypesquad.com
 register-hypesquad-new.com
 register-hypesquad-review.com
 register-new-hypesquad.com
+register-new-moderator.com
 register-newhypesquad-program.com
 register.academypartners.repl.co
 registration-hypesquad-events.com

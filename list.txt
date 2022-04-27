@@ -3481,6 +3481,7 @@ new-join-hypesquads-moderators.com
 new-join-moderation.com
 new-moderator-academy-test-forms.com
 new-moderator-academy.com
+new-official-form-hypesquad.com
 new-programs-hypesquad.com
 new-register-mod.com
 new-register-moderation.com

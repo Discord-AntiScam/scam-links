@@ -229,6 +229,7 @@ connect-forms-renews-moderetors.com
 connect-hypesquadevents-official.com
 connect-moderator-certified.com
 connect-moderators-forms-events.com
+connect-new-events-academy.com
 connect-newhypesquad-events.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com

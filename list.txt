@@ -2817,6 +2817,7 @@ formulary-hypesquad-invite.com
 formulary-hypesquad-join.com
 formulary-hypesquad-subscription.com
 formulary-invite.dev
+formulary-of-hypesquad.com
 formulary-progam-moderator.com
 formulary-progam.com
 formulary-register-test.com

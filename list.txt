@@ -2819,6 +2819,7 @@ form-squad.com
 forms-connects-academy-moderators.com
 forms-connects-academy-new.com
 forms-connects-events-academy.com
+forms-events-moderators.com
 forms-for-new-hypesquad-testers.com
 forms-hype-discord-events-support.com
 forms-hypes-join.com

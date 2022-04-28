@@ -63,6 +63,7 @@ app-discord.com
 app-discord.ru
 app-discordc.com
 app-discords.com
+app-gifts.ru
 app-jdl.ru
 app-moderation-join.com
 app-nitro.com

@@ -3112,6 +3112,7 @@ hype-events-moderator-support.com
 hype-events-support-discord.com
 hype-form.com
 hype-moderators-events-support.com
+hype-selection.com
 hype-support-events-moderators.com
 hype-support-new-events-forms.com
 hype-support.com

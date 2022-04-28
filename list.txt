@@ -1782,6 +1782,7 @@ discordnitr0.tk
 discordnitro-away.ml
 discordnitro-gift.cf
 discordnitro-gift.com
+discordnitro-gift.ga
 discordnitro-gift.gq
 discordnitro-steam.ru
 discordnitro.altervista.org

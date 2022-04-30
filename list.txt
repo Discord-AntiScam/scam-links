@@ -243,6 +243,7 @@ connect-newhypesquad-events.com
 connect-tester-moderator-academy.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com
+connect-testers-moderator-academy.com
 connect-testers-moderator-new.com
 connect-testers-moderator.com
 connect-testers-moderators-academy.com

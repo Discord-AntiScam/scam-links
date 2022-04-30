@@ -204,6 +204,7 @@ cgdc.ct8.pl
 challengermode.best
 chosen-forhypesquad.com
 chosen-hypesquad.com
+chosenforhypesquad.com
 christmasdiscord.gifts
 claim-hypesquad.com
 claim.robuxat.com

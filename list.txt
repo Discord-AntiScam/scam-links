@@ -3163,6 +3163,7 @@ hype-squad-selection.com
 hype-support-events-moderators.com
 hype-support-new-events-forms.com
 hype-support.com
+hype-vote.com
 hype-votes-new-events.com
 hypeapply.com
 hyper-tournament.xyz

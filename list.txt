@@ -597,6 +597,7 @@ disc.gifts
 disc.ordgift.ga
 disc0rd-app.ru.com
 disc0rd-nitro.site
+disc0rd.info
 disc0rd.org
 disc0rd.site
 disc0rd.xyz

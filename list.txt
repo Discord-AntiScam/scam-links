@@ -2793,6 +2793,7 @@ events-apply.com
 events-availability.com
 events-discord.com
 events-hypesquad-subscription.com
+events-new-hypeteam.com
 events-rewards.xyz
 events.dlscord.click
 events.formulary-invite.dev

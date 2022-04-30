@@ -3249,6 +3249,7 @@ invite-formulary.events
 invite-hypesquad-events-now.com
 invite-hypesquad-moderator-event.com
 invite-hypesquad-now.com
+invite-hypesquad-of-rescue.com
 invite-moderator-academy.academy
 invite-moderator-apply.com
 invite-moderatorevents.ml

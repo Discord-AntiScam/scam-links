@@ -3170,6 +3170,7 @@ hype-events-moderator-support.com
 hype-events-support-discord.com
 hype-form.com
 hype-moderators-events-support.com
+hype-new-join.com
 hype-selection.com
 hype-squad-selection.com
 hype-support-events-moderators.com

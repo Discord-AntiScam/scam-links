@@ -246,6 +246,7 @@ connect-moderator-certified.com
 connect-moderators-forms-events.com
 connect-new-events-academy.com
 connect-newhypesquad-events.com
+connect-renew-moderator-academy.com
 connect-tester-moderator-academy.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com

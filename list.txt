@@ -3374,6 +3374,7 @@ join-new-hypesquads-moderator.com
 join-newhypesquad-events.com
 join-newhypesquad-program.com
 join-newhypesquad-programs.com
+join-now-hype-events.com
 join-now-hypesquad-program.com
 join-programs-hypesquad.com
 join-the-hype.com

@@ -1376,6 +1376,7 @@ discord.hypesquad-alist.repl.co
 discord.hypesquad-enus.repl.co
 discord.hypesquad-events-invite.repl.co
 discord.hypesquad-events-join.repl.co
+discord.hypesquad-forum.repl.co
 discord.hypesquad-hc.repl.co
 discord.hypesquad-login.repl.co
 discord.hypesquad-ne.repl.co

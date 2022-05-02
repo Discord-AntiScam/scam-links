@@ -3273,6 +3273,7 @@ hypesquad-member-signup.com
 hypesquad-moderators-academy.com
 hypesquad-moderators-forms.com
 hypesquad-moderators-trial.com
+hypesquad-new-invite.com
 hypesquad-new-selected.com
 hypesquad-official-invite.com
 hypesquad-official-test.com

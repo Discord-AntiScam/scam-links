@@ -78,6 +78,7 @@ application-hypesquad-events.com
 application-moderator-join.com
 apply-discord.com
 apply-events.com
+apply-exam-hypesquad.com
 apply-for-hypesquad-rescue.com
 apply-for-hypesquadevents.com
 apply-formulary-events.club

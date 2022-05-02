@@ -85,7 +85,6 @@ apply-formulary-hypesquad.com
 apply-hypesquad-exam.com
 apply-hypesquad-program.com
 apply-hypesquad-programs.com
-apply-hypesquad-selection.com
 apply-hypesquad-team-formulary.com
 apply-hypesquad.team
 apply-hypeteam.com
@@ -3250,6 +3249,7 @@ hypesquad-moderators-forms.com
 hypesquad-moderators-trial.com
 hypesquad-official-invite.com
 hypesquad-official-test.com
+hypesquad-options.com
 hypesquad-qualify.com
 hypesquad-reedem-forms.com
 hypesquad-reedem.com

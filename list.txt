@@ -2905,6 +2905,7 @@ form-hypeteam.com
 form-invite.repl.co
 form-moderation-academyapp.com
 form-squad.com
+formhype-new.com
 forms-academy-moderators-new.com
 forms-connect-events-moderators.com
 forms-connects-academy-moderators.com

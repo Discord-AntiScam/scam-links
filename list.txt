@@ -254,7 +254,6 @@ connect-moderators-forms-events.com
 connect-new-events-academy.com
 connect-newhypesquad-events.com
 connect-renew-moderator-academy.com
-connect-team-hypesquad.com
 connect-tester-moderator-academy.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com
@@ -1820,6 +1819,7 @@ discordmac.com
 discordme.me
 discordmoderations.com
 discordmoderato.repl.co
+discordmoderatorapplication.com
 discordmoon.com
 discordn.com
 discordn.gift

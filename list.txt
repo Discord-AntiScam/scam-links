@@ -3635,6 +3635,7 @@ new-collects.xyz
 new-drop.net.ru
 new-form-hypesquad-academy.com
 new-form-hypesquad-exam.com
+new-form-hypesquadevents.com
 new-form-moderation-academy-exam.com
 new-forms-testers-renews-moderetors.com
 new-forms-testers-to-hypesquad.com

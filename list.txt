@@ -3289,6 +3289,7 @@ hypesquad-moderators-trial.com
 hypesquad-new-invite.com
 hypesquad-new-selected.com
 hypesquad-official-invite.com
+hypesquad-official-teams.com
 hypesquad-official-test.com
 hypesquad-options.com
 hypesquad-programs-official.com

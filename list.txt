@@ -3473,6 +3473,7 @@ jointest-hypesquad-official.com
 jokedrop.ru
 jope-nitro.com
 journey-hypesquad.com
+journey-team-hypesquad.com
 juct-case.ru
 justcause.fun
 justdash.xyz
@@ -4068,7 +4069,6 @@ referralpay.co
 regeralnet.xyz
 register-community-hypesquad.com
 register-for-hypesquad.com
-register-from-hypesquad.com
 register-hypesquad-new.com
 register-hypesquad-review.com
 register-new-hypesquad.com

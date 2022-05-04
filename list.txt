@@ -4070,6 +4070,7 @@ register-new-hypesquad.com
 register-new-moderator.com
 register-newhypesquad-program.com
 register-of-hypesquad.com
+register-testfrom-hypesquad-events.com
 register.academypartners.repl.co
 registration-from-hypesquad.com
 registration-hypesquad-events.com

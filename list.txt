@@ -3442,6 +3442,7 @@ join-hypesquadevent-form.com
 join-hypesquadevent-forms.com
 join-hypesquadevent-now.com
 join-hypesquadevents-new.com
+join-hypesquadnow.com
 join-hypesquads-programs.com
 join-moderation-app.com
 join-moderator-events.com

@@ -3002,6 +3002,7 @@ formulary-hypesquad-join.com
 formulary-hypesquad-register.com
 formulary-hypesquad-registers.com
 formulary-hypesquad-subscription.com
+formulary-hypesquadevent.com
 formulary-hypesquads-events.com
 formulary-invite.dev
 formulary-new-hypesquad.com

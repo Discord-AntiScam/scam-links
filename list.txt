@@ -267,6 +267,7 @@ connect-renew-moderator-academy.com
 connect-tester-moderator-academy.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com
+connect-testers-academy-new.com
 connect-testers-moderator-academy.com
 connect-testers-moderator-new.com
 connect-testers-moderator.com

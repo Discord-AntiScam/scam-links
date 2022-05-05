@@ -3560,6 +3560,7 @@ login.moderator-discord.repl.co
 login.verifier-hypsequad.repl.co
 login.verify-discord-hypesquad.repl.co
 loginrun.info
+logitech-nitro-gift.gq
 longxrun.online
 loot-conveyor.com
 loot-item.xyz

@@ -3199,6 +3199,7 @@ gifto-disk.gq
 giftordropds.gq
 gifts-arhives.org
 gifts-discord.ru
+gifts-discordes.xyz
 gifts-dlscord.ru
 gifts-steam.com
 gifts.steampowered.com.de

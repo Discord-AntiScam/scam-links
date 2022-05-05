@@ -2712,6 +2712,7 @@ dlscourd.info
 dlscrdnitro.site
 dlscrocl-app.xyz
 dlscrod-app.online
+dlscrod-app.wiki
 dlscrod-app.xyz
 dlscrod-game.com
 dlscrod-game.ru

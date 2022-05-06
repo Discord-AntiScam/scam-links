@@ -3319,6 +3319,7 @@ hypesquad-events-house.com
 hypesquad-events-official.com
 hypesquad-events-progam.com
 hypesquad-events-subscrition.com
+hypesquad-exam-moderator.com
 hypesquad-exams.com
 hypesquad-form-eventes.com
 hypesquad-form-selection.com

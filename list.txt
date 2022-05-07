@@ -3410,6 +3410,7 @@ hypesquadselection.com
 hypesquadseletion.com
 hypesquadteam-connects.com
 hypesquadteam-exam.com
+hypesquadteam-moderators-form.com
 hypesquadteam-moderators.com
 hypesquadteam-redeem.com
 hypesquadteam-register.com

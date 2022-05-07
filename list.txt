@@ -3304,6 +3304,7 @@ hype-moderators-events-support.com
 hype-new-join.com
 hype-selection.com
 hype-squad-selection.com
+hype-subscribe-now.com
 hype-support-events-moderators.com
 hype-support-new-events-forms.com
 hype-support.com

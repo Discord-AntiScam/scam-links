@@ -290,6 +290,7 @@ connects-forms-events-moderators.com
 connects-forms-moderators.com
 connects-hypesquad-events.com
 connects-testers-academy-events.com
+connects-testers-forms-moderator.com
 connectt-hypesquad-intents.com
 connectt-hypesquad.com
 contact-infoservice.com

@@ -2811,6 +2811,7 @@ ds-promo.site
 dsc-drop.gq
 dsc-gift.gq
 dsc-gifts.gq
+dsc-glft.com
 dscd-nitro.ru
 dscocrd.com
 dscord-generaot.store

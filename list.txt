@@ -4193,6 +4193,7 @@ registration-from-hypesquad.com
 registration-hypesquad-events.com
 registration-to-hypesquad.com
 renew-connect-testers-forms-moderator.com
+renew-forms-testers-academy.com
 renew-hypesquadevents-join.com
 renew-moderators-academy-events.com
 reports.noodlesawp.ru

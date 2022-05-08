@@ -294,6 +294,7 @@ connects-testers-forms-moderator.com
 connectt-hypesquad-intents.com
 connectt-hypesquad.com
 contact-forms-moderator-academy.com
+contact-forms-testers-academy.com
 contact-infoservice.com
 convocation-to-hypesquad.com
 copyrightbusinessgroup.com

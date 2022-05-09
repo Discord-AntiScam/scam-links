@@ -3475,6 +3475,7 @@ hypesquadteam-moderators-form.com
 hypesquadteam-moderators.com
 hypesquadteam-redeem.com
 hypesquadteam-register.com
+hypesquadteam-selection.com
 hypesquadteam-signup.com
 id-374749.ru
 idiscord.pro

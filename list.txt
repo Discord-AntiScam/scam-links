@@ -210,6 +210,7 @@ bycdu.cam
 bycsdu.cam
 bysellers.xyz
 captcha.bot.clicklisted.is
+captcha.page
 captcha.ws
 case-gift.com
 case-give.com

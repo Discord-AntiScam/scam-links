@@ -3380,6 +3380,7 @@ hypesquad-apply-teams.com
 hypesquad-associate.com
 hypesquad-billing-promotion.com
 hypesquad-claim.com
+hypesquad-claims.com
 hypesquad-connect-now.com
 hypesquad-connect.com
 hypesquad-discord-forms.com

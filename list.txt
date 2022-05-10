@@ -215,6 +215,7 @@ bycsdu.cam
 bysellers.xyz
 captcha.bot.clicklisted.is
 captcha.page
+captcha.wiki
 captcha.ws
 case-gift.com
 case-give.com
@@ -2010,7 +2011,6 @@ discords-gift.eu
 discords-gift.gq
 discords-gift.it
 discords-gift.ru
-discords-gift.site
 discords-gifte.com
 discords-gifte.org
 discords-gifte.ru

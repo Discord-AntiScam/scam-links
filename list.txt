@@ -3369,6 +3369,7 @@ hype-subscribe-now.com
 hype-support-events-moderators.com
 hype-support-new-events-forms.com
 hype-support.com
+hype-team-invite.com
 hype-vote.com
 hype-votes-new-events.com
 hype.squadacademy.repl.co

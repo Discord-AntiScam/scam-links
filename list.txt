@@ -4067,6 +4067,7 @@ official-form-hypesquad-events.com
 official-hype-squad-events-join.com
 official-hypesquad-claim.com
 official-hypesquad-events.com
+official-hypesquad-exam.com
 official-hypesquad-forms.com
 official-hypesquad-institute.com
 official-hypesquad-join.com

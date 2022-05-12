@@ -3584,6 +3584,7 @@ invite-to-hypesquad-program.com
 invite-to-hypesquadevents.com
 invite-to-progams-hypesquad.com
 invite-to-teamhypesquad.com
+invite.beta-users.app
 invite.hype-squad-events-forms.repl.co
 invite.hype-squad-program.repl.co
 invite.hypesquad-program.repl.co

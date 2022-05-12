@@ -4290,6 +4290,7 @@ register-new-moderator.com
 register-newhypesquad-program.com
 register-of-hypesquad.com
 register-on-hypesquad.com
+register-selected-hypesquad.com
 register-team-hypesquad.com
 register-testfrom-hypesquad-events.com
 register-the-hypesquad.com

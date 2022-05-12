@@ -3567,6 +3567,7 @@ invite-newhypesquad-program.com
 invite-official-hypesquad.com
 invite-the-hypesquadevents.com
 invite-to-hype.com
+invite-to-hypesquad-program.com
 invite-to-hypesquadevents.com
 invite-to-progams-hypesquad.com
 invite-to-teamhypesquad.com

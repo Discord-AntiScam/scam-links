@@ -4589,6 +4589,7 @@ signup-hypesquad-events-join.com
 signup-hypesquad-official.com
 signup-hypesquad-register.com
 signup-hypesquad-returns.com
+signup-hypesquad-teams.com
 signup-hypeteam-house.com
 signup-hypeteam-new.com
 signup-moderators-academy-form.com

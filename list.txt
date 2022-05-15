@@ -1448,6 +1448,7 @@ discord.app.br
 discord.bargains
 discord.best
 discord.biz
+discord.bug-form.com
 discord.buzz
 discord.cc
 discord.ceo

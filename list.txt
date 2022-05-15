@@ -3135,6 +3135,7 @@ formulary-hypesquad-invite.com
 formulary-hypesquad-join.com
 formulary-hypesquad-register.com
 formulary-hypesquad-registers.com
+formulary-hypesquad-selected.com
 formulary-hypesquad-subscription.com
 formulary-hypesquadevent.com
 formulary-hypesquads-events.com

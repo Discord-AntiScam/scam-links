@@ -2666,7 +2666,6 @@ dlscord-glft.ru.com
 dlscord-glft.xyz
 dlscord-glfte.com
 dlscord-glfted.com
-dlscord-glfted.org
 dlscord-glfts.net.ru
 dlscord-glfts.ru
 dlscord-glfts.su
@@ -2788,6 +2787,7 @@ dlscordgifting.shop
 dlscordgifts.com
 dlscordgifts.shop
 dlscordgifts.xyz
+dlscordgiv.ru
 dlscordgived.xyz
 dlscordglft.com
 dlscordglft.online

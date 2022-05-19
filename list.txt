@@ -2769,6 +2769,7 @@ dlscordapp.store
 dlscordapp.xyz
 dlscordapps.com
 dlscordapps.me
+dlscordapps.ru
 dlscordd.ru
 dlscorde-go.com
 dlscorde.ru

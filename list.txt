@@ -3165,6 +3165,7 @@ forms-new-for-hypesquad-testers.com
 forms-tester-moderator-news.com
 forms-to-hypesquad-progam.com
 forms-to-hypesquad-teams.com
+forms-to-hypeteam.com
 forms-to-new-hypesquad-tester.com
 formulary-app-join.com
 formulary-events-hypesquad.com

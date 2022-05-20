@@ -3185,6 +3185,7 @@ formulary-for-hypesquad.com
 formulary-for-hypesquadevents-team.com
 formulary-from-hype.com
 formulary-from-hypesquad-progams.com
+formulary-from-hypeteams.com
 formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hypesquad-app.com

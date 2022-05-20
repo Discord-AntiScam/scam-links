@@ -3578,6 +3578,7 @@ hypesquad-new-forms.com
 hypesquad-new-invite.com
 hypesquad-new-selected.com
 hypesquad-official-claim.com
+hypesquad-official-exam.com
 hypesquad-official-formulary.com
 hypesquad-official-invitation.com
 hypesquad-official-invite.com

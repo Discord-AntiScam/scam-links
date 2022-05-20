@@ -4700,6 +4700,7 @@ sign-up-hypesquad.com
 signup-exam-hypesquad.com
 signup-for-hypesquad.com
 signup-from-hypesquad.com
+signup-hypesquad-apply.com
 signup-hypesquad-events-join.com
 signup-hypesquad-official.com
 signup-hypesquad-register.com

@@ -4465,6 +4465,7 @@ register-newhypesquad-program.com
 register-of-hypesquad.com
 register-official-team-hypesquad.com
 register-on-hypesquad.com
+register-on-hypeteams.com
 register-selected-hypesquad.com
 register-team-hypesquad.com
 register-testfrom-hypesquad-events.com

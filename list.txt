@@ -240,6 +240,7 @@ bysellers.xyz
 captcha.bot.clicklisted.is
 captcha.bot.slug-collab.xyz
 captcha.cool
+captcha.direct
 captcha.fm
 captcha.page
 captcha.sale

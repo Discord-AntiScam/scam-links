@@ -5819,6 +5819,7 @@ steamcommunity.llc
 steamcommunity.mobi
 steamcommunity.net.in
 steamcommunity.net.ru
+steamcommunity.org.ru
 steamcommunity.pl
 steamcommunity.press
 steamcommunity.rest

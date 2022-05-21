@@ -3672,6 +3672,7 @@ hypesquadteam-register.com
 hypesquadteam-selection.com
 hypesquadteam-signup.com
 hypeteam-invite.com
+hypeteam-subscription.com
 hypeteam-subscriptions.com
 hypeteams-formulary.com
 hypeteams-invitation.com

@@ -246,6 +246,7 @@ captcha.sale
 captcha.wiki
 captcha.ws
 captchabot.click
+captchas.blog
 case-gift.com
 case-give.com
 case-magic.space

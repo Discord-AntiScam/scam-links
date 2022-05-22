@@ -3696,6 +3696,7 @@ hypeteam-subscription.com
 hypeteam-subscriptions.com
 hypeteams-formulary.com
 hypeteams-invitation.com
+hypeteams-signup.com
 id-374749.ru
 idiscord.pro
 iemopengaming.com

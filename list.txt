@@ -2254,6 +2254,7 @@ discorol-apps.com
 discorrc-apps.com
 discorrd-gift.com
 discorrd-nitro.com
+discorrd.cf
 discorrd.com
 discorrd.gift
 discorrd.link

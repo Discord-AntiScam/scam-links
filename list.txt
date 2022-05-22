@@ -3186,6 +3186,7 @@ forms-events-moderators.com
 forms-for-new-hypesquad-testers.com
 forms-from-hypesquad-teams.com
 forms-hype-discord-events-support.com
+forms-hype-team.com
 forms-hype-teams.com
 forms-hypes-join.com
 forms-hypesquad-academy.com

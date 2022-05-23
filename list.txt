@@ -4716,6 +4716,7 @@ select-for-hypesquad-events.com
 selected-for-hypesquad-team.com
 selected-for-hypesquad.com
 selected-for-moderator.com
+selected-hypesquad-2022.com
 selected-hypesquad-event.com
 selected-hypesquad-events.com
 selected-hypesquad-join.com

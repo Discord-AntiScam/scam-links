@@ -3252,6 +3252,7 @@ formulary-hypesquad-registers.com
 formulary-hypesquad-selected.com
 formulary-hypesquad-subscription.com
 formulary-hypesquad-team.com
+formulary-hypesquad.tk
 formulary-hypesquadevent.com
 formulary-hypesquads-events.com
 formulary-hypeteam.com

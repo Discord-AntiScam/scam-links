@@ -3203,6 +3203,7 @@ forms-connects-events-academy.com
 forms-connects-events-hypesquad.com
 forms-connects-moderators-exams.com
 forms-events-moderators.com
+forms-for-hypeteam.com
 forms-for-hypeteams.com
 forms-for-new-hypesquad-testers.com
 forms-from-hypesquad-teams.com

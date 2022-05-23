@@ -237,6 +237,7 @@ buxquick.com
 bycdu.cam
 bycsdu.cam
 bysellers.xyz
+captcha-discord.com
 captcha.bot.clicklisted.is
 captcha.bot.slug-collab.xyz
 captcha.cool

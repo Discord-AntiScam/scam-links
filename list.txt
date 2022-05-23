@@ -3188,6 +3188,7 @@ form-hypesquad-join.com
 form-hypesquad-moderator-trial.com
 form-hypesquad-moderators-trial.com
 form-hypesquad-moderators.com
+form-hypesquad.tk
 form-hypesquads-register.com
 form-hypeteam.com
 form-invite.repl.co

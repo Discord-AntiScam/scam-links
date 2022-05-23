@@ -3723,6 +3723,7 @@ hypesquadteam-register.com
 hypesquadteam-selection.com
 hypesquadteam-signup.com
 hypeteam-invite.com
+hypeteam-registred.com
 hypeteam-subscription.com
 hypeteam-subscriptions.com
 hypeteams-formulary.com

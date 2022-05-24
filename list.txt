@@ -3798,6 +3798,7 @@ invite-the-hypesquadevents.com
 invite-to-hype.com
 invite-to-hypesquad-program.com
 invite-to-hypesquadevents.com
+invite-to-hypeteams-event.com
 invite-to-progams-hypesquad.com
 invite-to-teamhypesquad.com
 invite.beta-users.app

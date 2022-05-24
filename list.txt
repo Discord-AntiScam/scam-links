@@ -3782,6 +3782,7 @@ invite-formulary.app
 invite-formulary.events
 invite-from-hypesquad-official.com
 invite-from-teamhypesquad.com
+invite-hypesquad-2022.com
 invite-hypesquad-events-now.com
 invite-hypesquad-exams.com
 invite-hypesquad-formulary.com

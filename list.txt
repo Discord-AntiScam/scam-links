@@ -3644,6 +3644,7 @@ hypesquad-houses.com
 hypesquad-integrate-now.com
 hypesquad-integrate.com
 hypesquad-join-event.com
+hypesquad-join-selection.com
 hypesquad-joins.com
 hypesquad-list.com
 hypesquad-log-in-new-events.com

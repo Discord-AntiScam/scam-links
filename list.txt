@@ -4186,6 +4186,7 @@ new-register-moderation.com
 new-review-hypesquadevents.com
 new-steamcommunlty.xyz
 new-team-hypesquad.com
+new-teams-hypesquad.com
 new.discord-academy.repl.co
 new.mychaelknight.com
 newdiscord.online

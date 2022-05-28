@@ -3810,6 +3810,7 @@ invite-moderator-academy.academy
 invite-moderator-apply.com
 invite-moderatorevents.ml
 invite-new-hypesquad.com
+invite-new-hypeteams.com
 invite-newhypesquad-program.com
 invite-newhypesquad-program.com
 invite-official-hypesquad.com

@@ -3659,6 +3659,7 @@ hypesquad-exams.com
 hypesquad-for-selected.com
 hypesquad-form-eventes.com
 hypesquad-form-selection.com
+hypesquad-forms-associate.com
 hypesquad-forms-join.com
 hypesquad-forms-new.com
 hypesquad-formulary-join.com

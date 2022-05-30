@@ -3070,6 +3070,7 @@ dxiscord.com
 dyno.mn
 dynoapp.info
 dynoapp.io
+dynoauth.app
 dynobot.ai
 dynobot.dev
 dynobot.gg

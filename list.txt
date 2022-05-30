@@ -253,6 +253,7 @@ captcha.bot.slug-collab.xyz
 captcha.cool
 captcha.direct
 captcha.fm
+captcha.monster
 captcha.page
 captcha.sale
 captcha.wiki

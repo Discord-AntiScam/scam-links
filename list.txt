@@ -3269,6 +3269,7 @@ forms-moderators-votes-events.com
 forms-new-for-hypesquad-testers.com
 forms-neweventhypesquad.com
 forms-on-hypeteams.com
+forms-teams-hype.com
 forms-tester-moderator-news.com
 forms-to-hypesquad-progam.com
 forms-to-hypesquad-teams.com

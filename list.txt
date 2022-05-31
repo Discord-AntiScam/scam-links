@@ -265,6 +265,7 @@ captcha.wiki
 captcha.ws
 captchabot.click
 captchas.blog
+captchas.cloud
 captchas.systems
 case-gift.com
 case-give.com

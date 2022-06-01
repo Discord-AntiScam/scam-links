@@ -4773,6 +4773,7 @@ roblox.com.lv
 roblox.com.mg
 roblox.com.nf
 roblox.com.sb
+roblox.com.sc
 roblox.com.se
 roblox.com.so
 roblox.com.tl

@@ -3187,6 +3187,7 @@ events-hypesquad-teams.com
 events-moderation.com
 events-new-hypeteam.com
 events-rewards.xyz
+events-squad.com
 events.dlscord.click
 events.formulary-invite.dev
 everpg.online

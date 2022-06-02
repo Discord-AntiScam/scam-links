@@ -525,6 +525,7 @@ dicoapp.me
 dicoapp.pro
 dicord-app.ru
 dicord-gifts.xyz
+dicord.de
 dicord.gg
 dicord.gift
 dicord.site

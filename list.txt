@@ -277,6 +277,7 @@ captchas-bot.info
 captchas.blog
 captchas.cloud
 captchas.systems
+captchas.tech
 case-gift.com
 case-give.com
 case-magic.space

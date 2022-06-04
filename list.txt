@@ -256,6 +256,7 @@ captcha-bot.click
 captcha-bot.com
 captcha-bot.gg
 captcha-bot.org
+captcha-bot.xyz
 captcha-discord.com
 captcha.bet
 captcha.bot.clicklisted.is

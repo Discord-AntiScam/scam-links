@@ -272,6 +272,7 @@ captcha.wiki
 captcha.ws
 captchabot.click
 captchabot.courses
+captchaclick.net
 captchas-bot.info
 captchas.blog
 captchas.cloud

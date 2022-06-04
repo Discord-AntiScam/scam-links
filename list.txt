@@ -271,6 +271,7 @@ captcha.pm
 captcha.sale
 captcha.wiki
 captcha.ws
+captchabot.cam
 captchabot.click
 captchabot.courses
 captchaclick.net

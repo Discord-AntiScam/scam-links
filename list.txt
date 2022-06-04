@@ -4588,6 +4588,7 @@ personalculturedflash.discordevents.repl.co
 petty.link
 picked-hypesquad.com
 picked-hypesquad.tk
+picked-join-hypesquad.com
 pickedfor-events.com
 pickedforhypesquad.com
 pine-islands.com

@@ -264,6 +264,7 @@ captcha.direct
 captcha.fm
 captcha.monster
 captcha.page
+captcha.pics
 captcha.pm
 captcha.sale
 captcha.wiki

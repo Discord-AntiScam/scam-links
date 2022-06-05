@@ -272,6 +272,7 @@ captcha.page
 captcha.pics
 captcha.pm
 captcha.sale
+captcha.tips
 captcha.wiki
 captcha.ws
 captchabot.cam

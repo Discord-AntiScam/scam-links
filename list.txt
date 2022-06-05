@@ -1570,7 +1570,6 @@ discord.ac
 discord.academy-verification.repl.co
 discord.academymoderators.repl.co
 discord.app
-discord.app-verify.de
 discord.app.br
 discord.bargains
 discord.best
@@ -3838,6 +3837,7 @@ hypesquad-team-official.com
 hypesquad-team.gq
 hypesquad-teams-events.com
 hypesquad-teams-formulary.com
+hypesquad-teams.tk
 hypesquad-tester-academy.com
 hypesquad-trial.com
 hypesquad-updated.com

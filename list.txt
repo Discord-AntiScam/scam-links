@@ -3898,6 +3898,7 @@ hypeteam-subscription.com
 hypeteam-subscriptions.com
 hypeteams-community.com
 hypeteams-formulary.com
+hypeteams-integration-forms.com
 hypeteams-invitation.com
 hypeteams-official.com
 hypeteams-signup.com

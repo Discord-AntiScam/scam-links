@@ -4107,6 +4107,7 @@ login.moderationdc.repl.co
 login.moderator-discord.repl.co
 login.verifier-hypsequad.repl.co
 login.verify-discord-hypesquad.repl.co
+loginfor-events.com
 loginrun.info
 logitech-nitro-gift.gq
 longxrun.online

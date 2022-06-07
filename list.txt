@@ -1874,6 +1874,7 @@ discordgft.ml
 discordgftn.xyz
 discordgg.com
 discordgg.fun
+discordgg.org
 discordgif.com
 discordgif.ru.com
 discordgifling.shop

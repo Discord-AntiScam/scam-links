@@ -3792,6 +3792,7 @@ hypesquad-events-registers.com
 hypesquad-events-rescue.com
 hypesquad-events-subscrition.com
 hypesquad-events-testers.com
+hypesquad-events.ga
 hypesquad-events.ml
 hypesquad-eventts.com
 hypesquad-exam-moderator.com

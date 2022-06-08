@@ -4845,6 +4845,7 @@ register-hypesquad-teams.com
 register-hypesquad.tk
 register-hypeteam-official.com
 register-hypeteam.com
+register-moderattor-academy.com
 register-new-hypesquad.com
 register-new-moderator.com
 register-newhypesquad-program.com

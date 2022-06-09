@@ -110,6 +110,7 @@ apply-events.gq
 apply-exam-hypesquad.com
 apply-for-hypesquad-rescue.com
 apply-for-hypesquadevents.com
+apply-for-hypeteams-event.com
 apply-forms-hypesquad.com
 apply-formulary-events.club
 apply-formulary-hypesquad.com

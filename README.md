@@ -14,10 +14,3 @@ Use the `URL Request` issue template, **do not include the protocol of the url _
 
 ## Contributors
 <img src="https://contrib.rocks/image?repo=Discord-AntiScam/scam-links">
-
-## File Directory
-```
-scam-links/
-    ├── list.txt
-    ├── urls.json
-```

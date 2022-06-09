@@ -1,18 +1,23 @@
 # Scam Links
-This is a list of most scam links (including rickrolls). Make a pull request to add more fake links. Some links may not work anymore as they have been taken down.  Stay Safe!
+This is a database of scam links, maintained by actually_akac & ThinLiquid.<br>
+> *Note: Some URLs may have changed or have been taken down.*
 
-Join our Discord server for more... 
+Join our Discord server for more...<br> 
 https://discord.gg/yputCttUQN
+
+## Contributing
+### Requesting a takedown
+Use the `False Positive` issue template, and provide us a reason.
+
+### Requesting a URL
+Use the `URL Request` issue template.
 
 ## Contributors
 <img src="https://contrib.rocks/image?repo=Discord-AntiScam/scam-links">
-## File Directory
 
+## File Directory
 ```
 scam-links/
-├── list.txt
-├── urls.json
-└── rickrolls/
-    ├── youtube.txt
-    └── youtube.json
+    ├── list.txt
+    ├── urls.json
 ```

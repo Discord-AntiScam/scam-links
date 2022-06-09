@@ -1,6 +1,6 @@
 ---
-name: URL request
-about: Suggest a URL for this project
+name: URL Request
+about: Request a URL for the database
 title: "[URL]"
 labels: ''
 assignees: ''

@@ -558,6 +558,7 @@ diccsord-drop.gq
 dicoapp.me
 dicoapp.pro
 dicord-app.ru
+dicord-gg.ru
 dicord-gifts.xyz
 dicord-premium.ru
 dicord.de

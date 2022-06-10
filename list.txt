@@ -3878,6 +3878,7 @@ hypesquad-join-event.com
 hypesquad-join-events.com
 hypesquad-join-selection.com
 hypesquad-joins.com
+hypesquad-joins.gq
 hypesquad-list-selection.com
 hypesquad-list.com
 hypesquad-log-in-new-events.com

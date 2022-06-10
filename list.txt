@@ -843,6 +843,7 @@ discard.gift
 discard.xyz
 discardapp.fun
 discardgift.xyz
+discards.xyz
 disccor.com
 disccorcl-gift.ru
 disccord-ap.ru

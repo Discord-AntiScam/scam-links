@@ -3869,6 +3869,7 @@ hypesquad-list-selection.com
 hypesquad-list.com
 hypesquad-log-in-new-events.com
 hypesquad-login-official.com
+hypesquad-login.tk
 hypesquad-member-signup.com
 hypesquad-moderators-academy.com
 hypesquad-moderators-forms.com

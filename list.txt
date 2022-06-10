@@ -278,6 +278,7 @@ captcha-bot.live
 captcha-bot.org
 captcha-bot.xyz
 captcha-discord.com
+captcha-info.com
 captcha.bet
 captcha.bot.clicklisted.is
 captcha.bot.slug-collab.xyz

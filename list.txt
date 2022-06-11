@@ -3213,6 +3213,7 @@ dxiscord.com
 dyno-bot.io
 dyno-verify.com
 dyno-verify.net
+dyno.ink
 dyno.love
 dyno.mn
 dynoapp.info

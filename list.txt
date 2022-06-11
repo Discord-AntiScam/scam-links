@@ -3420,6 +3420,7 @@ forms-for-hypeteam.com
 forms-for-hypeteams.com
 forms-for-new-hypesquad-testers.com
 forms-from-hypesquad-teams.com
+forms-from-hypeteams-event.com
 forms-hype-discord-events-support.com
 forms-hype-team.com
 forms-hype-teams.com

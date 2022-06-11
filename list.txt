@@ -2759,6 +2759,7 @@ dllscord.online
 dllscord.site
 dlrd-tools.gq
 dlsc0rd.com
+dlsc0rdglft.xyz
 dlscard.ru
 dlsccord-app.club
 dlsccord-app.com

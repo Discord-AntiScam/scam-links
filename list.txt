@@ -1008,6 +1008,7 @@ discorb.gifts
 discorb.info
 discorb.ru
 discorb.ru.com
+discorbbs.xyz
 discorbs.xyz
 discorc-nitro.site
 discorcd-app.com

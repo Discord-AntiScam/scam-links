@@ -31,6 +31,7 @@ accountingdept.files.com
 acess-beta-team.ga
 acess-beta-team.tk
 acess-beta.app
+acess-hype.com
 acess-hypesquad-formulary.ga
 acess-hypesquad-testers.com
 acess-hypesquad.com
@@ -4026,7 +4027,6 @@ illuvium-v2.io
 imvu37.blogspot.com
 indereyn.ru.com
 info-hypesquad.cf
-info-hypesquad.ga
 info-hypesquad.gq
 information-discord.com
 infringementcommunity-rules.com

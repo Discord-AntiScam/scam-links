@@ -4586,7 +4586,6 @@ nitrodis.com
 nitrodiscord.org
 nitrodiscord.ru
 nitrodiscords.xyz
-nitrodiscrod.xyz
 nitrodivcord.xyz
 nitrodivscord.xyz
 nitrodixcord.xyz
@@ -6440,6 +6439,7 @@ steamcommunityvia.top
 steamcommunityvil.top
 steamcommunityvil.top
 steamcommunityvin.top
+steamcommunityvip.top
 steamcommunityviz.top
 steamcommunityw.com
 steamcommunityw.net.ru

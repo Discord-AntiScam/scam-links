@@ -4980,6 +4980,7 @@ register.academypartners.repl.co
 registers-forms-hypeteams.com
 registers-hypesquad.com
 registers-to-hypesquad.com
+registration-for-hypesquad.com
 registration-from-hypesquad.com
 registration-hypesquad-events.com
 registration-hypesquad.tk

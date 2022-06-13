@@ -4542,6 +4542,7 @@ nitro-app.fun
 nitro-b.xyz
 nitro-boost.shop
 nitro-csgo.xyz
+nitro-dicsord.icu
 nitro-dis.com
 nitro-discord.com
 nitro-discord.fun

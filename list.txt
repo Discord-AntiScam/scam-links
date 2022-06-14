@@ -3513,6 +3513,7 @@ formulary-hypesquad-join.com
 formulary-hypesquad-register.com
 formulary-hypesquad-registers.com
 formulary-hypesquad-selected.com
+formulary-hypesquad-signups.com
 formulary-hypesquad-subscription.com
 formulary-hypesquad-team.com
 formulary-hypesquad.tk

@@ -2527,6 +2527,7 @@ discrod.gift
 discrod.gifts
 discrod.pw
 discrod.ru
+discrod.su
 discrod.uk
 discrod.us
 discrodapp.com

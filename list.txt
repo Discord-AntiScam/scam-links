@@ -3467,6 +3467,7 @@ forms-hypemoderator.com
 forms-hypes-join.com
 forms-hypesquad-academy.com
 forms-hypesquad-discord-official.com
+forms-hypesquad-event.club
 forms-hypesquad-intents.com
 forms-hypesquad-join-now.com
 forms-hypesquad-join.com

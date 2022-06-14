@@ -3350,6 +3350,7 @@ events-hype.com
 events-hypesquad-subscription.com
 events-hypesquad-teams.com
 events-hypesquad.com
+events-hypesquad.gq
 events-moderation.com
 events-new-hypeteam.com
 events-rewards.xyz

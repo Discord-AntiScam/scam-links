@@ -142,6 +142,7 @@ apply-hypesquad.tk
 apply-hypeteam.com
 apply-hypeteams-event.com
 apply-moderatorexam.com
+apply-new-hypeteam.com
 apply-now-hypesquad.com
 apply-nowhypesquad.com
 apply-on-hypeteams.com
@@ -232,7 +233,6 @@ beta-users.app
 beta.discorder.app
 beta.spacewarrior.repl.co
 betadiscord.com
-betas-apply.com
 bielyelfy.top
 bielylify.top
 bielyliy.top
@@ -4071,6 +4071,7 @@ hypesquadteam-selection.com
 hypesquadteam-signup.com
 hypesubscription.com
 hypeteam-2022.com
+hypeteam-apply.tk
 hypeteam-invite.com
 hypeteam-registred.com
 hypeteam-subscription.com

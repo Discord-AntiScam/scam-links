@@ -5840,6 +5840,7 @@ steam-csgo-store.ru
 steam-csgocom.ru
 steam-csgogame.ru
 steam-csgoplay.ru
+steam-dicsord.com
 steam-discord-gift.com
 steam-discord-glft.com
 steam-discord-nitro.ru

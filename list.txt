@@ -2432,7 +2432,6 @@ discorm.gift
 discorn.icu
 discornd.com
 discorol-apps.com
-discorp.icu
 discorq.icu
 discorrc-apps.com
 discorrd-gift.com
@@ -7752,6 +7751,7 @@ steancommunitly.ru
 steancommunitq.ru
 steancommunitry.ru
 steancommunitty.com
+steancommunitty.ml
 steancommunitty.ru
 steancommunitu.me
 steancommunitv.com

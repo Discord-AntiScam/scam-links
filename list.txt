@@ -1004,6 +1004,7 @@ discor-drop.gq
 discor-nito.gq
 discor.de
 discor.gg
+discor.icu
 discor.link
 discor.me
 discora.gift

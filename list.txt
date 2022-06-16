@@ -4585,6 +4585,7 @@ new-register-moderation.com
 new-registration-hypesquad.com
 new-registration-hypesquads.com
 new-review-hypesquadevents.com
+new-season-hypesquad.gq
 new-steamcommunlty.xyz
 new-team-hypesquad.com
 new-teams-hypesquad.com

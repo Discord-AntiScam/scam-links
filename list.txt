@@ -1446,6 +1446,7 @@ discord-join.com
 discord-list.cf
 discord-load.ru
 discord-login.cf
+discord-login.ru
 discord-main.ru.com
 discord-mega.xyz
 discord-mod.com

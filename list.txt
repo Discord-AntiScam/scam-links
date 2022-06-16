@@ -139,6 +139,7 @@ apply-hypesquad-teams.tk
 apply-hypesquad.gq
 apply-hypesquad.team
 apply-hypesquad.tk
+apply-hypesquadevents.gq
 apply-hypeteam.com
 apply-hypeteams-event.com
 apply-moderatorexam.com
@@ -4032,7 +4033,6 @@ hypesquad-team-formulary.com
 hypesquad-team-official.com
 hypesquad-team.gq
 hypesquad-teams-events.com
-hypesquad-teams-forms.com
 hypesquad-teams-formulary.com
 hypesquad-teams.tk
 hypesquad-tester-academy.com

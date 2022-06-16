@@ -4035,7 +4035,6 @@ hypesquad-teams-events.com
 hypesquad-teams-formulary.com
 hypesquad-teams.tk
 hypesquad-tester-academy.com
-hypesquad-to-forms.com
 hypesquad-trial.com
 hypesquad-updated.com
 hypesquad.app
@@ -4085,6 +4084,7 @@ hypesquadteam-selection.com
 hypesquadteam-signup.com
 hypesubscription.com
 hypeteam-2022.com
+hypeteam-formulary.com
 hypeteam-invite.com
 hypeteam-registred.com
 hypeteam-subscription.com

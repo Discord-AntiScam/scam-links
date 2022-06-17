@@ -5266,6 +5266,7 @@ rust-gitfs.ru
 rust-giveaways.xyz
 rust-llc.com
 rust-ltd.com
+rust-open.ru
 rust-phoenix.org
 rust.facepunchs.com
 rustg1ft.com

@@ -4116,6 +4116,7 @@ hypesquadofficialform.com
 hypesquadrecruitment-apply.com
 hypesquadregisters.com
 hypesquads-apply.com
+hypesquads-beta.com
 hypesquads-event.com
 hypesquads-forms.com
 hypesquads-moderators.com
@@ -9291,7 +9292,6 @@ thecollaboration.xyz
 thediscordapp.com
 thehypesquad-team.com
 thehypesquadeventsapply.com
-thehypesquads.com
 thehypesquadteam-apps.com
 themekaversed.org
 themekaverses.org

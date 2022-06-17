@@ -1266,6 +1266,7 @@ discord-event.fun
 discord-event.info
 discord-event.ru
 discord-events-hype-votes.com
+discord-events-hypesquad.gq
 discord-events-hypesquad.tk
 discord-events-signup.com
 discord-events.com

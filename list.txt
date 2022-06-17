@@ -488,6 +488,7 @@ csgo-steamplay.ru
 csgo-store-steam.ru
 csgo-storesteam.ru
 csgo-top.xyz
+csgo-win.ru
 csgo.ghservers.cl
 csgo4cases.fun
 csgo4fun.fun

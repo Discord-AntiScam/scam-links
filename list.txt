@@ -4149,6 +4149,7 @@ hypeteam-invite.com
 hypeteam-registred.com
 hypeteam-subscription.com
 hypeteam-subscriptions.com
+hypeteamapply.gq
 hypeteams-community.com
 hypeteams-formulary.com
 hypeteams-integration-forms.com

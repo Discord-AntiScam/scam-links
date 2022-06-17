@@ -5403,6 +5403,7 @@ signup-hypesquad-register.com
 signup-hypesquad-returns.com
 signup-hypesquad-team.com
 signup-hypesquad-teams.com
+signup-hypesquad.gq
 signup-hypesquadmoderator.com
 signup-hypeteam-house.com
 signup-hypeteam-new.com

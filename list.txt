@@ -3954,6 +3954,7 @@ hypesquad-exam.tk
 hypesquad-exams.com
 hypesquad-for-badge.com
 hypesquad-for-selected.com
+hypesquad-form-ads.com
 hypesquad-form-eventes.com
 hypesquad-form-selection.com
 hypesquad-forms-associate.com

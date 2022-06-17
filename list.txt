@@ -3903,6 +3903,7 @@ hype-events-moderator-support.com
 hype-events-support-discord.com
 hype-events.ga
 hype-form.com
+hype-formulary-login.com
 hype-from-ads.com
 hype-invite.gq
 hype-join.com

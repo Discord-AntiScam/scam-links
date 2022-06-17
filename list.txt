@@ -3295,6 +3295,7 @@ dxiscord.com
 dyno-bot.io
 dyno-verify.com
 dyno-verify.net
+dyno.how
 dyno.ink
 dyno.love
 dyno.mn

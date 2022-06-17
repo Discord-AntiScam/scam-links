@@ -3531,6 +3531,7 @@ forms-hypesquad-program.com
 forms-hypesquad-teams.com
 forms-hypesquadevent-join.com
 forms-hypeteam.com
+forms-hypeteamacademy.gq
 forms-in-hypesquad.com
 forms-moderator-academy-tester.com
 forms-moderators-votes-events.com

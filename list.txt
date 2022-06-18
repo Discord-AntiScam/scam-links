@@ -9284,6 +9284,7 @@ subscribe-to-hypeteams.gq
 subscribehypeteam.gq
 subscription-for-hypesquad.com
 subscription-from-hypeteam.com
+subscription-hypesquad-2022.com
 subscription-on-hypesquad.com
 subscription-to-hypeteam.com
 subscriptions-moderation-join.com

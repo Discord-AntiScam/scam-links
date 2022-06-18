@@ -3550,6 +3550,7 @@ forms-hypesquad-join-now.com
 forms-hypesquad-join.com
 forms-hypesquad-program.com
 forms-hypesquad-teams.com
+forms-hypesquadacademy.gq
 forms-hypesquadevent-join.com
 forms-hypeteam.com
 forms-hypeteamacademy.gq

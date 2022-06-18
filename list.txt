@@ -4285,6 +4285,7 @@ join-hypesquad-premium.com
 join-hypesquad-tester.com
 join-hypesquad-trial.com
 join-hypesquad.000webhostapp.com
+join-hypesquad.ga
 join-hypesquad.gq
 join-hypesquad.tk
 join-hypesquad.xyz

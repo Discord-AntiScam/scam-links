@@ -3498,6 +3498,7 @@ form-hypesquad-moderator-trial.com
 form-hypesquad-moderators-trial.com
 form-hypesquad-moderators.com
 form-hypesquad-register.com
+form-hypesquad-svents.com
 form-hypesquad.ga
 form-hypesquad.tk
 form-hypesquads-register.com

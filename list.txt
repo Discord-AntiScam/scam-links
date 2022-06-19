@@ -3031,6 +3031,7 @@ dlscord.gg
 dlscord.gift
 dlscord.gifts
 dlscord.help
+dlscord.icu
 dlscord.in
 dlscord.info
 dlscord.ink

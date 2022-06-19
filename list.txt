@@ -3930,6 +3930,7 @@ hype-discord-events-support-new.com
 hype-discord.com
 hype-discord.tk
 hype-events-moderator-support.com
+hype-events-season.com
 hype-events-support-discord.com
 hype-events.ga
 hype-fast.ga

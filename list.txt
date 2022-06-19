@@ -1751,6 +1751,7 @@ discord.hypesquad-ne.repl.co
 discord.hypesquad-now.repl.co
 discord.hypesquadlogin.repl.co
 discord.in
+discord.invite-moderator-tests.repl.co
 discord.istanbul
 discord.join-hypesquad.repl.co
 discord.kaiograbber.repl.co

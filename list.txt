@@ -249,6 +249,7 @@ beta-hypesquad.com
 beta-invite.app
 beta-invite.com
 beta-roblox.com
+beta-teams-developers.ga
 beta-users.app
 beta.discorder.app
 beta.spacewarrior.repl.co

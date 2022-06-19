@@ -3553,6 +3553,7 @@ forms-hypesquad-intents.com
 forms-hypesquad-join-now.com
 forms-hypesquad-join.com
 forms-hypesquad-program.com
+forms-hypesquad-register.com
 forms-hypesquad-teams.com
 forms-hypesquadacademy.gq
 forms-hypesquadevent-join.com

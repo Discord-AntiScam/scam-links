@@ -5477,6 +5477,7 @@ signup-hypesquad.gq
 signup-hypesquadmoderator.com
 signup-hypeteam-house.com
 signup-hypeteam-new.com
+signup-hypeteams-exam.com
 signup-moderators-academy-form.com
 signup-of-hypesquad.com
 signup-teams-hypesquad.com

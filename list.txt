@@ -6721,6 +6721,7 @@ steamcommunitymig.top
 steamcommunitymih.top
 steamcommunitymij.top
 steamcommunitymin.top
+steamcommunitymiv.top
 steamcommunitymix.top
 steamcommunitymiz.top
 steamcommunitynia.top
@@ -7220,7 +7221,6 @@ steamcomrnunitu.com
 steamcomrnunitu.ru
 steamcomrnunitu.ru.com
 steamcomrnunity.com.ru
-steamcomrnunity.net.ru
 steamcomrnunity.online
 steamcomrnunity.ru
 steamcomrnunity.ru.com

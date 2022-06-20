@@ -5513,6 +5513,7 @@ signup-hypeteams-exam.com
 signup-moderators-academy-form.com
 signup-of-hypesquad.com
 signup-teams-hypesquad.com
+signups-hype.com
 signups-hypesquad-formularys.com
 signups-of-hypeteams.com
 signups-to-hypesquad.com

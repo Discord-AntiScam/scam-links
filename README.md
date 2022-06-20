@@ -7,8 +7,9 @@
 This is a database of scam links, maintained by actually_akac & ThinLiquid.<br>
 > *Note: Some URLs may have changed or have been taken down.*
 
-Join our Discord server for more...<br> 
-https://discord.gg/yputCttUQN
+Join our communities for more...<br> 
+https://dsc.gg/dsp-project
+https://reddit.com/r/theDSPproject
 
 ## Contributing
 ### Requesting a takedown

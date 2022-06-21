@@ -4741,6 +4741,7 @@ new-register-hype.com
 new-register-hypersquadevents.com
 new-register-hypesquad.com
 new-register-hypeteam.com
+new-register-hypeteam.gq
 new-register-mod.com
 new-register-moderation.com
 new-registration-hype.com
@@ -5277,6 +5278,7 @@ rewardspremium-nitro.gq
 rien.xyz
 rip-tide.ru
 ripetide.ru
+rìpple.com
 riptide-cs.ru
 riptide-gaming.ru
 riptide-operation.ru
@@ -9700,7 +9702,6 @@ xdiscord.com
 xesa-nitro.com
 xess-nitro.com
 xfxcheats.online
-rìpple.com
 xponsor.com
 xpro.gift
 xpro.ws

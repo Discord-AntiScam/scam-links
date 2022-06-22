@@ -1333,6 +1333,7 @@ discord-get.shop
 discord-get.xyz
 discord-gft.xyz
 discord-gg.com
+discord-gg.icu
 discord-gg.ru.com
 discord-gg.xyz
 discord-gi.com

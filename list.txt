@@ -9475,6 +9475,7 @@ testers-connect-moderator-academy.com
 testingsomething.crisp.help
 the-apply-hypesquad.com
 the-formulary-hypeteam.com
+the-hypesquad-application-ads.com
 the-invitation-hypeteams.com
 the-invite-hypesquad.com
 the-join-hypesquadevents-news.com

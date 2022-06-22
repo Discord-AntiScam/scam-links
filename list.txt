@@ -3791,6 +3791,7 @@ gennirto.org
 genrates.xyz
 gercanpack.ru
 get-3month.com
+get-access.dev
 get-app.dev
 get-beta-app.com
 get-beta.app

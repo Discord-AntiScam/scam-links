@@ -4059,6 +4059,7 @@ hypesquad-events-group.com
 hypesquad-events-group.uk
 hypesquad-events-house.com
 hypesquad-events-invitation.com
+hypesquad-events-invite.com
 hypesquad-events-moderatos-discord.com
 hypesquad-events-official.com
 hypesquad-events-progam.com

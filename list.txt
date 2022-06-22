@@ -163,6 +163,7 @@ apply-hypeteam-register.gq
 apply-hypeteam.com
 apply-hypeteams-event.com
 apply-moderatorexam.com
+apply-now-hype.gq
 apply-now-hypesquad.com
 apply-nowhypesquad.com
 apply-on-hypeteams.com

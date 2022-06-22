@@ -2559,6 +2559,7 @@ discorv.icu
 discorvs.xyz
 discorw.icu
 discorwnitro.icu
+discorxnitro.icu
 discorxways.xyz
 discorz.gift
 discorz.icu

@@ -4001,6 +4001,7 @@ hype-program.com
 hype-selection.com
 hype-squad-selection.com
 hype-squadbadge.com
+hype-squadevents-forms.com
 hype-subscribe-now.com
 hype-support-events-moderators.com
 hype-support-new-events-forms.com

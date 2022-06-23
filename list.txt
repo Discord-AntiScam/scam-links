@@ -3465,6 +3465,7 @@ events-apply.com
 events-availability.com
 events-discord.com
 events-for-hypesquad.com
+events-hype-guide.gq
 events-hype.com
 events-hypesquad-join.ga
 events-hypesquad-subscription.com

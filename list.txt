@@ -4035,6 +4035,7 @@ hype-new-join.com
 hype-now.com
 hype-program.com
 hype-selection.com
+hype-squad-form.gq
 hype-squad-forms.gq
 hype-squad-selection.com
 hype-squad-vote.gq

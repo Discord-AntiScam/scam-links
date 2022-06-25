@@ -157,6 +157,7 @@ apply-hypesquad-teams.tk
 apply-hypesquad.gq
 apply-hypesquad.team
 apply-hypesquad.tk
+apply-hypesquadacademy.gq
 apply-hypesquadevents.gq
 apply-hypesquads.com
 apply-hypesquadteam.gq

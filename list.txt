@@ -3797,7 +3797,6 @@ g2-game.ru
 g2a.ru.com
 g2esports.club
 g2ezports.xyz
-g2skincase.space
 gambit.net.ru
 game-case.ru
 game-csgo-steam.ru
@@ -5821,6 +5820,7 @@ solicitinghypesquad.com
 solicition-hypesquadevents.com
 solliciting-hypesquad-events.com
 soma-cases.ru
+somabox.ru
 somadrop.ru
 somaskin.ru
 somaskins.ru

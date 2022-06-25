@@ -4771,6 +4771,7 @@ new-hypesquadevents-forms.com
 new-hypesquadevents-join.com
 new-hypesquadevents-program.com
 new-hypesquadevents.com
+new-hypeteam.com
 new-invitation-teamshype.com
 new-invite-form-hypesquad.com
 new-invite-hypesquad.gq

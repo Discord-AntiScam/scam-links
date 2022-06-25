@@ -377,6 +377,7 @@ challengermode.best
 chosen-events.gq
 chosen-forhypesquad.com
 chosen-hypesquad.com
+chosenfor-events.gq
 chosenforbeta-apply.com
 chosenforhypesquad.com
 christmasdiscord.gifts

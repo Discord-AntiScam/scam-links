@@ -4438,6 +4438,7 @@ join-hypesquadevent-form.com
 join-hypesquadevent-forms.com
 join-hypesquadevent-now.com
 join-hypesquadevents-new.com
+join-hypesquadevents-register.gq
 join-hypesquadevents.gq
 join-hypesquadmoderation.com
 join-hypesquadmoderator.com

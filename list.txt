@@ -4466,6 +4466,7 @@ join-hypesquad-events-news.com
 join-hypesquad-events.gq
 join-hypesquad-events.house.com
 join-hypesquad-eventss.com
+join-hypesquad-form.gq
 join-hypesquad-houses.com
 join-hypesquad-how.com
 join-hypesquad-official.com

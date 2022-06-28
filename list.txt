@@ -4233,6 +4233,7 @@ hypesquad-reedem-forms.com
 hypesquad-reedem.com
 hypesquad-register-new.com
 hypesquad-register-now.com
+hypesquad-register-official.com
 hypesquad-register.tk
 hypesquad-registers.com
 hypesquad-registration-form.com
@@ -9582,7 +9583,6 @@ subscribe-discord-hypesquad.tk
 subscribe-for-hypeteams.com
 subscribe-hype-squad.tk
 subscribe-hypesquad-register.tk
-subscribe-hypesquad.ga
 subscribe-hypesquad.gq
 subscribe-hypesquad.ml
 subscribe-hypesquad.tk

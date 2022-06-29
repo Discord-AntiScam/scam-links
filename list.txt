@@ -4141,7 +4141,6 @@ hypesquad-beta.gq
 hypesquad-billing-promotion.com
 hypesquad-claim.cf
 hypesquad-claim.com
-hypesquad-claim.gq
 hypesquad-claims.com
 hypesquad-connect-now.com
 hypesquad-connect.com
@@ -9623,6 +9622,7 @@ subscribe-in-moderator.com
 subscribe-moderator.tk
 subscribe-of-hypesquad.com
 subscribe-squadteam-now.com
+subscribe-to-hypesquad.com
 subscribe-to-hypeteam.com
 subscribe-to-hypeteams.gq
 subscribehypeteam.gq

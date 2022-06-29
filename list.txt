@@ -3619,6 +3619,7 @@ form-academy-moderators.com
 form-acess-hypesquad-events.com
 form-apply-events.com
 form-connect-events-academy.com
+form-events-hypesquad.gq
 form-for-the-new-hypesquad.com
 form-hype-events.gq
 form-hype-squad.gq

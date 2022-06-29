@@ -5389,6 +5389,7 @@ register-hypesquad-review.com
 register-hypesquad-teams.com
 register-hypesquad.ga
 register-hypesquad.gq
+register-hypesquad.ml
 register-hypesquad.tk
 register-hypesquadacademy.gq
 register-hypesquadteam.com

@@ -4333,7 +4333,6 @@ hypesquadevents-rules.com
 hypesquadevents-second-review.com
 hypesquadevents.cf
 hypesquadevents.gq
-hypesquadevents.tk
 hypesquadeventsformulary.com
 hypesquadeventspart.com
 hypesquadform-competitors.com
@@ -4456,6 +4455,7 @@ invite-new-hypeteams.com
 invite-newhypesquad-program.com
 invite-newhypesquad-program.com
 invite-official-hypesquad.com
+invite-programs-hypesquad.com
 invite-the-hypesquadevents.com
 invite-to-hype.com
 invite-to-hypesquad-program.com

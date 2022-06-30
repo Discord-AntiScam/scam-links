@@ -4889,6 +4889,7 @@ new-hypesquad-register.com
 new-hypesquad-season.com
 new-hypesquad-teams.com
 new-hypesquad.com
+new-hypesquad.ga
 new-hypesquadevent-form.com
 new-hypesquadevents-forms.com
 new-hypesquadevents-join.com

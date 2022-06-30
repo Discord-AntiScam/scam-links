@@ -3631,6 +3631,7 @@ form-hype-events.gq
 form-hype-squad.gq
 form-hypeevents.com
 form-hypesquad-evnts.com
+form-hypesquad-invite.ga
 form-hypesquad-invite.gq
 form-hypesquad-join.com
 form-hypesquad-moderator-trial.com

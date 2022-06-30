@@ -2399,6 +2399,7 @@ discords-app.com
 discords-app.site
 discords-dev.ga
 discords-developers.com
+discords-egift.com
 discords-egift.website
 discords-events.com
 discords-freenitro.xyz

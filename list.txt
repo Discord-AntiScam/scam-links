@@ -1854,6 +1854,7 @@ discord.stateauthor.repl.co
 discord.study
 discord.team
 discord.tools
+discord.trial-hypesquad-team.com
 discord.tw
 discord.verifysquad.repl.co
 discord.voto

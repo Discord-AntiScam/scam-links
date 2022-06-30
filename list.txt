@@ -9705,6 +9705,7 @@ tacelt.com
 take-hypesquad.gq
 takedrop.gq
 takehypesquad.gq
+takesdrop.fun
 takesdrop.org.ru
 takesdrop.site
 talanka.com

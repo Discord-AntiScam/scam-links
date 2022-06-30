@@ -128,6 +128,7 @@ apply-beta-now.gq
 apply-beta-register.gq
 apply-discord-events.com
 apply-discord.com
+apply-event-hypesquad.gq
 apply-events.com
 apply-events.ga
 apply-events.gq

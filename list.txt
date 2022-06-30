@@ -39,6 +39,7 @@ acess-beta.app
 acess-for-hypesquad.com
 acess-for-hypeteams.com
 acess-form-hypesquad.com
+acess-form-hypeteam.com
 acess-forms-hypesquad.com
 acess-formulary-hypesquad.com
 acess-hype-events.com

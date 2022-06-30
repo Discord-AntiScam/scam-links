@@ -4104,6 +4104,7 @@ hype-events.ga
 hype-fast.ga
 hype-form.com
 hype-forms.com
+hype-forms.gq
 hype-formulary-login.com
 hype-from-ads.com
 hype-invitation.gq

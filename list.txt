@@ -4343,6 +4343,7 @@ hypesquadforms-signup.com
 hypesquadinfo.cf
 hypesquadinfo.ga
 hypesquadinfo.gq
+hypesquadinfo.ml
 hypesquadmod-participate.com
 hypesquadnew.com
 hypesquadofficialform.com

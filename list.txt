@@ -4248,7 +4248,6 @@ hypesquad-info.gq
 hypesquad-integrate-now.com
 hypesquad-integrate.com
 hypesquad-invitation.com
-hypesquad-invite-join.com
 hypesquad-invited.tk
 hypesquad-join-event.com
 hypesquad-join-events.com
@@ -4337,6 +4336,7 @@ hypesquad-testers.ga
 hypesquad-testers.gq
 hypesquad-trial.com
 hypesquad-updated.com
+hypesquad-vote-events.gq
 hypesquad-vote.gq
 hypesquad.academy
 hypesquad.academymoder.repl.co

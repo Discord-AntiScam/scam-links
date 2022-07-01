@@ -4252,6 +4252,7 @@ hypesquad-invited.tk
 hypesquad-join-event.com
 hypesquad-join-events.com
 hypesquad-join-selection.com
+hypesquad-join.ga
 hypesquad-joins.com
 hypesquad-joins.gq
 hypesquad-list-selection.com

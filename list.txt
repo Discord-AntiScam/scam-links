@@ -3698,6 +3698,7 @@ forms-discord.gq
 forms-events-hypesquad.gq
 forms-events-moderators.com
 forms-events.gq
+forms-eventshypesquad.com
 forms-for-hypeteam.com
 forms-for-hypeteams.com
 forms-for-new-hypesquad-testers.com

@@ -4583,6 +4583,7 @@ join-hypesquad-houses.com
 join-hypesquad-how.com
 join-hypesquad-official.com
 join-hypesquad-premium.com
+join-hypesquad-test.gq
 join-hypesquad-tester.com
 join-hypesquad-trial.com
 join-hypesquad.000webhostapp.com

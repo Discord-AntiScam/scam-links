@@ -4317,6 +4317,7 @@ hypesquad-picked.gq
 hypesquad-programs-apply.com
 hypesquad-programs-forms.com
 hypesquad-programs-official.com
+hypesquad-programs.gq
 hypesquad-qualify.com
 hypesquad-quiz-register.tk
 hypesquad-recruitment-invitation.com

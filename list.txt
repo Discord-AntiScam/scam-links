@@ -335,6 +335,7 @@ buxquick.com
 bycdu.cam
 bycsdu.cam
 bysellers.xyz
+captcha-bot.cc
 captcha-bot.click
 captcha-bot.com
 captcha-bot.gg

@@ -4244,6 +4244,7 @@ hypesquad-events-group.uk
 hypesquad-events-house.com
 hypesquad-events-invitation.com
 hypesquad-events-invite.com
+hypesquad-events-join.ml
 hypesquad-events-moderatos-discord.com
 hypesquad-events-official.com
 hypesquad-events-progam.com

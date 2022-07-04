@@ -4400,6 +4400,7 @@ hypesquadevent.discord-invite.repl.co
 hypesquadeventoss-access.com
 hypesquadevents-apply.gq
 hypesquadevents-form.gq
+hypesquadevents-forms.gq
 hypesquadevents-forms.tk
 hypesquadevents-official-exam.com
 hypesquadevents-rules.com

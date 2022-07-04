@@ -154,6 +154,7 @@ apply-hypeevents.gq
 apply-hypesquad-academy.gq
 apply-hypesquad-event.com
 apply-hypesquad-event.xyz
+apply-hypesquad-events.ga
 apply-hypesquad-events.gq
 apply-hypesquad-events.tk
 apply-hypesquad-exam.com

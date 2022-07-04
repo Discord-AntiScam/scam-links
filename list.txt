@@ -2257,6 +2257,7 @@ discordigift.ml
 discordimages.com
 discordinfo.com
 discordinfo.ru
+discordinfo.site
 discordinitroi.com
 discordinvite.ml
 discordis.xyz

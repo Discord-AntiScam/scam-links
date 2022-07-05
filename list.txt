@@ -277,6 +277,7 @@ beta-acess.app
 beta-acess.com
 beta-apply-for.gq
 beta-apply.com
+beta-discord.co
 beta-hypesquad.com
 beta-invite.app
 beta-invite.com

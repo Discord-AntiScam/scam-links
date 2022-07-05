@@ -4428,6 +4428,7 @@ hypesquadinfo.cf
 hypesquadinfo.ga
 hypesquadinfo.gq
 hypesquadinfo.ml
+hypesquadinform.ml
 hypesquadmod-participate.com
 hypesquadnew.com
 hypesquadofficialform.com

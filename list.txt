@@ -5847,6 +5847,7 @@ signup-hypesquad-team.com
 signup-hypesquad-teams.com
 signup-hypesquad.ga
 signup-hypesquad.gq
+signup-hypesquadevents.ga
 signup-hypesquadmoderator.com
 signup-hypeteam-house.com
 signup-hypeteam-new.com

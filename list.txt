@@ -4761,6 +4761,7 @@ log-in-application-beta.com
 log-in-hypesquad-formulary.com
 log-in-official-hypesquad.com
 log-in-official-moderator.com
+login-discod.fun
 login-hypevents-ads.com
 login-moderator.discordauth.repl.co
 login.discord-moderator-academy.repl.co

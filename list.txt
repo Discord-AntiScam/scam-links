@@ -10077,6 +10077,7 @@ website-hypesquad-official.gq
 weeklyjob.online
 welcome-from-hype.com
 welcome-hype-members.com
+welcome-hypesquad.gq
 welcome-hypeteam.gq
 welcome-subscribers-hypesquad.com
 welcomehypeteams.gq

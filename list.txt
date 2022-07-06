@@ -3586,6 +3586,7 @@ essharts.ru
 ether2x.net
 event-discord.com
 event-hypemoderator.com
+event-hypesquad.ga
 event-hypesquad.gq
 event-tesla2x.com
 eventapply.com

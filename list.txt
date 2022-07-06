@@ -4259,7 +4259,6 @@ hypesquad-event-join.com
 hypesquad-event-new.com
 hypesquad-event-official.com
 hypesquad-event.ga
-hypesquad-events-academy.gq
 hypesquad-events-aplly.com
 hypesquad-events-club.gq
 hypesquad-events-form.gq
@@ -4604,6 +4603,7 @@ join-applyhypesquad.ga
 join-connect-hypesquad-events.com
 join-events.ga
 join-for-hypesquad.com
+join-for-hypesquad.gq
 join-for-moderators-exam.com
 join-for-moderators.com
 join-form-hypesquad-now.com
@@ -4859,6 +4859,7 @@ moderation-signatory.com
 moderation.formulary.dev
 moderator-academy-application-now.com
 moderator-academy-enter.gq
+moderator-academy-registration.gq
 moderator-academy-rules.com
 moderator-academysignup.com
 moderator-acadmey.com

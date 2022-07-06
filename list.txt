@@ -3586,7 +3586,6 @@ essharts.ru
 ether2x.net
 event-discord.com
 event-hypemoderator.com
-event-hypesquad.ga
 event-hypesquad.gq
 event-tesla2x.com
 eventapply.com
@@ -5881,6 +5880,7 @@ signup-hypeteam-new.com
 signup-hypeteams-exam.com
 signup-moderators-academy-form.com
 signup-of-hypesquad.com
+signup-on-hypeteams.com
 signup-teams-hypesquad.com
 signups-hype.com
 signups-hypesquad-formularys.com

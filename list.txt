@@ -5604,6 +5604,7 @@ registration-hypesquad.ga
 registration-hypesquad.gq
 registration-hypesquad.tk
 registration-in-hypesquad.com
+registration-moderator-academy.gq
 registration-new-hype.com
 registration-to-hype.com
 registration-to-hypesquad.com

@@ -3768,6 +3768,7 @@ forms-hypesquad-invite.com
 forms-hypesquad-invite.ga
 forms-hypesquad-join-now.com
 forms-hypesquad-join.com
+forms-hypesquad-mod.gq
 forms-hypesquad-program.com
 forms-hypesquad-register.com
 forms-hypesquad-teams.com

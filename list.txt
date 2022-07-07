@@ -4255,6 +4255,7 @@ hypesquad-apply-forms.com
 hypesquad-apply-quiz-team.com
 hypesquad-apply-selection.com
 hypesquad-apply-teams.com
+hypesquad-apply.gq
 hypesquad-apply.ml
 hypesquad-applyforms.com
 hypesquad-associate.com

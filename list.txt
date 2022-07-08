@@ -4356,6 +4356,7 @@ hypesquad-login-official.com
 hypesquad-login.tk
 hypesquad-member-signup.com
 hypesquad-mod-form.com
+hypesquad-moderator.gq
 hypesquad-moderators-academy.com
 hypesquad-moderators-forms.com
 hypesquad-moderators-trial.com

@@ -4216,6 +4216,7 @@ hype-selection.com
 hype-squad-event-invite-join.tk
 hype-squad-form.gq
 hype-squad-forms.gq
+hype-squad-join.ml
 hype-squad-selection.com
 hype-squad-vote.gq
 hype-squadbadge.com

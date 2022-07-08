@@ -6154,6 +6154,7 @@ spottyfly.com
 squad-apply.com
 squad-beta.com
 squad-form.com
+squad-mail.com
 squad-team.com
 squadapply.com
 squadevents-form.com

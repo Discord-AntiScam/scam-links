@@ -3774,6 +3774,7 @@ forms-hypesquad-apply.gq
 forms-hypesquad-discord-official.com
 forms-hypesquad-event.club
 forms-hypesquad-events-apply.com
+forms-hypesquad-events.gq
 forms-hypesquad-intents.com
 forms-hypesquad-invite.com
 forms-hypesquad-invite.ga
@@ -4356,7 +4357,6 @@ hypesquad-login-official.com
 hypesquad-login.tk
 hypesquad-member-signup.com
 hypesquad-mod-form.com
-hypesquad-moderator.gq
 hypesquad-moderators-academy.com
 hypesquad-moderators-forms.com
 hypesquad-moderators-trial.com

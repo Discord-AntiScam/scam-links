@@ -3023,7 +3023,6 @@ dlsccordapps.shop
 dlsccordclub.club
 dlsccordclub.com
 dlsccordgit.ru
-dlsccorrd-app.ru
 dlsccrd.com
 dlscocl.xyz
 dlscocrd.club
@@ -8510,6 +8509,7 @@ steancommuinity.me
 steancommuinty.com
 steancommuinty.ru
 steancommuinuty.ru
+steancommuitny.com
 steancommuity.com
 steancommuity.ru
 steancommulily.com

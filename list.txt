@@ -5729,6 +5729,7 @@ roblox.gs
 roblox.help
 roblox.link.club
 roblox.sx
+roblox.uk.com
 robloxbing.com
 robloxdownload.org
 robloxgamecode.com

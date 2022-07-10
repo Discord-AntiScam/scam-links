@@ -4313,6 +4313,7 @@ hypesquad-events-invite.com
 hypesquad-events-join.ml
 hypesquad-events-moderatos-discord.com
 hypesquad-events-official.com
+hypesquad-events-official.ga
 hypesquad-events-progam.com
 hypesquad-events-redeem.com
 hypesquad-events-registers.com

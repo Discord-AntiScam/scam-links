@@ -1875,6 +1875,7 @@ discord.invite-moderator-tests.repl.co
 discord.istanbul
 discord.join-hypesquad.repl.co
 discord.kaiograbber.repl.co
+discord.kb.help
 discord.limited
 discord.link
 discord.ltd

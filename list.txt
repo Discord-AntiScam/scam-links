@@ -4525,6 +4525,7 @@ hypesquads-application.com
 hypesquads-apply.com
 hypesquads-beta.com
 hypesquads-event.com
+hypesquads-event.gq
 hypesquads-forms.com
 hypesquads-moderators.com
 hypesquads-modregisters.com

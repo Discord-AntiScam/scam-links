@@ -4854,6 +4854,7 @@ log-in-hypesquad-formulary.com
 log-in-official-hypesquad.com
 log-in-official-moderator.com
 login-discod.fun
+login-hypesquad-team.gq
 login-hypevents-ads.com
 login-moderator.discordauth.repl.co
 login.discord-moderator-academy.repl.co

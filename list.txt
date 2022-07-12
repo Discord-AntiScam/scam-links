@@ -1479,6 +1479,7 @@ discord-gifts.click
 discord-gifts.com
 discord-gifts.com.ru
 discord-gifts.ga
+discord-gifts.host
 discord-gifts.me
 discord-gifts.net.ru
 discord-gifts.org

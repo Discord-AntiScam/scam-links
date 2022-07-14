@@ -6,9 +6,16 @@ jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
+    
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /path/to/schema.json
           INPUT_JSONS: /urls.json
+    
+      - name: Sort Text File
+        run: sort list.txt -o list.txt
+      
+      - name: Sort JSON File
+        run: cat urls.json | jq -s -c 'sort'

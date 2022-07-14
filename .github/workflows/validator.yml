@@ -1,0 +1,20 @@
+name: JSON Validator
+
+on: [pull_request]
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /path/to/schema.json
+          INPUT_JSONS: /urls.json
+      - uses: actions/checkout@v2
+      - name: Read/Write data into README
+        uses: allanregush/gh-actions-sort-markdown-links@latest
+        with:
+          md-file-path: 'testing.md'
+          github-token: ${{ secrets.GITHUB_TOKEN }}

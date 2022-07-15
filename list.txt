@@ -6002,6 +6002,7 @@ signup-hypeteam-house.com
 signup-hypeteam-new.com
 signup-hypeteams-exam.com
 signup-moderators-academy-form.com
+signup-new-hypesquad.gq
 signup-of-hypesquad.com
 signup-on-hypesquad.gq
 signup-on-hypeteams.com

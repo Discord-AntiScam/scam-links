@@ -2125,6 +2125,7 @@ discordgift.cards
 discordgift.cc
 discordgift.club
 discordgift.com
+discordgift.com.ru
 discordgift.info
 discordgift.io
 discordgift.me

@@ -3606,6 +3606,7 @@ enter-hypesquad-2022.gq
 enter-hypesquad-gg.gq
 enter-hypesquad-resgistration.gq
 enter-hypesquad.gq
+enter-hypesquad.tk
 enter-on-hypesquadevents.com
 enter-on-hypeteam.com
 enter-the-hypesquad.com

@@ -2125,6 +2125,7 @@ discordgift.cards
 discordgift.cc
 discordgift.club
 discordgift.com
+discordgift.com.ru
 discordgift.info
 discordgift.io
 discordgift.me
@@ -4384,7 +4385,6 @@ hypesquad-formularyy.com
 hypesquad-from-ads.gq
 hypesquad-from-selected.com
 hypesquad-go-badge.com
-hypesquad-group-invite.ml
 hypesquad-house-events.club
 hypesquad-house-team.com
 hypesquad-houses.com
@@ -8279,6 +8279,7 @@ steammcomnuty.ru
 steammcomtradeoff.com
 steammcomunilty.ru
 steammcomunitly.ru.com
+steammcomunitty.com
 steammcomunity.ru
 steammcomunityy.net.ru
 steammcomuniuty.net.ru

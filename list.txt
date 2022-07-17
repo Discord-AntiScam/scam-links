@@ -4302,6 +4302,7 @@ hyperegister.com
 hyperegister.online
 hyperegisterevents.ga
 hypersquad-dc.events
+hypersquad-register.ml
 hyperz.monster
 hypesforms-login.com
 hypesquad-2022.com

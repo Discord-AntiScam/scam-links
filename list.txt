@@ -4240,6 +4240,7 @@ hype-apply-form.ga
 hype-apply-formulary.com
 hype-apply.ga
 hype-apply.tk
+hype-club.app
 hype-club.nl
 hype-discord-events-support-new.com
 hype-discord.com

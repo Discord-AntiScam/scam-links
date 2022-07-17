@@ -10133,6 +10133,7 @@ test-form-hypesquad.com
 test-forms-hypesquad.com
 test-from-hypesquad.com
 test-hypesquad-events-join.gq
+test-hypesquad.ga
 test-official-hypesquadevents.com
 testbot2021.ru
 teste.hypesquad-invitation.repl.co

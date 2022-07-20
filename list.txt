@@ -467,6 +467,7 @@ connect-hypesquad-form-events.com
 connect-hypesquad-mod.com
 connect-hypesquad-trial.com
 connect-hypesquadevents-official.com
+connect-hypeteam.com
 connect-moderator-certified.com
 connect-moderators-forms-events.com
 connect-new-events-academy.com
@@ -5419,7 +5420,6 @@ now-hypesquad-exam.com
 now-hypesquad-form.gq
 now-hypesquad-integrations.com
 now-hypesquad-selection.gq
-now-hypesquad-team.gq
 now-hypesquad.com
 now-squad.com
 now-teamsquad.com

@@ -1788,6 +1788,7 @@ discord-start.com
 discord-stat.com
 discord-stats.org
 discord-steam-gift.com
+discord-steam-nitro.site
 discord-steam-promo.com
 discord-steam.club
 discord-steam.com

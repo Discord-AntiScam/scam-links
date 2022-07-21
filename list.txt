@@ -748,7 +748,6 @@ dicsord-glft.com
 dicsord-glfts.com
 dicsord-gq.ru
 dicsord-hypesquads.com
-dicsord-inform.ru
 dicsord-n.com
 dicsord-n.ru
 dicsord-nito.gq
@@ -3908,6 +3907,7 @@ formulary-hype-official.com
 formulary-hype-signup.com
 formulary-hype-squad-event.com
 formulary-hype-teams.com
+formulary-hype-teams.ml
 formulary-hypesquad-2022.com
 formulary-hypesquad-app.com
 formulary-hypesquad-events.gq

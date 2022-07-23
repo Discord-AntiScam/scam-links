@@ -5182,6 +5182,7 @@ navi.auction
 navi.pp.ru
 navi10.com
 navi10.com
+navi12.com
 navi2022.tech
 navi22.com
 navi51.com

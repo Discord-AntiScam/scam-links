@@ -3952,6 +3952,7 @@ forms-to-hypeteam.com
 forms-to-hypeteams.com
 forms-to-new-hypesquad-tester.com
 formulary-app-join.com
+formulary-community-hypesquad.ml
 formulary-events-hypesquad.com
 formulary-for-hypesquad-app.com
 formulary-for-hypesquad-rescue.com

@@ -2880,6 +2880,7 @@ discsord.com
 discsordapp.com
 discstatistic.com
 discstatus.com
+disctotal.com
 discurcd.com
 discurd.js.org
 discvordapp.com

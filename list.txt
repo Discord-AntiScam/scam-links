@@ -400,6 +400,7 @@ captchas.cloud
 captchas.gg
 captchas.systems
 captchas.tech
+carls.gg
 case-gift.com
 case-give.com
 case-magic.space

@@ -2591,6 +2591,7 @@ discordsapp.xyz
 discordsapplication.info
 discordsatus.com
 discordscaner.com
+discordscanner.com
 discordsearch.co
 discordsecurity.crisp.help
 discordservice.com

@@ -2120,7 +2120,6 @@ discordes-gift.xyz
 discordes-giftes.xyz
 discordes-gifts.xyz
 discordes-nitro.xyz
-discordetails.com
 discordevent.com
 discordevents.cc
 discordevents.co
@@ -2346,6 +2345,7 @@ discordinfo.ru
 discordinfo.site
 discordinfos.com
 discordinitroi.com
+discordinspect.com
 discordinvite.ml
 discordis.xyz
 discordist.com

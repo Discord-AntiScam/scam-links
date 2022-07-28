@@ -138,6 +138,7 @@ apply-event-hypesquad.gq
 apply-events.com
 apply-events.ga
 apply-events.gq
+apply-events.ml
 apply-exam-hypesquad.com
 apply-for-hype-2022.com
 apply-for-hypeevents.com

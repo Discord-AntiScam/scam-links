@@ -3774,6 +3774,7 @@ ether2x.net
 event-discord.com
 event-group.ga
 event-hypemoderator.com
+event-hypesquad-official.co
 event-hypesquad.gq
 event-tesla2x.com
 eventapply.com

@@ -4506,6 +4506,7 @@ hypesquad-event.ga
 hypesquad-events-aplly.com
 hypesquad-events-club.gq
 hypesquad-events-form.gq
+hypesquad-events-formularys.ml
 hypesquad-events-group.com
 hypesquad-events-group.uk
 hypesquad-events-house.com

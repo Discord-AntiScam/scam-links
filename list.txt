@@ -4396,6 +4396,7 @@ hype-forms.com
 hype-forms.gq
 hype-forms.ml
 hype-formulary-login.com
+hype-formulary-official.ml
 hype-from-ads.com
 hype-invitation.gq
 hype-invite.gq

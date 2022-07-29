@@ -4613,7 +4613,6 @@ hypesquad-options.com
 hypesquad-participate-events.com
 hypesquad-picked.gq
 hypesquad-progam-official.com
-hypesquad-program-formulary.ml
 hypesquad-program.gq
 hypesquad-programs-apply.com
 hypesquad-programs-forms.com
@@ -4905,6 +4904,7 @@ join-hypesquad-academy.com
 join-hypesquad-academy.gq
 join-hypesquad-beta.com
 join-hypesquad-brilliance.gq
+join-hypesquad-event.ml
 join-hypesquad-events-forms.com
 join-hypesquad-events-news.com
 join-hypesquad-events.gq

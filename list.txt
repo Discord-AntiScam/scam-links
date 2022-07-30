@@ -7471,6 +7471,7 @@ steamcommunity-com.xyz
 steamcommunity-comtradeoffer.ru
 steamcommunity-gifts.xyz
 steamcommunity-gifts1.xyz
+steamcommunity-help.com
 steamcommunity-nitro.ru
 steamcommunity-nitrogeneral.ru
 steamcommunity-profile.net

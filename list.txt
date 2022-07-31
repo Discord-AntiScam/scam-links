@@ -99,6 +99,7 @@ api-hypesquad-team.com
 api-hypesquad.com
 aplication-hypesquad-official.com
 aplicationsdiscord.com
+aplly-hype.cf
 aplly-hype.ml
 app-discord-nitro.ru
 app-discord.com

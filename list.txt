@@ -5512,6 +5512,7 @@ nitro-xl.xyz
 nitro-z.xyz
 nitro.gift
 nitro.gives
+nitro.su
 nitroagift.xyz
 nitroairdrop.com
 nitroappstore.com

@@ -4046,6 +4046,7 @@ formulary-hype-teams.com
 formulary-hype-teams.ml
 formulary-hypesquad-2022.com
 formulary-hypesquad-app.com
+formulary-hypesquad-dc.ml
 formulary-hypesquad-events.gq
 formulary-hypesquad-invite.com
 formulary-hypesquad-join.com

@@ -3972,6 +3972,7 @@ forms-connects-hypesquad.tk
 forms-connects-moderators-exams.com
 forms-discord.gq
 forms-events-hypesquad.gq
+forms-events-hypesquad.ml
 forms-events-moderators.com
 forms-events.gq
 forms-eventshypesquad.com

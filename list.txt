@@ -3841,6 +3841,7 @@ events-mails.ml
 events-moderation.com
 events-new-hypeteam.com
 events-rewards.xyz
+events-servicess.ml
 events-squad.com
 events.dlscord.click
 events.formulary-invite.dev

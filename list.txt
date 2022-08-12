@@ -186,7 +186,6 @@ apply-hypesquad.tk
 apply-hypesquadacademy.gq
 apply-hypesquadevent.ga
 apply-hypesquadevent.tk
-apply-hypesquadevents-team.ga
 apply-hypesquadevents.gq
 apply-hypesquads.com
 apply-hypesquadteam.gq
@@ -4661,6 +4660,7 @@ hypesquad-list-selection.com
 hypesquad-list.com
 hypesquad-log-in-new-events.com
 hypesquad-login-official.com
+hypesquad-login.cf
 hypesquad-login.tk
 hypesquad-mail.ml
 hypesquad-mail.tk

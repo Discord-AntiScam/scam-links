@@ -6098,6 +6098,7 @@ roblox.com.ee
 roblox.com.ge
 roblox.com.gt
 roblox.com.kg
+roblox.com.kz
 roblox.com.lv
 roblox.com.mg
 roblox.com.nf

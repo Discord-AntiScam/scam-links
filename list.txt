@@ -414,6 +414,7 @@ captchas.cloud
 captchas.gg
 captchas.systems
 captchas.tech
+cardgen.bar
 carlbot.ga
 carls.gg
 case-gift.com

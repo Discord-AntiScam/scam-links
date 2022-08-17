@@ -136,6 +136,7 @@ application-testers.com
 application-to-hypesquad.com
 applications-beta.com
 applications-events.ga
+applications-events.gq
 applications-hype-new.com
 applications-hypesquad.gq
 applk-moderador-discord.tk

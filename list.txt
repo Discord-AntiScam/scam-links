@@ -1933,6 +1933,7 @@ discord.academy-verification.repl.co
 discord.academymoderators.repl.co
 discord.app
 discord.app.br
+discord.ax
 discord.bargains
 discord.best
 discord.biz

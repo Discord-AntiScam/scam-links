@@ -2079,6 +2079,7 @@ discordapp.org
 discordapp.pages.dev
 discordapp.pw
 discordapp.rip
+discordapp.ro
 discordapp.ru.com
 discordapp.site
 discordapp.social

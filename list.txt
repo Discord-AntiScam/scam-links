@@ -6419,6 +6419,7 @@ sign-up-hypesquad-events.com
 sign-up-hypesquad.com
 sign-up-hypeteam.com
 sign-up-hypeteams.com
+sign-up-squadacademy.ml
 sign4cup.com
 signup-discordhypedquad.com
 signup-exam-hypesquad.com

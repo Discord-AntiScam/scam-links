@@ -2154,6 +2154,7 @@ discordbots.app
 discordbox.xyz
 discordbrowse.com
 discordbugs.com
+discordc-gifts.ru
 discordc-nitro.com
 discordc.gift
 discordc.space

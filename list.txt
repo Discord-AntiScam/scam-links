@@ -1951,6 +1951,7 @@ discord-xnitro.com.ru
 discord-xnitro.xyz
 discord-zgifts.gq
 discord.ac
+discord.ac.cn
 discord.academy-verification.repl.co
 discord.academymoderators.repl.co
 discord.app

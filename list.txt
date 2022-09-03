@@ -7837,6 +7837,7 @@ steamcommunity.at
 steamcommunity.best
 steamcommunity.biz
 steamcommunity.ca
+steamcommunity.cc
 steamcommunity.click
 steamcommunity.cloud
 steamcommunity.cn

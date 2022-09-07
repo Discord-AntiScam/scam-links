@@ -5087,6 +5087,7 @@ join-community-hypesquad.ml
 join-connect-hypesquad-events.com
 join-discordhypesquad.com
 join-event-hypesquad.cf
+join-event-hypesquad.com
 join-events.ga
 join-events.ml
 join-for-hypesquad.com

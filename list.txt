@@ -1402,6 +1402,7 @@ discord-api.com
 discord-aplly-hypesquad.com
 discord-app-nitro.ru
 discord-app.art
+discord-app.cam
 discord-app.cc
 discord-app.click
 discord-app.club

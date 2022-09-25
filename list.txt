@@ -3742,6 +3742,7 @@ ds-events.gq
 ds-eventu.gq
 ds-gif.gq
 ds-gifo.gq
+ds-gift.ru
 ds-giftnitro.com
 ds-give.site
 ds-glft.com

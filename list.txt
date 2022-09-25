@@ -439,6 +439,7 @@ captchabot.click
 captchabot.courses
 captchabot.to
 captchaclick.net
+captchads.app
 captchas-bot.info
 captchas.blog
 captchas.cc

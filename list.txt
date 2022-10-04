@@ -3870,6 +3870,7 @@ dynobot.link
 dynobot.me
 dynobot.to
 dynobot.wiki
+dynobots.app
 dynobots.co
 dynobots.dev
 dynobots.gg

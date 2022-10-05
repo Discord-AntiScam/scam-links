@@ -3843,6 +3843,7 @@ dy-no.deno.dev
 dyno-bot.io
 dyno-bot.org
 dyno-bots.com
+dyno-captchas.com
 dyno-dev.net
 dyno-verification.org
 dyno-verify.com

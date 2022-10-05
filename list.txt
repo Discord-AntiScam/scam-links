@@ -8003,6 +8003,7 @@ steamcommunity.ca
 steamcommunity.cc
 steamcommunity.click
 steamcommunity.cloud
+steamcommunity.cm
 steamcommunity.cn
 steamcommunity.co
 steamcommunity.co.ua

@@ -1088,6 +1088,7 @@ disc.cool
 disc.gifts
 disc.ordgift.ga
 disc0rd-app.ru.com
+disc0rd-gitf.xyz
 disc0rd-nitro.site
 disc0rd.info
 disc0rd.org

@@ -11683,6 +11683,7 @@ twitch-starter.com
 twitch.facepunch-llc.com
 twitch.facepunchstudio.com
 twitch.rust-ltd.com
+twitchcsgo.cfd
 twitchd.org.ru
 twitchdrops.net.ru
 twitchgive.com

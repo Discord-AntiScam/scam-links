@@ -3896,6 +3896,7 @@ dynobot.gg
 dynobot.io
 dynobot.link
 dynobot.me
+dynobot.one
 dynobot.sbs
 dynobot.to
 dynobot.wiki

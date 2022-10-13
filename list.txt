@@ -3200,6 +3200,7 @@ disscord.gift
 disscord.online
 disscord.ru
 disscord.xyz
+disscords-gift.com
 disscords.club
 dissord-nitro.com
 dissord.com

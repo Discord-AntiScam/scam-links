@@ -3910,6 +3910,7 @@ dynobots.app
 dynobots.ca
 dynobots.co
 dynobots.dev
+dynobots.eu
 dynobots.gg
 dynobots.io
 dynobots.net

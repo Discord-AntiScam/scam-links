@@ -3913,6 +3913,7 @@ dynobot.to
 dynobot.wiki
 dynobots.app
 dynobots.ca
+dynobots.cam
 dynobots.co
 dynobots.dev
 dynobots.eu
@@ -9526,7 +9527,6 @@ steamcumnunity.store
 steamcumnunlty.com
 steamcumnunlty.online
 steamcumnunlty.ru
-steamcumnunuty.com
 steamcumumunity.com.ru
 steamcumunily.ru
 steamcumunity.ru

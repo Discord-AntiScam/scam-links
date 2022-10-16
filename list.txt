@@ -3905,6 +3905,7 @@ dynoauth.net
 dynobot.ai
 dynobot.com
 dynobot.dev
+dynobot.eu
 dynobot.gg
 dynobot.io
 dynobot.link

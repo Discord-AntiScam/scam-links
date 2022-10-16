@@ -8202,6 +8202,7 @@ steamcommunity.rest
 steamcommunity.ru
 steamcommunity.ru.net
 steamcommunity.sa.com
+steamcommunity.shop
 steamcommunity.site
 steamcommunity.space
 steamcommunity.steams.ga

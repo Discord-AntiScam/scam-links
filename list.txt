@@ -3931,6 +3931,7 @@ dynocaptcha.io
 dynocaptcha.xyz
 dynocaptchas.com
 dynocaptchas.dev
+dynos.ca
 dynos.cc
 dynos.info
 dynos.me

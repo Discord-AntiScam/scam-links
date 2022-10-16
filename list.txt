@@ -1537,6 +1537,7 @@ discord-drop.gift
 discord-drop.info
 discord-drop.space
 discord-drop.xyz
+discord-drops.pro
 discord-drops.ru
 discord-egift.com
 discord-egift.gq

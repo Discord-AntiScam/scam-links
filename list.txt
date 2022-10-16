@@ -2021,7 +2021,6 @@ discord.cn.com
 discord.co.com
 discord.co.in
 discord.co.za
-discörd.com
 discord.com.pl
 discord.com.ru
 discord.com.tw
@@ -2138,7 +2137,6 @@ discordapp.co
 discordapp.co.uk
 discordapp.code
 discordapp.codes
-disçordapp.com
 discordapp.download
 discordapp.eu
 discordapp.gg
@@ -3089,6 +3087,7 @@ discurd.js.org
 discvordapp.com
 discxordapp.com
 discxrd.com
+discörd.com
 disdrop.com.br
 disgiftcord.gq
 disgordapp.com
@@ -3221,6 +3220,7 @@ disxord.com
 disxordapp.com
 diszcord.com
 diszcordapp.com
+disçordapp.com
 diucord.js.org
 diuscordapp.com
 divinegardens.xyx
@@ -6428,7 +6428,6 @@ rewardspremium-nitro.gq
 rien.xyz
 rip-tide.ru
 ripetide.ru
-rìpple.com
 riptide-cs.ru
 riptide-gaming.ru
 riptide-operation.ru
@@ -6606,6 +6605,7 @@ rusts-case.com
 rusts-cases.com
 rustygift.site
 rxstgifts.ru
+rìpple.com
 s1cases.site
 s1cses.site
 s70560yr.beget.tech
@@ -6613,8 +6613,6 @@ s92673tu.beget.tech
 sa-mcdonalds.com
 safe-funds.site
 samsungnitro.xyz
-särahah.eu
-särahah.pl
 school.moderatorexam.repl.co
 scl-combo-line.ru
 scl-lieage.online
@@ -6707,11 +6705,11 @@ shockify.net
 shocks.ml
 shoppy.gg
 shopy-nitro.tk
-shört.co
 short.es
 shorte.st
 shrtz.me
 shteamcommunity.com
+shört.co
 sieamcommunily.ru
 sieamcommunity.net.ru
 sieamcommunity.org.ru
@@ -7020,8 +7018,8 @@ special4u.xyz
 spell-must.xyz
 sportcyberecl.ru
 spotifay.cc
-spötify.com
 spottyfly.com
+spötify.com
 squad-apply.com
 squad-beta.com
 squad-form.com
@@ -11655,6 +11653,8 @@ sushiwaq.com
 susnhiswap.com
 susshiwap.com
 swapskins.ga
+särahah.eu
+särahah.pl
 taceitt.com
 tacelt.com
 take-hypesquad.gq
@@ -12049,12 +12049,12 @@ xzsae.hitechconnected.com
 yip.su
 yobit.net
 youshouldclick.us
-yoütu.be
-yoütübe.co
-yoütübe.com
 youtubeshort.watch
 youwere-applied.ga
 youwere-applied.gq
+yoütu.be
+yoütübe.co
+yoütübe.com
 yple-selectionevents.ml
 yummy-nitro.com
 z93729n9.beget.tech

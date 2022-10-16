@@ -3949,6 +3949,7 @@ dynotool.me
 dynotool.net
 dynotool.org
 dynotools.app
+dynotools.cam
 dynotools.dev
 dynotools.ink
 dynov.art

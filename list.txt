@@ -260,6 +260,7 @@ apps-discord.org
 apps-iroblox.com
 apps-nitro.com
 apps-nitro.ru
+aquare-payment.site
 arcades.tech
 arenacup.ru
 arkget.pro
@@ -361,6 +362,8 @@ bigsports.xyz
 bilarium.com
 bingotrades.com
 bintexdao.com
+bit-cryptex.com
+bitcbrave.com
 bitccryp.com
 bitcoingenerator.cash
 bitcwolfs.com
@@ -435,6 +438,7 @@ captcha.fm
 captcha.hk
 captcha.is
 captcha.legal
+captcha.life
 captcha.monster
 captcha.page
 captcha.pics
@@ -444,6 +448,7 @@ captcha.sale
 captcha.tips
 captcha.wiki
 captcha.ws
+captchabot.ai
 captchabot.cam
 captchabot.click
 captchabot.courses
@@ -518,6 +523,7 @@ club-apply-squad.tk
 club-squad-now.ml
 co.ms
 cod3r0bux.pw
+coinfarmtradefx.com
 coinmoney.in.net
 cointradebtc.com
 comdiscord.com
@@ -594,6 +600,7 @@ crazy-down.ga
 creditscpfree.website
 crew-spacex5.pro
 crosflah.online
+cryptonexys.com
 cryptonix-platform.com
 cryptoreserve.space
 cryptossmoney.com
@@ -726,6 +733,7 @@ d1scrod-gift.com
 d1scrod.site
 daddsda.xyz
 dailymegadeal.xyz
+dappsupports.com
 darang.ru
 dawbab.xyz
 dc-nitro.gq
@@ -3638,6 +3646,7 @@ dlscordl.ru
 dlscordlairdrop.com
 dlscordlairdrops.com
 dlscordlboost.com
+dlscordlboosts.com
 dlscordlife.xyz
 dlscordlsteam.com
 dlscordly.com
@@ -3902,6 +3911,7 @@ dyno.how
 dyno.ink
 dyno.love
 dyno.mn
+dyno.online
 dyno.pics
 dyno.rest
 dyno.site
@@ -5172,6 +5182,7 @@ hypeteams.com
 hypeteamsubscribe.gq
 hypixel.claims
 hypixelnet.store
+hypixelstore.site
 hypixelstore.xyz
 hypsquad-join.gq
 id-374749.ru
@@ -5537,6 +5548,7 @@ m90694rb.beget.tech
 madgames.xyz
 maggicdrop.xyz
 magic-delfy.net.ru
+magicalsecure.netlify.app
 magicrun.site
 magicstreek.me
 magifcrolrlc.xyz
@@ -7168,6 +7180,7 @@ staemcommunlity.xyz
 staemcommunllty.ru
 staemcommunlty.com
 staemcommunlty.fun
+staemcommunlty.online
 staemcommunlty.pw
 staemcommunlty.ru
 staemcommunlty.shop
@@ -8447,6 +8460,7 @@ steamcommunityvire.top
 steamcommunityvirn.top
 steamcommunityviro.top
 steamcommunityvirv.top
+steamcommunityviw.asia
 steamcommunityviwo.top
 steamcommunityviwr.top
 steamcommunityviwv.top
@@ -9298,6 +9312,7 @@ steamconmnunity.xyz
 steamconmnunlity.online
 steamconmnunlty.com
 steamconmnunlty.ru
+steamconmnunnity.ru
 steamconmnuntiy.ru
 steamconmnunuty.ru.com
 steamconmnutiny.ru
@@ -10823,6 +10838,7 @@ steemcommunlty.ru
 steemcommunly.com
 steemcommunniti.com
 steemcommunnity.co
+steemcommunnity.com
 steemcommunnity.net
 steemcommunnity.ru
 steemcommuntiy.com
@@ -11867,6 +11883,7 @@ verification-discord.com
 verifications-discord.com
 verified-formulary-to-moderator.com
 verified-moderators-club.com
+verify-captcha.net
 verify-discord.com
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
@@ -11909,6 +11926,7 @@ wanmeipt.ru
 warning-selectioneventhype.gq
 wavebtc.com
 we-esports.com
+web-robiox-com.ga
 web-roblox.org
 webr-roblox.com
 website-hypesquad-official.gq

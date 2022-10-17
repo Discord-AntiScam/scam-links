@@ -260,6 +260,7 @@ apps-discord.org
 apps-iroblox.com
 apps-nitro.com
 apps-nitro.ru
+aquare-payment.site
 arcades.tech
 arenacup.ru
 arkget.pro

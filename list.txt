@@ -430,6 +430,7 @@ captcha-info.com
 captcha.bet
 captcha.bot.clicklisted.is
 captcha.bot.slug-collab.xyz
+captcha.cab
 captcha.cool
 captcha.direct
 captcha.directory

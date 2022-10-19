@@ -8468,6 +8468,7 @@ steamcommunityuc.top
 steamcommunityui.club
 steamcommunityuic.asia
 steamcommunityuio.top
+steamcommunityuiv.asia
 steamcommunityuiwn.top
 steamcommunityuk.uni7.net
 steamcommunityum.top
@@ -8821,7 +8822,6 @@ steamcommunuty.com.ru
 steamcommunuty.link
 steamcommunuty.org.ru
 steamcommunuty.ru
-steamcommunuty.xyz
 steamcommunutys.ru
 steamcommunvti.ru
 steamcommunvty.com

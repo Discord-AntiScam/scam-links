@@ -431,6 +431,7 @@ captcha.bet
 captcha.bot.clicklisted.is
 captcha.bot.slug-collab.xyz
 captcha.cab
+captcha.cam
 captcha.cool
 captcha.direct
 captcha.directory

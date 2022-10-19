@@ -814,8 +814,8 @@ dicsold.xyz
 dicsorb-gift.ru
 dicsorb.xyz
 dicsord-action.com
-dicsord-actions.com
 dicsord-action.today
+dicsord-actions.com
 dicsord-actions.org
 dicsord-airdrop.com
 dicsord-airdrop.ru
@@ -8821,6 +8821,7 @@ steamcommunuty.com.ru
 steamcommunuty.link
 steamcommunuty.org.ru
 steamcommunuty.ru
+steamcommunuty.xyz
 steamcommunutys.ru
 steamcommunvti.ru
 steamcommunvty.com

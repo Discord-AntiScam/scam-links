@@ -12019,6 +12019,7 @@ verify-captcha.net
 verify-discord.com
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
+verifyhypixel.xyz
 versusgg.xyz
 versustour.xyz
 vertiq.info

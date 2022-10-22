@@ -12022,6 +12022,7 @@ verify-captcha.net
 verify-discord.com
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
+verifyhypixel.net
 verifyhypixel.xyz
 versusgg.xyz
 versustour.xyz

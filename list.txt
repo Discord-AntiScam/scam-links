@@ -3930,6 +3930,7 @@ dyno-verification.org
 dyno-verify.com
 dyno-verify.net
 dyno.autos
+dyno.boats
 dyno.cam
 dyno.fm
 dyno.how

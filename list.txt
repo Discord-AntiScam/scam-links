@@ -2862,6 +2862,7 @@ discordsub.online
 discordsupport.gg
 discordsupport.gorgias.help
 discordsupport.ru
+discordsupport.tk
 discordsupporter.com
 discordt-gift.com
 discordt.gift

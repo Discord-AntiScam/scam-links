@@ -342,6 +342,7 @@ beta.discorder.app
 beta.spacewarrior.repl.co
 betadiscord-new.com
 betadiscord-news.com
+betadiscord-news.uk
 betadiscord.com
 betainvite.app
 betas-apply.com

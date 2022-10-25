@@ -3624,6 +3624,7 @@ dlscordapp.xyz
 dlscordapps.com
 dlscordapps.me
 dlscordapps.ru
+dlscordbasic.com
 dlscordc.com
 dlscordc.icu
 dlscordd.icu

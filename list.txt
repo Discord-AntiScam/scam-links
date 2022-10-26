@@ -11482,6 +11482,7 @@ stopify.co
 stopify.com
 store-communitiy.com
 store-discord.com
+store-hypixel.claims
 store-hypixel.gift
 store-steam-csgo.ru
 store-steamcomminuty.ru.com

@@ -5779,6 +5779,7 @@ navi.pp.ru
 navi.quest
 navi00.com
 navi10.com
+navi10.uno
 navi11.com
 navi12.com
 navi2.net

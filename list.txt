@@ -5773,6 +5773,7 @@ navi.auction
 navi.cool
 navi.net.ru
 navi.pp.ru
+navi.quest
 navi00.com
 navi10.com
 navi11.com

@@ -620,6 +620,7 @@ cs-dump.org.ru
 cs-esports.link
 cs-exeword.xyz
 cs-incursed.xyz
+cs-joom.net.ru
 cs-legend.xyz
 cs-loot.org.ru
 cs-moneiy.us
@@ -5529,6 +5530,7 @@ leaguecs.ru
 leaguecsgo.ga
 leancoding.co
 legasytour.it
+lhanw.xyz
 libra-sale.io
 lightcord.ga
 like-eventlogins.ml
@@ -5543,7 +5545,6 @@ list-hypesquad.gq
 listycommunity.ru
 lkdiscord.com
 llll0001582.com
-lnavi.xyz
 log-in-application-beta.com
 log-in-hypesquad-formulary.com
 log-in-official-hypesquad.com
@@ -5573,7 +5574,6 @@ loot.pp.ru
 loots-nitro.gq
 lootship.ga
 lootweapons.com
-loznw.xyz
 lp3xc.site
 lpsteamcommunity.com
 lsteamcommunity.com
@@ -5770,6 +5770,7 @@ navi-winners.org.ru
 navi-wins-skiins.org.ru
 navi.auction
 navi.cool
+navi.net.ru
 navi.pp.ru
 navi00.com
 navi10.com

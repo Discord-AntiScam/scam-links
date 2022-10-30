@@ -1,0 +1,16 @@
+name: Linter
+
+on: push
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - run: python sort.py
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Qxe5
+          author_email: Qxe5@users.noreply.github.com
+          message: Sort and Remove Duplicates

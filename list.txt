@@ -12137,6 +12137,7 @@ tournaments.ga
 tournamentscsgo.ga
 tournamentscsgo.ru
 tournamentsgg.ru
+tournamentsgos.ru
 tournamgg.xyz
 tourngg.xyz
 trade-leagues.com

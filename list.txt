@@ -4039,6 +4039,7 @@ dynotool.one
 dynotool.org
 dynotools.app
 dynotools.cam
+dynotools.click
 dynotools.dev
 dynotools.ink
 dynotools.one

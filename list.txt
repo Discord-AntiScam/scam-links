@@ -927,6 +927,7 @@ dicsord.website
 dicsord.xyz
 dicsordapp.co
 dicsordapp.com
+dicsordapp.net
 dicsordapp.ru
 dicsordapp.xyz
 dicsordautumn.com

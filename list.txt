@@ -892,6 +892,7 @@ dicsord-nitro.icu
 dicsord-nitro.ru
 dicsord-nlitro.com
 dicsord-nltro.info
+dicsord-nn.com
 dicsord-one.ru
 dicsord-premeum.com
 dicsord-premium.com
@@ -6306,7 +6307,6 @@ pineisland.ga
 pineislands.org
 pinkdiscord.000webhostapp.com
 pizzaeria-papajohns.com
-play-eslgaming-comcounterstrikecsgo.ru
 play-silt.games
 playcsgo-steam.ru
 player10000228.asia

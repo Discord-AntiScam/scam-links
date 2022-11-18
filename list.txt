@@ -4406,6 +4406,7 @@ forms-hypesquad-mod.gq
 forms-hypesquad-new.ml
 forms-hypesquad-program.com
 forms-hypesquad-register.com
+forms-hypesquad-renew.ml
 forms-hypesquad-teams.com
 forms-hypesquadacademy.gq
 forms-hypesquadevent-join.com

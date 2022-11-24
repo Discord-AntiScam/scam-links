@@ -883,6 +883,7 @@ dicsord-auction.online
 dicsord-cc.com
 dicsord-com.online
 dicsord-com.ru
+dicsord-cup.com
 dicsord-egifs.com
 dicsord-egift.com
 dicsord-egifts.com

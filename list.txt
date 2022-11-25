@@ -471,6 +471,7 @@ captchabot.cam
 captchabot.click
 captchabot.courses
 captchabot.fi
+captchabot.gg
 captchabot.to
 captchaclick.net
 captchads.app

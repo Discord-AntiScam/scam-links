@@ -12775,6 +12775,7 @@ twitch.facepunch-llc.com
 twitch.facepunchstudio.com
 twitch.rust-ltd.com
 twitchcsgo.cfd
+twitchcsgo.net
 twitchd.org.ru
 twitchdrops.net.ru
 twitchfacepunch.ru

@@ -2358,6 +2358,7 @@ discordchristmaspromo.gifts
 discordclient.site
 discordclient.space
 discordclients.com
+discordcollector.com
 discordcom.oajaja.repl.co
 discordcom.ramonsantos8.repl.co
 discordcommunlty.com

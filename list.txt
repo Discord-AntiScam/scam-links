@@ -673,6 +673,7 @@ csdrop.live
 csfun.fun
 csgif.org.ru
 csgift.fun
+csgo-battle.fun
 csgo-battle.ru
 csgo-checker.ru
 csgo-code.com

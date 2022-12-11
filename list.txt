@@ -207,6 +207,7 @@ apply-hypediscord.ml
 apply-hypeevents-squad.com
 apply-hypeevents.gq
 apply-hypesquad-academy.gq
+apply-hypesquad-beta.com
 apply-hypesquad-event.com
 apply-hypesquad-event.xyz
 apply-hypesquad-events.ga

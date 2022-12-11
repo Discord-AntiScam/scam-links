@@ -702,6 +702,7 @@ csgo-battle.fun
 csgo-battle.ru
 csgo-checker.ru
 csgo-claim.com
+csgo-claims.com
 csgo-code.com
 csgo-cyber.link
 csgo-discord.xyz

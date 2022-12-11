@@ -160,6 +160,7 @@ application-hypesquad-events.com
 application-hypesquad.cf
 application-hypesquad.ga
 application-moderator-join.com
+application-now.gq
 application-testers-beta.com
 application-testers.com
 application-to-hypesquad.com

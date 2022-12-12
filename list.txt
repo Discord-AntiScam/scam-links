@@ -481,6 +481,7 @@ captcha.bot.slug-collab.xyz
 captcha.cab
 captcha.cam
 captcha.cool
+captcha.cryptorexnft.xyz
 captcha.direct
 captcha.directory
 captcha.fit

@@ -2440,6 +2440,7 @@ discordd.cf
 discordd.com
 discordd.gg
 discordd.gift
+discordd.pro
 discorddaapp.com
 discorddetails.com
 discorddev.com

@@ -2239,6 +2239,7 @@ discord.gq
 discord.gr.com
 discord.helpcenter.io
 discord.homes
+discord.hype-squad-events.repl.co
 discord.hypesquad-alist.repl.co
 discord.hypesquad-enus.repl.co
 discord.hypesquad-events-invite.repl.co

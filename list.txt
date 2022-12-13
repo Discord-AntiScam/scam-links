@@ -3655,6 +3655,7 @@ dlscord-apps.su
 dlscord-apps.xyz
 dlscord-beta.com
 dlscord-boost.fun
+dlscord-boosted.link
 dlscord-claim.com
 dlscord-club.com
 dlscord-club.xyz

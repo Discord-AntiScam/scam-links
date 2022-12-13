@@ -4177,6 +4177,7 @@ dyno-captchas.com
 dyno-dev.net
 dyno-entry.xyz
 dyno-tool.com
+dyno-tool.dev
 dyno-tool.info
 dyno-tools.app
 dyno-tools.org

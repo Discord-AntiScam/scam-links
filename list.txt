@@ -4651,6 +4651,7 @@ forms-to-hypesquad-teams.com
 forms-to-hypeteam.com
 forms-to-hypeteams.com
 forms-to-new-hypesquad-tester.com
+formulary-academy-testers.com
 formulary-app-join.com
 formulary-community-hypesquad.ml
 formulary-events-hypesquad.com

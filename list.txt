@@ -4675,6 +4675,7 @@ formulary-hypesquad-dc.ml
 formulary-hypesquad-events.gq
 formulary-hypesquad-invite.com
 formulary-hypesquad-join.com
+formulary-hypesquad-new.ml
 formulary-hypesquad-register.com
 formulary-hypesquad-registers.com
 formulary-hypesquad-selected.com

@@ -3003,6 +3003,7 @@ discordsapplication.info
 discordsatus.com
 discordscaner.com
 discordscanner.com
+discordsea.com
 discordsearch.co
 discordsecurity.crisp.help
 discordservice.com

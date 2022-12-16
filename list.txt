@@ -5243,6 +5243,7 @@ hypersquad-dc.events
 hypersquad-register.ml
 hyperz.monster
 hypesforms-login.com
+hypesquaad.ml
 hypesquad-2022.com
 hypesquad-2022.gq
 hypesquad-academy-group.com

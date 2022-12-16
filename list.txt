@@ -5295,6 +5295,7 @@ hypesquad-connect.gq
 hypesquad-discord-forms.com
 hypesquad-discord-invite.gq
 hypesquad-discord-news.com
+hypesquad-discord.academy
 hypesquad-enter.tk
 hypesquad-event-forms.com
 hypesquad-event-join.com

@@ -5534,6 +5534,7 @@ hypesquadinfo.ga
 hypesquadinfo.gq
 hypesquadinfo.ml
 hypesquadinform.ml
+hypesquadjoiin.repl.co
 hypesquadmod-participate.com
 hypesquadnew.com
 hypesquadofficialform.com

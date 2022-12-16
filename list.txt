@@ -5457,6 +5457,7 @@ hypesquad-resgister-support-dsc.gq
 hypesquad-resgistration-app.gq
 hypesquad-resgistration-events-support.cf
 hypesquad-resgistration-events-support.ga
+hypesquad-resgistration-events-support.gq
 hypesquad-review-form.com
 hypesquad-season-again.com
 hypesquad-selected.cf

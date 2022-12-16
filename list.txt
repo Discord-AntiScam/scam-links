@@ -5665,6 +5665,7 @@ invite-hypesquad-moderator-event.com
 invite-hypesquad-now.com
 invite-hypesquad-of-rescue.com
 invite-hypesquad-register.tk
+invite-hypesquad.gq
 invite-hypesquad.ml
 invite-hypesquad.tk
 invite-hypesquadevents.com

@@ -7403,6 +7403,7 @@ signup-hypesquad-apply.com
 signup-hypesquad-events-join.com
 signup-hypesquad-events.com
 signup-hypesquad-exams.com
+signup-hypesquad-form.com
 signup-hypesquad-now.com
 signup-hypesquad-official.com
 signup-hypesquad-register.com

@@ -5733,6 +5733,7 @@ join-event-hypesquad.cf
 join-event-hypesquad.com
 join-events.ga
 join-events.ml
+join-eventsmoderator.com
 join-for-hypesquad.com
 join-for-hypesquad.gq
 join-for-moderators-exam.com

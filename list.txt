@@ -7158,6 +7158,7 @@ rust-apply.com
 rust-award.com
 rust-charge.com
 rust-code.ru.com
+rust-crate.com
 rust-drop.ru.com
 rust-event.com
 rust-gitfs.ru

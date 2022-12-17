@@ -6988,6 +6988,7 @@ register-on-hypeteams.com
 register-on-official-hypeteams.com
 register-selected-hypesquad.com
 register-team-hypesquad.com
+register-testers-academy-moderators.com
 register-testfrom-hypesquad-events.com
 register-the-hypesquad.com
 register-thehypesquad-events.com

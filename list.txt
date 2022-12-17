@@ -7406,6 +7406,7 @@ signup-hypesquad-exams.com
 signup-hypesquad-form.com
 signup-hypesquad-now.com
 signup-hypesquad-official.com
+signup-hypesquad-program.com
 signup-hypesquad-register.com
 signup-hypesquad-returns.com
 signup-hypesquad-team.com

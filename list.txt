@@ -6960,6 +6960,7 @@ register-hypesquad-2022.gq
 register-hypesquad-academy.gq
 register-hypesquad-apply.com
 register-hypesquad-event.cf
+register-hypesquad-event.com
 register-hypesquad-new.com
 register-hypesquad-review.com
 register-hypesquad-teams.com

@@ -6990,6 +6990,7 @@ register-selected-hypesquad.com
 register-team-hypesquad.com
 register-testers-academy-moderators.com
 register-testfrom-hypesquad-events.com
+register-the-discord.com
 register-the-hypesquad.com
 register-thehypesquad-events.com
 register-thehypesquad-join.com

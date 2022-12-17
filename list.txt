@@ -5815,6 +5815,7 @@ join-new-hypesquads-moderator.com
 join-newhypesquad-events.com
 join-newhypesquad-program.com
 join-newhypesquad-programs.com
+join-newhypesquad.com
 join-now-hype-events.com
 join-now-hypesquad-program.com
 join-now-hypesquad.gq

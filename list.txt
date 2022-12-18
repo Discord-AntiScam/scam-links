@@ -5616,6 +5616,7 @@ hypeteams.com
 hypeteamsubscribe.gq
 hypixei.onrender.com
 hypixel.claims
+hypixel.onrender.com
 hypixelnet.store
 hypixelnetwork.store
 hypixelstore.site

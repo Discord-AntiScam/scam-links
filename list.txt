@@ -464,6 +464,7 @@ btcx2.pro
 bucks.as
 bugbounty-invite.dev
 bullcoin24.com
+bunfq.ru
 but-three.xyz
 buxquick.com
 bycdu.cam

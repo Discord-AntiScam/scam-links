@@ -11377,6 +11377,7 @@ steampowered.help
 steampowered.irl.com.pk
 steampowered.jcharante.com
 steampowered.org
+steampowered.services
 steampowered.tw
 steampowered.us
 steampowered.xyz

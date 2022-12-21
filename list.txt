@@ -7139,6 +7139,7 @@ roblox.com.ci
 roblox.com.cm
 roblox.com.ee
 roblox.com.ge
+roblox.com.gp
 roblox.com.gt
 roblox.com.jm
 roblox.com.kg

@@ -2251,7 +2251,6 @@ discord.cn.com
 discord.co.com
 discord.co.in
 discord.co.za
-discörd.com
 discord.com.pl
 discord.com.ru
 discord.com.tw
@@ -2374,7 +2373,6 @@ discordapp.co
 discordapp.co.uk
 discordapp.code
 discordapp.codes
-disçordapp.com
 discordapp.download
 discordapp.eu
 discordapp.gg
@@ -6128,7 +6126,6 @@ mekaversecollection.com
 mekaversenft.net
 microsup.net
 minadiscord.000webhostapp.com
-minecräft.com
 minero.cc
 miniurl.pw
 mintlebit.biz
@@ -7093,7 +7090,6 @@ rewshow.live
 rien.xyz
 rip-tide.ru
 ripetide.ru
-rìpple.com
 riptide-cs.ru
 riptide-gaming.ru
 riptide-operation.ru
@@ -7339,8 +7335,6 @@ safe-funds.site
 safeblox.org
 samsungnitro.xyz
 santa.bitxskins.com
-särahah.eu
-särahah.pl
 school-moderators.con
 school.moderatorexam.repl.co
 sci-league.ru
@@ -7442,7 +7436,6 @@ shockify.net
 shocks.ml
 shoppy.gg
 shopy-nitro.tk
-shört.co
 short.es
 shorte.st
 shrtz.me
@@ -7810,7 +7803,6 @@ splunk.monster
 sportcyberecl.online
 sportcyberecl.ru
 spotifay.cc
-spötify.com
 spottyfly.com
 squad-apply.com
 squad-beta.com
@@ -9309,7 +9301,6 @@ steamcommunity.cm
 steamcommunity.cn
 steamcommunity.co
 steamcommunity.co.ua
-steamcommunìty.com
 steamcommunity.com-id-k4tushatwitchbabydota.ru
 steamcommunity.com.ru
 steamcommunity.comlappl251490lrust.ru
@@ -14115,6 +14106,18 @@ xdiscord.com
 xesa-nitro.com
 xess-nitro.com
 xfxcheats.online
+xn--discrd-zxa.com
+xn--disordapp-s3a.com
+xn--minecrft-5za.com
+xn--rpple-tsa.com
+xn--srahah-bua.eu
+xn--srahah-bua.pl
+xn--shrt-6qa.co
+xn--sptify-xxa.com
+xn--steamcommunty-sib.com
+xn--yotu-1ra.be
+xn--yotbe-lvab.co
+xn--yotbe-lvab.com
 xponsor.com
 xpro.gift
 xpro.ws
@@ -14126,9 +14129,6 @@ yip.su
 yobit.net
 yournitro3.ink
 youshouldclick.us
-yoütu.be
-yoütübe.co
-yoütübe.com
 youtubeshort.watch
 youwere-applied.ga
 youwere-applied.gq

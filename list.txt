@@ -728,6 +728,7 @@ csgo-dym.ru
 csgo-esports-tournament.shop
 csgo-esports-tournaments.shop
 csgo-fast-cup.ru
+csgo-fast.ml
 csgo-freeskin.com
 csgo-freeskins.com
 csgo-fute.net.ru

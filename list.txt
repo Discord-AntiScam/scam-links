@@ -11634,6 +11634,7 @@ steamtrade-home.xyz
 steamtrade-store.xyz
 steamtrade-store1.xyz
 steamtradecommunity.fun
+steamtradecommunity.ru
 steamtradehome.xyz
 steamtradeoffeer.com
 steamtradeoffer.ml

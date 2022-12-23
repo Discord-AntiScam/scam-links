@@ -717,6 +717,7 @@ csgift.fun
 csgo-battle.fun
 csgo-battle.ru
 csgo-blasts.com
+csgo-case-battle.online
 csgo-cases.ml
 csgo-checker.ru
 csgo-claim.com

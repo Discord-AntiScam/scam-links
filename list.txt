@@ -7288,6 +7288,7 @@ rust-code.ru.com
 rust-crate.com
 rust-drop.ru.com
 rust-earn.com
+rust-earns.com
 rust-event.com
 rust-gitfs.ru
 rust-giveaway.com

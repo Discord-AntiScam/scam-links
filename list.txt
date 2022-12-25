@@ -13796,6 +13796,7 @@ test-hype.ml
 test-hypesquad-events-join.gq
 test-hypesquad.ga
 test-official-hypesquadevents.com
+test-on-hypeteams.com
 testbot2021.ru
 teste.hypesquad-invitation.repl.co
 testers-academy-moderation.com

@@ -4322,6 +4322,7 @@ dynos.ca
 dynos.cc
 dynos.gg
 dynos.info
+dynos.ink
 dynos.me
 dynos.one
 dynosbot.net

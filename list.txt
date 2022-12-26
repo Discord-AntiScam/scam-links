@@ -1749,6 +1749,7 @@ discord-com-free.online
 discord-com-free.ru
 discord-confirm.ml
 discord-contest.cf
+discord-contest.com
 discord-contests.cf
 discord-control.com
 discord-controls.com

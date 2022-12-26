@@ -6886,6 +6886,7 @@ pubg.network
 pubg.new-collects.xyz
 pubg00001101.asia
 pubg00001102.asia
+pubg1.asia
 pubg2021.cn
 pubg2022.net.ru
 pubg2022go.xyz

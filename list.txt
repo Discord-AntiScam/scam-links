@@ -4318,6 +4318,7 @@ dynoclick.gg
 dynodrag.xyz
 dynopremium.gg
 dynopremium.io
+dynos.app
 dynos.ca
 dynos.cc
 dynos.gg

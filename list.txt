@@ -7209,6 +7209,7 @@ roblox.com.sb
 roblox.com.sc
 roblox.com.se
 roblox.com.so
+roblox.com.tc
 roblox.com.tl
 roblox.com.ug
 roblox.com.uy

@@ -5222,6 +5222,7 @@ howls.monster
 hs-hypesquad.gq
 hsevents-badge.gq
 hshypesquadteam.gq
+http-roblox.com
 httpdlscordnitro.ru.com
 https-steamcommunity.com
 hubgifts-reg.ru

@@ -4336,6 +4336,7 @@ dynocheck.info
 dynocheck.xyz
 dynoclick.gg
 dynodrag.xyz
+dynopremium.app
 dynopremium.gg
 dynopremium.io
 dynos.app

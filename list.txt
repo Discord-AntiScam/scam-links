@@ -4347,6 +4347,7 @@ dynodrag.xyz
 dynopremium.app
 dynopremium.gg
 dynopremium.io
+dynopremiumverify.com
 dynos.app
 dynos.ca
 dynos.cc

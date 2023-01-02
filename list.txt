@@ -1200,8 +1200,6 @@ d1scord.xyz
 d1scordglft.xyz
 d1scrod-gift.com
 d1scrod.site
-dIscord-app.com
-dIscord.net
 dabaicai.com
 daddsda.xyz
 daily-news.com.ua
@@ -2159,6 +2157,7 @@ discord-app.club
 discord-app.co
 discord-app.co.uk
 discord-app.com
+dIscord-app.com
 discord-app.gift
 discord-app.gifts
 discord-app.info
@@ -3101,6 +3100,7 @@ discord.moderatoracademy.repl.co
 discord.moderators-event.repl.co
 discord.moscow
 discord.my
+dIscord.net
 discord.newacademy.repl.co
 discord.online
 discord.org
@@ -8918,6 +8918,7 @@ nitroegif.xyz
 nitroegift.ru
 nitroegift.xyz
 nitrofgift.xyz
+nitrofr.ml
 nitrofree.site
 nitrofreeegift.xyz
 nitrofreeget.space

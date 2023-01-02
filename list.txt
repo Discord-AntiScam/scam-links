@@ -2260,6 +2260,7 @@ discord-contest.com
 discord-contests.cf
 discord-control.com
 discord-controls.com
+discord-corp.com
 discord-cpp.com
 discord-creations.space
 discord-develop.com

@@ -1086,6 +1086,7 @@ csgo-steamgame.ru
 csgo-steamplay.ru
 csgo-store-steam.ru
 csgo-storesteam.ru
+csgo-take.com
 csgo-top.xyz
 csgo-twich.com
 csgo-wanmei1.ru

@@ -9792,6 +9792,7 @@ roblox.com.ng
 roblox.com.nl
 roblox.com.pr
 roblox.com.pt
+roblox.com.ro
 roblox.com.sb
 roblox.com.sc
 roblox.com.se

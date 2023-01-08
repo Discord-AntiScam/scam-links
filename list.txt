@@ -9939,6 +9939,7 @@ rust-awards.com
 rust-birthday.com
 rust-charge.com
 rust-charitable.com
+rust-cheer.com
 rust-claims.com
 rust-code.com
 rust-code.ru.com

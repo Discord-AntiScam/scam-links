@@ -5863,6 +5863,7 @@ esl2x.tech
 eslcsgo.com
 eslcsgo.net
 eslcsgo.org
+eslcsgo.pro
 eslcsgo.site
 eslgamescommunity.com
 eslgaming-play.com

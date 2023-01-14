@@ -9806,6 +9806,7 @@ roblox.co.ms
 roblox.co.nl
 roblox.com.ai
 roblox.com.bd
+roblox.com.bj
 roblox.com.bz
 roblox.com.ci
 roblox.com.cm

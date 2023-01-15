@@ -9984,6 +9984,7 @@ rust-drop.ru.com
 rust-earn.com
 rust-earns.com
 rust-event.com
+rust-events.com
 rust-facepunchs.com
 rust-get.com
 rust-gets.com

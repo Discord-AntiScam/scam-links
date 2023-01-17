@@ -1084,6 +1084,7 @@ csgo-official.com
 csgo-redeem.com
 csgo-reward.com
 csgo-rewards.com
+csgo-roll.fun
 csgo-run.info
 csgo-run.online
 csgo-run.site

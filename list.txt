@@ -12691,6 +12691,7 @@ steamcommunityprofile.online
 steamcommunityprofile.xyz
 steamcommunityprofiles.site
 steamcommunityprofiles.xyz
+steamcommunitypubg.asia
 steamcommunitypubg.cn
 steamcommunitypubg.com
 steamcommunitypubg1.asia

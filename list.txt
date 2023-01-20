@@ -4121,6 +4121,7 @@ discords.com
 discords.company
 discords.cool
 discords.dev
+discords.digital
 discords.gift
 discords.gifts
 discords.in

@@ -8508,6 +8508,7 @@ mods-academy.com
 mods-formulary.com
 modsacademy.com
 monitoring-servers-rust.pro
+monitoring-top-servers.pro
 monitoring-topserver.pro
 month-discord.ru
 monthnitro.ink

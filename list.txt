@@ -18182,6 +18182,7 @@ welcome-hypesquad-test.tk
 welcome-hypesquad.gq
 welcome-hypesquad.tk
 welcome-hypeteam.gq
+welcome-register-squad.ml
 welcome-subscribers-hypesquad.com
 welcome-to-hypesquad.tk
 welcomehypeteams.com

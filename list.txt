@@ -3154,6 +3154,7 @@ discord.newacademy.repl.co
 discord.online
 discord.org
 discord.org.ru
+discord.org.ua
 discord.photo
 discord.porn
 discord.pp.ru

@@ -6469,6 +6469,7 @@ frogs-jump.xyz
 from-puste.xyz
 fsport-csgo.com
 fsport-csgo.ru
+fsport-cup.ru
 fsportcsgo.space
 fsports-tournament.ru
 ft2025.top

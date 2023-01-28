@@ -18112,6 +18112,7 @@ twitch-starter.com
 twitch-usa.com
 twitch.facepunch-llc.com
 twitch.facepunchstudio.com
+twitch.gift
 twitch.rust-ltd.com
 twitchcsgo.cfd
 twitchcsgo.net

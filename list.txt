@@ -5688,6 +5688,7 @@ dynoapp.info
 dynoapp.io
 dynoapps.io
 dynoauth.app
+dynoauth.cc
 dynoauth.co
 dynoauth.gg
 dynoauth.net

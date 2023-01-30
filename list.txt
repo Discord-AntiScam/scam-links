@@ -10306,6 +10306,7 @@ shine.com.global.prod.fastly.net
 shockify.blog
 shockify.co
 shockify.net
+shockify.site
 shocks.ml
 shop.discordglft.org
 shoppingsurveysonline.com

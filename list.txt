@@ -10305,6 +10305,7 @@ shiba-airdrop.space
 shine.com.global.prod.fastly.net
 shockify.blog
 shockify.co
+shockify.eu
 shockify.net
 shockify.site
 shocks.ml

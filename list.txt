@@ -9997,6 +9997,7 @@ roblox.ink
 roblox.jpn.com
 roblox.link.club
 roblox.mk
+roblox.ng
 roblox.pm
 roblox.ru.com
 roblox.sbs

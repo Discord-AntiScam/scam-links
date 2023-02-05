@@ -18358,6 +18358,7 @@ tournaments-free.xyz
 tournaments.ga
 tournamentscsgo.ga
 tournamentscsgo.ru
+tournamentscsgo.site
 tournamentsgg.ru
 tournamentsgos.ru
 tournamentsnf.ru

@@ -18482,6 +18482,7 @@ twltchs-claim.com
 twltchs-earn.com
 twltchs-esports.com
 twltchs-gifts.com
+twltchs-prize.com
 twltchs-reward.com
 twltchs-rewards.com
 twltchs.gift

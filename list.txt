@@ -1121,6 +1121,7 @@ csgo.digital
 csgo.ghservers.cl
 csgo4cases.fun
 csgo4fun.fun
+csgoanalizator.ru
 csgobuff.ru
 csgobuff.trade
 csgocase-gg.com

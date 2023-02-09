@@ -695,6 +695,7 @@ boot-upcompletely-bestspeedyfile.best
 bot-captcha.com
 bot-developers.com
 bot-dyno.gg
+bot-guilding.co.uk
 bot-intents.dev
 botapp-discord.com
 botmee6.xyz

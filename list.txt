@@ -5696,6 +5696,7 @@ dyno-tool.dev
 dyno-tool.herokuapp.com
 dyno-tool.info
 dyno-tools.app
+dyno-tools.info
 dyno-tools.org
 dyno-tools.xyz
 dyno-verification.org

@@ -1089,6 +1089,7 @@ csgo-fast.ml
 csgo-freeskin.com
 csgo-freeskins.com
 csgo-fun.duckdns.org
+csgo-fun.giize.com
 csgo-fun.online
 csgo-fun.website
 csgo-fute.net.ru

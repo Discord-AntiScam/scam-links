@@ -10138,6 +10138,7 @@ roblox.ng
 roblox.pm
 roblox.ru.com
 roblox.sbs
+roblox.sh
 roblox.suarapmi.com
 roblox.sx
 roblox.uk.com

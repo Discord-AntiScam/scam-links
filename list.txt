@@ -10157,6 +10157,7 @@ roblox.com.tt
 roblox.com.ug
 roblox.com.uy
 roblox.com.vu
+roblox.com.zm
 roblox.de.com
 roblox.eus
 roblox.fm

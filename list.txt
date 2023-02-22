@@ -19114,6 +19114,7 @@ verifapp.us
 verification-account.tk
 verification-discord.cf
 verification-discord.com
+verification-microsoft.com
 verification.bot
 verifications-discord.com
 verified-formulary-to-moderator.com

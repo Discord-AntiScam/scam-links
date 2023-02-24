@@ -2481,6 +2481,7 @@ discord-gift-activate.ml
 discord-gift-free-nitro.ru
 discord-gift-free-nitro.tk
 discord-gift-nitro.site
+discord-gift.asia
 discord-gift.cc
 discord-gift.club
 discord-gift.co

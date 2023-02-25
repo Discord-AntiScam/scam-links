@@ -5767,6 +5767,7 @@ dyno.online
 dyno.pics
 dyno.rest
 dyno.site
+dyno.so
 dynoapp.info
 dynoapp.io
 dynoapps.io

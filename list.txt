@@ -15897,6 +15897,7 @@ steampowered.irl.com.pk
 steampowered.jcharante.com
 steampowered.org
 steampowered.services
+steampowered.software
 steampowered.tw
 steampowered.us
 steampowered.xyz

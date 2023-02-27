@@ -708,6 +708,7 @@ bot-dyno.gg
 bot-guilding.co.uk
 bot-intents.dev
 bot-join.info
+bot-mee6.cc
 botapp-discord.com
 botmee6.com
 botmee6.re

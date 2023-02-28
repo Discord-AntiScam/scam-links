@@ -11898,6 +11898,7 @@ steam-sourcecommunity.xyz
 steam-sourcecommunity1.xyz
 steam-sourcegame.xyz
 steam-storehistory.xyz
+steam-storepowered.online
 steam-storestrade.xyz
 steam-storetrade.xyz
 steam-storetrade1.xyz

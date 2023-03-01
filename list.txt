@@ -19212,6 +19212,7 @@ twitchs-esl.com
 twitchs-esports.com
 twitchs-gaming.com
 twitchs-general.com
+twitchs-live.com
 twitchs-loot.com
 twitchs-play.com
 twitchs-stream.com

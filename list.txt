@@ -19385,6 +19385,7 @@ vulcan.pm
 vulcan.tel
 vulcan.wf
 vulcanauth.eu
+vulcanbots.net
 vulcancaptcha.xyz
 vulcauth.com
 vulcauth.xyz

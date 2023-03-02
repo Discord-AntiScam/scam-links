@@ -6195,6 +6195,7 @@ faze-giveaway.online
 faze-giveaway.ru
 faze-giveaway.site
 faze-twitch.com
+faze-well-wins.fun
 faze0.com
 faze1.xyz
 faze11.com

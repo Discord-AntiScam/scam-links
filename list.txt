@@ -19198,6 +19198,7 @@ twitch-drops.online
 twitch-esport.gifts
 twitch-facepunch.com
 twitch-facepunchs.com
+twitch-game.com
 twitch-gaming.com
 twitch-gift.com
 twitch-gifties.com

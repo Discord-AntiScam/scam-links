@@ -12766,6 +12766,7 @@ steamcommuniitu.site
 steamcommuniity.com.ru
 steamcommuniity.net.ru
 steamcommuniity.org.ru
+steamcommuniity.pro
 steamcommuniity.ru
 steamcommuniity.site
 steamcommuniity.xyz

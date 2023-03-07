@@ -503,6 +503,7 @@ auth-discord.com
 authenticate.hypesquading.repl.co
 authnet.cf
 authvulcan.xyz
+authy-vulcan.com
 autumnbot.cloud
 avatars-roblox.com
 avatizer-nft.xyz

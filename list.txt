@@ -10224,6 +10224,7 @@ roblox.com.et
 roblox.com.ge
 roblox.com.gp
 roblox.com.gt
+roblox.com.gy
 roblox.com.hn
 roblox.com.ht
 roblox.com.jm

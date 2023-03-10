@@ -19651,6 +19651,7 @@ vulcan.wf
 vulcanauth.eu
 vulcanauth.wtf
 vulcanauthentication.com
+vulcanauthentication.net
 vulcanbots.net
 vulcancaptcha.xyz
 vulcauth.com

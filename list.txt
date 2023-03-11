@@ -760,6 +760,7 @@ captcha-bot.org
 captcha-bot.xyz
 captcha-discord.com
 captcha-info.com
+captcha-server.click
 captcha-smart.top
 captcha-whitelist.art
 captcha.bet

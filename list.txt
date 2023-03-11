@@ -718,6 +718,7 @@ bot-guilding.co.uk
 bot-intents.dev
 bot-join.info
 bot-mee6.cc
+bot-vulcan.xyz
 botapp-discord.com
 botmee6.com
 botmee6.re

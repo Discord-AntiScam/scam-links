@@ -465,6 +465,7 @@ apps-iroblox.com
 apps-nitro.com
 apps-nitro.ru
 appvulcan.com
+appvulcan.net
 appvulcan.xyz
 aquare-payment.site
 arcades.tech

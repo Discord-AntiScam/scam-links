@@ -5739,6 +5739,7 @@ dsoptions.com
 dsprotect.com
 dsratings.com
 dsrecord.com
+dsrecs.com
 dsscordgft.xyz
 dsscrrdgift.xyz
 dsstat.com

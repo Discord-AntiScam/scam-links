@@ -7805,6 +7805,7 @@ hypixelnet.store
 hypixelnetwork.store
 hypixelreps.com
 hypixelrewards.com
+hypixelrewards.net
 hypixelskyblock.net
 hypixelstore.org
 hypixelstore.site

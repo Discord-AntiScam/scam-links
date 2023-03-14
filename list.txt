@@ -279,6 +279,7 @@ app-nitro.ru
 app-roblox.info
 app-roblox.net
 app-syncvulcan.xyz
+app-vulcan.com
 appeal-hypesquad.com
 appealsteamcommunity.help
 appgifts-z.ru

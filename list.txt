@@ -19770,6 +19770,7 @@ vulcanauth.eu
 vulcanauth.wtf
 vulcanauthentication.com
 vulcanauthentication.net
+vulcanbot.app
 vulcanbots.net
 vulcancaptcha.xyz
 vulcauth.com

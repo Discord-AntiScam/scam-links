@@ -7805,6 +7805,7 @@ hypixel.claims
 hypixel.net.tr
 hypixel.onrender.com
 hypixel.run
+hypixelgifting.net
 hypixelnet.store
 hypixelnetwork.store
 hypixelreps.com

@@ -19806,6 +19806,7 @@ vulcan.pm
 vulcan.tel
 vulcan.wf
 vulcanapp.net
+vulcanapp.org
 vulcanapp.wtf
 vulcanapps.net
 vulcanauth.eu

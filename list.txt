@@ -5800,6 +5800,7 @@ dyno-captcha.xyz
 dyno-captchas.com
 dyno-dev.net
 dyno-entry.xyz
+dyno-premium.xyz
 dyno-tool.com
 dyno-tool.dev
 dyno-tool.herokuapp.com

@@ -7811,6 +7811,7 @@ hypixei.com
 hypixei.onrender.com
 hypixel-claim.shop
 hypixel-gift-claim.com
+hypixel-giftclaim.com
 hypixel-gifted.com
 hypixel-rank.net
 hypixel-reward.com

@@ -11295,6 +11295,7 @@ spacesnakes.net
 spacex-new2023.net
 spam-detection.click
 spamaltprotection.click
+spambotdetection.click
 spambotprevention.click
 spamdetector.click
 spamremoval.click

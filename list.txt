@@ -725,6 +725,7 @@ bot-developers.com
 bot-dyno.gg
 bot-guild.click
 bot-guilding.co.uk
+bot-guilds.info
 bot-intents.dev
 bot-join.info
 bot-mee6.cc

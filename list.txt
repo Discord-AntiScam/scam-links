@@ -1158,6 +1158,7 @@ csgo-login.ru
 csgo-loot.com
 csgo-lute.net.ru
 csgo-market.ru.com
+csgo-money.net
 csgo-nitro.site
 csgo-nitro.xyz
 csgo-official.com

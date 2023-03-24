@@ -10651,6 +10651,7 @@ rust.facepunchs.com
 rust.gift
 rust10.com
 rust2.pro
+rust4.pro
 rust5.pro
 rust5.ru
 rust7.com

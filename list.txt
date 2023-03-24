@@ -6098,6 +6098,7 @@ esl-csgo.com
 esl-csgo.net
 esl-csgo.pro
 esl-gamingcs.com
+esl-gives.com
 esl-proleague.net
 esl2x.tech
 eslcsgo.com

@@ -1203,6 +1203,7 @@ csgo.ghservers.cl
 csgo2beta.com
 csgo2beta.pro
 csgo2beta.pw
+csgo2beta.site
 csgo2betatest.ru
 csgo2claim.com
 csgo2drop.com

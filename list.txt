@@ -1118,6 +1118,7 @@ csdrop.live
 csfun.fun
 csgif.org.ru
 csgift.fun
+csgo-2.pro
 csgo-access.com
 csgo-am.xyz
 csgo-award.com

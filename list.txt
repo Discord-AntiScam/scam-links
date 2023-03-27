@@ -611,6 +611,7 @@ beta-invite.app
 beta-invite.com
 beta-news.org
 beta-roblox.com
+beta-source2.site
 beta-teams-developers.ga
 beta-user.com
 beta-users.app

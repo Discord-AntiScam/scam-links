@@ -1232,6 +1232,7 @@ csgo2code.com
 csgo2drop.com
 csgo2prime.pro
 csgo2source.com
+csgo2steam.com
 csgo2test.com
 csgo3.com
 csgo4cases.fun

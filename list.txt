@@ -11468,6 +11468,7 @@ source2csgo.pro
 source2csgo.store
 source2free.ru
 source2skins.ru
+source2test.com
 source2test.pro
 sourcecsgo.com
 sourcecsgo.pro

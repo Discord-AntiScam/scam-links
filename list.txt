@@ -11489,6 +11489,7 @@ soulda16.xyz
 source-2-cs.ru
 source-2.ink
 source-2.online
+source-beta.com
 source-csgo2.com
 source-csgo2beta.ru
 source02.ru

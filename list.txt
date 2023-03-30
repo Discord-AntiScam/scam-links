@@ -624,6 +624,7 @@ beta-user.com
 beta-users.app
 beta.discorder.app
 beta.spacewarrior.repl.co
+beta23-access.com
 betadiscord-new.com
 betadiscord-news.com
 betadiscord-news.uk

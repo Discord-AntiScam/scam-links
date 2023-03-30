@@ -1237,6 +1237,7 @@ csgo2betatest.ru
 csgo2claim.com
 csgo2code.com
 csgo2drop.com
+csgo2limited.com
 csgo2prime.pro
 csgo2source.com
 csgo2steam.com

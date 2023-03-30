@@ -746,6 +746,7 @@ bot-guilds.info
 bot-intents.dev
 bot-join.info
 bot-mee6.cc
+bot-member.info
 bot-vulcan.xyz
 botapp-discord.com
 botdetect.click

@@ -900,6 +900,7 @@ cgdc.ct8.pl
 challengermode.best
 changetournament.ru
 chat-gpt22.com
+chat-gpt23.com
 cheapcinema.club
 checkingnotifications.org
 checkup08.biz

@@ -794,6 +794,7 @@ captcha-bot.cc
 captcha-bot.click
 captcha-bot.com
 captcha-bot.gg
+captcha-bot.info
 captcha-bot.live
 captcha-bot.name
 captcha-bot.org

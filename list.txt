@@ -796,6 +796,7 @@ captcha-bot.com
 captcha-bot.gg
 captcha-bot.info
 captcha-bot.live
+captcha-bot.management
 captcha-bot.name
 captcha-bot.org
 captcha-bot.pro

@@ -807,6 +807,7 @@ captcha-discord.com
 captcha-guild.click
 captcha-guild.xyz
 captcha-info.com
+captcha-join.com
 captcha-server.click
 captcha-smart.top
 captcha-whitelist.art

@@ -838,6 +838,7 @@ captcha.tips
 captcha.wiki
 captcha.ws
 captchabot-bear.com
+captchabot-verlfy.com
 captchabot.ai
 captchabot.ca
 captchabot.cam

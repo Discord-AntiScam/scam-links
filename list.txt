@@ -11565,6 +11565,7 @@ source2skins.pro
 source2skins.ru
 source2test.com
 source2test.pro
+source2test.ru
 source2test.site
 sourcecsgo.com
 sourcecsgo.pro

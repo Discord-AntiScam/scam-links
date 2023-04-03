@@ -8002,6 +8002,7 @@ hypixel.run
 hypixelconnect.onrender.com
 hypixelgifting.net
 hypixelgifts.site
+hypixell.us
 hypixelnet.store
 hypixelnetwork.store
 hypixelpromotions.xyz

@@ -10718,6 +10718,7 @@ roexporter.site
 rofblox.com
 rogue-legacy.com
 rogueleader.org
+roguide.xyz
 rogwarfare.com
 rogxarena.com
 rohelper.online

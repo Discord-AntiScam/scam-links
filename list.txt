@@ -9823,6 +9823,7 @@ openacase.xyz
 openai-event.net
 openai.capital
 openai.gifts
+openai.parts
 openai23.live
 openaibtc.org
 openbetasource2.com

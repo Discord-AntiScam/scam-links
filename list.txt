@@ -11573,6 +11573,7 @@ source-csgo2beta.ru
 source-limited.com
 source-limited.online
 source-playcsgo.pro
+source-test.com
 source02.ru
 source2-access.com
 source2-cs.org

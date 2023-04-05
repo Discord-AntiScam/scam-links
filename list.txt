@@ -802,6 +802,7 @@ captcha-bot.cc
 captcha-bot.click
 captcha-bot.com
 captcha-bot.gg
+captcha-bot.in
 captcha-bot.info
 captcha-bot.live
 captcha-bot.management

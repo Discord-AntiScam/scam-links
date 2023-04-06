@@ -847,6 +847,7 @@ captcha.ws
 captchabot-bear.com
 captchabot-verlfy.com
 captchabot.ai
+captchabot.app
 captchabot.ca
 captchabot.cam
 captchabot.click

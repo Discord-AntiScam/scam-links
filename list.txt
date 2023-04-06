@@ -1281,6 +1281,7 @@ csgo2claim.com
 csgo2code.com
 csgo2drop.com
 csgo2limited.com
+csgo2limitedacces.pro
 csgo2prime.pro
 csgo2source.com
 csgo2sources.com

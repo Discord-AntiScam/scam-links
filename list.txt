@@ -1107,6 +1107,7 @@ counter-strikesource2.pro
 counter-strlke.site
 counterbase.ru.com
 counterstrik.xyz
+counterstrike-2.xyz
 counterstrike2.xyz
 counterstrike2source.com
 counterstrikebeta.com

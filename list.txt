@@ -20675,6 +20675,7 @@ vulcan-bot.net
 vulcan-oauth2.com
 vulcan.bz
 vulcan.gs
+vulcan.ph
 vulcan.pm
 vulcan.tel
 vulcan.to

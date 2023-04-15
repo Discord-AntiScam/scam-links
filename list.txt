@@ -1272,6 +1272,7 @@ csgo-run.info
 csgo-run.online
 csgo-run.site
 csgo-runner.ru
+csgo-skins.fun
 csgo-source2gain.pro
 csgo-st.ru
 csgo-steam-game.ru

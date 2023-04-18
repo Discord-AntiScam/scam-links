@@ -21028,6 +21028,7 @@ wick-verification.site
 wickbot.fun
 wickbot.online
 wickbot.space
+wickbotverify.fun
 wickedleaguegg.com
 widesdays.com
 wignewsee.club

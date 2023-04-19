@@ -6027,6 +6027,7 @@ dyno.pics
 dyno.rest
 dyno.site
 dyno.so
+dyno.uno
 dynoapp.info
 dynoapp.io
 dynoapps.io

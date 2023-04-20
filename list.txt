@@ -8888,6 +8888,7 @@ mee6bot.me
 mee6bot.pm
 mee6bot.re
 mee6bot.website
+mee6captcha.site
 mee6certify.com
 mee6certify.xyz
 mee6discord.com

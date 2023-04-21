@@ -11770,6 +11770,7 @@ source2test.com
 source2test.pro
 source2test.ru
 source2test.site
+sourcebeta.pro
 sourcecsgo.com
 sourcecsgo.pro
 sourcecsgo2.pro

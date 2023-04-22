@@ -8102,6 +8102,7 @@ hypixel-gift-claim.com
 hypixel-giftclaim.com
 hypixel-gifted.com
 hypixel-rank.net
+hypixel-redeem.shop
 hypixel-redeem.us
 hypixel-reward.com
 hypixel-store-ranks.info

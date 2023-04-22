@@ -21119,6 +21119,7 @@ wick-bot.xyz
 wick-verification.site
 wickbot.fun
 wickbot.online
+wickbot.pro
 wickbot.space
 wickbotverify.fun
 wickedleaguegg.com

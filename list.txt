@@ -8772,6 +8772,7 @@ lunar.gift
 lunarclient-cosmetics.shop
 lunarclient-gift.com
 lunarclient-gifts.com
+lunarclient-promotion.com
 lunarclient-store.shop
 lunarclient.co
 lunarclient.de

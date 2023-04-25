@@ -643,6 +643,7 @@ beta.discorder.app
 beta.spacewarrior.repl.co
 beta23-access.com
 betacsgo.me
+betacsgo.online
 betacsgo2.me
 betadiscord-new.com
 betadiscord-news.com

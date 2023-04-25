@@ -1452,6 +1452,7 @@ csgotrade.skin
 csgowans.ru
 csgowfire-skins.ru
 csgoworkshops.com
+csgoxfloat.com
 csgun.fun
 csmagrkego.ru
 csmartscsgo.ru
@@ -12299,7 +12300,6 @@ staemconnmunityw.online
 staemconnmunityw.ru
 staemconnmunlty.ru
 staemconnmunty.com.ru
-staemconnnunlty.com
 staemconnumity.ru
 staemconnunity.com
 staemconnunity.net.ru

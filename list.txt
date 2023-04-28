@@ -11297,6 +11297,7 @@ server-captcha.digital
 server-captcha.link
 server-crew3.xyz
 server-hypesquad.com
+server-joining.click
 server-raid-protection.click
 server-squad.com
 service-indemonstrably-spadger-renting.xyz

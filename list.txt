@@ -6108,6 +6108,7 @@ dynobot.ai
 dynobot.com
 dynobot.dev
 dynobot.eu
+dynobot.fo
 dynobot.fun
 dynobot.gg
 dynobot.io

@@ -10729,6 +10729,7 @@ returns-moderators.com
 revercecaptcha.com
 reward-csgo.com
 reward-hypixel.net
+reward-twltch.com
 rewardbuddy.me
 rewards-arbitrum.com
 rewards-hypixel-claim.com

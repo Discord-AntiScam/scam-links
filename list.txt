@@ -1300,7 +1300,6 @@ csgo-giving.com
 csgo-holidays.com
 csgo-hub.com
 csgo-keys.com
-csgo-limited.com
 csgo-login.ru
 csgo-loot.com
 csgo-lute.net.ru
@@ -19484,6 +19483,7 @@ steemconmunity-ruprofiles76561198074966612.ru
 steemconmunity.com
 steemconmunity.ru
 steemconmunlty.ru
+steemconmynity.ru
 steemconnmunily.ru
 steemconnmunity.com
 steemconnmunlty.ru

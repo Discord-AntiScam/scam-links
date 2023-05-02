@@ -1300,6 +1300,7 @@ csgo-giving.com
 csgo-holidays.com
 csgo-hub.com
 csgo-keys.com
+csgo-limited.com
 csgo-login.ru
 csgo-loot.com
 csgo-lute.net.ru

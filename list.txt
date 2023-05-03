@@ -21228,6 +21228,7 @@ twitchs.us
 twitchsrust.com
 twltch-access.com
 twltch-activate.com
+twltch-activates.com
 twltch-award.com
 twltch-awards.com
 twltch-broadcast.com

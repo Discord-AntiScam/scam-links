@@ -1356,6 +1356,7 @@ csgo2-new.com
 csgo2-sources.com
 csgo2-sources.pro
 csgo2-sours.com
+csgo2.asia
 csgo2.codes
 csgo2.info
 csgo2.me

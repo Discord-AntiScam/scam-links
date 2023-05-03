@@ -14097,7 +14097,6 @@ steamcommunittg.ru.com
 steamcommunitti.ru
 steamcommunittiiy.ru
 steamcommunittiy.ru
-steamcommunittliy.ru
 steamcommunittrade.xyz
 steamcommunittru.co
 steamcommunittu.com
@@ -21182,6 +21181,7 @@ twitchs-broadcast.com
 twitchs-camp.com
 twitchs-cast.com
 twitchs-code.com
+twitchs-connect.com
 twitchs-cs.com
 twitchs-earn.com
 twitchs-earns.com

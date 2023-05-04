@@ -8993,6 +8993,7 @@ mee6.io
 mee6.ist
 mee6.it
 mee6.la
+mee6.lat
 mee6.li
 mee6.link
 mee6.lol

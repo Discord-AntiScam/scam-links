@@ -8784,6 +8784,7 @@ log-in-official-moderator.com
 login-academy-discord.com
 login-academy-formulary.com
 login-bughunting.com
+login-csgo2giveaway.site
 login-discod.fun
 login-discord-moderator.com
 login-discordmoderator.com

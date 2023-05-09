@@ -6138,6 +6138,7 @@ dynoapp.io
 dynoapps.io
 dynoauth.app
 dynoauth.cc
+dynoauth.click
 dynoauth.co
 dynoauth.gg
 dynoauth.net

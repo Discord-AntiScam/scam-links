@@ -6580,6 +6580,7 @@ faze-giveaway.online
 faze-giveaway.ru
 faze-giveaway.site
 faze-me.ru
+faze-skin.ru
 faze-slot.ru
 faze-top.ru
 faze-twitch.com

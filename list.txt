@@ -505,6 +505,7 @@ apps-iroblox.com
 apps-nitro.com
 apps-nitro.ru
 apps-twitch.com
+apps-twitch.tv
 appvulcan.com
 appvulcan.net
 appvulcan.xyz

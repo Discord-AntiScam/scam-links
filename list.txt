@@ -8264,6 +8264,7 @@ hypixelrewards.com
 hypixelrewards.net
 hypixelskyblock.net
 hypixelstore.org
+hypixelstore.shop
 hypixelstore.site
 hypixelstore.xyz
 hypixelverification.ru

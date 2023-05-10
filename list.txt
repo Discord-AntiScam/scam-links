@@ -1355,6 +1355,7 @@ csgo-sub.com
 csgo-take.com
 csgo-top.xyz
 csgo-twich.com
+csgo-twitch.app
 csgo-twitch.live
 csgo-wanmei1.ru
 csgo-win.ru

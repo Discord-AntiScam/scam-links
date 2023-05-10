@@ -504,6 +504,7 @@ apps-discord.org
 apps-iroblox.com
 apps-nitro.com
 apps-nitro.ru
+apps-twitch.co
 apps-twitch.com
 apps-twitch.tv
 appvulcan.com

@@ -1401,6 +1401,7 @@ csgo2sources.pro
 csgo2steam.com
 csgo2test.com
 csgo2worid.com
+csgo2world.com
 csgo2you.com
 csgo3.com
 csgo333.top

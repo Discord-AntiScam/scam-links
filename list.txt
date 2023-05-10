@@ -9005,6 +9005,7 @@ mee6-bots.xyz
 mee6-captcha.xyz
 mee6-login.rf.gd
 mee6-vc4h.onrender.com
+mee6-veri.com
 mee6-verification-k1ur.onrender.com
 mee6-verification.onrender.com
 mee6-verification.xyz

@@ -320,6 +320,7 @@ app-roblox.net
 app-syncvulcan.xyz
 app-twitch.com
 app-twitchs.com
+app-twltch.com
 app-vulcan.com
 appdiscord.net
 appeal-hypesquad.com

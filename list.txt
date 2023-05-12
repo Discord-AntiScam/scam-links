@@ -556,6 +556,7 @@ auth-vulcan.xyz
 authenticate-vulcan.xyz
 authenticate.hypesquading.repl.co
 authmee6.com
+authmee6.net
 authmee6.xyz
 authnet.cf
 authvulcan.xyz

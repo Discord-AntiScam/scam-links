@@ -21473,6 +21473,7 @@ twitch-details.com
 twitch-discord.com
 twitch-drops.online
 twitch-esport.gifts
+twitch-esport.tv
 twitch-facepunch.com
 twitch-facepunchs.com
 twitch-game.com

@@ -1334,6 +1334,7 @@ csgo-keys.com
 csgo-login.ru
 csgo-loot.com
 csgo-lute.net.ru
+csgo-major.com
 csgo-market.ru.com
 csgo-money.net
 csgo-nitro.site

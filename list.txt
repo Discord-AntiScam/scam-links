@@ -1318,6 +1318,7 @@ csgo-esports-tournaments.shop
 csgo-events.com
 csgo-fast-cup.ru
 csgo-fast.ml
+csgo-finals.com
 csgo-floats.com
 csgo-freeskin.com
 csgo-freeskins.com

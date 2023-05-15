@@ -1217,6 +1217,7 @@ cryptoreserve.space
 cryptosea.live
 cryptoslate.blog
 cryptoslate.tech
+cryptoslate.vercel.app
 cryptossmoney.com
 crytposlate.com
 cs-2go.com

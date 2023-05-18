@@ -21693,6 +21693,7 @@ twltch-live.com
 twltch-loot.com
 twltch-ltem.com
 twltch-major.com
+twltch-majors.com
 twltch-play.com
 twltch-prime.com
 twltch-prize.com

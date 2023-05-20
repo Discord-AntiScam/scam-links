@@ -6167,6 +6167,7 @@ dyno.autos
 dyno.boats
 dyno.cam
 dyno.cfd
+dyno.com.co
 dyno.fm
 dyno.fo
 dyno.gl

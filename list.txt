@@ -6177,6 +6177,7 @@ dyno-bot.app
 dyno-bot.co
 dyno-bot.io
 dyno-bot.org
+dyno-bot.tech
 dyno-bot.us
 dyno-bots.com
 dyno-captcha.org

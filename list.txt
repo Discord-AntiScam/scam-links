@@ -6247,6 +6247,7 @@ dynobot.fo
 dynobot.fun
 dynobot.gg
 dynobot.io
+dynobot.lc
 dynobot.life
 dynobot.link
 dynobot.lol

@@ -6456,6 +6456,7 @@ enlytrade.com
 enter-discord-events.com
 enter-discord-moderator.com
 enter-from-hypesquad-forms.com
+enter-guild.click
 enter-hype-squad.com
 enter-hypeevents.com
 enter-hypesquad-2022.gq

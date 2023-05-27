@@ -1274,6 +1274,7 @@ cs2-twitch.com
 cs2-twitchs.com
 cs2-twltch.com
 cs23drop.com
+cs2access.pro
 cs2beta-access.pro
 cs2beta.cc
 cs2beta.ru

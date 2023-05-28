@@ -8385,6 +8385,7 @@ hypixelnet.store
 hypixelnetwork.store
 hypixelpromotions.ru
 hypixelpromotions.xyz
+hypixelqolhub.xyz
 hypixelredeem.store
 hypixelreps.com
 hypixelreward.com

@@ -891,6 +891,7 @@ captcha.bot.clicklisted.is
 captcha.bot.slug-collab.xyz
 captcha.cab
 captcha.cam
+captcha.cl
 captcha.cool
 captcha.cryptorexnft.xyz
 captcha.direct

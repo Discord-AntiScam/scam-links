@@ -821,6 +821,7 @@ bot-server.cc
 bot-servers.cc
 bot-servers.info
 bot-vulcan.xyz
+bot.ngo
 botapp-discord.com
 botdetect.click
 botmee6.com

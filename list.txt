@@ -923,6 +923,7 @@ captcha.pics
 captcha.pm
 captcha.rs
 captcha.sale
+captcha.tf
 captcha.tips
 captcha.wiki
 captcha.ws

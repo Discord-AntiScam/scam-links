@@ -22074,6 +22074,7 @@ twitchs-loot.com
 twitchs-major.com
 twitchs-majors.com
 twitchs-play.com
+twitchs-premier.com
 twitchs-stream.com
 twitchs.app
 twitchs.co

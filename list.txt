@@ -7679,6 +7679,7 @@ guidewhales.click
 guild-captcha.lol
 guild-gate.click
 guild-system-bot.com
+guild-system-verif.app
 guildassist.re
 guildassistant.click
 guildautomation.com

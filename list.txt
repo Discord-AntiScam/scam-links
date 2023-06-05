@@ -6287,6 +6287,7 @@ dynoauth.click
 dynoauth.co
 dynoauth.gg
 dynoauth.net
+dynoauth.rf.gd
 dynobot.ai
 dynobot.click
 dynobot.com

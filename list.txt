@@ -11756,6 +11756,7 @@ serialkey89.com
 server-captcha.digital
 server-captcha.link
 server-crew3.xyz
+server-guild-verif.com
 server-hypesquad.com
 server-joining.click
 server-raid-protection.click

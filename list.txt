@@ -958,6 +958,7 @@ captchas.blog
 captchas.cc
 captchas.cloud
 captchas.gg
+captchas.me
 captchas.systems
 captchas.tech
 captchas24.xyz

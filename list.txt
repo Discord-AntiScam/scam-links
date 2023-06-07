@@ -691,6 +691,7 @@ betasource2.press
 betatest-cs2.online
 betatest-cs2.ru
 betatest-cs2.xyz
+betblitz-csgo.com
 betcsgodrop.space
 betsity.xyz
 betterxbit.com

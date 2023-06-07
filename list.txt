@@ -22501,6 +22501,7 @@ wick-bot.fun
 wick-bot.online
 wick-bot.site
 wick-bot.xyz
+wick-bots.space
 wick-verification.site
 wickauth.com
 wickbot.fun

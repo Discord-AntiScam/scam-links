@@ -7373,6 +7373,7 @@ get-users-beta.ml
 get19dragos.club
 getcach.monster
 getcryptotab.com
+getcs2.pro
 getcsgoskins.site
 getdiscordnitro.com
 getdouble.net

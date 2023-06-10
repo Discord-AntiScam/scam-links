@@ -13434,6 +13434,7 @@ steam-service.ru
 steam-servicedeals.xyz
 steam-servicedeals1.xyz
 steam-site.ru
+steam-skins.online
 steam-sourcecommunity.xyz
 steam-sourcecommunity1.xyz
 steam-sourcegame.xyz

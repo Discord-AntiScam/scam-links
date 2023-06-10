@@ -967,6 +967,7 @@ captchas.gg
 captchas.me
 captchas.systems
 captchas.tech
+captchas.top
 captchas24.xyz
 captchasdyno.xyz
 captdc.net

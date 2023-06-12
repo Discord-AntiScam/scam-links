@@ -1344,6 +1344,7 @@ cs2-global.com
 cs2-globals.com
 cs2-limited-test.peacockguesthousenepal.com
 cs2-rewards.com
+cs2-steam.com
 cs2-test.net.ru
 cs2-twitch.com
 cs2-twitchs.com

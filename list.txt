@@ -3711,6 +3711,7 @@ discord.join-hypesquad.repl.co
 discord.kaiograbber.repl.co
 discord.kb.help
 discord.kbots.tech
+discord.ladesk.com
 discord.limited
 discord.link
 discord.ltd

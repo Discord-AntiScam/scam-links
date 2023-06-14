@@ -1405,6 +1405,7 @@ csgo-battle.fun
 csgo-battle.ru
 csgo-bestmarket.ru
 csgo-beta.com
+csgo-beta.world
 csgo-beta23.net
 csgo-blasts.com
 csgo-case-battle.online

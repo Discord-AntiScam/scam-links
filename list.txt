@@ -6424,6 +6424,7 @@ dynosbots.cc
 dynosbots.co
 dynosbots.us
 dynoser.com
+dynoserver.cc
 dynoserver.io
 dynosgg.xyz
 dynosite.io

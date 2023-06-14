@@ -1346,6 +1346,7 @@ cs2-freeacces.pro
 cs2-global.com
 cs2-globals.com
 cs2-limited-test.peacockguesthousenepal.com
+cs2-reward.com
 cs2-rewards.com
 cs2-steam.com
 cs2-test.net.ru

@@ -8521,6 +8521,7 @@ hypixel-store-ranks.info
 hypixel-store.com
 hypixel-verify-i50f.onrender.com
 hypixel.claims
+hypixel.com.ru
 hypixel.design
 hypixel.net.tr
 hypixel.onrender.com

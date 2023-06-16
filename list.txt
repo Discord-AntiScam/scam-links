@@ -22415,6 +22415,7 @@ twitchs-major.com
 twitchs-majors.com
 twitchs-play.com
 twitchs-premier.com
+twitchs-promo.com
 twitchs-stream.com
 twitchs.app
 twitchs.co

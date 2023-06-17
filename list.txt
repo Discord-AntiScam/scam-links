@@ -12384,6 +12384,7 @@ slearncommunity.store
 slearncommunityi.ru
 slearncornmunity.ru
 sledge-hammer.app
+sledge-hammer.org
 sledgehammerauth.app
 sledgehammerauth.com
 sledgehammerbots.com

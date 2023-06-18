@@ -935,6 +935,7 @@ captcha.li
 captcha.life
 captcha.lv
 captcha.monster
+captcha.news
 captcha.page
 captcha.pics
 captcha.pm

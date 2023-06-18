@@ -908,6 +908,7 @@ captcha-server.click
 captcha-smart.top
 captcha-whitelist.art
 captcha.autos
+captcha.best
 captcha.bet
 captcha.blue
 captcha.bot-guild.cc

@@ -975,6 +975,7 @@ captchads.online
 captcharesolving-universe.com
 captchas-bot.info
 captchas.blog
+captchas.boo
 captchas.cc
 captchas.cloud
 captchas.gg

@@ -6384,6 +6384,7 @@ dynobot.eu
 dynobot.fo
 dynobot.fun
 dynobot.gg
+dynobot.host
 dynobot.io
 dynobot.lc
 dynobot.life

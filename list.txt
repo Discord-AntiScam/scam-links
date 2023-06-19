@@ -910,6 +910,7 @@ captcha-whitelist.art
 captcha.autos
 captcha.best
 captcha.bet
+captcha.black
 captcha.blue
 captcha.bot-guild.cc
 captcha.bot.clicklisted.is

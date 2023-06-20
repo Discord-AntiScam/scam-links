@@ -1417,6 +1417,7 @@ csgo-2.pro
 csgo-2.top
 csgo-2.xyz
 csgo-2beta.com
+csgo-2beta.world
 csgo-2source.pro
 csgo-access.com
 csgo-am.xyz

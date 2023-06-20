@@ -1563,6 +1563,7 @@ csgo2access.com
 csgo2beta-test.com
 csgo2beta.com
 csgo2beta.fun
+csgo2beta.info
 csgo2beta.pro
 csgo2beta.pw
 csgo2beta.site

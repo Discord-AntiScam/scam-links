@@ -938,6 +938,7 @@ captcha.hk
 captcha.in.net
 captcha.is
 captcha.ist
+captcha.la
 captcha.legal
 captcha.li
 captcha.life

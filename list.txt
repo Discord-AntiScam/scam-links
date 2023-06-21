@@ -1450,6 +1450,7 @@ csgo-claim.com
 csgo-claims.com
 csgo-code.com
 csgo-collect.com
+csgo-competition.fr
 csgo-connect.com
 csgo-connects.com
 csgo-covers.online

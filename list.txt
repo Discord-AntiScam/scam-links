@@ -12480,6 +12480,7 @@ sledge-hammer.app
 sledge-hammer.org
 sledgehammerauth.app
 sledgehammerauth.com
+sledgehammerauths.com
 sledgehammerbackend.herokuapp.com
 sledgehammerbots.com
 sledgehammercaptcha.cc

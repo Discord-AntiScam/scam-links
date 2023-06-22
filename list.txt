@@ -12477,6 +12477,7 @@ sledge-hammer.app
 sledge-hammer.org
 sledgehammerauth.app
 sledgehammerauth.com
+sledgehammerbackend.herokuapp.com
 sledgehammerbots.com
 sledgehammercaptcha.cc
 sledgehammercaptcha.co

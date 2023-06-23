@@ -8853,6 +8853,7 @@ join-application-hypesquadevents.ga
 join-apply-hypesquadevents-club.ga
 join-applyhypesquad.ga
 join-bedevelopers.com
+join-captcha-bot.com
 join-coinswap.com
 join-community-hypesquad.ml
 join-connect-hypesquad-events.com

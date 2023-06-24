@@ -1564,6 +1564,7 @@ csgo10.com
 csgo2-acess.com
 csgo2-beta.com
 csgo2-claim.com
+csgo2-global.com
 csgo2-limited.site
 csgo2-new.com
 csgo2-rewards.com

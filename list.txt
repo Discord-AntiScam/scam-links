@@ -6594,6 +6594,7 @@ electum.online
 elevisions.biz
 elon-ai.net
 elon-bit.com
+elon-event.us
 elon-gpt4.net
 elon-musk.group
 elon-musk.stream

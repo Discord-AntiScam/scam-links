@@ -11530,6 +11530,7 @@ roblox.de.com
 roblox.eu.com
 roblox.eus
 roblox.fm
+roblox.fo
 roblox.free.robux.page
 roblox.gal
 roblox.gr.com

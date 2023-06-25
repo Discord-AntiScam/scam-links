@@ -6666,6 +6666,7 @@ enter-hypesquadevent.com
 enter-moderator-academy.com
 enter-on-hypesquadevents.com
 enter-on-hypeteam.com
+enter-server-captcha.com
 enter-the-hypesquad.com
 enter-to-hypesquad-forms.com
 enter-to-hypesquad-formulary.com

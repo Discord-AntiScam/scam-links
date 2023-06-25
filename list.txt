@@ -692,6 +692,7 @@ beta.discorder.app
 beta.spacewarrior.repl.co
 beta23-access.com
 betacs2.me
+betacs2.pro
 betacsgo.me
 betacsgo.online
 betacsgo.ru

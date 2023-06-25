@@ -9168,6 +9168,7 @@ layerzero.host
 layerzero.meta-claimings.website
 layerzero.reward-meta.live
 layerzero.ventures
+layerzero.web3-request.com
 layerzeroairdrop.xyz
 layerzerodrop.info
 layerzerolabs.eu

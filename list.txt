@@ -11855,6 +11855,7 @@ rust4.shop
 rust5.pro
 rust5.ru
 rust7.com
+rustafied.net
 rustafiedservers.com
 rustbiggestgive.shop
 rustcase.site

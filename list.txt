@@ -299,6 +299,7 @@ api-beta.com
 api-hypesquad-team.com
 api-hypesquad.com
 api-roblox.com
+api.discord.cool-js.cloud
 apilond.com
 apis-roblox.com
 apisweb3oe.gq

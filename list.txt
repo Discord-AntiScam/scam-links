@@ -9195,6 +9195,7 @@ lastlegends.es
 layerzero-launch.com
 layerzero-reg.com
 layerzero.claimings-connect.xyz
+layerzero.events
 layerzero.express
 layerzero.host
 layerzero.meta-claimings.website

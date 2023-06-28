@@ -4785,6 +4785,7 @@ discords-go.com
 discords-hypes.com
 discords-hypesquad.com
 discords-hypesquads.com
+discords-java.onrender.com
 discords-moderation.com
 discords-moderator.com
 discords-month-gift.xyz

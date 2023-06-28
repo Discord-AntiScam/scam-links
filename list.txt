@@ -952,6 +952,7 @@ captcha.fit
 captcha.fm
 captcha.gdn
 captcha.group
+captcha.guilds.id
 captcha.hk
 captcha.id
 captcha.in.net

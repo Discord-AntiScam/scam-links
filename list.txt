@@ -696,6 +696,7 @@ beta-hypesquad.com
 beta-invite.app
 beta-invite.com
 beta-news.org
+beta-profile.app
 beta-roblox.com
 beta-source2.site
 beta-teams-developers.ga

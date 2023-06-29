@@ -1427,6 +1427,7 @@ cs23drop.com
 cs2access.pro
 cs2beta-access.pro
 cs2beta.cc
+cs2beta.pl
 cs2beta.ru
 cs2beta.su
 cs2beta.us

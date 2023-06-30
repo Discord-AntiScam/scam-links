@@ -11082,6 +11082,7 @@ psydex.events
 psydex.gl
 psyop.red
 psyopclaims.space
+psyopreward.xyz
 ptbdiscord.com
 ptchabot.com
 ptookaih.net

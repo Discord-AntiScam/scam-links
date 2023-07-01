@@ -9266,6 +9266,7 @@ layerzero.reward-meta.live
 layerzero.ventures
 layerzero.web3-request.com
 layerzeroairdrop.xyz
+layerzerochains.com
 layerzeroclaims.net
 layerzerodrop.info
 layerzerolabs.eu

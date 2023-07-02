@@ -873,6 +873,7 @@ bot-servers.info
 bot-vulcan.xyz
 bot.ngo
 botapp-discord.com
+botcaptcha.com
 botdetect.click
 botdynofication.fun
 botmee6.com

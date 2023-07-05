@@ -9297,6 +9297,7 @@ layerzero-s.com
 layerzero.claimings-connect.xyz
 layerzero.events
 layerzero.express
+layerzero.gives
 layerzero.global
 layerzero.host
 layerzero.meta-claimings.website

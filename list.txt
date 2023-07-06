@@ -1624,6 +1624,7 @@ csgo.digital
 csgo.ghservers.cl
 csgo10.com
 csgo2-acess.com
+csgo2-alpha.com
 csgo2-beta.com
 csgo2-beta.pro
 csgo2-beta.website

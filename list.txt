@@ -12890,6 +12890,7 @@ source2.asia
 source2.pro
 source2.pw
 source2.su
+source2.team
 source2023.com
 source2023.org
 source2access.com

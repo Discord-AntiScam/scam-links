@@ -6525,6 +6525,7 @@ dynobot.link
 dynobot.lol
 dynobot.me
 dynobot.one
+dynobot.pl
 dynobot.re
 dynobot.sbs
 dynobot.tech

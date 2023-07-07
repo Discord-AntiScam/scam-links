@@ -944,6 +944,7 @@ captcha-bot.org
 captcha-bot.pro
 captcha-bot.xyz
 captcha-discord.com
+captcha-dyno.com
 captcha-guild.click
 captcha-guild.xyz
 captcha-info.com

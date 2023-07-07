@@ -12077,6 +12077,7 @@ rust4.shop
 rust5.pro
 rust5.ru
 rust7.com
+rustafied-servers.com
 rustafied.net
 rustafiedservers.com
 rustbiggestgive.shop

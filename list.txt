@@ -12927,6 +12927,7 @@ source2.pro
 source2.pw
 source2.su
 source2.team
+source2.tech
 source2.top
 source2.work
 source2023.com

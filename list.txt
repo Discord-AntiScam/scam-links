@@ -872,6 +872,7 @@ bot-guilds.info
 bot-intents.dev
 bot-join.info
 bot-mee6.cc
+bot-mee6.com
 bot-member.info
 bot-server.cc
 bot-servers.cc

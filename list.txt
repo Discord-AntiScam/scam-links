@@ -12316,6 +12316,7 @@ server-raid-protection.click
 server-squad.com
 server-system.app
 servers-captcha.site
+servers-captchas.site
 service-indemonstrably-spadger-renting.xyz
 services.runescape.rs-tt.xyz
 services.runescape.rs-ui.xyz

@@ -3906,6 +3906,7 @@ discord.stateauthor.repl.co
 discord.study
 discord.team
 discord.tools
+discord.trades.company
 discord.trengohelp.com
 discord.trial-hypesquad-team.com
 discord.tw

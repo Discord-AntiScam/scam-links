@@ -1592,6 +1592,7 @@ csgo-major.org
 csgo-majors.com
 csgo-market.ru.com
 csgo-money.net
+csgo-monneitrade.top
 csgo-nitro.site
 csgo-nitro.xyz
 csgo-official.com

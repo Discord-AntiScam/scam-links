@@ -23678,6 +23678,7 @@ wick-bots.space
 wick-verification.site
 wickauth.com
 wickbot.fun
+wickbot.ink
 wickbot.online
 wickbot.pro
 wickbot.pw

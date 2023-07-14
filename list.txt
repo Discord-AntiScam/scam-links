@@ -1045,6 +1045,7 @@ captchads.net
 captchads.online
 captcharesolving-universe.com
 captchas-bot.info
+captchas-servers.site
 captchas.blog
 captchas.boo
 captchas.cc

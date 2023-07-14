@@ -23742,6 +23742,7 @@ wickbots.site
 wickbots.space
 wickbotverify.fun
 wickedleaguegg.com
+wickk.site
 wicks-bot.com
 wicks-bot.ru
 wicks-bot.site

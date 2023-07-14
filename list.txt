@@ -23392,6 +23392,7 @@ twltchs-earns.com
 twltchs-esl.com
 twltchs-esports.com
 twltchs-facepunchs.com
+twltchs-facetpaunchs.com
 twltchs-gift.com
 twltchs-gifts.com
 twltchs-loot.com

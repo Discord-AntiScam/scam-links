@@ -8813,6 +8813,7 @@ hypixel.design
 hypixel.net.tr
 hypixel.onrender.com
 hypixel.run
+hypixelclaimpromotion.net
 hypixelconnect.onrender.com
 hypixelgifting.net
 hypixelgifts.site

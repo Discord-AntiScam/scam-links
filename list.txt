@@ -1447,6 +1447,7 @@ cs-riptide.xyz
 cs-skin.com
 cs-skins.link
 cs-source2.fun
+cs-source2.gifts
 cs-source2.net
 cs-twitchs.com
 cs-twltch.com

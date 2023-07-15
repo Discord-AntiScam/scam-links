@@ -5,6 +5,9 @@
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 
+> **Warning**<br>
+> The `urls.json` file is currently being discontinued in favor of the `list.json` file and will be deleted after **August 1st**. Please update this path in your application.
+
 This is a comprehensive repository with over **24000** curated phishing and scam domains that appear on the Discord platform. 
 
 We provide lists of malicious domains to server owners to safeguard their members from malicious links and researchers that investigate these threats.
@@ -20,7 +23,7 @@ https://reddit.com/r/theDSPproject
 ## Accessing the database
 You can access the raw files to programmatically fetch and parse our lists.
 - `TXT`: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/list.txt
-- `JSON`: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/urls.json
+- `JSON`: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/list.json
 
 ## Contributing
 Contributions to the Discord Scam Prevention Project are highly appreciated. If you encounter any Discord-related phishing website that is not yet included to the database, please either open an issue as shown below or join our Discord server and navigate to the `#report` channel. We may decline your submission if it's out of scope or we can't confirm the validity of the claim.

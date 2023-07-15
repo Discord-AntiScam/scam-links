@@ -6594,6 +6594,7 @@ dynocaptcha.me
 dynocaptcha.net
 dynocaptcha.org
 dynocaptcha.xyz
+dynocaptchabot.com
 dynocaptchas.com
 dynocaptchas.dev
 dynocaptchas.net

@@ -8830,6 +8830,7 @@ hypixelrewards.com
 hypixelrewards.net
 hypixelsecurity.net
 hypixelskyblock.net
+hypixelstore-ml7s.onrender.com
 hypixelstore.org
 hypixelstore.shop
 hypixelstore.site

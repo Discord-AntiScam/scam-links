@@ -1654,6 +1654,7 @@ csgo-top.xyz
 csgo-twich.com
 csgo-twitch.app
 csgo-twitch.live
+csgo-twitch.space
 csgo-twitch.tv
 csgo-twltch.tv
 csgo-wanmei1.ru

@@ -23396,6 +23396,7 @@ twitchs.app
 twitchs.co
 twitchs.gifts
 twitchs.in
+twitchs.net
 twitchs.us
 twitchsrust.com
 twitter-events.repl.co

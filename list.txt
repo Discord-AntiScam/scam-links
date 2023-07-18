@@ -1460,6 +1460,7 @@ cs-twitchs.com
 cs-twltch.com
 cs-twltchs.com
 cs-winner.com
+cs2-acces.com
 cs2-beta-access.pro
 cs2-beta.pl
 cs2-beta.world

@@ -23803,6 +23803,7 @@ web3-collection.com
 web3-confirming.com
 web3-crew3.xyz
 web3-fast.xyz
+web3-mint.live
 web3-nft.app
 web3-reconnect.com
 web3-register.foundation

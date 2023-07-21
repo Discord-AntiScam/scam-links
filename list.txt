@@ -1453,6 +1453,7 @@ cs-incursed.xyz
 cs-joom.net.ru
 cs-legend.xyz
 cs-loot.org.ru
+cs-major.net
 cs-moneiy.us
 cs-moneyy.ru
 cs-navigiveaway.ru

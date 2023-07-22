@@ -1727,6 +1727,7 @@ csgo2limited.com
 csgo2limitedacces.pro
 csgo2prime.pro
 csgo2reward.com
+csgo2source-invite.com
 csgo2source.com
 csgo2sourcebeta.com
 csgo2sources.com

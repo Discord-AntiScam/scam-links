@@ -1731,6 +1731,7 @@ csgo2reward.com
 csgo2source-invite.com
 csgo2source.com
 csgo2sourcebeta.com
+csgo2sourceinvite.com
 csgo2sources.com
 csgo2sources.pro
 csgo2sourcsec.com

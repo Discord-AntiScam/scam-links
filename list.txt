@@ -1685,6 +1685,7 @@ csgo-win.ru
 csgo-wishes.com
 csgo.digital
 csgo.ghservers.cl
+csgo.press
 csgo10.com
 csgo2-acess.com
 csgo2-alpha.com

@@ -23440,6 +23440,7 @@ twitch-give.com
 twitch-giveaways.com
 twitch-gives.com
 twitch-global.com
+twitch-info.com
 twitch-katowice.com
 twitch-link.com
 twitch-major.com

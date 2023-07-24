@@ -19386,6 +19386,7 @@ steamstore.map2.ssl.hwcdn.net
 steamstore.site
 steamstorehistory.xyz
 steamstorepowered.com
+steamstorepowered.ru
 steamstores-history.xyz
 steamstores-trade.xyz
 steamstorestrade.xyz

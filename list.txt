@@ -1702,6 +1702,7 @@ csgo2-claim.com
 csgo2-global.com
 csgo2-invite.com
 csgo2-invite.net
+csgo2-invite.vip
 csgo2-invites.com
 csgo2-invites.net
 csgo2-limited.site

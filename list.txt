@@ -24020,6 +24020,7 @@ web3-mint.live
 web3-nft.app
 web3-reconnect.com
 web3-register.foundation
+web3-worldcoin.com
 web3claimers.com
 web3claims.com
 web3mint.cc

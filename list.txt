@@ -8145,6 +8145,7 @@ guide-hypesquadevents.gq
 guidemaple.click
 guidewhales.click
 guild-captcha.lol
+guild-captcha.site
 guild-captchas.site
 guild-gate.click
 guild-system-bot.com

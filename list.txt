@@ -12032,6 +12032,7 @@ roblox.br.com
 roblox.bz
 roblox.ceo
 roblox.ci
+roblox.cn.com
 roblox.co.ms
 roblox.co.mu
 roblox.co.nl

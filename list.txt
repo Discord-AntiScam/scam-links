@@ -23707,6 +23707,7 @@ twitchs.gifts
 twitchs.in
 twitchs.net
 twitchs.us
+twitchsmajor.com
 twitchsrust.com
 twitchss-gaming.com
 twitchworlds.net

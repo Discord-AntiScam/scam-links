@@ -1770,6 +1770,7 @@ csgo2sources.pro
 csgo2sourcesinvite.com
 csgo2sourcsec.com
 csgo2sourcses.com
+csgo2sourse-beta.com
 csgo2soursebeta.com
 csgo2steam.com
 csgo2test.com

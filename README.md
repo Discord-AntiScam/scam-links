@@ -5,9 +5,6 @@
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 
-> **Warning**<br>
-> The `urls.json` file is currently being discontinued in favor of the `list.json` file and will be deleted after **August 1st**. Please update this path in your application.
-
 This is a comprehensive repository with over **24000** curated phishing and scam domains that appear on the Discord platform. 
 
 We provide lists of malicious domains to server owners to safeguard their members from malicious links and researchers that investigate these threats.

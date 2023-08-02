@@ -1508,6 +1508,7 @@ cs2-events.com
 cs2-freeacces.pro
 cs2-global.com
 cs2-globals.com
+cs2-info.com
 cs2-invite.world
 cs2-invites.vip
 cs2-limited-test.peacockguesthousenepal.com

@@ -1738,6 +1738,7 @@ csgo2-sources.pro
 csgo2-sourcsec.com
 csgo2-sourcses.com
 csgo2-sours.com
+csgo2-valve.com
 csgo2-valve.site
 csgo2.asia
 csgo2.codes

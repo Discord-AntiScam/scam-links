@@ -1,5 +1,5 @@
 # ⛔ The DSP Project - Scam Links
-![URLs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FDiscord-AntiScam%2Fscam-links%2Fraw%2Fmain%2Furls.json&query=length&color=4169e1&style=for-the-badge&label=URLs)
+![URLs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDiscord-AntiScam%2Fscam-links%2Fmain%2Flist.json&query=length&color=4169e1&style=for-the-badge&label=URLs)
 ![Last Commit](https://img.shields.io/github/last-commit/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)

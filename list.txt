@@ -7927,6 +7927,7 @@ gift-g2.online
 gift-g2.ru
 gift-hypixel-claim.com
 gift-hypixel.shop
+gift-hypixel.site
 gift-hypixel.store
 gift-lunarclient.com
 gift-money.com

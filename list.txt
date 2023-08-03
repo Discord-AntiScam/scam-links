@@ -7157,6 +7157,7 @@ fast.discord-hypesquad-verify.repl.co
 fastclick.com
 fastcup-cs.ru
 fastcup-play.ru
+fastcupscsgo.ru
 fastdrop.win
 fastexe.com
 fastpanther.space

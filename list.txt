@@ -1422,6 +1422,7 @@ counterstrike-2.pro
 counterstrike-2.xyz
 counterstrike-2beta.com
 counterstrike2-beta.site
+counterstrike2-test.com
 counterstrike2.xyz
 counterstrike2source.com
 counterstrikebeta.com

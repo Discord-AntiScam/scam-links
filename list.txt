@@ -1029,6 +1029,7 @@ captcha.guilds.id
 captcha.hk
 captcha.id
 captcha.in.net
+captcha.ink
 captcha.is
 captcha.ist
 captcha.la

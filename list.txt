@@ -23503,6 +23503,7 @@ test-official-hypesquadevents.com
 test-on-hypeteams.com
 testbot2021.ru
 testconnectadmin.pro
+testcounterstrike2.com
 testcsgo2.com
 teste-academy-moderator.com
 teste.hypesquad-invitation.repl.co

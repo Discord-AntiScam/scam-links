@@ -8990,6 +8990,7 @@ hypixel-verify-i50f.onrender.com
 hypixel.claims
 hypixel.com.ru
 hypixel.design
+hypixel.me
 hypixel.net.tr
 hypixel.onrender.com
 hypixel.run

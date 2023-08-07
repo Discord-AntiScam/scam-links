@@ -7851,6 +7851,7 @@ getcs2.pro
 getcsgoskins.site
 getdiscordnitro.com
 getdouble.net
+getdoublex2.com
 getfreediscordnitro.ml
 getgftsten.com
 gethypesquad.com

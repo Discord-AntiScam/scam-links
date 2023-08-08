@@ -910,6 +910,7 @@ bot-developers.com
 bot-dyno.gg
 bot-guild.cc
 bot-guild.click
+bot-guild.site
 bot-guilding.co.uk
 bot-guilds.info
 bot-intents.dev

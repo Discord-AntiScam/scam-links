@@ -1092,6 +1092,7 @@ captchas.cc
 captchas.cloud
 captchas.events
 captchas.gg
+captchas.info
 captchas.me
 captchas.ng
 captchas.systems

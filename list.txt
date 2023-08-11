@@ -1576,7 +1576,6 @@ cs2invite.ru
 cs2key.pro
 cs2limit.com
 cs2limited.pro
-cs2new-test.com
 cs2prime.pro
 cs2reward.com
 cs2sour.com
@@ -23600,6 +23599,7 @@ testers-application.com
 testers-connect-academy.com
 testers-connect-hype-new.com
 testers-connect-moderator-academy.com
+testing-cs2.com
 testing-discord.com
 testingsomething.crisp.help
 testmoderators.com

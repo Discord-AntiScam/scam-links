@@ -1523,6 +1523,7 @@ cs2-beta-access.pro
 cs2-beta.pl
 cs2-beta.world
 cs2-betatesting.com
+cs2-cn.com
 cs2-events.com
 cs2-freeacces.pro
 cs2-global.com

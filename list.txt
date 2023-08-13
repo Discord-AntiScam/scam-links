@@ -354,6 +354,7 @@ app-hypesquad.com
 app-hypesquad.online
 app-hypesquadevents.com
 app-jdl.ru
+app-ldsigin.com
 app-lido.live
 app-moderation-join.com
 app-moderator.com

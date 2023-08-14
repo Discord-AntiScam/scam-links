@@ -1589,6 +1589,7 @@ cs2go-source.com
 cs2go.pro
 cs2inv.pro
 cs2invite.ru
+cs2join.com
 cs2key.pro
 cs2limit.com
 cs2limited.pro

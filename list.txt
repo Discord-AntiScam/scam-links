@@ -12595,6 +12595,7 @@ rustservertop.site
 rustup.ru
 rustupon.online
 rustupon.ru
+rustwin.fun
 rustx.pro
 rustx.shop
 rusty-golden.com

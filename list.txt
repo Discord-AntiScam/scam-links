@@ -9063,6 +9063,7 @@ hypixel.run
 hypixelclaim.shop
 hypixelclaimpromotion.net
 hypixelconnect.onrender.com
+hypixelgift.site
 hypixelgifting.net
 hypixelgifts.site
 hypixelgifts.xyz

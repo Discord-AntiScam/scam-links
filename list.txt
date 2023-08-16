@@ -328,6 +328,7 @@ apecoin.mov
 apecoin.tf
 apecoindao.fans
 apecoindao.gl
+apecoins-fi.com
 apedrop.app
 api-beta.com
 api-hypesquad-team.com

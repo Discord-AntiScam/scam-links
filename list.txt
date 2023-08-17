@@ -1202,6 +1202,7 @@ claim-hypixel.gift
 claim-hypixel.shop
 claim-hypixels.store
 claim-layerzero.net
+claim-manta.network
 claim-polyhedra.net
 claim-your-nitro.com
 claim.discordchristmas.com

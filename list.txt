@@ -1254,6 +1254,7 @@ club-squad-now.ml
 clubboost-nitro.shop
 clubdlsscord-app.club
 clubs-moderators.com
+cn-counterstrike.com
 cn-counterstrike2.com
 cngcpy.com
 co.ms

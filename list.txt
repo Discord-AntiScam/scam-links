@@ -330,6 +330,7 @@ apecoindao.fans
 apecoindao.gl
 apecoins-fi.com
 apedrop.app
+apetreasury.com
 api-beta.com
 api-hypesquad-team.com
 api-hypesquad.com

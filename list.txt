@@ -9097,6 +9097,7 @@ hypixelnetwork.store
 hypixelpromotions.ru
 hypixelpromotions.xyz
 hypixelqolhub.xyz
+hypixelredeem.site
 hypixelredeem.store
 hypixelreps.com
 hypixelreward.com

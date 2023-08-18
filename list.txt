@@ -6740,6 +6740,7 @@ dynoauth.gg
 dynoauth.me
 dynoauth.net
 dynoauth.rf.gd
+dynoauthentication.com
 dynobot.ai
 dynobot.click
 dynobot.com

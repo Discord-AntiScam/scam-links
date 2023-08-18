@@ -24412,6 +24412,7 @@ vulcanauthentication.xyz
 vulcanbot.app
 vulcanbots.net
 vulcancaptcha.xyz
+vulcancaptchabot.com
 vulcancaptchabots.com
 vulcauth.com
 vulcauth.xyz

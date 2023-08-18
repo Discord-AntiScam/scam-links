@@ -1043,6 +1043,7 @@ captcha.direct
 captcha.directory
 captcha.fit
 captcha.fm
+captcha.foo
 captcha.gdn
 captcha.group
 captcha.guilds.id

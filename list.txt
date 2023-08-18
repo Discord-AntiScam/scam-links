@@ -8613,6 +8613,7 @@ hypesquad-event-forms.com
 hypesquad-event-join.com
 hypesquad-event-new.com
 hypesquad-event-official.com
+hypesquad-event.com
 hypesquad-event.ga
 hypesquad-event.info
 hypesquad-eventjoin.com

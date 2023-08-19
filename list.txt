@@ -1411,6 +1411,7 @@ connect-to-new-hypesquad-exam.com
 connect-twitch.com
 connect-twltch.com
 connect-vulcan.xyz
+connect-web3.pages.dev
 connect.coinswap-join.com
 connect.collab.ms
 connected-hypesquad-events.tk

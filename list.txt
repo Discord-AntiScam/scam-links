@@ -24435,6 +24435,7 @@ vulcanbots.net
 vulcancaptcha.xyz
 vulcancaptchabot.com
 vulcancaptchabots.com
+vulcanverifybot.com
 vulcauth.com
 vulcauth.xyz
 vulcauths.xyz

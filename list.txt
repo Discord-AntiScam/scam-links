@@ -1101,6 +1101,7 @@ captchads.app
 captchads.co
 captchads.net
 captchads.online
+captchalogin.com
 captcharesolving-universe.com
 captchas-bot.info
 captchas-servers.site

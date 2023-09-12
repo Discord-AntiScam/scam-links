@@ -377,6 +377,7 @@ app-twltch.com
 app-vulcan.com
 app.lensl.xyz
 appdiscord.net
+appdrop.gg
 appeal-hypesquad.com
 appealsteamcommunity.help
 appgifts-z.ru

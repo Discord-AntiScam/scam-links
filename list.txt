@@ -1717,6 +1717,7 @@ csgo-finals.com
 csgo-floats.com
 csgo-freeskin.com
 csgo-freeskins.com
+csgo-fsport.ru
 csgo-fun.duckdns.org
 csgo-fun.giize.com
 csgo-fun.online

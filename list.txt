@@ -6709,6 +6709,7 @@ dyno-captcha.xyz
 dyno-captchas.com
 dyno-dev.net
 dyno-entry.xyz
+dyno-gate.com
 dyno-gg.link
 dyno-premium.xyz
 dyno-server.com

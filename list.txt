@@ -1085,6 +1085,7 @@ captcha.works
 captcha.ws
 captcha19.xyz
 captchabot-bear.com
+captchabot-guild.com
 captchabot-verlfy.com
 captchabot.ai
 captchabot.app

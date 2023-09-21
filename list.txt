@@ -24193,6 +24193,7 @@ twitchs-cast.com
 twitchs-code.com
 twitchs-connect.com
 twitchs-cs.com
+twitchs-cs2.tv
 twitchs-earn.com
 twitchs-earns.com
 twitchs-esl.com

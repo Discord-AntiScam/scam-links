@@ -6811,6 +6811,7 @@ dynobot.sbs
 dynobot.tech
 dynobot.tel
 dynobot.to
+dynobot.tools
 dynobot.wiki
 dynobot.zip
 dynobots.app

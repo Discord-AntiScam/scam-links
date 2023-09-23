@@ -1589,6 +1589,7 @@ cs2-betatesting.com
 cs2-cn.com
 cs2-events.com
 cs2-freeacces.pro
+cs2-gift.com
 cs2-global.com
 cs2-globals.com
 cs2-info.com

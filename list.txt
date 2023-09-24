@@ -12717,7 +12717,6 @@ rustgifltwitclh.skin
 rustgifltwitclw.com
 rustgifltwltchs.com
 rustgifltwltchs.skin
-rustgift.fun
 rustgift.ru
 rustgifts.pp.ua
 rustgiveaway.online
@@ -21955,6 +21954,7 @@ stecmcommunity.online
 stecmcommunity.ru
 stecmcommunnity.ru
 stecmcomuniity.ru
+stecmconmmunity.ru
 stecmcornmunity.ru
 stecmcowmunitiy.ru
 stecmmcommunity.ru

@@ -568,6 +568,7 @@ approved-events.ga
 apps-discord.com
 apps-discord.org
 apps-iroblox.com
+apps-mee6.com
 apps-nitro.com
 apps-nitro.ru
 apps-twitch.co

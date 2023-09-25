@@ -24662,6 +24662,7 @@ wagnex.com
 wakulandcaptcha.xyz
 walkers-crypto.xyz
 wallconet.onrender.com
+wallconnet.onrender.com
 wallet-connect-edu.pages.dev
 wallet-steam.ml
 walletconnectdh.cf

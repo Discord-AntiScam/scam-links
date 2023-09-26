@@ -1047,6 +1047,7 @@ captcha-join.com
 captcha-login.id
 captcha-server.click
 captcha-smart.top
+captcha-veri.com
 captcha-whitelist.art
 captcha.autos
 captcha.best

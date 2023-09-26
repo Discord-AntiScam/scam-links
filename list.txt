@@ -961,6 +961,7 @@ bot-member.info
 bot-server.cc
 bot-servers.cc
 bot-servers.info
+bot-valorant.com
 bot-vulcan.xyz
 bot.ngo
 botapp-discord.com

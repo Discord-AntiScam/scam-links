@@ -1357,6 +1357,7 @@ collab-antibot.github.io
 collab-confirms.github.io
 collab-discord.github.io
 collab-land.co
+collab-sync.land
 collab.ac
 collab.claims
 collab.gs

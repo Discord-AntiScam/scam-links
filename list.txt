@@ -1102,6 +1102,7 @@ captcha.sale
 captcha.skin
 captcha.tf
 captcha.tips
+captcha.tools
 captcha.wiki
 captcha.works
 captcha.ws

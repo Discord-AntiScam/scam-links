@@ -24363,6 +24363,7 @@ twitchs.gifts
 twitchs.in
 twitchs.net
 twitchs.us
+twitchskins.ru
 twitchsmajor.com
 twitchsrust.com
 twitchss-gaming.com

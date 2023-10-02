@@ -1635,6 +1635,7 @@ cs2-steam.com
 cs2-test.com
 cs2-test.net.ru
 cs2-twitch.com
+cs2-twitch.pro
 cs2-twitchs.com
 cs2-twltch.com
 cs2-twltch.tv

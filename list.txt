@@ -1366,6 +1366,7 @@ collab-confirms.github.io
 collab-discord.github.io
 collab-land.co
 collab-sync.land
+collab-verify.land
 collab.ac
 collab.claims
 collab.gs

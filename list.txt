@@ -12783,6 +12783,7 @@ rust.wf
 rust.yt
 rust10.com
 rust2.pro
+rust23.ru
 rust4.pro
 rust4.shop
 rust5.pro

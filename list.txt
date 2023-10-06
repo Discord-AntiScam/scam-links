@@ -24738,6 +24738,7 @@ verify-vulcan.xyz
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
+verifycaptcha.xyz
 verifydiscord-whop.com
 verifydyno.xyz
 verifyhypixel.net

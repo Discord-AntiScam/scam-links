@@ -24540,6 +24540,7 @@ twltch-iem.com
 twltch-live.com
 twltch-loot.com
 twltch-ltem.com
+twltch-main.com
 twltch-major.com
 twltch-majors.com
 twltch-play.com

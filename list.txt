@@ -349,7 +349,6 @@ api-roblox.com
 api.discord.cool-js.cloud
 api25-collab.land
 api28-collab.land
-api64-collab.land
 apilond.com
 apis-roblox.com
 apisweb3oe.gq
@@ -24720,6 +24719,7 @@ valorant-arc.lol
 valorant-blade.com
 valorant-bundle.lol
 valorant-champions.com
+valorant-champions.fun
 valorant-champions23.com
 valorant-cool.com
 valorant-creative.com

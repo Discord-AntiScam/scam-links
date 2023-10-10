@@ -1651,6 +1651,7 @@ cs2-loot.pro
 cs2-nfts.com
 cs2-nftz.com
 cs2-play-now-beta.fun
+cs2-play.com
 cs2-reward.com
 cs2-rewards.com
 cs2-skin.com

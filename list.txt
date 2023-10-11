@@ -24399,6 +24399,7 @@ twitch-csgoconnect.gifts
 twitch-details.com
 twitch-discord.com
 twitch-drops.online
+twitch-drops.shop
 twitch-esport.gifts
 twitch-esport.tv
 twitch-exclusive.com

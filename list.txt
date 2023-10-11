@@ -2059,6 +2059,7 @@ csgofreeskins.pro
 csgofreeskins.ru
 csgofreeskins.shop
 csgofreeskins.xyz
+csgofs.ru
 csgofun.pro
 csgofun4real.ru
 csgofuncup.site

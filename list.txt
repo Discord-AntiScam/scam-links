@@ -1670,6 +1670,7 @@ cs2-t.com
 cs2-test.com
 cs2-test.net.ru
 cs2-twich.ru
+cs2-twitch-drops.com
 cs2-twitch.com
 cs2-twitch.net
 cs2-twitch.pro

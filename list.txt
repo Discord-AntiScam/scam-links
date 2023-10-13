@@ -1725,6 +1725,7 @@ cs2money.skin
 cs2navicase.com
 cs2navicases.com
 cs2prime.pro
+cs2promo.store
 cs2reward.com
 cs2rival.fun
 cs2rival.xyz

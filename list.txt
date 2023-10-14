@@ -25101,6 +25101,7 @@ wick-bots.space
 wick-verification.site
 wickapp.fun
 wickauth.com
+wickbot-verify.xyz
 wickbot.cc
 wickbot.fun
 wickbot.ink

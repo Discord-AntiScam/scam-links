@@ -24478,6 +24478,7 @@ twitch.facepunch-llc.com
 twitch.facepunchstudio.com
 twitch.gift
 twitch.rust-ltd.com
+twitch2csgo.com
 twitchblasts.com
 twitchcamp.com
 twitchcase.com

@@ -1400,6 +1400,7 @@ collab.onl
 collab.qa
 collab.town
 collab.yt
+collabland.club
 collabland.pro
 collablandsecure.net
 collabs-land.app

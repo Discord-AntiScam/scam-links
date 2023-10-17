@@ -1091,6 +1091,7 @@ captcha.cab
 captcha.cam
 captcha.cat
 captcha.chat
+captcha.church
 captcha.cl
 captcha.cool
 captcha.cryptorexnft.xyz

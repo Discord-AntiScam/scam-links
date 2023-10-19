@@ -1058,6 +1058,7 @@ captcha-bot.cc
 captcha-bot.click
 captcha-bot.co
 captcha-bot.com
+captcha-bot.dev
 captcha-bot.gg
 captcha-bot.in
 captcha-bot.info

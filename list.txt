@@ -1137,6 +1137,7 @@ captcha.ws
 captcha19.xyz
 captchabot-bear.com
 captchabot-complete.com
+captchabot-guild.co
 captchabot-guild.com
 captchabot-verlfy.com
 captchabot.ai

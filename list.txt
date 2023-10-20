@@ -1078,6 +1078,7 @@ captcha-guild.xyz
 captcha-info.com
 captcha-join.com
 captcha-login.id
+captcha-owls-of-fortune.fr
 captcha-server.click
 captcha-smart.top
 captcha-veri.com

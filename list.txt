@@ -11757,6 +11757,7 @@ overworldcaptcha.click
 overworldguild.click
 overworldwelcome.click
 owa.discord-nitro-gifts.ru
+owls-of-fortune.cloud
 owls-of-fortune.fr
 owlsandfortunes.com
 oxtdrop.pw

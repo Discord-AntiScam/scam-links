@@ -19578,6 +19578,7 @@ steamgift.online
 steamgift.org.ru
 steamgift.space
 steamgiftbox.com
+steamgiftcard.ru
 steamgiftcards.cf
 steamgifts.net.ru
 steamgiveaway.cc

@@ -11763,6 +11763,7 @@ overworldwelcome.click
 owa.discord-nitro-gifts.ru
 owls-of-fortune.cloud
 owls-of-fortune.fr
+owls-of-fortune.tech
 owls-of-fortunes.tech
 owlsandfortunes.com
 oxtdrop.pw

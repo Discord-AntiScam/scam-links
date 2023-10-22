@@ -1129,6 +1129,7 @@ captcha.news
 captcha.nu
 captcha.page
 captcha.pics
+captcha.plus
 captcha.pm
 captcha.quest
 captcha.rs

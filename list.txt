@@ -10086,6 +10086,7 @@ log-in-hypesquad-formulary.com
 log-in-hypesquad.com
 log-in-official-hypesquad.com
 log-in-official-moderator.com
+logcs2.online
 logcs2.ru
 login-academy-discord.com
 login-academy-formulary.com

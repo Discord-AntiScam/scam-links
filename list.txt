@@ -10919,6 +10919,7 @@ navi-beta.pro
 navi-case.ru
 navi-cs.ru
 navi-cs2.com
+navi-cup.ru
 navi-drop.com
 navi-drop.fun
 navi-drop.net

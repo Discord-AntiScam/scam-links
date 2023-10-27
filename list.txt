@@ -12632,6 +12632,7 @@ roblox-com.gq
 roblox-com.live
 roblox-com.pl
 roblox-fr.site
+roblox-g.com
 roblox-give.space
 roblox-group.ml
 roblox-kz.ru

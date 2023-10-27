@@ -1169,6 +1169,7 @@ captchabot.fi
 captchabot.gg
 captchabot.gl
 captchabot.link
+captchabot.me
 captchabot.pm
 captchabot.site
 captchabot.to

@@ -4331,6 +4331,7 @@ discord.pp.ru
 discord.pre-approved-hypesquad.repl.co
 discord.promo
 discord.pt
+discord.roverification.repl.co
 discord.rtsolz.com
 discord.ru
 discord.ru.com

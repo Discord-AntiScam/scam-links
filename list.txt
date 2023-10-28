@@ -4351,6 +4351,7 @@ discord.trial-hypesquad-team.com
 discord.tw
 discord.us.com
 discord.vc
+discord.verificationcaptcha.repl.co
 discord.verifysquad.repl.co
 discord.voto
 discord.win

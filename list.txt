@@ -929,6 +929,7 @@ bloxflip.bet
 bloxfruits.click
 bloxguard.org
 bloxiesofficial.com
+bloxlink.name
 bloxlink.online
 bloxlink.support
 bloxlinkverificationgame.x10.mx

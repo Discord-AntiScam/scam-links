@@ -24694,6 +24694,7 @@ twitch-drops.online
 twitch-drops.shop
 twitch-esport.gifts
 twitch-esport.tv
+twitch-event.com
 twitch-exclusive.com
 twitch-facepunch.com
 twitch-facepunchs.com

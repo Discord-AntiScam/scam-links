@@ -1180,6 +1180,7 @@ captchabot.pm
 captchabot.site
 captchabot.to
 captchabot.top
+captchabot.us
 captchabot.website
 captchabotguild.com
 captchabots.cc

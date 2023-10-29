@@ -7509,6 +7509,7 @@ faceit-premium.com
 faceitcase.com
 facepnuch.com
 facepuncgtwitchdropws.skin
+facepuncgtwitchdropwx.skin
 facepuncgtwitchdropwz.skin
 facepunch-award.com
 facepunch-gift-rust.ru

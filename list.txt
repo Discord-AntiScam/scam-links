@@ -8747,6 +8747,7 @@ hy-pixel.dev
 hy-pixel.wiki
 hycs2.com
 hydra2018.ru
+hypcs2.com
 hype-2022.com
 hype-academy-apply.ml
 hype-academy-form.ml

@@ -7438,6 +7438,7 @@ events-moderation.com
 events-moderators.com
 events-new-hypeteam.com
 events-rewards.xyz
+events-riotgames.com
 events-servicess.ml
 events-squad.com
 events.dlscord.click

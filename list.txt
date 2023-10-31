@@ -1442,6 +1442,7 @@ collab.qa
 collab.town
 collab.yt
 collabland.club
+collabland.land
 collabland.pro
 collablandsecure.net
 collabs-land.app

@@ -354,6 +354,7 @@ apecoins-fi.com
 apedrop.app
 apetreasury.com
 api-beta.com
+api-discord.nl
 api-hypesquad-team.com
 api-hypesquad.com
 api-roblox.com

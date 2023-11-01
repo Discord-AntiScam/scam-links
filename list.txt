@@ -1799,6 +1799,7 @@ cs2lg.pro
 cs2limit.com
 cs2limited.pro
 cs2logitech.com
+cs2lucky.pro
 cs2money.skin
 cs2natus.pro
 cs2navi.fun

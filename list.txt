@@ -1452,6 +1452,7 @@ collab.qa
 collab.town
 collab.yt
 collabland.club
+collabland.la
 collabland.land
 collabland.pro
 collabland.tel

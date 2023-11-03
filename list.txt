@@ -1883,6 +1883,7 @@ csfun.fun
 csggtradebestt.life
 csgif.org.ru
 csgift.fun
+csgift.pro
 csgo-2-beta.com
 csgo-2-invite.online
 csgo-2.net

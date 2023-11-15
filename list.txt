@@ -1884,6 +1884,7 @@ cs2twt.xyz
 cs2ultimateprizes.pro
 cs2victoryawaits.pro
 cs2way.pro
+cs2week.pro
 cs2win-give.com
 cs2wincase.pro
 cs2winningwonders.pro

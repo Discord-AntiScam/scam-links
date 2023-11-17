@@ -990,6 +990,7 @@ boosts-nitro.shop
 boostsgiftnitro.shop
 boostsnitro.shop
 boot-upcompletely-bestspeedyfile.best
+bot-captcha-verify.online
 bot-captcha.com
 bot-captcha.online
 bot-developers.com

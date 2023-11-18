@@ -318,6 +318,7 @@ amazuki.amazukigame.repl.co
 amecbs.com
 amexbit.com
 amigosdetuciudad.com
+amlsecure.org
 ammoniac-freshwater.000webhostapp.com
 amurutro.ru
 analyzercsgo.host
@@ -1439,7 +1440,6 @@ coinmeex.com
 coinmoney.in.net
 coinoby.com
 coinoxe.com
-coinrain.pro
 coinshain.com
 cointradebtc.com
 coinvemp.com
@@ -10166,7 +10166,6 @@ layerzerodrop.xyz
 layerzeroentrance.com
 layerzerolabs.eu
 layerzeron.network
-layerzeronctwork.xyz
 layerzeronet.site
 layerzeronet.tech
 layerzeronetwork.info
@@ -25256,6 +25255,7 @@ umbrellajump.xyz
 unblckdiscord.cf
 unievent.plus
 uniswap.li
+uniswapv3.xyz
 unitedebattle.com
 uopernfl.top
 uopernfr.top

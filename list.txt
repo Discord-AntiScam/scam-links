@@ -12142,6 +12142,7 @@ polyhedra.finance
 polyhedra.pw
 polyhedraguard.github.io
 polyhedrasguard.web.app
+polyhedraswap.com
 polyhymnia-mar.com
 pond0x-online.net
 ponk.pro

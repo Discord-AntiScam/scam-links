@@ -1016,6 +1016,7 @@ bot-valorant.com
 bot-vulcan.xyz
 bot.ngo
 botapp-discord.com
+botcaptcha-verify.online
 botcaptcha.com
 botdetect.click
 botdynofication.fun

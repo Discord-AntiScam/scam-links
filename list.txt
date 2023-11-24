@@ -616,6 +616,7 @@ apy-eth.us
 apy-protocol.com
 apyeth.ai
 apyeth.me
+apyeth.us
 apyether.app
 apyether.com
 apyether.eu

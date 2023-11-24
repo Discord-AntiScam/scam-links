@@ -611,6 +611,7 @@ appvulcan.xyz
 apreth.app
 aptchabot.com
 apy-eth.eu
+apy-protocol.com
 apyether.app
 apyprotocol.org
 aquare-payment.site

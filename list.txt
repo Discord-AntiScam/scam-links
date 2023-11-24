@@ -615,6 +615,7 @@ apy-eth.us
 apy-protocol.com
 apyether.app
 apyether.eu
+apyether.us
 apyprotocol.org
 aquare-payment.site
 arbclaim.co

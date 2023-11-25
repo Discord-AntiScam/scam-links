@@ -25258,6 +25258,7 @@ twitchxcs2.com
 twitcn-cs2.com
 twitcn-csgo.com
 twitcn-esports.com
+twitcn2csgo.com
 twitcncs2.tv
 twitcs2.pro
 twitter-events.repl.co

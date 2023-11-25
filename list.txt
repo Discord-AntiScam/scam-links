@@ -25074,6 +25074,7 @@ twitch-details.com
 twitch-discord.com
 twitch-drop.com
 twitch-drop.net
+twitch-drop.ru
 twitch-dropcs2.com
 twitch-drops.online
 twitch-drops.shop

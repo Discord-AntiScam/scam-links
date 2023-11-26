@@ -9634,6 +9634,7 @@ hypixelstore.site
 hypixelstore.xyz
 hypixelverification.ru
 hypixelverificationbot.onrender.com
+hypixelverify.eu
 hypixelverify.xyz
 hypsquad-invitation.com
 hypsquad-join.gq

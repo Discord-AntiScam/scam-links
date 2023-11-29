@@ -1633,6 +1633,7 @@ connected-hypesquad-events.tk
 connectguild.site
 connectinventoryaccount.com
 connection-discord-hypesquad.com
+connectjobcord.org
 connects-forms-events-academy.com
 connects-forms-events-moderators-hypesquad.com
 connects-forms-events-moderators.com

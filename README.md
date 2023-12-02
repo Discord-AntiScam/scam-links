@@ -21,6 +21,7 @@ https://reddit.com/r/theDSPproject
 You can access the raw files to programmatically fetch and parse our lists.
 - `TXT`: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/list.txt
 - `JSON`: https://raw.githubusercontent.com/Discord-AntiScam/scam-links/main/list.json
+- `uBlock Origin Filter`: https://github.com/Discord-AntiScam/scam-links/raw/main/ublock_filter.txt
 
 ## Contributing
 Contributions to the Discord Scam Prevention Project are highly appreciated. If you encounter any Discord-related phishing website that is not yet included to the database, please either open an issue as shown below or join our Discord server and navigate to the `#report` channel. We may decline your submission if it's out of scope or we can't confirm the validity of the claim.

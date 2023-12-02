@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-02T14:44:55Z
+! Updated: 2023-12-02T16:52:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -9905,6 +9905,7 @@ job-cord.com
 jobcord-connect.com
 jobcord-dashboard.com
 jobcord-eu.com
+jobcord-jobs.com
 jobcord.net
 jobcord.org
 jobcord3.com

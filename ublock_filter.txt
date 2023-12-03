@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T09:59:46Z
+! Updated: 2023-12-03T09:59:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -3602,6 +3602,7 @@ discord-club.org
 discord-club.ru
 discord-coinmaster.xyz
 discord-collab.land
+discord-collabland.com
 discord-collaboration.com
 discord-com-free.online
 discord-com-free.ru

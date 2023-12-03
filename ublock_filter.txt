@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T09:53:50Z
+! Updated: 2023-12-03T09:59:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -25719,6 +25719,7 @@ valorantpromocode.fun
 valorantpromotion.com
 valorantpromotions.com
 valorantrio.fun
+valorantriotvin.fun
 valorants.fun
 valorantskin.fun
 valorantskins.world

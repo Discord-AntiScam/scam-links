@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T20:37:21Z
+! Updated: 2023-12-03T20:43:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -12066,6 +12066,7 @@ officialsaphirenfts.com
 officialsaphiresnfts.com
 officialverfyteam-services.ml
 offsaphirenfts.com
+ogisha.site
 oin-hypesquad-moderators.com
 okay-dating.com
 okdiscord.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T19:31:09Z
+! Updated: 2023-12-03T20:37:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -1798,6 +1798,7 @@ cs-twltchs.com
 cs-twltchs.tv
 cs-winner.com
 cs2-acces.com
+cs2-bestgame.com
 cs2-beta-access.pro
 cs2-beta.pl
 cs2-beta.ru

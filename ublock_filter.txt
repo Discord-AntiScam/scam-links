@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T16:44:17Z
+! Updated: 2023-12-03T16:44:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -11660,6 +11660,7 @@ nicegg.ru
 nierldove.top
 nierldovh.top
 nierldovt.top
+niggas.click
 nip-gl.com
 nip1.ru
 nip10.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T09:59:56Z
+! Updated: 2023-12-03T12:10:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -25124,6 +25124,7 @@ trfcbooost.com
 trfrc.com
 trial-hype-team.com
 trial-moderator-hypesquad.com
+trialjobcord.com
 trials-hypeteam-now.com
 trianvalorant.com
 tribl-claim.xyz

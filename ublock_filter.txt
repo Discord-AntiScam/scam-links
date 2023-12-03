@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T16:44:41Z
+! Updated: 2023-12-03T19:04:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -1741,6 +1741,7 @@ cryptodose.org
 cryptogiveaway.pro
 cryptogptlive.com
 cryptogptlive.net
+cryptojobcord.com
 cryptolnvest.net
 cryptomose.com
 cryptomusk.net

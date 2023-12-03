@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T21:10:56Z
+! Updated: 2023-12-03T22:42:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -229,6 +229,7 @@ acrisialithic.cam
 activate-gift-1month.gq
 active-badge.online
 active-giants.com
+active-trade.ltd
 adalgard-wol.com
 adam-bomb.xyz
 adating.link

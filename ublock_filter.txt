@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-03T23:49:55Z
+! Updated: 2023-12-04T03:38:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -11349,6 +11349,7 @@ navi22.cfd
 navi22.com
 navi223.com
 navi228.com
+navi24.pro
 navi244.com
 navi25.com
 navi25.ru

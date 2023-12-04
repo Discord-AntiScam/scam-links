@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-04T15:30:09Z
+! Updated: 2023-12-04T17:04:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -10273,6 +10273,7 @@ lan-pro.ru
 lan-pro.xyz
 land-api20.com
 land-api5.com
+land-hub.org
 land-verify-discord-view.online
 land.com.se
 land.gl

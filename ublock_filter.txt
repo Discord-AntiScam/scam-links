@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-05T00:26:29Z
+! Updated: 2023-12-05T00:26:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -13484,6 +13484,7 @@ rustgifltwitclh.skin
 rustgifltwitclw.com
 rustgifltwltchs.com
 rustgifltwltchs.skin
+rustgift.pro
 rustgift.ru
 rustgifts.pp.ua
 rustgiveaway.online

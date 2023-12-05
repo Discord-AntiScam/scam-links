@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-05T00:26:38Z
+! Updated: 2023-12-05T01:16:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -10283,6 +10283,7 @@ land.com.se
 land.gl
 lands-api5.com
 lands-connect.com
+lands-hub.com
 lands-join.com
 lands.asia
 lands.ws

@@ -1063,6 +1063,7 @@ bot-servers.info
 bot-sledgehammer.com
 bot-valorant.com
 bot-vulcan.xyz
+bot.capcha.lol
 bot.ngo
 botapp-discord.com
 botcaptcha-verify.online

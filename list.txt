@@ -1410,6 +1410,7 @@ claim-hypixels.store
 claim-layerzero.net
 claim-manta.network
 claim-polyhedra.net
+claim-topia.com
 claim-your-nitro.com
 claim.discordchristmas.com
 claim.robuxat.com

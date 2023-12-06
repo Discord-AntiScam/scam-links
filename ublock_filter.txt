@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-06T00:36:41Z
+! Updated: 2023-12-06T02:33:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -1414,6 +1414,7 @@ claim-hypixels.store
 claim-layerzero.net
 claim-manta.network
 claim-polyhedra.net
+claim-topia.com
 claim-your-nitro.com
 claim.discordchristmas.com
 claim.robuxat.com

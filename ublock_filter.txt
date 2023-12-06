@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-06T13:04:57Z
+! Updated: 2023-12-06T15:19:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -9690,6 +9690,7 @@ hypixelverify.eu
 hypixelverify.xyz
 hypsquad-invitation.com
 hypsquad-join.gq
+hytopia-claim.com
 hytopia.vip
 i-no.ru
 iamnaughty.com

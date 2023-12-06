@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-06T03:49:10Z
+! Updated: 2023-12-06T12:53:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -8602,6 +8602,7 @@ gift-steanpowered.ru
 gift-subsribe.com
 gift-valorant.pro
 gift71027416.asia
+giftcard-steam.com
 giftdicord.xyz
 giftdicsard.xyz
 giftdicsord.xyz

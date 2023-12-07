@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-07T12:31:44Z
+! Updated: 2023-12-07T12:46:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -3680,6 +3680,7 @@ discord-exams.com
 discord-experts.com
 discord-exploits.tk
 discord-extension.best
+discord-fake-nitro-expiriment.glitch.me
 discord-faq.com
 discord-fill.com
 discord-form.com

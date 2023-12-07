@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-07T15:32:54Z
+! Updated: 2023-12-07T18:02:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -2564,6 +2564,7 @@ decrypt.partners
 decryptmedia.co
 ded4950.inmotionhosting.com
 del-pinar.com.ar
+delawareipackage.com
 deltalore.pro
 deltasec300gt.fun
 dengiua.com

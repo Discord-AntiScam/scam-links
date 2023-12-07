@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-07T22:02:05Z
+! Updated: 2023-12-07T23:32:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -25616,6 +25616,7 @@ uragan123.pro
 uralmtk.ru
 url-roblox.com
 url-shortnest.space
+urlshorter.online
 urlshorter.site
 urlshrt1.ru
 uroblox.com

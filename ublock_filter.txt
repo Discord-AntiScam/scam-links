@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-08T11:21:43Z
+! Updated: 2023-12-08T11:22:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -709,6 +709,7 @@ atxcommunications.com
 atzekromchan.com
 aucryptohubs.com
 auta-domanski.pl
+auth-china.com
 auth-discord.com
 auth-dyno.cloud
 auth-mee6.xyz

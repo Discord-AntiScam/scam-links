@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-08T12:15:25Z
+! Updated: 2023-12-09T00:55:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -6183,6 +6183,7 @@ disstatistics.com
 disstats.com
 disstatsbot.com
 distatistic.com
+distribute-topia.com
 disuord.gift
 disuscord.site
 disuscord.xyz

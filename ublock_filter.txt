@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-09T00:55:59Z
+! Updated: 2023-12-09T03:22:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -14331,6 +14331,7 @@ slteamcomuunity.ru
 slteamconmuniity.com
 sltes-roblox.com
 smartcommunity.net
+smartsync-protocol.buzz
 smartwebcontractdapps.netlify.app
 smeacommunity.com.au
 smitecommunity.org

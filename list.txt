@@ -383,6 +383,7 @@ api24-collab.land
 api25-collab.land
 api26-collab.live
 api26-collab.me
+api27-collab.land
 api28-collab.land
 api36-collab.land
 apilond.com

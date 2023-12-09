@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-09T04:18:53Z
+! Updated: 2023-12-09T10:16:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -10164,6 +10164,7 @@ join.hypeteams.repl.co
 join2saylor.net
 join2tesla.net
 joinbe-events.gq
+joincryptojob.com
 joined-hype-squad-events-official.com
 joined-of-hypesquad.com
 joined-to-hypesquad.com

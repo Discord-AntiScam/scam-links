@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-09T13:00:49Z
+! Updated: 2023-12-09T13:43:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -14711,6 +14711,7 @@ staemcommnutiy.ru
 staemcommonity.ru
 staemcommqnity.ru
 staemcommrunity.com
+staemcommrunlty.ru
 staemcommuanity.ru
 staemcommucunity.com
 staemcommuenity.ru

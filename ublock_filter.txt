@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-09T11:31:48Z
+! Updated: 2023-12-09T11:53:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -12167,6 +12167,7 @@ opensea-ntf.org
 opensea-one.org
 opensea-page.org
 opensea-pages.online
+opensea-unbox.vercel.app
 openseanfft.com
 opensia.club
 openssea.pw

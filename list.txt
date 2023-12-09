@@ -12163,6 +12163,7 @@ opensea-ntf.org
 opensea-one.org
 opensea-page.org
 opensea-pages.online
+opensea-unbox.vercel.app
 openseanfft.com
 opensia.club
 openssea.pw

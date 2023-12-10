@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-10T12:15:16Z
+! Updated: 2023-12-10T12:45:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -321,6 +321,7 @@ alphacoinex.com
 alphasource2.com
 alterprogs.ru
 altervista.org
+altidentifer.net
 altidentifer.xyz
 altidentifier.net
 altidentifiy.com

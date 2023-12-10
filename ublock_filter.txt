@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-10T21:20:21Z
+! Updated: 2023-12-10T22:15:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -10238,6 +10238,7 @@ kavaguard.org
 kavaguard.pro
 kavaguard.xyz
 kavaplatform.com
+kavasecure.live
 kavashield.club
 kavashield.xyz
 kaysdrop.ru

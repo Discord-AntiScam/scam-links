@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-10T20:12:07Z
+! Updated: 2023-12-10T20:19:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -8875,6 +8875,7 @@ guide-hypesquadevents.gq
 guide-valorant.com
 guidemaple.click
 guidewhales.click
+guild-captcha.cc
 guild-captcha.lol
 guild-captcha.site
 guild-captchas.site

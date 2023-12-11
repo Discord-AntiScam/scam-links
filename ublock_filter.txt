@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-11T21:42:25Z
+! Updated: 2023-12-11T21:42:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -6938,6 +6938,7 @@ drop-csgo.ru
 drop-esl.pw
 drop-key.ru
 drop-layerzero.org
+drop-new.com
 drop-nitro.com
 drop-nitro.fun
 drop-pro.com

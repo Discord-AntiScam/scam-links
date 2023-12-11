@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-11T23:04:50Z
+! Updated: 2023-12-11T23:47:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -7161,6 +7161,7 @@ dyno.authtoken-b78sj2d59cdd8bb7cd.repl.co
 dyno.autos
 dyno.boats
 dyno.cam
+dyno.cat
 dyno.cfd
 dyno.com.co
 dyno.fm

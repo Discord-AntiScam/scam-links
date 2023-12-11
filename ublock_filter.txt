@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-11T03:34:42Z
+! Updated: 2023-12-11T11:12:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -8859,6 +8859,7 @@ greenpalmbn2.click
 gremlinssproto.org
 grimwalker.com
 grlb-free.xyz
+grok.gifts
 group-spacex.net
 grouper-hypesquad.ga
 grouprulet.shop

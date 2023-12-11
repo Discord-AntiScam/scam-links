@@ -1558,6 +1558,7 @@ collabland.team
 collabland.tel
 collablandsecure.net
 collabs-land.app
+collabsecurity.land
 collah.land
 colleb.land
 collsb.land

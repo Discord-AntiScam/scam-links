@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-12T19:50:20Z
+! Updated: 2023-12-12T20:43:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -3349,6 +3349,7 @@ discor.me
 discor.tk
 discor3.com
 discor4d.com
+discor5d.com
 discora.gift
 discorad.com
 discoradnitro.xyz

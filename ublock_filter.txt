@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-12T18:46:33Z
+! Updated: 2023-12-12T18:51:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -13638,6 +13638,7 @@ scwanmei.ru
 sdcuu.net
 sdicsords.xyz
 sdiscord.com
+sea-token.io
 seamcommnuity.com
 seamcommnunity.com
 seamcommuninty.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-12T02:43:47Z
+! Updated: 2023-12-12T08:04:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -12470,6 +12470,7 @@ programma-di-fidelizzazione.top
 programs-from-hypesquad.com
 programs-hypesquad-signup.com
 programs-moderator.com
+projectnfts-opensea.vercel.app
 projectqql.com
 promarker.club
 promo-codes.world

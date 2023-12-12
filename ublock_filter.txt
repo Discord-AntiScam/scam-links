@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-12T22:34:50Z
+! Updated: 2023-12-12T22:35:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -391,6 +391,7 @@ api26-collab.me
 api27-collab.land
 api28-collab.land
 api36-collab.land
+api62-collab.land
 apilond.com
 apis-roblox.com
 apisweb3oe.gq

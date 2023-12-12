@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-12T23:04:37Z
+! Updated: 2023-12-12T23:21:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -12181,6 +12181,7 @@ opens-glft.ru
 opense.design
 opense.digital
 opensea-airdrop.live
+opensea-clickclaim.vercel.app
 opensea-dropclick.vercel.app
 opensea-multiclaim.vercel.app
 opensea-ntf.org

@@ -12177,6 +12177,7 @@ opens-glft.ru
 opense.design
 opense.digital
 opensea-airdrop.live
+opensea-clickclaim.vercel.app
 opensea-dropclick.vercel.app
 opensea-multiclaim.vercel.app
 opensea-ntf.org

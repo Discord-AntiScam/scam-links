@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-15T15:55:20Z
+! Updated: 2023-12-15T15:55:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -8813,6 +8813,7 @@ go-hypesquadevents-invite.com
 go-nltro.com
 go-skins.ru
 go.pardot.com
+go2cup.com
 go2cup.pro
 go2sk.pro
 go2skins.com

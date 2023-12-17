@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-15T15:55:49Z
+! Updated: 2023-12-17T21:26:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -8910,6 +8910,7 @@ happydays06.site
 harzfriends.de
 hash-connects.com
 haste.monster
+havecryptojob.com
 haypesquad-formulary-team.com
 hclcsgo.ga
 hcslcsgo.ga

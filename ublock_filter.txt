@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-17T23:56:24Z
+! Updated: 2023-12-18T00:12:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -1516,6 +1516,7 @@ coinforcoin.site
 coingon.com
 coingope.com
 coinhubo.com
+coinjobsearch.com
 coinkox.com
 coinlistx2.com
 coinlybit.com

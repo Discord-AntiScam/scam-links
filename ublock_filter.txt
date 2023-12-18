@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T00:12:10Z
+! Updated: 2023-12-18T00:13:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -8342,6 +8342,7 @@ fundtesla.io
 fungameapp.ru
 fuovi.com
 furry.surf
+fusionist.top
 fustcup.ru
 futureswap.tk
 futuretesla.net

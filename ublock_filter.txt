@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T19:12:35Z
+! Updated: 2023-12-18T19:15:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -402,6 +402,7 @@ aplication-hypesquad.com
 aplicationsdiscord.com
 aplly-hype.cf
 aplly-hype.ml
+app-claim.xyz
 app-dicsord.ru
 app-discord-nitro.ru
 app-discord.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T23:04:05Z
+! Updated: 2023-12-18T23:17:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8871,6 +8871,7 @@ grabify.world
 grandcasinobell.com
 graptolitic-margin.000webhostapp.com
 graviocoin.io
+grayboysnft.app
 grd.deno.dev
 great-income.ru
 green-stocks.com

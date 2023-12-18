@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T19:04:20Z
+! Updated: 2023-12-18T19:04:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -24977,6 +24977,7 @@ teslaceo.net
 teslaclicksclaim.vercel.app
 teslacoin-clicks.vercel.app
 teslacoin.live
+teslacoins-claim.vercel.app
 teslacoins2023.com
 teslacrypto2023.com
 teslacryptogiveaway.com

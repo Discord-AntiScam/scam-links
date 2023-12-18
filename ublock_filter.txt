@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T23:17:46Z
+! Updated: 2023-12-18T23:19:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1762,6 +1762,7 @@ cryptapple.com
 cryptgive23.xyz
 crypto-eth.pw
 crypto-eth2.pw
+crypto-job-hub.com
 crypto-slate.xyz
 cryptoadventure.xyz
 cryptobirb.xyz

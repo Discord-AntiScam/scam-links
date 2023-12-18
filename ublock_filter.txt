@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T22:55:00Z
+! Updated: 2023-12-18T23:03:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3037,6 +3037,7 @@ dilscourd.com
 dilscrod-game.com
 dilsocrd.com
 dilsocrd.ru
+diorikadazy.gq
 dioscord.com
 diplom4rabota.ru
 diqscordapp.com

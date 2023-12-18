@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-18T00:13:49Z
+! Updated: 2023-12-18T02:47:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0www-roblox.com
@@ -12391,6 +12391,7 @@ ponk.pro
 popsads.link
 popsicle.gift
 poratmon.store
+portalgaming.online
 posadaladesmera.es
 possessedcrackinghart.com
 postalcenter.vip

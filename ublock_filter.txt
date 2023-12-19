@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-19T16:58:10Z
+! Updated: 2023-12-19T17:02:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8276,6 +8276,7 @@ freegift-hypixel.net
 freegiftcards.co
 freegiscord.xyz
 freeinstagramfollowersonline.com
+freelive-tokens.com
 freeluckygj.top
 freemalware.com
 freenitro-comsteam.ru

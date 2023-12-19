@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-19T09:36:33Z
+! Updated: 2023-12-19T09:37:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1779,6 +1779,7 @@ cryptojobconnect.com
 cryptojobcord.com
 cryptojoblist.org
 cryptojoblistinc.com
+cryptojobs-experiences.com
 cryptojobs-hub.com
 cryptolnvest.net
 cryptomose.com

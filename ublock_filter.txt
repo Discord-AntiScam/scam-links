@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-19T13:19:57Z
+! Updated: 2023-12-19T13:20:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13964,6 +13964,7 @@ skin-baron.top
 skin-csgo-2023.pro
 skin-drops.com
 skin-faze.ru
+skin-free.ru
 skin-navibox.pro
 skin-take.com
 skin-valorant.com

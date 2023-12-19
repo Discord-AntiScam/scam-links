@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-19T19:18:24Z
+! Updated: 2023-12-19T19:26:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25150,6 +25150,7 @@ themoderatorteam-exam.com
 themoderatorteam-exams.com
 theowlsoffortune-nftproject.online
 theowlsoffortune.com
+thesecretsociety.pw
 theserbit.com
 theshoparound.com
 thesilkradiance.com

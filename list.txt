@@ -1773,6 +1773,7 @@ cryptogiveaway.pro
 cryptogptlive.com
 cryptogptlive.net
 cryptojob-hub.com
+cryptojob-join.com
 cryptojob-list.com
 cryptojob.cloud
 cryptojobbers-cord.com

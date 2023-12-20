@@ -12238,6 +12238,7 @@ opensea-page.org
 opensea-pages.online
 opensea-unbox.vercel.app
 openseanfft.com
+openseapro150-giveaway.web.app
 openseaproject-click.vercel.app
 opensia.club
 openssea.pw

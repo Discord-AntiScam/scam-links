@@ -8726,6 +8726,7 @@ giftshypixel.store
 giftslunar-client.shop
 giftsnitro.com
 giftsnitro.xyz
+giftsteam.pro
 giftsu-nitro.gq
 giftsvalorant.com
 giftsvalorant.site

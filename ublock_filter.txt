@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-21T20:39:35Z
+! Updated: 2023-12-21T20:39:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15685,6 +15685,7 @@ steam-hype.com
 steam-login1.xyz
 steam-money.org
 steam-newyear.com
+steam-newyear.online
 steam-nitro.online
 steam-nitro.ru
 steam-nitro.space

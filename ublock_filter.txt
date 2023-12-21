@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-21T20:23:27Z
+! Updated: 2023-12-21T20:23:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -272,6 +272,7 @@ affixarena.com
 affixcup.it
 afhwarranty.com
 again-hype-events.ga
+agency-support-poilcy.com
 agvaggdgdgdgdfsgdsaf.herokuapp.com
 ai-cs2.site
 ai-event.site

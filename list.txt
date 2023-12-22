@@ -382,6 +382,7 @@ api-hypesquad-team.com
 api-hypesquad.com
 api-roblox.com
 api.discord.cool-js.cloud
+api16-altidentifier.com
 api20-collab.land
 api23-collab.land
 api24-collab.land

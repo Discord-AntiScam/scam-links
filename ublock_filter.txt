@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T13:37:28Z
+! Updated: 2023-12-22T13:37:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2328,6 +2328,7 @@ csgobuff.trade
 csgocase-esl.com
 csgocase-gg.com
 csgocasesesl.com
+csgocash.ru
 csgocash.skin
 csgocashup.com
 csgochinasteam.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T01:07:51Z
+! Updated: 2023-12-22T01:27:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8512,6 +8512,7 @@ get-valorant.com
 get-valorant.pro
 get19dragos.club
 get2x-tesla.com
+getajobcrypto.online
 getcach.monster
 getcode2.pro
 getcryptotab.com

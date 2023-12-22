@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T22:28:37Z
+! Updated: 2023-12-22T22:28:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -748,6 +748,7 @@ avatizer-nft.xyz
 avbloxz.info
 avirus.hu
 avitofast.ru
+awek-melayu-viral.bbc-beaking.my.id
 awek-twitter-viral-hot.tme-viral.com
 awescap.com
 awesome-gifts.gq

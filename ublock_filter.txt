@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T22:28:11Z
+! Updated: 2023-12-22T22:28:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8466,6 +8466,7 @@ gate-mee6.xyz
 gather.skin
 gave-nitro.com
 gavenitro.com
+gayhaot-lancap.str-check1.my.id
 gayq8rgx.ru
 gbauthorization.com
 gclnk.com

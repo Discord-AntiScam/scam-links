@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T05:05:41Z
+! Updated: 2023-12-22T05:52:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7262,6 +7262,7 @@ dynobot.tech
 dynobot.tel
 dynobot.to
 dynobot.tools
+dynobot.uk
 dynobot.wiki
 dynobot.zip
 dynobots.app

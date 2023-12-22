@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T22:28:25Z
+! Updated: 2023-12-22T22:28:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26004,6 +26004,7 @@ vbs-game-2.pro
 vbs-game.pro
 vbucksminer.ru
 vbucksplease.com
+vcs-lancap-free.str-check1.my.id
 veiyosgfx.000webhostapp.com
 venly-access.com
 venly-captcha.com

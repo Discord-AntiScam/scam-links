@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-22T13:36:36Z
+! Updated: 2023-12-22T13:37:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1404,6 +1404,7 @@ chat-gpt22.com
 chat-gpt23.com
 chatgpt2x.live
 cheapcinema.club
+cheapkilt.com
 cheat-lab.net
 cheatlab.app
 cheatlab.org

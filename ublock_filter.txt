@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-23T23:03:44Z
+! Updated: 2023-12-23T23:04:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25252,6 +25252,7 @@ this-is-nitro.tk
 thor-case.net.ru
 thunderbirdoni.com
 tic.com.ua
+ticket-support.byethost5.com
 tik-team-topp.org.ru
 tiktok-mint.online
 timepixies.io

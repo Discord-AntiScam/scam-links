@@ -1092,6 +1092,7 @@ botapp-discord.com
 botcaptcha-verify.online
 botcaptcha-verify.site
 botcaptcha.com
+botcaptcha.site
 botdetect.click
 botdynofication.fun
 botmee6.com

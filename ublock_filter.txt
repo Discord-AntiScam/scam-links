@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-23T22:05:23Z
+! Updated: 2023-12-23T22:32:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11390,6 +11390,7 @@ navi-77.com
 navi-86.com
 navi-beta.pro
 navi-case.ru
+navi-cases.pro
 navi-cs.ru
 navi-cs2.com
 navi-cup.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-24T12:59:18Z
+! Updated: 2023-12-24T15:31:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12558,6 +12558,7 @@ primelab.live
 prismafinancerewards.net
 prismotools.xyz
 private-invite-hypsquad-dc.com
+privatemessage25.com
 privatepage.vip
 privatesinglesmeet.com
 privatewinners.com

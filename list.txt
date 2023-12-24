@@ -1284,6 +1284,7 @@ captchabot.courses
 captchabot.fi
 captchabot.gg
 captchabot.gl
+captchabot.io
 captchabot.link
 captchabot.me
 captchabot.pm

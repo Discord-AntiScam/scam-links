@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-24T00:57:59Z
+! Updated: 2023-12-24T11:08:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12221,6 +12221,7 @@ ollab.land
 ollabs.land
 oltoro.top
 omgtnc.com
+on-crypto-jobs.com
 on-cryptojob.com
 on-roblox.com
 one-viseca-tipila8097259058.codeanyapp.com

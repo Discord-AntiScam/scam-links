@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-25T16:06:04Z
+! Updated: 2023-12-25T16:06:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1520,6 +1520,7 @@ cobratatecrypto.live
 cod3r0bux.pw
 code-nitro.ru
 code-nitro.xyz
+code-riotgames.com
 code24promo.com
 codingyourpain.itch.io
 coin-hold.web.app

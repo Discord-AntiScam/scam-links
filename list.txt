@@ -7574,6 +7574,7 @@ esibeta.com
 esl-access.com
 esl-case.vip
 esl-caseg.vip
+esl-casesg.vip
 esl-csgo.cc
 esl-csgo.com
 esl-csgo.net

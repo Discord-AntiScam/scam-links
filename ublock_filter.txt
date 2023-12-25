@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-25T16:05:38Z
+! Updated: 2023-12-25T16:05:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1094,6 +1094,7 @@ bot-vulcan.xyz
 bot.capcha.lol
 bot.ngo
 botapp-discord.com
+botcaptcha-verify.link
 botcaptcha-verify.online
 botcaptcha-verify.site
 botcaptcha.com

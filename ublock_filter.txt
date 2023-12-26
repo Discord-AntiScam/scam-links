@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-26T12:19:54Z
+! Updated: 2023-12-26T14:15:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12888,6 +12888,7 @@ redexios.com
 redirect-hub.site
 redirect-mee.xyz
 redirectednet.xyz
+redirectionlink.site
 redirectsstm.click
 redirectvulcan.com
 redirekted.com

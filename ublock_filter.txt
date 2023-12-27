@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-27T00:30:56Z
+! Updated: 2023-12-27T12:15:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14497,6 +14497,7 @@ slteamcomuunity.ru
 slteamconmuniity.com
 sltes-roblox.com
 slugs-job.com
+slugs-web3.online
 slugs-web3job.com
 small-url.online
 small-url.site

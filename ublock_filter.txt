@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-27T19:20:26Z
+! Updated: 2023-12-27T23:58:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1608,6 +1608,7 @@ com-eng.eu
 com-lottery.club
 com-robux.club
 combestskins.org.ru
+comboguards.xyz
 comdicsord.net
 comdicsordgifts.ru.com
 comdisccord-appss.ru

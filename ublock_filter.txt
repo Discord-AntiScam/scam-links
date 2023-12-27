@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-27T13:14:05Z
+! Updated: 2023-12-27T13:14:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25901,6 +25901,7 @@ valopromotion.com
 valora.fun
 valorachecks.com
 valoradiant.fun
+valorant-2023.site
 valorant-action.com
 valorant-aesthetic.com
 valorant-arc.lol

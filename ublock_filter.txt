@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-28T19:48:14Z
+! Updated: 2023-12-28T20:31:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25426,6 +25426,7 @@ tradeperson.site
 tradercsgo.com
 traderlimited.com
 trades-link.ru
+trades-roblox.com
 tradingmevbot.info
 tradingvault.eu
 trafempire.com

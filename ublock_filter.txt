@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-28T17:27:53Z
+! Updated: 2023-12-28T17:28:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14077,6 +14077,7 @@ skillfulrumble.com
 skillfulshowcase.com
 skillfulshowdown.com
 skillfulzone.com
+skin-baron-de.com
 skin-baron.top
 skin-csgo-2023.pro
 skin-drops.com

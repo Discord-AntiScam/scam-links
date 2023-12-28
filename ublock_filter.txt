@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-28T13:56:51Z
+! Updated: 2023-12-28T14:51:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9811,6 +9811,7 @@ hytopia-claim.com
 hytopia.app
 hytopia.vip
 i-no.ru
+i-roblox.com
 iamnaughty.com
 iayerzero.net
 iayerzero.org

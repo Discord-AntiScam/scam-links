@@ -17359,6 +17359,7 @@ steamcommunity.link
 steamcommunity.live
 steamcommunity.llc
 steamcommunity.mobi
+steamcommunity.myftp.org
 steamcommunity.myvnc.com
 steamcommunity.net.in
 steamcommunity.net.ru

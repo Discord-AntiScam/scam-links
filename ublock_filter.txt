@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-28T21:27:21Z
+! Updated: 2023-12-28T21:27:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12587,6 +12587,7 @@ premiumsgift.com
 premiumtelegram.fun
 present-nitro.ru
 price-claim.xyz
+prime-renewall-paymentupdates.work.gd
 primefa.xyz
 primelab.live
 prismafinancerewards.net

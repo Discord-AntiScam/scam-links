@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-28T21:27:29Z
+! Updated: 2023-12-28T22:08:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25895,6 +25895,7 @@ url-small.site
 urlshorter.online
 urlshorter.site
 urlshrt1.ru
+urlsmall.online
 urlsmall.site
 uroblox.com
 urtyert.com

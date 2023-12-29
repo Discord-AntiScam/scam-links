@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-29T11:32:18Z
+! Updated: 2023-12-29T11:40:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8419,6 +8419,7 @@ fungameapp.ru
 fuovi.com
 furry.surf
 fusionist.top
+fusionlife.site
 fustcup.ru
 futureswap.tk
 futuretesla.net

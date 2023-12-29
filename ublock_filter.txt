@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-29T00:18:58Z
+! Updated: 2023-12-29T00:19:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14523,6 +14523,7 @@ slugs-web3.fr
 slugs-web3.online
 slugs-web3job.com
 slugscrypto-hub.com
+slugscryptojoin.com
 small-url.online
 small-url.site
 smartcommunity.net

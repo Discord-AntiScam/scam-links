@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2023-12-31T14:45:06Z
+! Updated: 2023-12-31T15:25:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -20863,6 +20863,7 @@ steamnewyeargift.asia
 steamniitro.com
 steamnitro.com
 steamnitro.com.ru
+steamnitro.pro
 steamnitro.xyz
 steamnitroc.com
 steamnitrof.com

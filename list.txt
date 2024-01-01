@@ -1463,6 +1463,7 @@ claim-manta.network
 claim-polyhedra.net
 claim-topia.com
 claim-your-nitro.com
+claim-zkf.com
 claim.discordchristmas.com
 claim.robuxat.com
 claimeth.net

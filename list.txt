@@ -1175,6 +1175,7 @@ c2money-skins.buzz
 calendly.fi
 camebit.com
 campaign.bcns.ai
+cap-bot.com
 cap-connect.app
 capcha.lol
 capitalswiftpremium.com

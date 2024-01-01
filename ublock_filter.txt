@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-01T17:06:30Z
+! Updated: 2024-01-01T17:06:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1177,6 +1177,7 @@ c-arl.xyz
 c-you-mamont.ru
 c0llab-land.app
 c2money-skins.buzz
+calendly.contact
 calendly.fi
 calendly.la
 camebit.com

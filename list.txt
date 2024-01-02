@@ -25971,7 +25971,6 @@ usunwirusa.pl
 utanvirus.se
 uterex.com
 uwww-roblox.com
-v-christmas.org
 v-hypixel.com
 v-mee6.xyz
 v-roblox.com
@@ -26131,6 +26130,7 @@ valorantway.fun
 valorantweapon.com
 valorantx.org
 valorantxgift.com
+valot.org
 valotour.pro
 valotune.fun
 valuesbot.com

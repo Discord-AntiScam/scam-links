@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-02T00:47:47Z
+! Updated: 2024-01-02T03:10:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12861,6 +12861,7 @@ ramroblox.com
 random-mechanics.itch.io
 rangevalidator.web.app
 ranked-gamers.com
+rankedplay-cs2.com
 ranks-hypixel.gift
 rao-ees.ru
 raobloox.com

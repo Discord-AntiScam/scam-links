@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T14:03:15Z
+! Updated: 2024-01-03T14:03:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26265,6 +26265,7 @@ vkfplatform.com
 vkulake.com
 vnebi.com
 voblox.com
+vologet.com
 vote-academymod.com
 vote-for-hypesquad.gq
 vote-for-hypesquadgroup.com

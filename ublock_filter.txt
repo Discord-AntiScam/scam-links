@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T20:03:55Z
+! Updated: 2024-01-03T21:09:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9062,6 +9062,7 @@ highslide.gq
 hihanin.com
 hikmesanbukais.com
 himanism.com
+hirecrypto-web.com
 hjoiaeoj.ru
 hlwn-cs2.com
 hobabit.com

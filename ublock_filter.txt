@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T15:51:16Z
+! Updated: 2024-01-03T15:51:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26165,6 +26165,7 @@ valve2you.com
 valve4you.com
 valvebonus.store
 valvecsgo.com
+valxmas.lol
 varbloox.com
 varfabit.com
 vbs-game-2.pro

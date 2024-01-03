@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T15:51:24Z
+! Updated: 2024-01-03T15:51:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13147,6 +13147,7 @@ riot-gifts.net
 riotgames-gift.fun
 riotgames.news
 riotgamesgiveaway.com
+riotnewyear.pro
 riotpromo.fun
 riotskin.fun
 riotvalorant.com

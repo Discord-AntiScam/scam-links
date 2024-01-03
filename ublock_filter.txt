@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T13:24:13Z
+! Updated: 2024-01-03T14:03:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25988,6 +25988,7 @@ v.wickbotverify.repl.co
 v2013.ru
 vaiorantgiveaway.com
 vaiorantpromotion.com
+valdrop.net
 valhobols.gq
 valo-christhmas.fun
 valo-jot.top

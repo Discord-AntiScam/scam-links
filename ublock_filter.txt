@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T12:54:00Z
+! Updated: 2024-01-03T13:00:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12508,6 +12508,7 @@ playsource2.pro
 playto.ru
 playvalorant-beast.top
 playvalorant-give.com
+playvalorant.christmas
 playvalorant.fun
 playvalorantgift.store
 playvalorantgifts.online

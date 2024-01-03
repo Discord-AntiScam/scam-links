@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T15:51:44Z
+! Updated: 2024-01-03T16:34:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25422,6 +25422,7 @@ topia-net.info
 topicnews.net
 toplov.com
 topmatch4you.com
+toppik-maroc.com
 topr-games.xyz
 toprobux.site
 topsk1ns.ru

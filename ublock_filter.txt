@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-03T17:54:18Z
+! Updated: 2024-01-03T17:57:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26002,6 +26002,7 @@ valixara.lol
 valo-christhmas.fun
 valo-jot.top
 valo-rant.site
+valo-riot.shop
 valobell.org
 valopromotion.com
 valora.fun

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-04T21:08:04Z
+! Updated: 2024-01-04T21:34:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7972,6 +7972,7 @@ fazeup19.com
 fazew.com
 fb-loginagdfe.mediafirex.biz.id
 fb-loginh9ktn.sennuk.com
+fb.phoenixcloud.workers.dev
 fcyber-sport.ru
 fdgdfgdf.space
 fdiscord.com

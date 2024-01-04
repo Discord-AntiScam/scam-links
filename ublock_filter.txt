@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-04T19:40:10Z
+! Updated: 2024-01-04T19:40:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11012,6 +11012,7 @@ memecoin-game.com
 memecoin.li
 memecoin.tips
 menacommunity.in
+meowster.net
 message-academy-moderators.com
 message-academy.com
 message-discord-academy.com

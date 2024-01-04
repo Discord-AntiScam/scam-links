@@ -15825,6 +15825,7 @@ steam-gift.online
 steam-gift.site
 steam-giftcards.com
 steam-gifts.ru
+steam-giftscard.com
 steam-glft.com
 steam-glftcard.com
 steam-historyoffer.xyz

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-04T14:16:53Z
+! Updated: 2024-01-04T16:10:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11738,6 +11738,7 @@ netflix-erneuerung.com
 netfllix-de.com
 nettflxiauggdn.com
 netund.com
+network-collab.land
 network-layerzero.app
 new-academy-forms-renew-testers-moderetors-connect.com
 new-apply-beta.com

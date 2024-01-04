@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-04T13:00:26Z
+! Updated: 2024-01-04T13:00:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10808,6 +10808,7 @@ majors-twltch.com
 majorstwitch.com
 makcetcsgo-old.website
 makeprogress.ga
+makinggoalsaround.info
 malaysia5.viral-telegram.com
 malwareremovalbot.com
 manage-bonus.live

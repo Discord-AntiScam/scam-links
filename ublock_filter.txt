@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-04T20:00:26Z
+! Updated: 2024-01-04T21:06:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9118,6 +9118,7 @@ httsp-steamcommunity.com
 httsp-steamcommunity.ru
 huaweiclub.ru
 hub-app.site
+hubappl.site
 hubgifts-reg.ru
 hugeslide.gq
 hulejsoops.ru

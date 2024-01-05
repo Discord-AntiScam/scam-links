@@ -14592,6 +14592,7 @@ slugscryptojoin.com
 slugscryptoweb.com
 small-url.online
 small-url.site
+smart-paym.su
 smartcommunity.net
 smartsync-protocol.buzz
 smartwebcontractdapps.netlify.app

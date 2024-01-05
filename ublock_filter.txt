@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-05T02:15:09Z
+! Updated: 2024-01-05T02:18:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12511,6 +12511,7 @@ piscanecmatematika.xyz
 pizzaeria-papajohns.com
 plaguehunter.net
 planinpety.gq
+play-cs2.com
 play-silt.games
 playcounterstrike2.com
 playcsgo-steam.ru

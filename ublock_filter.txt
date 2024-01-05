@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-05T15:10:28Z
+! Updated: 2024-01-05T19:02:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -20058,6 +20058,7 @@ steamconnuniitty.tk
 steamconnuniity.ru
 steamconnunirty.ru
 steamconnunitiy.com
+steamconnunitiy.ru
 steamconnunitly.ru
 steamconnunitty.ru
 steamconnunitu.online

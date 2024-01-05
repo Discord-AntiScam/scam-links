@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-05T02:01:52Z
+! Updated: 2024-01-05T02:15:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1962,6 +1962,7 @@ cs2-twltchs.tv
 cs2-twt.com
 cs2-valve.com
 cs2-xmas.pw
+cs2.eu.com
 cs2.net.ru
 cs23drop.com
 cs2a.com

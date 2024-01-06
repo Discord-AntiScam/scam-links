@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-05T21:51:33Z
+! Updated: 2024-01-06T03:30:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11913,6 +11913,7 @@ nitro-app.com
 nitro-app.fun
 nitro-b.xyz
 nitro-best.com
+nitro-blond.vercel.app
 nitro-boost.com
 nitro-boost.pw
 nitro-boost.ru

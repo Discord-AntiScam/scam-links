@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-06T16:39:32Z
+! Updated: 2024-01-06T17:18:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1523,7 +1523,6 @@ clooud9.xyz
 cloud9.academy
 cloud9team.fun
 cloud9team.space
-cloudfront.net
 cloudteam9.com
 cloudteam9.fun
 clove-nitro.com

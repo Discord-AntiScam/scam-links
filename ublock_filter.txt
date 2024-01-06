@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-06T23:32:12Z
+! Updated: 2024-01-06T23:32:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7578,6 +7578,7 @@ enter-bad-bunnies.com
 enter-coinswap-space.com
 enter-coinswap.com
 enter-cryptohire.com
+enter-cryptohires.com
 enter-discord-events.com
 enter-discord-moderator.com
 enter-from-hypesquad-forms.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-06T23:32:15Z
+! Updated: 2024-01-06T23:32:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7610,6 +7610,7 @@ enterhypesquad.com
 enterjobcord.com
 enterjobscord.com
 enters-cryptohire.com
+enters-cryptohires.com
 entertainment-hypesquad.com
 entry-tsukimi.com
 entry.deno.dev

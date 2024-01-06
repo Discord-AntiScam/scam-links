@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-06T17:45:49Z
+! Updated: 2024-01-06T18:16:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12252,6 +12252,7 @@ obtain-hypesquad.gq
 obtain-source2.pro
 obywatelwie.click
 obzh.ru
+ocmordinals.xyz
 ocroxbit.com
 odis-gifts.gq
 odsprzedaz.pl

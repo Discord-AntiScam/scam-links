@@ -1945,6 +1945,7 @@ cs2-twich.net
 cs2-twich.ru
 cs2-twitch-drops.com
 cs2-twitch.com
+cs2-twitch.live
 cs2-twitch.net
 cs2-twitch.online
 cs2-twitch.pro

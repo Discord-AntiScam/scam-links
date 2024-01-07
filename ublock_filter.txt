@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-07T17:36:49Z
+! Updated: 2024-01-07T17:57:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7299,6 +7299,7 @@ dyno.rest
 dyno.site
 dyno.so
 dyno.uno
+dyno.website
 dynoapp.info
 dynoapp.io
 dynoapps.io

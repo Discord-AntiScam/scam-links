@@ -26276,6 +26276,7 @@ verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
 verifycaptcha.xyz
+verifycaptchabot.site
 verifydiscord-whop.com
 verifydyno.xyz
 verifyhypixel.net

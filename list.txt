@@ -464,6 +464,7 @@ application-recruitment.com
 application-testers-beta.com
 application-testers.com
 application-to-hypesquad.com
+applicationhub.site
 applicationmoderatoracademy.com
 applications-beta.com
 applications-discord.com

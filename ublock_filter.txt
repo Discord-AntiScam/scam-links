@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-07T21:45:51Z
+! Updated: 2024-01-07T22:12:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1584,6 +1584,7 @@ coinmeex.com
 coinmoney.in.net
 coinoby.com
 coinoxe.com
+coins-portal.web.app
 coinshain.com
 cointradebtc.com
 coinvemp.com

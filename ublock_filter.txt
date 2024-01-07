@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-07T21:03:36Z
+! Updated: 2024-01-07T21:06:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2712,6 +2712,7 @@ devforum-roblox.ru
 devloper-team.info
 devlopers.info
 dexenos.com
+dexrectification.live
 dfiscord.com
 dfscord-app.club
 dfscord-app.com

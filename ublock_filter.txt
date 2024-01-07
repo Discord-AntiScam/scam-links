@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-07T17:11:15Z
+! Updated: 2024-01-07T17:36:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1187,6 +1187,7 @@ calendly.la
 camebit.com
 campaign.bcns.ai
 cap-bot.com
+cap-bot.org
 cap-connect.app
 capbot.app
 capbot.net

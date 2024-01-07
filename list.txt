@@ -1183,6 +1183,7 @@ calendly.la
 camebit.com
 campaign.bcns.ai
 cap-bot.com
+cap-bot.org
 cap-connect.app
 capbot.app
 capbot.net

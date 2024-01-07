@@ -1356,6 +1356,7 @@ captchasledgehammer.com
 captchatest.site
 captchaveri.net
 captchaveri.org
+captchaverify-bot.site
 captchavrfy.com
 captchavulcan.com
 captdc.net

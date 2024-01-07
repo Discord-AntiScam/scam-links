@@ -14624,6 +14624,7 @@ small-url.site
 smart-paym.su
 smartcommunity.net
 smartsync-protocol.buzz
+smartwalletintegration.com
 smartwebcontractdapps.netlify.app
 smeacommunity.com.au
 smitecommunity.org

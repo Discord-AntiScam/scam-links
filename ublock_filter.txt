@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-07T17:57:45Z
+! Updated: 2024-01-07T19:15:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12471,6 +12471,7 @@ pandaq-mint.net
 pandaskins.ru.com
 pandemidestekpaket.cf
 pannel-discord.nl
+paragonlootz.com
 paranoid.pro
 participate-from-hypesquad.com
 participate-hypesquad-events.com

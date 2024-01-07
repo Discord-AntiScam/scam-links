@@ -7579,6 +7579,7 @@ enter-coinswap-space.com
 enter-coinswap.com
 enter-cryptohire.com
 enter-cryptohires.com
+enter-cryptoshire.com
 enter-discord-events.com
 enter-discord-moderator.com
 enter-from-hypesquad-forms.com

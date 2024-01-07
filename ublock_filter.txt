@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-07T16:34:08Z
+! Updated: 2024-01-07T17:11:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7508,6 +7508,7 @@ electronika.spb.ru
 electum.online
 elevisions.biz
 elisaesport-cs2.com
+elitegrid.org
 elon-ai.net
 elon-bit.com
 elon-crypto.com

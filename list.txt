@@ -1320,6 +1320,7 @@ captchabots.cc
 captchabots.fr
 captchabots.xyz
 captchabotv.000webhostapp.com
+captchabotverefication.website
 captchabotverify.site
 captchabotverify.website
 captchaclick.net

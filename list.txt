@@ -729,6 +729,7 @@ auth-sledgehammer.app
 auth-vulcan.xyz
 authenticate-vulcan.xyz
 authenticate.hypesquading.repl.co
+authentication-collab.land
 authmee6.com
 authmee6.net
 authmee6.org

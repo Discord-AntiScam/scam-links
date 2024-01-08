@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-08T17:31:58Z
+! Updated: 2024-01-08T18:34:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15586,6 +15586,7 @@ starship23.org
 starship33.com
 starshipspacex.io
 starshipx2.space
+start-collab.land
 start-hypesquad-event.com
 start-hypesquad-events.com
 start-hypesquad.com

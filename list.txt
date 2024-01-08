@@ -1731,6 +1731,7 @@ connect.coinswap-join.com
 connect.collab.ms
 connected-hypesquad-events.tk
 connectedcollab.land
+connecter-collab.land
 connectguild.site
 connectinventoryaccount.com
 connection-discord-hypesquad.com

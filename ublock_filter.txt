@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-08T20:22:28Z
+! Updated: 2024-01-08T20:58:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8526,6 +8526,7 @@ gambit.net.ru
 game-case.ru
 game-csgo-steam.ru
 game-csgosteam.ru
+game-glory.net
 game-silks.xyz
 game-steam-csgo.ru
 game-steamcsgo.ru

@@ -26327,6 +26327,7 @@ verify-vulcan.xyz
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
+verifycaptcha-bot.online
 verifycaptcha-bot.site
 verifycaptcha.xyz
 verifycaptchabot.site

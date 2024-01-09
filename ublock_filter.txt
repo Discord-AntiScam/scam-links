@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-09T14:56:13Z
+! Updated: 2024-01-09T15:36:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8678,6 +8678,7 @@ getyournitro3.one
 getyours-cs2invite.com
 getyours-cs2invite.net
 gfcsgo88.xyz
+gft50.com
 gfts-card.pro
 gfts-cards.com
 gftscard.com

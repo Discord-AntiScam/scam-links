@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-09T19:31:53Z
+! Updated: 2024-01-10T03:16:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25150,6 +25150,7 @@ summer-rust.xyz
 summerdiscord.com
 sunflowerland.click
 sunitro-gift.xyz
+suntextilesllc.com
 sup-event.gq
 sup-event.ml
 sup-idea.com

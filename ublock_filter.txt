@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-10T13:44:44Z
+! Updated: 2024-01-10T16:18:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12492,6 +12492,7 @@ p2021.cn
 p2022.asia
 p6021475209.asia
 pachesma.gq
+paczka-w-drodze.com
 pages-notifications.net
 palowarnia.com
 pancake-swap-drop.pro

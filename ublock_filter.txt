@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-10T03:20:28Z
+! Updated: 2024-01-10T03:25:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11401,6 +11401,7 @@ muskx2.fun
 mustaphaacademy.com
 mutants-shibas-club.com
 mwpcoin.com
+mww-roblox.com
 mwww-roblox.com
 mxmcheats.online
 my-cs2nfts.com

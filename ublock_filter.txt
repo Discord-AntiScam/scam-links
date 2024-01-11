@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-11T16:36:45Z
+! Updated: 2024-01-11T18:36:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25547,6 +25547,7 @@ together-collab.land
 token-bit.com
 tokens-collab.land
 tokens-holder.web.app
+tokens-holders.web.app
 tollan.xyz
 ton-reward.com
 toolblox.org

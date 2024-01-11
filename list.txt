@@ -4029,6 +4029,7 @@ discord-go.ru
 discord-gq.ru
 discord-guard.com
 discord-guard.ml
+discord-guild-verify.site
 discord-guildlines.com
 discord-gvh.net.ru
 discord-gvl.org.ru

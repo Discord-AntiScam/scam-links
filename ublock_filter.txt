@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-11T21:49:40Z
+! Updated: 2024-01-11T22:29:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25582,6 +25582,7 @@ topw-gamez.xyz
 topz-games.xyz
 totalav.com
 totaltopposts.com
+tour-csgo.ru
 tourcs-2022.cf
 tourcs2.com
 tourcs2022.cf

@@ -12518,6 +12518,7 @@ pannel-discord.nl
 paper-hand.web.app
 paperhand-check.web.app
 paperhanded-check.web.app
+paperhands-eth.web.app
 paragonlootz.com
 paranoid.pro
 participate-from-hypesquad.com

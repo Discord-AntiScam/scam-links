@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-12T01:58:23Z
+! Updated: 2024-01-12T02:26:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26389,6 +26389,7 @@ verifyaccount-for-bluetick.com
 verifybadgeteam.com
 verifycaptcha-bot.online
 verifycaptcha-bot.site
+verifycaptcha.net
 verifycaptcha.xyz
 verifycaptchabot.site
 verifydiscord-whop.com

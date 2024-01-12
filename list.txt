@@ -26385,6 +26385,7 @@ verifyaccount-for-bluetick.com
 verifybadgeteam.com
 verifycaptcha-bot.online
 verifycaptcha-bot.site
+verifycaptcha.net
 verifycaptcha.xyz
 verifycaptchabot.site
 verifydiscord-whop.com

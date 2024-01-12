@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-12T08:05:02Z
+! Updated: 2024-01-12T11:17:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8488,6 +8488,7 @@ fsport-cyber.site
 fsportcs2.ru
 fsportcsgo.space
 fsportcyber.ru
+fsporte.ru
 fsportes-csgo.ru
 fsports-tournament.ru
 fsscybersport.pro

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-13T08:48:55Z
+! Updated: 2024-01-13T09:15:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11117,6 +11117,7 @@ miniurl.pw
 mint-dorks.xyz
 mint-hatsunemiku.com
 mint-shardeum.org
+mintblockchain-rewards.vercel.app
 mintlebit.biz
 mintyoursnfts.net
 mipcoins.com

@@ -1455,6 +1455,7 @@ cheapkilt.com
 cheat-lab.net
 cheatlab.app
 cheatlab.org
+check-tokens.web.app
 check-web3.com
 checkcaptcha-bot.site
 checkcryptojob.com

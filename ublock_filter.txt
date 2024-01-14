@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-14T16:10:27Z
+! Updated: 2024-01-14T19:12:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26534,6 +26534,7 @@ vur.fyi
 vveb-roblox.com
 vvv-roblox.com
 vvvv-robiox.com
+vvvv-roblox.com
 vvvvvw-roblox.com
 vvvw-robiox.com
 vvww-roblox.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-15T01:43:40Z
+! Updated: 2024-01-15T01:43:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12851,6 +12851,7 @@ pubgdoear.site
 pubgdreams.com
 pubge21.xyz
 pubgetc.xyz
+pubgeurope.top
 pubgfree77.com
 pubgfreedownload.org
 pubgfreeeus.cf

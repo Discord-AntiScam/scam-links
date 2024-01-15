@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-15T00:13:03Z
+! Updated: 2024-01-15T01:43:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7889,6 +7889,7 @@ facebook.rjearning.com
 facebookorgn.com
 facedrop.one
 faceit-drop.com
+faceit-login.ru
 faceit-premium.com
 faceitcase.com
 facepnuch.com

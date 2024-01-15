@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-15T13:08:13Z
+! Updated: 2024-01-15T13:40:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -327,6 +327,7 @@ alm-gaming.com
 aloha-news.net
 alphacoinex.com
 alphasource2.com
+altdentifir.org
 alterprogs.ru
 altervista.org
 altidentifer.net

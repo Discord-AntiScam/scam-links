@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-14T23:28:44Z
+! Updated: 2024-01-15T00:13:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7924,6 +7924,7 @@ facetpaunchs-twltchs.com
 fadsfsafasfsaf.herokuapp.com
 fall500.ru
 famdrex.com
+famousfox.pro
 fang-operation.ru
 fantasticfilms.ru
 faravirus.ro

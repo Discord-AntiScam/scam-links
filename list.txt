@@ -1304,6 +1304,7 @@ captchabot-discord.com
 captchabot-guild.co
 captchabot-guild.com
 captchabot-verification.xyz
+captchabot-verifier.xyz
 captchabot-verify.com
 captchabot-verify.online
 captchabot-verify.site

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-15T22:48:57Z
+! Updated: 2024-01-15T23:00:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -750,6 +750,7 @@ authy-vulcan.com
 autokomis-glownski.pl
 autokomis-wojtaszek.pl
 autth-veb-login.ru
+autth-veeb-logiln.site
 autumnbot.cloud
 auuthh-veb-login.site
 avatarblox.com

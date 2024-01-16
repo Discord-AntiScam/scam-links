@@ -1109,6 +1109,7 @@ bot.ngo
 botapp-discord.com
 botcaptcha-verify.link
 botcaptcha-verify.online
+botcaptcha-verify.org
 botcaptcha-verify.site
 botcaptcha.com
 botcaptcha.site

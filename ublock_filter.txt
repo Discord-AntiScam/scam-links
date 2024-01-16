@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-16T12:21:05Z
+! Updated: 2024-01-16T12:29:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -23592,6 +23592,7 @@ steellsseriesgifts.com
 steellsseriespromotion.com
 steellsseriespromotions.com
 steelseries-discord-nitro.com
+steelseries.club
 steelseriesgift.com
 steelseriesgifts.com
 steelseriesnitro.com

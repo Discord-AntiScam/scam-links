@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-17T14:10:34Z
+! Updated: 2024-01-17T15:52:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2725,6 +2725,7 @@ delawareipackage.com
 deltalore.pro
 deltasec300gt.fun
 dengiua.com
+dentifier.site
 der-csgo.ru
 derimonz.xyz
 derwoood.xyz

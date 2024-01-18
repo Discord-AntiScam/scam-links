@@ -10396,6 +10396,7 @@ join-thehypesquad.ml
 join-to-hypesquad-forms.com
 join-trial-hypesquad-moderator.com
 join-tsukimi.com
+join-uvo.com
 join-whatisthissorcery.com
 join-zuku.com
 join.hypeteams.repl.co

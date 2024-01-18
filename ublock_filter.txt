@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-18T03:27:41Z
+! Updated: 2024-01-18T10:48:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7775,6 +7775,7 @@ ethvip7.com
 euphe-gun.com
 euphonious-sable-30ec8d.netlify.app
 evalorant.com
+eve-cord.com
 event-bitgert.com
 event-csgo.com
 event-discord.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-19T01:31:13Z
+! Updated: 2024-01-19T09:02:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13951,6 +13951,7 @@ s1mple-cs2.com
 s1mple-cs2.org
 s1mple-live.ru
 s1mple-navi.com
+s1mple-premium.net
 s1mple-prizes.net
 s1mple-prizes.org
 s1mple.skin

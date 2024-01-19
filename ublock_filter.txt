@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-19T21:28:34Z
+! Updated: 2024-01-19T22:47:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12312,6 +12312,7 @@ nltrogifts.ru
 nltroglfts.ru
 nltrosteam.com
 nltrosub.com
+nnect-collab.land
 no-20220000317.asia
 no-202208300081.asia
 no-800010210.asia

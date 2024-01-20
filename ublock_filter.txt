@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-20T13:07:07Z
+! Updated: 2024-01-20T13:48:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9168,6 +9168,7 @@ hlwn-cs2.com
 hobabit.com
 hodl-checker.web.app
 hodmex.com
+holder-check.web.app
 holiday-valorant.com
 hollow-servers.com
 hollowrust.com

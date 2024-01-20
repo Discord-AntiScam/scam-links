@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-19T23:38:59Z
+! Updated: 2024-01-20T11:28:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11536,6 +11536,7 @@ naiedel.top
 naiedrl.top
 nakamegosnft.com
 nakamigos.info
+nakamigos.network
 nakamigos.space
 nakamigosworld.com
 nakapote.com

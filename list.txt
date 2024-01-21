@@ -11160,6 +11160,7 @@ mgifts.net
 mhitfr5.firebaseapp.com
 mi-gifts.ru
 microsoft-office.zip
+microsoft-verify.live
 microsup.net
 microsupportjp.xyz
 minadiscord.000webhostapp.com

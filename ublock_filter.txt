@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-21T20:08:40Z
+! Updated: 2024-01-21T21:26:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25560,6 +25560,7 @@ teslatucker.com
 teslawallet.pro
 teslawins.io
 teslawx.com
+teslax-2023.info
 teslax2coin.com
 teslax2coinx.com
 teslaxv.com

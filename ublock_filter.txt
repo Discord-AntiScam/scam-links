@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-21T22:34:56Z
+! Updated: 2024-01-21T22:35:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14010,6 +14010,7 @@ sarobux.com
 satemcommunity.ru
 saweria.co
 sbmasters.online
+sbverification.ru
 scamcommunity.ru
 school-moderator.com
 school-moderators.com

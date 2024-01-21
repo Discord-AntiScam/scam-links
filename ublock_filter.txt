@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-21T16:20:42Z
+! Updated: 2024-01-21T18:37:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -354,6 +354,7 @@ amigosdetuciudad.com
 amlsecure.org
 ammoniac-freshwater.000webhostapp.com
 amurutro.ru
+analyse-trades.web.app
 analyzercsgo.host
 angryisland.cf
 aniljv82.in

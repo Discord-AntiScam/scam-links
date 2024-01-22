@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-22T00:21:06Z
+! Updated: 2024-01-22T00:21:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -971,6 +971,7 @@ bitcoinbwin.com
 bitcoinesystem.su
 bitcoingenerator.cash
 bitcoingenerator.me
+bitcoinminetrix-2.pages.dev
 bitcturbo.com
 bitcwolfs.com
 bitexli.com

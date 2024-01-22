@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-22T00:18:50Z
+! Updated: 2024-01-22T00:18:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11170,6 +11170,7 @@ microsoft-office.zip
 microsoft-verify.live
 microsup.net
 microsupportjp.xyz
+migrate-memedefiv2.xyz
 minadiscord.000webhostapp.com
 minecraftverify.com
 minecrft.com

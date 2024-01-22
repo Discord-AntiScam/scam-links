@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-21T22:52:51Z
+! Updated: 2024-01-22T00:18:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10853,6 +10853,7 @@ lunarclient-store.shop
 lunarclient.co
 lunarclient.de
 lunarclient.eu
+lunarclient.online
 lunarclient.store
 lunarclient.uk
 lunarclientgifts.me

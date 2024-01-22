@@ -12606,6 +12606,7 @@ paperhand-networks.web.app
 paperhand-scan.web.app
 paperhanded-check.web.app
 paperhanded-network.web.app
+paperhands-analyser.web.app
 paperhands-eth.web.app
 paperhands-holders.web.app
 paperhands-networks.web.app

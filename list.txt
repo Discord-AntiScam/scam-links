@@ -26716,6 +26716,7 @@ wallconet.onrender.com
 wallconnet.onrender.com
 wallet-connect-edu.pages.dev
 wallet-steam.ml
+wallet-updatepage-dev.pages.dev
 walletconnectdh.cf
 walletconnecthj.gq
 walletconnecttf.gq

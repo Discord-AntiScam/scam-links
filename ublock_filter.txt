@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-23T22:55:44Z
+! Updated: 2024-01-23T22:55:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26720,6 +26720,7 @@ wallconet.onrender.com
 wallconnet.onrender.com
 wallet-connect-edu.pages.dev
 wallet-steam.ml
+wallet-updatepage-dev.pages.dev
 walletconnectdh.cf
 walletconnecthj.gq
 walletconnecttf.gq

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-23T22:53:15Z
+! Updated: 2024-01-23T22:53:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8107,6 +8107,7 @@ firmis-min.com
 first-formulary-hypesquad.com
 firtonesroll.ru.com
 fiscord.com
+fixxdapp.pages.dev
 fjhhjh.web.app
 flagged-sledgehammer.app
 flash.cn

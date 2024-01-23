@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-23T22:55:05Z
+! Updated: 2024-01-23T22:55:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1460,6 +1460,7 @@ certifycryptojob.online
 ceters.net
 cex-3m-shib-giveaway.bounty-connect.live
 cexdaotrade.com
+cfgxgfxf.pages.dev
 cfxxfwzx.com
 cgdc.ct8.pl
 cgllab.land

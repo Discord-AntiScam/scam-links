@@ -2,6 +2,7 @@
 0www-roblox.com
 0x000-ticket-mod.rf.gd
 0x1trade.com
+0x3.pages.dev
 0x4.pages.dev
 0xmons.net
 1-roblox.info

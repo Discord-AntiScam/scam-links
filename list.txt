@@ -2769,7 +2769,6 @@ devforum-roblox.com
 devforum-roblox.ru
 devloper-team.info
 devlopers.info
-dexbridge.pages.dev
 dexenos.com
 dexrectification.live
 dfiscord.com
@@ -26730,6 +26729,7 @@ wawacsgo.store
 waybeta2.pro
 wayesl.com
 wbotcaptcha.com
+wc-node.pages.dev
 wdeliv.net
 wdw-roblox.com
 we-case.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-23T22:55:26Z
+! Updated: 2024-01-23T22:55:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -797,6 +797,7 @@ badge-team.ml
 badgehypesquad.com
 bainushe.com
 balalaf.com
+balthazar-airdrop.pages.dev
 bandit-camp.com
 bank---auth.best
 base-layer2.com

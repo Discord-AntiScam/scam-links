@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-24T15:13:01Z
+! Updated: 2024-01-24T15:23:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26854,6 +26854,7 @@ wenrd.top
 weplay.ru.com
 weplayedesports.net
 westart-auth.pro
+whalewire.app
 what-were.xyz
 whatabouthotladies.com
 whatsappp1139228.klikdisiinii.my.id

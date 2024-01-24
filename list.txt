@@ -1332,6 +1332,7 @@ captchabot-verifier.xyz
 captchabot-verify.com
 captchabot-verify.online
 captchabot-verify.site
+captchabot-verify.xyz
 captchabot-verlfy.com
 captchabot.ai
 captchabot.app

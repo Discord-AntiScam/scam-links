@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-24T20:30:17Z
+! Updated: 2024-01-24T23:30:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -22469,6 +22469,7 @@ steancummunuty.com
 steancummynity.online
 steancummynity.ru
 steanecommunlty.site
+steanmacommunity.com
 steanmcammunlty.net.ru
 steanmccmmunity.com
 steanmcconmunnity.com

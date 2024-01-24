@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-24T08:47:45Z
+! Updated: 2024-01-24T09:40:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -24789,6 +24789,7 @@ store-discord.com
 store-hypixel.claims
 store-hypixel.gift
 store-hypixel.org
+store-lunarclient-claim.com
 store-lunarclient.shop
 store-srupowered.ru
 store-steam-csgo.ru

@@ -24785,6 +24785,7 @@ store-discord.com
 store-hypixel.claims
 store-hypixel.gift
 store-hypixel.org
+store-lunarclient-claim.com
 store-lunarclient.shop
 store-srupowered.ru
 store-steam-csgo.ru

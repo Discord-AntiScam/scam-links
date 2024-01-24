@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-24T03:11:08Z
+! Updated: 2024-01-24T08:40:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1073,6 +1073,7 @@ bloxybot.com
 bloxytools.net
 blustcoin.com
 bmwforum.co
+bnb-chainexchaing.online
 bnbcoinsearn.online
 bnewsblite.me
 bnmu.xyz

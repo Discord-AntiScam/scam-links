@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-24T03:10:45Z
+! Updated: 2024-01-24T03:11:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8584,6 +8584,7 @@ gabe-csgo.com
 gabe-newyear.com
 gabe-steamcommunity.com
 gadgetblog.ru
+gala-hub.com
 gala-wins.com
 galaxyxtrade.com
 galxe.cm

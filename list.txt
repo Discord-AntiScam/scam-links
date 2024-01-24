@@ -15035,6 +15035,7 @@ spamaltprotection.click
 spambotdetection.click
 spambotprevention.click
 spamdetector.click
+spamprotect.xyz
 spamremoval.click
 spamremove.click
 special-update.online

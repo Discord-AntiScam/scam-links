@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-24T10:11:55Z
+! Updated: 2024-01-24T12:16:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -728,6 +728,7 @@ astralis2.net.ru
 astralis2.org.ru
 astralisgift.fun
 astrallis.net.ru
+astrationplay.com
 astrdrop.net
 astresports.xyz
 asusworlds.com

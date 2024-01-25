@@ -10519,6 +10519,7 @@ katowice.ru
 kava-api.live
 kava-api.pro
 kava-api.pw
+kava-api.xyz
 kava-guards.com
 kavachain.club
 kavacloud.xyz

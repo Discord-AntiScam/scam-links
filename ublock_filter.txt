@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-25T20:38:02Z
+! Updated: 2024-01-25T20:43:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1985,6 +1985,7 @@ cs2-beta.pl
 cs2-beta.ru
 cs2-beta.world
 cs2-betatesting.com
+cs2-biast.com
 cs2-blast.com
 cs2-blasts.com
 cs2-case.fun

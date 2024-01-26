@@ -2345,6 +2345,7 @@ csgo2-beta.com
 csgo2-beta.pro
 csgo2-beta.website
 csgo2-betas.com
+csgo2-blast.com
 csgo2-claim.com
 csgo2-global.com
 csgo2-invitation.com

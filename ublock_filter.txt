@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-26T14:08:34Z
+! Updated: 2024-01-26T14:35:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1807,6 +1807,7 @@ connects-testers-forms-moderator.com
 connectt-hypesquad-intents.com
 connectt-hypesquad.com
 connectwallet-io.pages.dev
+connectweb3-trustwallet.com
 connode.onrender.com
 consesus-smartpad.buzz
 conspactiletu.gq

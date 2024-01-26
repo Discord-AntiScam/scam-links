@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-26T11:23:24Z
+! Updated: 2024-01-26T13:37:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10489,6 +10489,7 @@ joins-cryptojobs.com
 joins-events.gq
 joins-forms-hypesquad.com
 joins-in-hypesquad.com
+joins-penguin.com
 joins-penguins.com
 joins-pudgy.com
 joins-the-hypesquad.com

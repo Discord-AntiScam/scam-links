@@ -1670,6 +1670,7 @@ collab.town
 collab.yt
 collabbland.com
 collabl.land
+collabland-sync.dev
 collabland.bz
 collabland.club
 collabland.la

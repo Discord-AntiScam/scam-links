@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-26T13:45:55Z
+! Updated: 2024-01-26T13:46:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9191,6 +9191,7 @@ helix-metaverse.xyz
 hello-emailevent.ml
 hellydex.com
 helooworld.us
+help-steampowered.com
 helpash.org
 helpdesk-79a46.web.app
 helperfinderids.com

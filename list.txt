@@ -7788,6 +7788,7 @@ esource.pro
 esport-cs.com
 esport-cs2.com
 esport-csgo.com
+esport-csgo2.com
 esport-twitch.tv
 esport-twitchs.com
 esport-twltch.tv

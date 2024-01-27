@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-27T16:36:34Z
+! Updated: 2024-01-27T19:02:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7792,6 +7792,7 @@ esource.pro
 esport-cs.com
 esport-cs2.com
 esport-csgo.com
+esport-csgo2.com
 esport-twitch.tv
 esport-twitchs.com
 esport-twltch.tv

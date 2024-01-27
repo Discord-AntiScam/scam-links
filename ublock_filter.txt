@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-27T13:23:39Z
+! Updated: 2024-01-27T15:49:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25979,6 +25979,7 @@ twdrops.pro
 twich-cs.com
 twich-csgo.com
 twich-dropping.shop
+twinki-skin.com
 twitch-access.com
 twitch-activates.com
 twitch-app.com

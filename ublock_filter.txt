@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-27T13:18:34Z
+! Updated: 2024-01-27T13:21:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25875,6 +25875,7 @@ track.countlessclicks.com
 trackadsonline.top
 trackbyfast.com
 trackertrak.com
+tracking-usopt-fu.com
 tracklyfast.com
 tracksbot.com
 trade-leagues.com

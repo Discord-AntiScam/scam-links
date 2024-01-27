@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-27T13:17:49Z
+! Updated: 2024-01-27T13:18:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25489,6 +25489,7 @@ systemupdatix.club
 t510.asia
 taceitt.com
 tacelt.com
+tacking-uspsot-nj.com
 tacticalchampionship.com
 tacticalclashes.com
 tacticalshowcase.com

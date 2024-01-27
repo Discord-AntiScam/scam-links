@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-27T13:15:21Z
+! Updated: 2024-01-27T13:17:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26389,6 +26389,7 @@ usps-i4.mybigcommerce.com
 usps-number.us
 usps-onlinestore.com
 uspscd.com
+uspseran.top
 usunwirusa.pl
 utanvirus.se
 uterex.com

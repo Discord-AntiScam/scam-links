@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-28T11:19:42Z
+! Updated: 2024-01-28T13:37:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -23576,6 +23576,7 @@ stearnporewed.ru.com
 stearnpovvered.com
 stearnpowered.ru
 stearnpowered.xyz
+stearnpowerid.ru
 stearnrcommunity.com
 stearnrncommunity.ru
 stearnrncomrnunity.ru

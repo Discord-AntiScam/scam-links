@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-28T17:06:06Z
+! Updated: 2024-01-28T17:06:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1543,6 +1543,7 @@ claim-zkf.com
 claim.discordchristmas.com
 claim.robuxat.com
 claimeth.net
+claimffgratis.panellstore.site
 claimgifts.shop
 claimhypixel.com
 claimhypixel.net

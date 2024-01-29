@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-29T14:43:18Z
+! Updated: 2024-01-29T15:04:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10985,6 +10985,7 @@ madexcoin.com
 madgames.xyz
 maggicdrop.xyz
 magic-delfy.net.ru
+magic-drops.top
 magic4you.nu
 magicalsecure.netlify.app
 magicrun.site

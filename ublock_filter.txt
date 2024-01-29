@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-29T16:19:55Z
+! Updated: 2024-01-29T16:21:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14304,6 +14304,7 @@ shewantsumuch.com
 shhh.lol
 shib.events
 shiba-airdrop.space
+shibatokens.re
 shibiecoin.io
 shiboshis.mintyoursnfts.net
 shine.com.global.prod.fastly.net

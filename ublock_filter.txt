@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-29T16:13:01Z
+! Updated: 2024-01-29T16:16:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9221,6 +9221,7 @@ herdcowhas.icu
 hetaruwg.com
 hex-claim.org
 hexenbesen-gerst.de
+hexpool.net
 heyreap3r.xyz
 hffp.ru
 highslide.gq

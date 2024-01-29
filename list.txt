@@ -1533,6 +1533,7 @@ claim-hypixels.store
 claim-layerzero.net
 claim-manta.network
 claim-polyhedra.net
+claim-satoshivm.site
 claim-topia.com
 claim-your-nitro.com
 claim-zkf.com

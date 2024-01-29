@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-29T16:16:07Z
+! Updated: 2024-01-29T16:19:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -39,6 +39,7 @@
 2-spacex.com
 20.226.24.207
 20.255.61.160
+2000usdt.top
 2012-drakon.ru
 2012-god.ru
 2015-god-kozy.ru

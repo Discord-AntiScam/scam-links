@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-29T13:38:21Z
+! Updated: 2024-01-29T13:45:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26047,6 +26047,7 @@ twitch-facepunch.com
 twitch-facepunchs.com
 twitch-favours.com
 twitch-game.com
+twitch-gamer.com
 twitch-games.tv
 twitch-gaming.com
 twitch-gift.com

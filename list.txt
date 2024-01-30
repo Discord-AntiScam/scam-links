@@ -14431,6 +14431,7 @@ sign-up-squadacademy.ml
 sign4cup.com
 signup-academy-moderator.com
 signup-academymod.com
+signup-debank.com
 signup-discord-hypesquadevents.com
 signup-discordhypedquad.com
 signup-exam-hypesquad.com

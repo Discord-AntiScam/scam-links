@@ -7737,6 +7737,7 @@ enter-orbiter.foundation
 enter-satoshi.com
 enter-satoshis.com
 enter-server-captcha.com
+enter-starknet.claims
 enter-starknet.events
 enter-the-hypesquad.com
 enter-to-hypesquad-forms.com

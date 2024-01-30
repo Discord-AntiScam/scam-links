@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T18:20:41Z
+! Updated: 2024-01-30T22:20:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10049,6 +10049,7 @@ hypixelstore.site
 hypixelstore.xyz
 hypixelverification.ru
 hypixelverificationbot.onrender.com
+hypixelverify.de
 hypixelverify.eu
 hypixelverify.xyz
 hypsquad-invitation.com

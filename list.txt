@@ -10045,6 +10045,7 @@ hypixelstore.site
 hypixelstore.xyz
 hypixelverification.ru
 hypixelverificationbot.onrender.com
+hypixelverify.de
 hypixelverify.eu
 hypixelverify.xyz
 hypsquad-invitation.com

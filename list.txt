@@ -13395,6 +13395,7 @@ register-to-hypesquad.gq
 register-to-hypeteam.com
 register-xai.games
 register-xpet.com
+register-zero.claims
 register-zero.com
 register.academypartners.repl.co
 register.hypesquad-event.info

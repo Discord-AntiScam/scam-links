@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:39:40Z
+! Updated: 2024-01-30T10:39:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13412,6 +13412,7 @@ registration-moderator-academy.gq
 registration-new-hype.com
 registration-pixels.xyz
 registration-satoshivm.com
+registration-stark-io.com
 registration-stark.events
 registration-syncswap.net
 registration-to-hype.com

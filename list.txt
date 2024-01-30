@@ -10656,6 +10656,7 @@ land-api5.com
 land-assest.com
 land-confirm.com
 land-hub.org
+land-satoshi.com
 land-thelab.com
 land-uvo.com
 land-verif.com

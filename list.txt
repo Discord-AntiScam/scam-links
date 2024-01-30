@@ -14146,6 +14146,7 @@ satoshi-cord.com
 satoshi-join.com
 satoshievm.network
 satoshis-join.com
+satoshivm.trade
 saweria.co
 sbauthorization.net
 sbauthorization.ru

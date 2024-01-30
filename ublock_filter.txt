@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:46:01Z
+! Updated: 2024-01-30T10:46:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14436,6 +14436,7 @@ sign-up-squadacademy.ml
 sign4cup.com
 signup-academy-moderator.com
 signup-academymod.com
+signup-chain.link
 signup-debank.com
 signup-discord-hypesquadevents.com
 signup-discordhypedquad.com

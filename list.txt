@@ -1514,7 +1514,6 @@ checkeligibility-cyber.co
 checker-tokens.web.app
 checkerskin.com
 checkingnotifications.org
-checkjobcrypto.online
 checkup08.biz
 chess2x.com
 chess2x.net
@@ -8797,6 +8796,7 @@ getoiu.com
 getpromonitro3.ink
 getpsc.pl
 getskins.monster
+getsomecryptojob.com
 getsource2.info
 getsource2.press
 getsource2.pro

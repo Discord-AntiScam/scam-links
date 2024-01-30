@@ -13339,6 +13339,7 @@ register-official-team-hypesquad.com
 register-on-hypesquad.com
 register-on-hypeteams.com
 register-on-official-hypeteams.com
+register-satoshivm.com
 register-selected-hypesquad.com
 register-starknet.com
 register-team-hypesquad.com

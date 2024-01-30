@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:40:05Z
+! Updated: 2024-01-30T10:40:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1100,6 +1100,7 @@ bonus-case.com
 bonus-manta.network
 bonus-satoshivm.io
 bonus-valorant.fun
+bonus-wenwencoin.com
 bonustesla.live
 bookgr8.com
 boost-discord.com

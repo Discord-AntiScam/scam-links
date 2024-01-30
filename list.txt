@@ -14151,6 +14151,7 @@ satoshievm.network
 satoshis-join.com
 satoshisvm.network
 satoshivm.trade
+satoshivms.live
 saweria.co
 sbauthorization.net
 sbauthorization.ru

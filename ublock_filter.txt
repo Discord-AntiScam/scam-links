@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:12:33Z
+! Updated: 2024-01-30T10:12:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7704,6 +7704,7 @@ enemyunknowninc.com
 eneverals.biz
 eniedu.com
 enlytrade.com
+enter-ator.io
 enter-bad-bunnies.com
 enter-blockgames.com
 enter-coinswap-space.com

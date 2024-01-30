@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T02:45:01Z
+! Updated: 2024-01-30T02:45:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1544,6 +1544,7 @@ claim-hypixels.store
 claim-layerzero.net
 claim-manta.network
 claim-polyhedra.net
+claim-quant.com
 claim-satoshivm.site
 claim-steth.net
 claim-topia.com

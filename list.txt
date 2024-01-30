@@ -1540,6 +1540,7 @@ claim-hypixels.store
 claim-layerzero.net
 claim-manta.network
 claim-polyhedra.net
+claim-quant.com
 claim-satoshivm.site
 claim-steth.net
 claim-topia.com

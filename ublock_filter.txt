@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T17:45:02Z
+! Updated: 2024-01-30T17:45:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11067,6 +11067,7 @@ magnavirolls.xyz
 magnavirollz.xyz
 mail-hypesquad.com
 mail.discord-nitro-gifts.ru
+mainnet-satoshivm.io
 mainnetweb3.pages.dev
 major-blasts.com
 major-csgo.com

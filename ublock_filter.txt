@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:20:32Z
+! Updated: 2024-01-30T10:20:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10494,6 +10494,7 @@ join-rollbit.com
 join-rollbit.xyz
 join-satoshi.com
 join-satoshivm.com
+join-site.shop
 join-source2.eu
 join-sproto-gremlins.com
 join-starknetwork-io.com

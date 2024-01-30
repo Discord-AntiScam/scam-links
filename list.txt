@@ -10490,6 +10490,7 @@ join-rollbit.com
 join-rollbit.xyz
 join-satoshi.com
 join-satoshivm.com
+join-site.shop
 join-source2.eu
 join-sproto-gremlins.com
 join-starknetwork-io.com

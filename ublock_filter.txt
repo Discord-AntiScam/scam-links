@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T01:11:36Z
+! Updated: 2024-01-30T01:40:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1667,6 +1667,7 @@ coinzlltd.com
 coinzorn.com
 coleryujgdq345678hfdh.xyz
 collab-antibot.github.io
+collab-bot.xyz
 collab-certify.land
 collab-confirms.github.io
 collab-discord.github.io

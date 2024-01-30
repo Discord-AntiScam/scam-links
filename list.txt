@@ -7763,6 +7763,7 @@ enterjobscord.com
 enters-cryptohire.com
 enters-cryptohires.com
 enters-cryptoshire.com
+enters-pudgy.com
 entertainment-hypesquad.com
 entry-tsukimi.com
 entry.deno.dev
@@ -10694,7 +10695,6 @@ land-api5.com
 land-assest.com
 land-confirm.com
 land-hub.org
-land-pudgy-penguin.com
 land-satoshi.com
 land-thelab.com
 land-uvo.com

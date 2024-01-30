@@ -405,6 +405,7 @@ api-discord.nl
 api-hypesquad-team.com
 api-hypesquad.com
 api-roblox.com
+api-satoshivm.com
 api.discord.cool-js.cloud
 api14-altidentifier.com
 api15-altidentifier.com

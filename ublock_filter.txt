@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T16:06:32Z
+! Updated: 2024-01-30T16:08:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9237,6 +9237,7 @@ hedraguards.web.app
 hedrasguard.web.app
 hehf4-freerobux20gen.totalh.net
 helix-metaverse.xyz
+hellcase.688.org
 hello-emailevent.ml
 hellydex.com
 helooworld.us

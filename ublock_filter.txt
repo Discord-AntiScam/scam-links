@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:20:41Z
+! Updated: 2024-01-30T10:20:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10371,6 +10371,7 @@ join-formulary-moderadors.com
 join-formulary-moderator-test.com
 join-formulary.com
 join-formularyhypesquad.com
+join-grapecoins.com
 join-group-hypesquad.ga
 join-hashflow.events
 join-hype-academy.com
@@ -10486,6 +10487,7 @@ join-of-hypeteams.com
 join-on-hypesquad-teams.com
 join-on-hypesquad.com
 join-on-hypesquad.gq
+join-optimism.events
 join-optimism.net
 join-orbiter.finance
 join-partner.com
@@ -10497,7 +10499,6 @@ join-satoshivm.com
 join-site.shop
 join-source2.eu
 join-sproto-gremlins.com
-join-starknet-io.com
 join-starknetwork-io.com
 join-sui.com
 join-teamhypesquad.gq

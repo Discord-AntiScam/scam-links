@@ -10497,6 +10497,7 @@ join-satoshivm.com
 join-site.shop
 join-source2.eu
 join-sproto-gremlins.com
+join-starknet.events
 join-starknetwork-io.com
 join-sui.com
 join-teamhypesquad.gq

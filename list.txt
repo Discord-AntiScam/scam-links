@@ -7735,6 +7735,7 @@ enter-optimism.com
 enter-satoshi.com
 enter-satoshis.com
 enter-server-captcha.com
+enter-starknet.events
 enter-the-hypesquad.com
 enter-to-hypesquad-forms.com
 enter-to-hypesquad-formulary.com

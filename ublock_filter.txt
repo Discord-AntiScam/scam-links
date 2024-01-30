@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T01:47:05Z
+! Updated: 2024-01-30T01:47:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26439,6 +26439,7 @@ usdt-drop.space
 usdtevent.com
 usdtv1.com
 usdtv2.com
+usdtv3.com
 user-valorant.com
 user-verify.pro
 username4.godaddysites.com

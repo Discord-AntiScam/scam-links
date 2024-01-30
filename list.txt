@@ -9303,6 +9303,7 @@ hy-pixel.app
 hy-pixel.dev
 hy-pixel.wiki
 hychain-topia.xyz
+hychain.events
 hychain.trading
 hychainnode.xyz
 hycs2.com

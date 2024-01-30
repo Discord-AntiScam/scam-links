@@ -13397,6 +13397,7 @@ register-xai.games
 register-xpet.com
 register-zero.claims
 register-zero.com
+register-zero.gift
 register.academypartners.repl.co
 register.hypesquad-event.info
 registeracademymoderator.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-30T10:39:44Z
+! Updated: 2024-01-30T10:39:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25962,6 +25962,7 @@ tourcsgo.site
 tourism-services.online
 tournagifgame.site
 tournament-pudgypenguin.com
+tournament-pudgypenguins.com
 tournament-win.ru
 tournament.ru.com
 tournamentc.xyz

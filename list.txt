@@ -1278,6 +1278,7 @@ captcha-join.com
 captcha-login.id
 captcha-owls-of-fortune.fr
 captcha-server.click
+captcha-slugs.com
 captcha-smart.top
 captcha-veri.com
 captcha-vrfy.com
@@ -14993,7 +14994,6 @@ sltes-roblox.com
 slugcrypto-hubs.com
 slugs-job.com
 slugs-joins.com
-slugs-web3.com
 slugs-web3.fr
 slugs-web3.online
 slugs-web3job.com

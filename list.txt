@@ -7745,6 +7745,7 @@ enter-optimism.com
 enter-orbiter.foundation
 enter-satoshi.com
 enter-satoshis.com
+enter-satoshivms.com
 enter-server-captcha.com
 enter-starknet.claims
 enter-starknet.events

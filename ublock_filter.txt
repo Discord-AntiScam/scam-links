@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-01-31T15:17:05Z
+! Updated: 2024-01-31T16:37:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26570,6 +26570,7 @@ usspcx.top
 ussphj.top
 usspiw.top
 ussply.top
+usspmx.top
 usunwirusa.pl
 utanvirus.se
 uterex.com

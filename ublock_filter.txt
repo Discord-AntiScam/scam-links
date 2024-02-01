@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-01T09:43:39Z
+! Updated: 2024-02-01T11:15:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15946,6 +15946,7 @@ staff-discord.com
 staff-discord.net
 staisticdiscord.com
 stakefish-io.com
+staking-satoshivm.com
 staking.neuronnetwork.space
 stalousrapa.gq
 stamcommnty.ru

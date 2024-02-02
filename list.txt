@@ -1548,6 +1548,7 @@ claim-hypixel.gift
 claim-hypixel.shop
 claim-hypixels.store
 claim-layerzero.net
+claim-link.io
 claim-manta.network
 claim-polyhedra.net
 claim-quant.com

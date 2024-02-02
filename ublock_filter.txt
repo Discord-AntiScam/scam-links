@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-02T13:38:35Z
+! Updated: 2024-02-02T17:06:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11575,6 +11575,7 @@ mooo.com
 moviesboys.com
 mozorex.com
 mp801.asia
+mpepe.co
 mrbeast-cs2.com
 mrbeastvalorant.fun
 mrobloxx.com

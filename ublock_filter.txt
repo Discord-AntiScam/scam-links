@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-02T20:56:17Z
+! Updated: 2024-02-02T21:50:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7189,6 +7189,7 @@ drop.pp.ru
 dropdot.info
 dropds-gift.gq
 drope.monster
+droppradar.site
 drops-cs2.pro
 drops-cs2.space
 drops-csgo.site

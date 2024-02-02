@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-02T19:41:39Z
+! Updated: 2024-02-02T19:45:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11138,6 +11138,7 @@ mclunarclient.store
 mcomp.org
 mcverification.com
 mcverification.live
+mcverification.to
 mcverification.xyz
 md2tesla.com
 mdiscord.com

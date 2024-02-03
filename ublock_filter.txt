@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-03T19:46:44Z
+! Updated: 2024-02-03T20:15:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27072,6 +27072,7 @@ we-case.com
 we-esports.com
 we31109.asia
 weaponroll.ru
+web-connectka.tk
 web-discord-moderator.com
 web-discord.com
 web-https-roblox.com

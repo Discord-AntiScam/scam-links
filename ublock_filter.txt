@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-03T20:18:25Z
+! Updated: 2024-02-03T20:26:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14424,6 +14424,7 @@ setamcommlnity.ru
 setamcommunity.com
 seteamcommunitly.online
 seteamcommunity.com
+setup-arbitrage.com
 sex-and-flirt.com
 sex-is-here.com
 sexall.net

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-03T19:46:19Z
+! Updated: 2024-02-03T19:46:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7205,6 +7205,7 @@ drops-twltchs.com
 drops4all.pp.ru
 dropslide.gq
 dropsogiftds.gq
+dropusdt.com
 dropvalorant.site
 dropx-play.top
 drugs-is-drops-shopzilla.trycloudflare.com

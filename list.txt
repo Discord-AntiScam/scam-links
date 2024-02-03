@@ -14252,6 +14252,7 @@ satoshi-vm-gate.com
 satoshievm.network
 satoshis-join.com
 satoshisvm.network
+satoshivm-gates.com
 satoshivm.trade
 satoshivms.io
 satoshivms.live

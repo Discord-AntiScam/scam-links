@@ -17978,6 +17978,7 @@ steamcommunity.su
 steamcommunity.support
 steamcommunity.sytes.net
 steamcommunity.team
+steamcommunity.today
 steamcommunity.tools
 steamcommunity.trade
 steamcommunity.uno

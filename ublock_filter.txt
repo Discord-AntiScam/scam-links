@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-03T19:11:07Z
+! Updated: 2024-02-03T19:16:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10116,6 +10116,7 @@ imageshare.best
 impostors.vip
 improveprivacy.me
 imvu37.blogspot.com
+imxtoken.net
 in-cryptojobs.com
 incorphishor.com
 indereyn.ru.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:03:40Z
+! Updated: 2024-02-04T21:04:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2912,6 +2912,7 @@ dgiftz-premium.xyz
 diabasewoodhouse.xyz
 diacord.com
 diacordapp.com
+diamond-magiceden.network
 diamondplay.ru
 diascord.com
 diasteam.itch.io

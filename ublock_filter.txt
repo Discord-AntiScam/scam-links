@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:22:41Z
+! Updated: 2024-02-04T20:22:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11181,6 +11181,7 @@ marbling.pe.kr
 markcestgo.ru
 market-subito.site
 marketcsgo-old.com
+marketplacestatus.com
 marketsleam.xyz
 marklet-csgo.ru
 maroohost.online

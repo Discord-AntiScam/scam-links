@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:24:37Z
+! Updated: 2024-02-04T20:25:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14085,6 +14085,7 @@ rovbox.com
 roverify.ru
 royaljapan02.*
 rozzgeconmalasi.gq
+rpc-metafix.pages.dev
 rpcrectification.com
 rqblox.com
 rrobiox.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T18:30:49Z
+! Updated: 2024-02-04T18:36:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15094,6 +15094,7 @@ smartwebcontractdapps.netlify.app
 smeacommunity.com.au
 smitecommunity.org
 smowsgiving-newyear.com
+snaps-farcana.com
 snexon.com
 sng-soft.com
 snitrogift.site

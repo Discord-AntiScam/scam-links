@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T18:23:19Z
+! Updated: 2024-02-04T18:23:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11381,6 +11381,7 @@ miserve-chanics.com
 mission-ax2.com
 mmc5209800115.asia
 mobile-novinki.ru
+mocaverse.claims
 mod-academy-invite.com
 mod-academy.xyz
 mod-applying.com

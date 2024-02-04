@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T18:23:37Z
+! Updated: 2024-02-04T18:30:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1206,6 +1206,7 @@ bridge-web3.com
 bro4.biz
 bronsky.kiev
 bt96301.asia
+btc-particle.network
 btc-spacex.com
 btcbolex.com
 btcbonus.net

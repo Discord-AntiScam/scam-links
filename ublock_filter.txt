@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:16:04Z
+! Updated: 2024-02-04T21:26:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10648,6 +10648,7 @@ join-whatisthissorcery.com
 join-zero.com
 join-zero.events
 join-zero.trading
+join-zkfair.com
 join-zuku.com
 join.hypeteams.repl.co
 join2saylor.net

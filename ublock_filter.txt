@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T13:08:23Z
+! Updated: 2024-02-04T13:42:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -104,6 +104,7 @@
 50checkingyourtraffic.com
 546cd327-cyber-lan.site
 546cd327-www.cyber-lan.site
+5eplay-cs2.com
 5eplaycsgo.com
 5esportspro.org
 5navi.ru

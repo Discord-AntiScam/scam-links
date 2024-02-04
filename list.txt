@@ -1572,6 +1572,7 @@ claim-quant.com
 claim-satoshivm.site
 claim-steth.net
 claim-topia.com
+claim-usdcoin.net
 claim-your-nitro.com
 claim-zkf.com
 claim.discordchristmas.com

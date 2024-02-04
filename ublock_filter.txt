@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T22:30:56Z
+! Updated: 2024-02-04T22:31:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7825,6 +7825,7 @@ enter-on-hypesquadevents.com
 enter-on-hypeteam.com
 enter-optimism.com
 enter-orbiter.foundation
+enter-reform.com
 enter-satoshi.com
 enter-satoshis.com
 enter-satoshivms.com

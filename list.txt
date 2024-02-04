@@ -12239,6 +12239,7 @@ newyearsub.com
 nexcubit.com
 nfc.gallery
 nft-bad-bunnies.com
+nft-g-opensea.vercel.app
 nft-imints.com
 nft-palworld.com
 nft-presale.live

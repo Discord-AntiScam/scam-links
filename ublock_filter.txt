@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:22:54Z
+! Updated: 2024-02-04T20:23:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9081,6 +9081,7 @@ giftvalor.fun
 giftvalorant.com
 giftvalorant.fun
 giftvalorant.online
+giftxrp.io
 giiveaway-discord.com
 gilstdlscordnltro.com
 gilstdlscordnltro.skin

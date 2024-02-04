@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T22:50:27Z
+! Updated: 2024-02-04T22:52:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14153,6 +14153,7 @@ roll-gift.fun
 roll-skins.ga
 rollb1t.com
 rollbitx.site
+rolldrop-dymemsion.xyz
 rollgame.net.ru
 rollmeout.xyz
 rollskin.ru

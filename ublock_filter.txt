@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T23:50:13Z
+! Updated: 2024-02-04T23:50:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9165,6 +9165,7 @@ giveavvayvalorant.com
 giveaway-discord.com
 giveaway-discord.online
 giveaway-drops.top
+giveaway-neotokyo.codes
 giveawaybot.pw
 giveawaycs2023.pro
 giveawaycsgo.fun

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:29:05Z
+! Updated: 2024-02-04T20:29:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9114,6 +9114,7 @@ give-musk23.site
 give-navi.com
 give-premius.com
 give-tesla.pro
+give-xrp.com
 give2x.net
 giveavvay-valorant.com
 giveavvayvalorant.com

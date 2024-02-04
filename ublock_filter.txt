@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:05:09Z
+! Updated: 2024-02-04T21:07:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1660,6 +1660,7 @@ clubboost-nitro.shop
 clubdlsscord-app.club
 clubs-moderators.com
 clydesupport.helpdocs.io
+cmegroupotc1.com
 cn-counterstrike.com
 cn-counterstrike2.com
 cncryptojob.com

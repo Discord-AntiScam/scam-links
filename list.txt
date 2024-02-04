@@ -12239,6 +12239,7 @@ nft-sushi.com
 nft-tesla.com
 nftbox-airdrop.com
 nftmint-eth.com
+nftopenseas.vercel.app
 nftreward.fun
 nftswhitelist.info
 nftwalletconnect.000.pe

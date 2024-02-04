@@ -1663,6 +1663,7 @@ coin-portals.web.app
 coin-spacex.com
 coinbap.com
 coinbapo.com
+coinbase-walletconnectv4.vercel.app
 coinbasediscord.com
 coinblog.site
 coinbyp.com

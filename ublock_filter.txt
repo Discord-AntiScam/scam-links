@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:12:36Z
+! Updated: 2024-02-04T20:12:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7948,6 +7948,7 @@ eventhype-squad.gq
 eventhypesquad.repl.co
 eventmusk.net
 eventpromo23.com
+eventripple.net
 events-application.gq
 events-apply.com
 events-availability.com

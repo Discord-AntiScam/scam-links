@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:27:23Z
+! Updated: 2024-02-04T20:28:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27323,6 +27323,7 @@ winfnatic.pro
 winhypesquad.gq
 winner-hypesquad.com
 winrbx1s1.pw
+winter-chain.link
 winter-smile.com
 winter2023.fun
 winthis.skin

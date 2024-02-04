@@ -14281,6 +14281,7 @@ satoshivm-gates.com
 satoshivm.trade
 satoshivms.io
 satoshivms.live
+savm.network
 saweria.co
 sbauthorization.net
 sbauthorization.ru

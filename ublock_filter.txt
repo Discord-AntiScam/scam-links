@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T23:52:05Z
+! Updated: 2024-02-04T23:53:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8830,6 +8830,7 @@ generator.discordnitrogift.com
 genesis-dlymension.com
 genesis-dlymenslon.com
 genesisdimension.xyz
+genesls-dymension.com
 gengxinbuchang.club
 genideo.com
 genkai-cyberkongz.online

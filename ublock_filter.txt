@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:16:06Z
+! Updated: 2024-02-04T20:16:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10881,6 +10881,7 @@ lgt-cs.com
 lhanw.xyz
 lib2.biz
 libra-sale.io
+lido-rewards.pages.dev
 lido.uno
 lido.works
 lidofinance.network

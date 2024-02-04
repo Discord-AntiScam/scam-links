@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T22:44:52Z
+! Updated: 2024-02-04T22:45:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13084,6 +13084,7 @@ popsync.pages.dev
 porallll.pages.dev
 poratmon.store
 porkcoin.support
+porkcoineth.net
 portal-blockchain.web.app
 portal-coin.web.app
 portal-eth.web.app

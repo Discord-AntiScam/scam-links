@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:06:23Z
+! Updated: 2024-02-04T20:06:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -811,6 +811,7 @@ b-time.site
 b38.info
 baac8634-fannykey.ru
 baac8634-www.fannykey.ru
+babydogec.site
 bad-bunnies-nft.com
 bad-bunnies-nfts.com
 badge-events.gq

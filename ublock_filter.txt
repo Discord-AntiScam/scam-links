@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T22:39:15Z
+! Updated: 2024-02-04T22:39:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13051,6 +13051,7 @@ pokemonadventure.fr
 pokemongo-go.ru
 poksten.com
 polarfigames.com
+poligonka-steking.top
 polimer.xyz
 polkasale.pro
 poly-gate.web.app

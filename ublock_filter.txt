@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:52:45Z
+! Updated: 2024-02-04T20:53:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11419,6 +11419,7 @@ metallicanft.net
 metamesks.io
 metawin.to
 metisdao.fi
+metsducks.com
 mev24.com
 mevbotsetup.com
 mevtime.com

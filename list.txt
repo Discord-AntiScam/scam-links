@@ -2759,6 +2759,7 @@ damexwallet.com
 damned2023.com
 daopepe.com
 dappcrate.com
+dappradar.host
 dapps-space.vercel.app
 dappsite.xyz
 dappsupports.com

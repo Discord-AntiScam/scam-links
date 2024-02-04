@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:15:58Z
+! Updated: 2024-02-04T20:16:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16085,6 +16085,7 @@ star.gift
 starbucks.bio
 starbucksisbadforyou.com
 starbucksiswrong.com
+stargate-app.pages.dev
 starknet.support
 starladderleague.com
 starlcnet.space

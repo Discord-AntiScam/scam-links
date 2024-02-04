@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T01:03:47Z
+! Updated: 2024-02-04T13:08:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1099,6 +1099,7 @@ boardcryptojob.com
 boblox.fr
 boblox.online
 bominex.com
+bon-hostel-zambia-completely.trycloudflare.com
 bonbonijezero.xyz
 bondikflas.xyz
 bonewin.com

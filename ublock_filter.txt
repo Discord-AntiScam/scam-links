@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:47:13Z
+! Updated: 2024-02-04T20:47:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11672,6 +11672,7 @@ monitoringservers-stats.pro
 monitoringserverslist.pro
 monitoringserversrust.pro
 monitorwickbot.online
+monoreward.com
 month-discord.ru
 monthnitro.ink
 moonlanderz.space

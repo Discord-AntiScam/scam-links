@@ -11668,6 +11668,7 @@ monitoringservers-stats.pro
 monitoringserverslist.pro
 monitoringserversrust.pro
 monitorwickbot.online
+monoreward.com
 month-discord.ru
 monthnitro.ink
 moonlanderz.space

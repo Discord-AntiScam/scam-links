@@ -1051,6 +1051,7 @@ blackfridaynitro.store
 blackfridaynitro.today
 blade-valorant.com
 bladexcloud.com
+blast-bf1.pages.dev
 blast-csgo.cc
 blast-csgo.com
 blast-event.com

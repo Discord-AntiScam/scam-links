@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:57:32Z
+! Updated: 2024-02-04T20:59:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1055,6 +1055,7 @@ blackfridaynitro.store
 blackfridaynitro.today
 blade-valorant.com
 bladexcloud.com
+blast-bf1.pages.dev
 blast-csgo.cc
 blast-csgo.com
 blast-event.com

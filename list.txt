@@ -1740,6 +1740,7 @@ collabland-sync.dev
 collabland-wallet.com
 collabland.bz
 collabland.club
+collabland.digital
 collabland.la
 collabland.land
 collabland.pro

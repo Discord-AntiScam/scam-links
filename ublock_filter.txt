@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:29:43Z
+! Updated: 2024-02-04T20:30:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13655,6 +13655,7 @@ riotvalorant.fun
 riotvalorant.site
 rip-tide.ru
 ripetide.ru
+ripple2024.org
 riptide-cs.ru
 riptide-gaming.ru
 riptide-operation.ru

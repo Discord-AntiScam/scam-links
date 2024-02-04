@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:02:00Z
+! Updated: 2024-02-04T20:02:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -713,6 +713,7 @@ ardeminggiftcred.ml
 arenacup.ru
 arenafest.pro
 arkget.pro
+arkhamcoin.net
 arkhamfinance.xyz
 arkhamintelligence.events
 arkjuly.net

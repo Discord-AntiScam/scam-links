@@ -2771,6 +2771,7 @@ dappradar.host
 dappradar.land
 dapps-space.vercel.app
 dappsite.xyz
+dappsradar.io
 dappsupports.com
 dappswalletconnect-hlner.formstack.com
 dappweb.vercel.app

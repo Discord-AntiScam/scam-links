@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T18:21:09Z
+! Updated: 2024-02-04T18:22:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1567,6 +1567,7 @@ claim-link.date
 claim-link.io
 claim-manta.network
 claim-polyhedra.net
+claim-porkcoin.org
 claim-quant.com
 claim-satoshivm.site
 claim-steth.net

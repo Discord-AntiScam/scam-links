@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:09:44Z
+! Updated: 2024-02-04T20:10:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27185,6 +27185,7 @@ web3-register.foundation
 web3-satoshivm.com
 web3-uzawv.formstack.com
 web3-worldcoin.com
+web3adrp.com
 web3adrp.link
 web3adrp.org
 web3box.io

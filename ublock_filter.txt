@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:00:37Z
+! Updated: 2024-02-04T21:00:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -972,6 +972,7 @@ beyondtheradar.com
 bghyty.firebaseapp.com
 bghyty.web.app
 biacnce.com
+bibangblast.pages.dev
 bicurdex.com
 bielyelfy.top
 bielylify.top

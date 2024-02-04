@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T19:40:27Z
+! Updated: 2024-02-04T19:40:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13570,6 +13570,7 @@ returns-moderators.com
 revercecaptcha.com
 reverts-roblox.com
 revoke-cash.org
+revokecash.us
 revyrex.com
 reward-csgo.com
 reward-graph.com

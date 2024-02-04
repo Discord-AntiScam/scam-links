@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T22:27:34Z
+! Updated: 2024-02-04T22:28:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8781,6 +8781,7 @@ gamerquestlegends.com
 gamerquestlegendsauth.com
 gamertag.shop
 games-code.ru.com
+games-mavia.com
 games-twitchs.com
 gamesbuy.net.ru
 gamesfree.org.ru

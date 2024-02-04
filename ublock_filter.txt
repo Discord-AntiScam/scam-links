@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:12:38Z
+! Updated: 2024-02-04T20:14:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -831,6 +831,7 @@ baslerkislaya.com
 bayc-event.net
 baymack.com
 bb-delivery.icu
+bbsyncs.pages.dev
 bby.rip
 bc.vc
 be-104.xyz

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:26:25Z
+! Updated: 2024-02-04T21:27:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7648,6 +7648,7 @@ e-premiumdiscrod.com
 e-premiumgift.com
 e-premiumtime.com
 ea-drop.com
+eagle-investors.co
 earlydiscord.com
 earn-eth.net
 earn-hypesquad.gq

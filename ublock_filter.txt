@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T19:10:52Z
+! Updated: 2024-02-04T19:11:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10804,6 +10804,7 @@ layerzero.space
 layerzero.ventures
 layerzero.web3-request.com
 layerzero.zone
+layerzero2.com
 layerzeroairdrop.xyz
 layerzeroau.com
 layerzerochain.app

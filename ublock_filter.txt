@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:26:58Z
+! Updated: 2024-02-04T20:27:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -90,6 +90,7 @@
 2x-tsla.com
 2xbitcoin.net
 2xtesla.net
+3000usdt.cc
 3007pc.asia
 365xcash.net
 36jfbzmdxdqapi.ru

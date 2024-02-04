@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:14:10Z
+! Updated: 2024-02-04T21:14:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10949,6 +10949,7 @@ linksdlscordgifty.com
 linksdlscordifti.com
 linkshrink.net
 linktrade.pp.ua
+liquid-eth.net
 liquid-ether.com
 liquideth.money
 liquideth.net

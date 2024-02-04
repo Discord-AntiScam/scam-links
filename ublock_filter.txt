@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:27:58Z
+! Updated: 2024-02-04T21:28:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14414,6 +14414,7 @@ satoshivm-gates.com
 satoshivm.trade
 satoshivms.io
 satoshivms.live
+savm.claims
 savm.network
 saweria.co
 sbauthorization.net

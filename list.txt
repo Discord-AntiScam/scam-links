@@ -14410,6 +14410,7 @@ satoshivm-gates.com
 satoshivm.trade
 satoshivms.io
 satoshivms.live
+savm.claims
 savm.network
 saweria.co
 sbauthorization.net

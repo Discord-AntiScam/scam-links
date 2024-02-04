@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:28:16Z
+! Updated: 2024-02-04T21:28:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7824,6 +7824,7 @@ enter-orbiter.foundation
 enter-satoshi.com
 enter-satoshis.com
 enter-satoshivms.com
+enter-savm.com
 enter-server-captcha.com
 enter-starknet.claims
 enter-starknet.events

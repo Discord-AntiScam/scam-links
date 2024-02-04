@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:12:24Z
+! Updated: 2024-02-04T21:13:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11193,6 +11193,7 @@ mail.discord-nitro-gifts.ru
 main-apyeth.com
 main-liquideth.com
 mainnet-dymension.com
+mainnet-lineabuild.pages.dev
 mainnet-satoshivm.io
 mainnetweb3.pages.dev
 major-blasts.com

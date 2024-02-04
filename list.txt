@@ -12851,6 +12851,7 @@ openseanfft.com
 openseanft-projects.vercel.app
 openseapro150-giveaway.web.app
 openseaproject-click.vercel.app
+opensenft.vercel.app
 opensia.club
 openssea.pw
 opentea.xyz

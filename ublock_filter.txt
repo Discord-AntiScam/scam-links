@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T19:53:25Z
+! Updated: 2024-02-04T19:53:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -969,6 +969,7 @@ biframos.com
 big-event-csgo.site
 big.org.ru
 big.pp.ru
+bigbang-blast.io
 bigmoneyrollawira.xyz
 bigosext69.com
 bigs.monster

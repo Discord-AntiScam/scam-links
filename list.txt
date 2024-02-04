@@ -1161,6 +1161,7 @@ botcaptchaverify.online
 botcaptchaverify.site
 botcollab.land
 botdetect.click
+botdetect.xyz
 botdetector.online
 botdynofication.fun
 botmee6.com

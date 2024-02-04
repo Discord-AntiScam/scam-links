@@ -2769,6 +2769,7 @@ daopepe.com
 dappcrate.com
 dappradar.host
 dappradar.land
+dappradar.tools
 dapps-space.vercel.app
 dappsite.xyz
 dappsradar.io

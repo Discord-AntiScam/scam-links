@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:55:40Z
+! Updated: 2024-02-04T20:55:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11800,6 +11800,7 @@ myrolls.monster
 myrollz.com
 mysearchflow.com
 myskincsgo.site
+mysofinance.net
 mystery-clouds.com
 mystery-nftbox.com
 mysterybox-nft.online

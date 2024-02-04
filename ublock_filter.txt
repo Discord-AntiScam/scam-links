@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:08:26Z
+! Updated: 2024-02-04T21:08:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10960,6 +10960,7 @@ live-airdrop.com
 live-airdrop.xyz
 live-airdrops.com
 live-pepe.com
+live-zetachain.com
 livediscordbonus.fun
 livegif.ru
 livemusk.org

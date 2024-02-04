@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:11:59Z
+! Updated: 2024-02-04T20:12:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16,6 +16,7 @@
 1111sale.us
 14kgundgapi.ru
 15dfjkbvdf.club
+16172834-coinbase.com
 178.18.241.162
 17954-coinbase.com
 17ebook.com

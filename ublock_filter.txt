@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T20:56:32Z
+! Updated: 2024-02-04T20:56:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -995,6 +995,7 @@ billing-mobile.com
 bilsh.com
 biltskans.com
 binance-it.net
+binance-k.com
 binancedrop.online
 bingotrades.com
 bingstyle.com

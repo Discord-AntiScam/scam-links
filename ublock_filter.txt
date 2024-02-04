@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-04T21:15:02Z
+! Updated: 2024-02-04T21:15:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9373,6 +9373,7 @@ hollow-servers.com
 hollowrust.com
 holofiber.xyz
 home-prize-winner-ma3d.live
+home-rendertoken.com
 home-vulcan.xyz
 hook-ups-here2.com
 hootsworkshop.com

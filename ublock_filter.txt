@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T19:17:02Z
+! Updated: 2024-02-05T19:17:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11021,6 +11021,7 @@ limited-cs2.top
 limited-test-cs2.com
 linae-build.com
 linea-build.app
+lineabuild.org
 linealayerbank.pages.dev
 link-dappradar.com
 link-hypixel.com

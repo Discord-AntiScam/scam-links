@@ -7977,6 +7977,7 @@ evecord.com
 event-bitgert.com
 event-csgo.com
 event-discord.com
+event-grayscale.com
 event-group.ga
 event-hypemoderator.com
 event-hypesquad-official.co
@@ -12885,7 +12886,6 @@ optic-bridge.com
 optimdrop.com
 optimii.be
 optnx.co
-oraidex.online
 oravblox.com
 orbita-lviv.com
 orbiter.pm

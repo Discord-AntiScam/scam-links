@@ -12350,6 +12350,7 @@ nfc.gallery
 nft-bad-bunnies.com
 nft-clickgrab.vercel.app
 nft-g-opensea.vercel.app
+nft-hedgies.com
 nft-imints.com
 nft-palworld.com
 nft-presale.live

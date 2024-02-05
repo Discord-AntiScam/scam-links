@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:51:55Z
+! Updated: 2024-02-05T03:56:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26403,6 +26403,7 @@ tratbc.com
 travel-vago-malaysia.4p-0p.com
 trdoffz.pp.ru
 trekovod.com
+trestleprotocol.net
 trfcbooost.com
 trfrc.com
 trial-hype-team.com

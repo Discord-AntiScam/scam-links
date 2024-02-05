@@ -1604,6 +1604,7 @@ claim-hypixels.store
 claim-layerzero.net
 claim-link.date
 claim-link.io
+claim-manatoken.com
 claim-manta.network
 claim-polyhedra.net
 claim-porkcoin.org

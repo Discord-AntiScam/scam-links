@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:59:33Z
+! Updated: 2024-02-05T03:59:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -698,6 +698,7 @@ appvulcan.net
 appvulcan.xyz
 apreth.app
 aptchabot.com
+aptoslabs.live
 apy-eth.eu
 apy-eth.us
 apy-protocol.com

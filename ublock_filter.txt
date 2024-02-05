@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:23:48Z
+! Updated: 2024-02-05T03:23:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12968,6 +12968,7 @@ palworid.com
 pancake-swap-drop.pro
 pancakeswap.press
 pancakeswapp.pro
+panccakeswapp.com
 pandaq-mint.net
 pandaskins.ru.com
 pandemidestekpaket.cf

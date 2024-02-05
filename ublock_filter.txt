@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T04:47:48Z
+! Updated: 2024-02-05T12:23:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1075,6 +1075,7 @@ blast-bf1.pages.dev
 blast-bzu.pages.dev
 blast-csgo.cc
 blast-csgo.com
+blast-esport.com
 blast-event.com
 blast-tv-giveaway.pro
 blastcsgo.com

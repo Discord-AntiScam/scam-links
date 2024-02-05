@@ -1071,6 +1071,7 @@ blast-bf1.pages.dev
 blast-bzu.pages.dev
 blast-csgo.cc
 blast-csgo.com
+blast-esport.com
 blast-event.com
 blast-tv-giveaway.pro
 blastcsgo.com

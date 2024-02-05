@@ -12885,6 +12885,7 @@ openseadrops.app
 openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev
 openseanfft.com
 openseanft-projects.vercel.app
+openseapr-claim-rose.vercel.app
 openseapro150-giveaway.web.app
 openseaproject-click.vercel.app
 opensenft.vercel.app

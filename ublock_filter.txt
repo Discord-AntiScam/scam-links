@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:04:07Z
+! Updated: 2024-02-05T03:04:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9041,6 +9041,7 @@ gift-nitro.store
 gift-nitro.xyz
 gift-nitrodiscord.gq
 gift-nitrofree.xyz
+gift-porkcoin.com
 gift-premium.ru
 gift-realio.com
 gift-realio.ne
@@ -14476,7 +14477,6 @@ satoshivm.trade
 satoshivms.io
 satoshivms.live
 savm.claims
-savm.live
 savm.network
 savm.trade
 saweria.co

@@ -9037,6 +9037,7 @@ gift-nitro.store
 gift-nitro.xyz
 gift-nitrodiscord.gq
 gift-nitrofree.xyz
+gift-porkcoin.com
 gift-premium.ru
 gift-realio.com
 gift-realio.ne
@@ -14472,7 +14473,6 @@ satoshivm.trade
 satoshivms.io
 satoshivms.live
 savm.claims
-savm.live
 savm.network
 savm.trade
 saweria.co

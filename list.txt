@@ -307,6 +307,7 @@ airdrop-discord.online
 airdrop-discord.ru
 airdrop-layerzeros.network
 airdrop-magiceden.com
+airdrop-mavia.com
 airdrop-nitro.com
 airdrop-pork.com
 airdrop-shardeum.com

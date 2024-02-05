@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:58:02Z
+! Updated: 2024-02-05T03:58:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13276,6 +13276,7 @@ protocolgroupgroups.com
 protradeex.com
 proworkinc.xyz
 proz.monster
+pryzm.trading
 ps3cfw.com
 pshtr.xyz
 psixoglika.pro

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T14:12:25Z
+! Updated: 2024-02-05T15:06:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26268,6 +26268,7 @@ thebiblestudies.com
 thecaptchabot.com
 thecollaboration.xyz
 thediscordapp.com
+thegraphairdrop.net
 thehypesquad-team.com
 thehypesquadeventsapply.com
 thehypesquadforms-apply.com

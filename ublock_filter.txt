@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T04:09:17Z
+! Updated: 2024-02-05T04:11:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11285,6 +11285,7 @@ malwareremovalbot.com
 manage-bonus.live
 mandljigeografija.xyz
 manta-gift.net
+manta-network.cloud
 mantle-airdrop.com
 maolegendafishinga.ru
 maper.info

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:21:54Z
+! Updated: 2024-02-05T03:21:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8028,6 +8028,7 @@ events-mails.ml
 events-moderation.com
 events-moderators.com
 events-new-hypeteam.com
+events-pendle.fi
 events-rewards.xyz
 events-riotgames.com
 events-servicess.ml

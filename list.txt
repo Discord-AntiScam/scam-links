@@ -8024,6 +8024,7 @@ events-mails.ml
 events-moderation.com
 events-moderators.com
 events-new-hypeteam.com
+events-pendle.fi
 events-rewards.xyz
 events-riotgames.com
 events-servicess.ml

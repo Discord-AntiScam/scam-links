@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:58:47Z
+! Updated: 2024-02-05T03:59:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11499,6 +11499,7 @@ message-moderators.com
 meta-business-support.mooo.com
 meta-fb.do
 meta-feedbackonline.ml
+metagiveaway.io
 metahydras-sledgehammers.app
 metallicanft.net
 metamaaskkwaallet.webflow.io

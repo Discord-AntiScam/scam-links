@@ -12338,6 +12338,7 @@ nft-presale.live
 nft-sushi.com
 nft-tesla.com
 nftbox-airdrop.com
+nftclaimclick.vercel.app
 nftmint-eth.com
 nftopenseaclaim.vercel.app
 nftopenseas.vercel.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:23:06Z
+! Updated: 2024-02-05T03:23:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8728,6 +8728,7 @@ fsteamcommunity.com
 ft-contact.com
 ft2025.top
 ftx-e49.pages.dev
+ftx-refund.pages.dev
 fuel-network.xyz
 full-nitro.com
 full-nitro.xyz

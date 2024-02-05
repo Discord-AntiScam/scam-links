@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T12:32:15Z
+! Updated: 2024-02-05T12:32:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14241,6 +14241,7 @@ rollgame.net.ru
 rollmeout.xyz
 rollskin.ru
 rollskins.monster
+roninchain.app
 roobiox.my.id
 roobloax.com
 roobloox.bid

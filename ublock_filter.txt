@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:23:59Z
+! Updated: 2024-02-05T03:24:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27624,6 +27624,7 @@ wwvw-roblox.com
 wwvwv-roblox.com
 wwvwvv-roblox.com
 www-adurite.com
+www-altlayer-io.top
 www-blox.link
 www-captcha.info
 www-connect-opensea.org

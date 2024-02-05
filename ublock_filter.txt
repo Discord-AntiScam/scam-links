@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:03:29Z
+! Updated: 2024-02-05T03:03:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13426,6 +13426,7 @@ qsadas.discordmodeclub.repl.co
 qsng.cn
 qualityhealth.com
 quellaplentyresolute.com
+quest-puffers.fi
 quick-cup.xyz
 quickmessage.us
 quickrobux.net

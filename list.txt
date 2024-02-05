@@ -9458,6 +9458,7 @@ httsp-steamcommunity.ru
 huaweiclub.ru
 hub-app.site
 hub-liquideth.com
+hub-pendle.fi
 hub-render.com
 hubappl.site
 hubgifts-reg.ru
@@ -13136,7 +13137,6 @@ porallll.pages.dev
 poratmon.store
 pork-coln.com
 porkcoin.support
-porkcoin.trade
 porkcoineth.net
 porkcolns.com
 portal-blockchain.web.app

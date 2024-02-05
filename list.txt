@@ -9024,7 +9024,6 @@ gift-hypixel-claim.com
 gift-hypixel.shop
 gift-hypixel.site
 gift-hypixel.store
-gift-jup.app
 gift-lunarclient.com
 gift-money.com
 gift-nitro.cc
@@ -27213,6 +27212,7 @@ vote-moderator.com
 vote-moderator.tk
 vote-moderators.com
 vote-moderators.tk
+vote-renzoprotocol.com
 voteforme-hypesquad.com
 votes-hype-events-support-moderator.com
 voting-for-hypesquad.gq

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:17:33Z
+! Updated: 2024-02-05T03:17:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13227,6 +13227,7 @@ programma-di-fidelizzazione.top
 programs-from-hypesquad.com
 programs-hypesquad-signup.com
 programs-moderator.com
+project-mavia.com
 project-porkcoin.com
 projectnfts-opensea.vercel.app
 projectqql.com

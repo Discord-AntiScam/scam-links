@@ -13122,6 +13122,7 @@ porkcolns.com
 portal-blockchain.web.app
 portal-coin.web.app
 portal-eth.web.app
+portal-mavia.com
 portal-sale.web.app
 portalcoins.online
 portalgaming.online

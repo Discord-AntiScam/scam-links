@@ -458,6 +458,7 @@ app-discord.net
 app-discord.ru
 app-discordc.com
 app-discords.com
+app-ether-fi.pages.dev
 app-game.com.ru
 app-gift.ru
 app-gifts.ru

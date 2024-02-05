@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T14:12:04Z
+! Updated: 2024-02-05T14:12:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -320,6 +320,7 @@ airdrop-tia.org
 airdrop-venom.one
 airdrop-yogapetz.cc
 airdrop-zkfair.network
+airdrop.homes
 airdroplayerzero.top
 airdroploot.com
 airdrops-shardeum.org
@@ -16257,7 +16258,6 @@ stakefish-io.com
 stakewise.so
 stakewises.app
 stakewises.fi
-stakeyearn.fi
 staking-satoshivm.com
 staking-satoshivm.io
 staking.neuronnetwork.space

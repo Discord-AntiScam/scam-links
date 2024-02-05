@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T18:03:39Z
+! Updated: 2024-02-05T19:16:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26305,6 +26305,7 @@ theshoparound.com
 thesilkradiance.com
 thesprotogremlin.org
 thetau.site
+theter-usdt-giveaway.eu.org
 thetipcoin.fit
 thetipcoin.market
 thetipcoin.su

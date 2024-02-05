@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:00:51Z
+! Updated: 2024-02-05T03:01:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9350,6 +9350,7 @@ haloinfinite.shop
 happy-servers.com
 happydays05.site
 happydays06.site
+harambetoken.top
 harzfriends.de
 hash-connects.com
 haste.monster

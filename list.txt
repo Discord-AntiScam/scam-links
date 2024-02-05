@@ -7834,6 +7834,7 @@ enter-on-hypeteam.com
 enter-optimism.com
 enter-orbiter.foundation
 enter-reform.com
+enter-reformdao.com
 enter-satoshi.com
 enter-satoshis.com
 enter-satoshivms.com

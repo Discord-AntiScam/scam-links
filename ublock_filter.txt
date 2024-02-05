@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T12:26:42Z
+! Updated: 2024-02-05T12:32:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -414,6 +414,7 @@ antivirus.landerhd.com
 aoeah.promo-codes.world
 ap7.ru
 ape-coins.org
+ape-terminals.com
 apecoin-llc.com
 apecoin.cx
 apecoin.do

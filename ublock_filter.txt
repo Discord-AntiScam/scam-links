@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-05T03:04:11Z
+! Updated: 2024-02-05T03:04:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9250,6 +9250,7 @@ go-discords.com
 go-hypesquad-events.com
 go-hypesquadevents-invite.com
 go-nltro.com
+go-porkcoin.com
 go-skins.ru
 go.pardot.com
 go2cup.com

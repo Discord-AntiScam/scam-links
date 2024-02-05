@@ -9246,6 +9246,7 @@ go-discords.com
 go-hypesquad-events.com
 go-hypesquadevents-invite.com
 go-nltro.com
+go-porkcoin.com
 go-skins.ru
 go.pardot.com
 go2cup.com

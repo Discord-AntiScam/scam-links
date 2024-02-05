@@ -429,6 +429,7 @@ api-hypesquad-team.com
 api-hypesquad.com
 api-roblox.com
 api-satoshivm.com
+api-wallet-verification.pages.dev
 api.discord.cool-js.cloud
 api14-altidentifier.com
 api15-altidentifier.com

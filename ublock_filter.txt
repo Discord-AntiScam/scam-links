@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-06T11:39:25Z
+! Updated: 2024-02-06T11:41:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27189,6 +27189,7 @@ venomnetwork.co
 venoxiswallet.com
 ver-server.com
 veri-captcha.bot
+verif-5556.com
 verif-nitro.ru
 verif-nitro.xyz
 verif-sledgehammer.claims

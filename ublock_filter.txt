@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-06T11:42:53Z
+! Updated: 2024-02-06T11:42:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10244,6 +10244,7 @@ ichaichat.xyz
 id-323211.xyz
 id-3495.com
 id-374749.ru
+id-4534.online
 id-5689.xyz
 id-589447987.com
 id-654132.com

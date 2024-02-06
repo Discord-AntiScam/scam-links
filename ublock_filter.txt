@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-06T11:42:11Z
+! Updated: 2024-02-06T11:42:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12980,6 +12980,7 @@ ournewsafte.biz
 outbuck.com
 output-nitro.com
 outsidersnitro.ru
+outstandingverify.top
 oveoeap.top
 oveoerc.top
 oveoere.top

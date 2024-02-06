@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-06T11:42:15Z
+! Updated: 2024-02-06T11:42:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13776,6 +13776,7 @@ reports.noodlesawp.ru
 reqclaim.com
 request-moderators-academy.com
 request-security.com
+requireds-verification-etsy.com
 rerolldrops.org.ru
 resgister-to-hypesquad.com
 reslike.net

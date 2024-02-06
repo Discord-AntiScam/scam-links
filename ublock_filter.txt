@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-06T22:48:07Z
+! Updated: 2024-02-06T22:48:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11901,6 +11901,7 @@ my-roblox.net
 my-tradelink.ru
 my-url.art
 myactualblog.com
+myasset-collab.cc
 mybeast.io
 mycaseevent.org
 myccgo.xyz

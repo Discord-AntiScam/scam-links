@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-06T20:42:14Z
+! Updated: 2024-02-06T21:03:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12915,6 +12915,7 @@ openaibtc.org
 openaiprize.live
 openbetasource2.com
 opencase-cs2.com
+opencase-giveaway.de
 opencase.space
 opendrop.io
 opengifts.space

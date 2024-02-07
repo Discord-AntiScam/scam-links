@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-07T01:46:47Z
+! Updated: 2024-02-07T03:32:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8610,6 +8610,7 @@ fortuneroll.tk
 forward-valorant.com
 fosion.ru
 fotochki.com
+foundationpolygon.com
 fov-loginsupevents.ml
 fowephwo.ru
 foxcryptoby.com

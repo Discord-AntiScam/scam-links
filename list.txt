@@ -298,6 +298,7 @@ ai-cs2.site
 ai-event.site
 ai-gptcrypto.online
 ai-spacex.net
+ai-walletdapp.surge.sh
 aics2.com
 aijobcord.com
 aione.dappcrate.com

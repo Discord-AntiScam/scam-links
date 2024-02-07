@@ -1764,6 +1764,7 @@ collab-bot.xyz
 collab-certify.land
 collab-confirms.github.io
 collab-discord.github.io
+collab-land.club
 collab-land.co
 collab-land1.pages.dev
 collab-security.land

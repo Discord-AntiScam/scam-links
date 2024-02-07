@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-07T03:39:21Z
+! Updated: 2024-02-07T03:39:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27297,6 +27297,7 @@ viirused.ee
 vincerecs2.space
 vincerelucky.pro
 vip-lady-dreams.com
+vippepe.vip
 viral-telegram.com
 virpropcnow.xyz
 virtuspro.club

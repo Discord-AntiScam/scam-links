@@ -14960,6 +14960,7 @@ skinssmonkey.ru
 skinsup.monster
 skinup.monster
 skinwallet.me.uk
+skyauth.site
 skyauth.us
 skyauthentication.ru
 skyblockiansverify.com

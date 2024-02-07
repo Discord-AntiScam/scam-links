@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-07T03:49:36Z
+! Updated: 2024-02-07T04:02:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13084,6 +13084,7 @@ partnershlp-satoshivm.com
 partnershlps-satoshivm.com
 partpicker.shop
 pass-source2.com
+passport-gitcoin.org
 pastamalicious.com
 pathofexile.site
 pay-18.info

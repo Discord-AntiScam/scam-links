@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-07T16:27:34Z
+! Updated: 2024-02-07T16:45:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26101,6 +26101,7 @@ tartairid.gq
 task-on.xyz
 taskon-gifts.fun
 tathli.com
+tbtc-satoshivm.io
 tcs2.pro
 tcs2.xyz
 team-arena.com

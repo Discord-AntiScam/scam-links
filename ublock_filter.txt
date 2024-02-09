@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-09T19:33:23Z
+! Updated: 2024-02-09T20:10:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11104,6 +11104,7 @@ llll0001582.com
 llob.land
 lnstagram-tropicalbaitouts.vercel.app
 lnstagram-verlfled-help.ml
+lnstagrram.pages.dev
 load17.biz
 loaduber-theprogressivefile.best
 localchick-here.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-09T20:41:57Z
+! Updated: 2024-02-09T20:41:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27446,7 +27446,6 @@ wallet-connect-edu.pages.dev
 wallet-steam.ml
 wallet-updatepage-dev.pages.dev
 wallet-vulcan.xyz
-walletconnect-collab.land
 walletconnectdh.cf
 walletconnecthj.gq
 walletconnecttf.gq
@@ -27665,6 +27664,7 @@ worldbeyondleft.xyz
 worldcoin.rs
 worldcryptogains.com
 worldrbx.online
+worldskava.pro
 worldskava.xyz
 wow-roblox.com
 wowcloud9.com

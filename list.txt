@@ -27442,7 +27442,6 @@ wallet-connect-edu.pages.dev
 wallet-steam.ml
 wallet-updatepage-dev.pages.dev
 wallet-vulcan.xyz
-walletconnect-collab.land
 walletconnectdh.cf
 walletconnecthj.gq
 walletconnecttf.gq
@@ -27661,6 +27660,7 @@ worldbeyondleft.xyz
 worldcoin.rs
 worldcryptogains.com
 worldrbx.online
+worldskava.pro
 worldskava.xyz
 wow-roblox.com
 wowcloud9.com

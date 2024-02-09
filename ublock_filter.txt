@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-09T22:41:43Z
+! Updated: 2024-02-09T23:24:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26969,6 +26969,7 @@ up-discord.com
 up-discord.ru
 up-musk.net
 up-nitro.com
+up-satoshivm.io
 up-spacex.com
 upcryptojob.com
 upcs.monster

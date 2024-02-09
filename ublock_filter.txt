@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-09T19:32:52Z
+! Updated: 2024-02-09T19:33:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11591,6 +11591,7 @@ mine-manta.network
 minecraftverify.com
 minecrft.com
 minero.cc
+minetrxvalidator.surge.sh
 mining168.com
 minipepe-coin.site
 miniurl.pw

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-09T23:36:01Z
+! Updated: 2024-02-10T00:04:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27385,6 +27385,7 @@ vremechko.org
 vremyamn.ru
 vsempohui.ru
 vu.fr
+vulcan-app.net
 vulcan-apps.com
 vulcan-asset.com
 vulcan-bot.net

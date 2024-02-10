@@ -14606,6 +14606,7 @@ satoshievm.network
 satoshionsol.com
 satoshis-join.com
 satoshisvm.network
+satoshivm-api.com
 satoshivm-gates.com
 satoshivm.trade
 satoshivms.io

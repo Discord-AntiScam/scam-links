@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T04:16:26Z
+! Updated: 2024-02-10T05:31:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26102,6 +26102,7 @@ takaytry.z11.web.core.windows.net
 take-discord.com
 take-hypesquad.gq
 take-layerzero.com
+take-nitro.ru
 takecdrop.com
 takedrop.gq
 takefullnitro.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T05:39:24Z
+! Updated: 2024-02-10T11:35:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11225,6 +11225,7 @@ luckyiwin.ml
 luckywinner-web1.com
 ludibry.tech
 luminate-ci.com
+lunar-bonkreward.com
 lunar-claim.net
 lunar-claims.net
 lunar-claims.xyz

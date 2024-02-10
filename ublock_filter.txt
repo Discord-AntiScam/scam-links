@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T17:40:45Z
+! Updated: 2024-02-10T17:49:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11606,6 +11606,7 @@ microsupportjp.xyz
 migrate-memedefiv2.xyz
 minadiscord.000webhostapp.com
 mine-manta.network
+mine-satoshivm.io
 minecraftverify.com
 minecrft.com
 minero.cc

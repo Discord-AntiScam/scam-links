@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T21:08:13Z
+! Updated: 2024-02-10T21:08:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2817,6 +2817,7 @@ cyber-csgo.link
 cyber-csgo.space
 cyber-gsx.com
 cyber-lan.com
+cyber-play.ru
 cyber-sport.pro
 cyber-win.ru
 cyberchoke.net

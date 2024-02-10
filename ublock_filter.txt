@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T12:30:50Z
+! Updated: 2024-02-10T12:31:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28114,6 +28114,7 @@ zipansion.com
 zipsetgo.com
 zipsetgod.com
 zk-sync.pages.dev
+zkfair-launchpad.org
 zkloyalty.com
 zkpolyhedra.com
 zks-nft.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T19:31:23Z
+! Updated: 2024-02-10T19:32:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8956,6 +8956,7 @@ get-nltro.com
 get-premiumgift.com
 get-premiums.com
 get-reward.eu.org
+get-satoshivm.app
 get-skin.com
 get-source2invite.net
 get-users-beta.ml

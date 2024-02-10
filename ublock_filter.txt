@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T17:51:59Z
+! Updated: 2024-02-10T17:52:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27373,6 +27373,7 @@ viruset.no
 virusi.bg
 virusi.hr
 virusler.info.tr
+visit-satoshivm.com
 vitaliketh.tech
 vitality-playtime.com
 vivads.net

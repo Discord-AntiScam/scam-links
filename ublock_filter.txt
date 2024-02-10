@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T00:04:15Z
+! Updated: 2024-02-10T00:48:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2900,6 +2900,7 @@ dcoda.net
 dcordgift.xyz
 dcounter-bot.com
 dcounter.site
+dcprotect.xyz
 dcsnltrogivaevay.ru
 dcsord-app.com
 dcsorde-drops.gq

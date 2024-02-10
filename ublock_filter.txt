@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-10T00:48:30Z
+! Updated: 2024-02-10T02:43:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27130,6 +27130,7 @@ valorant-promo.site
 valorant-promotion.com
 valorant-promotlon.com
 valorant-promotlons.com
+valorant-pros.com
 valorant-rewards.ltd
 valorant-rich.com
 valorant-riot.shop

@@ -1632,6 +1632,7 @@ claim-hypesquad.gq
 claim-hypixel.gift
 claim-hypixel.shop
 claim-hypixels.store
+claim-iyk.app
 claim-layerzero.net
 claim-link.date
 claim-link.io

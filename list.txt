@@ -1477,6 +1477,7 @@ captchads.app
 captchads.co
 captchads.net
 captchads.online
+captchago.fun
 captchajobcord.com
 captchajobscord.com
 captchalogin.com

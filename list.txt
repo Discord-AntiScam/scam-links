@@ -1428,6 +1428,7 @@ captchabot-complete.com
 captchabot-discord.com
 captchabot-guild.co
 captchabot-guild.com
+captchabot-protect.xyz
 captchabot-verification.xyz
 captchabot-verifier.online
 captchabot-verifier.xyz

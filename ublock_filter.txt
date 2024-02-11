@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-11T11:39:09Z
+! Updated: 2024-02-11T11:55:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10519,6 +10519,7 @@ jetcase.fun
 jhgj.njxwang.com
 jiksvaleo.live
 jinpooh.org
+jito.network
 jitodrop.net
 jitokens.com
 jitokens.xyz

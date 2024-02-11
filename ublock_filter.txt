@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-11T19:03:58Z
+! Updated: 2024-02-11T19:44:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8175,6 +8175,7 @@ ezybix.com
 f-cybersport.ru
 f-nitro.xyz
 f0824341.xsph.ru
+face-event.pro
 facebook-business-help.com
 facebook-helper-bussiness.com
 facebook-helper-center.com

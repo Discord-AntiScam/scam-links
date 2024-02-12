@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T10:08:57Z
+! Updated: 2024-02-12T10:46:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2789,6 +2789,7 @@ csmoney-drop.buzz
 csmoney-win.buzz
 csmoney-win.top
 csmoneytrading.pro
+csnavibet.com
 cspattern.com
 csportcyber.online
 csportcyber.ru

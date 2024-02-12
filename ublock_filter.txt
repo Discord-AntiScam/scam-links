@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:24:46Z
+! Updated: 2024-02-12T23:25:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28127,6 +28127,7 @@ xzcrypto-gptcjpt.live
 xzsae.hitechconnected.com
 yearnfinance.live
 yeeshiedot.ru
+yellow-recipe-c615.wl5n4b9b.workers.dev
 yobit.net
 yotbe.co
 yotbe.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T18:22:57Z
+! Updated: 2024-02-12T19:03:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -21499,6 +21499,7 @@ steamgift.asia
 steamgift.fun
 steamgift.online
 steamgift.org.ru
+steamgift.site
 steamgift.space
 steamgiftbox.com
 steamgiftcard.ru

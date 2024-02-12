@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:33:46Z
+! Updated: 2024-02-12T23:34:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13868,6 +13868,7 @@ regnitro.net.ru
 regsweep.com
 reimageplusminus.me
 rekt-skulls.xyz
+relationinfos0.wixsite.com
 remontidekor.ru
 removalspam.click
 removalspam.com

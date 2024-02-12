@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:25:39Z
+! Updated: 2024-02-12T23:25:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -262,6 +262,7 @@ adblade.com
 adcash.com
 adcell.de
 added-hypesquad.com
+addmecloud.com
 adenma.gq
 adesky.fr
 adexchangecloud.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:27:59Z
+! Updated: 2024-02-12T23:28:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10378,6 +10378,7 @@ instagram-login123.blogspot.co.at
 instagram-login123.blogspot.co.nz
 instagram-login123.blogspot.dk
 instagram-login123.blogspot.nl
+instagram-login123.blogspot.no
 instagram-trollbaitout.onrender.com
 instahookupxxx.com
 installnow.xyz

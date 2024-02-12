@@ -14647,6 +14647,7 @@ satoshivm-whitelist.network
 satoshivm.gift
 satoshivm.trade
 satoshivmlab.com
+satoshivmlab.site
 satoshivms.io
 satoshivms.live
 savm.claims

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:05:47Z
+! Updated: 2024-02-12T23:23:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13181,6 +13181,7 @@ personal-safety-update.com
 personalculturedflash.discordevents.repl.co
 petsimulator.info
 petty.link
+pfl.nqp.mybluehost.me
 phantom-collab.vercel.app
 phygical-questall.icu
 picked-events.gq

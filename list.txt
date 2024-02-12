@@ -1644,6 +1644,7 @@ claim-manta.network
 claim-polyhedra.net
 claim-porkcoin.org
 claim-quant.com
+claim-satoshivm.app
 claim-satoshivm.site
 claim-steth.net
 claim-topg.com

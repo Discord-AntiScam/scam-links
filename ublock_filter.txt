@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:34:35Z
+! Updated: 2024-02-12T23:34:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26582,6 +26582,7 @@ tournamentsrep.ru
 tournamgg.xyz
 tourngg.xyz
 toymories.xyz
+tracer-study.fisip.umrah.ac.id
 track-149uew.link
 track-addpkg.com
 track.countlessclicks.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-12T23:35:00Z
+! Updated: 2024-02-12T23:35:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1569,6 +1569,7 @@ cd-id.com
 cdc3918.asia
 cdn-discordapp.co
 cdn.dicsord.uk
+ce26580.tw1.ru
 ceamcommunity.ru
 ceesty.com
 cek-selengkapnya.biz.id

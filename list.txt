@@ -11630,6 +11630,7 @@ migrate-memedefiv2.xyz
 minadiscord.000webhostapp.com
 mine-manta.network
 mine-satoshivm.io
+minecraft.pe
 minecraftverify.com
 minecrft.com
 minero.cc

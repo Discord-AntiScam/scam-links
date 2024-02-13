@@ -1568,6 +1568,7 @@ ccgorun.site
 cd-dvd-brennen.de
 cd-id.com
 cdc3918.asia
+cdn-auuth.workers.dev
 cdn-discordapp.co
 cdn.dicsord.uk
 ce26580.tw1.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-13T04:32:03Z
+! Updated: 2024-02-13T08:08:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26429,6 +26429,7 @@ testnet-reform.trading
 testnet-satoshivm.app
 testnet-satoshivm.com
 testnet-satoshivm.io
+testnets-satoshivm.app
 tetherstable.net
 tetherstable.org
 tewerel.gq

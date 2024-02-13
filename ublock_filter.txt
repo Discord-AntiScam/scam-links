@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-13T00:16:50Z
+! Updated: 2024-02-13T00:16:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9149,6 +9149,7 @@ gift-realio.com
 gift-realio.ne
 gift-realio.net
 gift-riotgames.com
+gift-satoshivm.com
 gift-steam-discord.com
 gift-steam.pro
 gift-steamcommunity.com

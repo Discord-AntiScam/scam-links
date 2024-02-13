@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-13T01:38:57Z
+! Updated: 2024-02-13T04:24:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11351,6 +11351,7 @@ m-ee6.site
 m-ee6.tech
 m-ee6.website
 m-m-ee6.xyz
+m.irs-tax-en.v6.rocks
 m.setampowered.com
 m00n.app
 m416skin.asia

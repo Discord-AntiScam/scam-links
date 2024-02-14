@@ -1254,6 +1254,7 @@ botsecurity.online
 botsecurity.xyz
 botskava.best
 botskava.live
+botskava.site
 botskava.xyz
 botsloader.com
 botsmee6xyz.000webhostapp.com

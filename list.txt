@@ -1926,6 +1926,7 @@ connect-new-events-academy.com
 connect-new-forms-moderators.com
 connect-newhypesquad-events.com
 connect-renew-moderator-academy.com
+connect-satoshivm.io
 connect-tester-moderator-academy.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com

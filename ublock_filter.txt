@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-13T22:03:26Z
+! Updated: 2024-02-14T00:07:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1255,6 +1255,7 @@ botscaptcha.000webhostapp.com
 botscaptchas.com
 botsecurity.online
 botsecurity.xyz
+botskava.best
 botskava.xyz
 botsloader.com
 botsmee6xyz.000webhostapp.com

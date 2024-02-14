@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-14T20:05:21Z
+! Updated: 2024-02-14T20:05:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10961,6 +10961,7 @@ keys-dropes.com
 keysdrop.org
 keysdropes.com
 kilobrand.ru
+kilowattcs2.com
 kindservicezeb.net
 kingfamilyphotoalbum.com
 kingofqueens2021.github.io

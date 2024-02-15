@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-15T07:04:59Z
+! Updated: 2024-02-15T07:05:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9052,6 +9052,7 @@ getviplocals1.com
 getvottak.com
 getx2.net
 getx2tesla.com
+getxtrade.com
 getyour-cs2.net
 getyour-cs2invite.com
 getyour-cs2invite.net

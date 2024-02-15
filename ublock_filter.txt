@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-15T16:54:36Z
+! Updated: 2024-02-15T22:32:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7824,6 +7824,7 @@ egifts-premeum.xyz
 egifts-premium.com
 egifts-premium.xyz
 egiftsub.com
+egirl-capital-club.com
 eglftdls-sub.com
 eglftfromds.com
 egp-gifts.com

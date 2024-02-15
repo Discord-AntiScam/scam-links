@@ -411,6 +411,7 @@ anti-bot-chillbearclub.deno.dev
 anti-spam-bot.net
 anti-virus-best.com
 antibot.cc
+antibotcaptcha.space
 antibotspam.re
 antig-hra.com
 antiraidbot.click

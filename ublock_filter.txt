@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-15T16:33:46Z
+! Updated: 2024-02-15T16:54:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -727,6 +727,7 @@ aptchabot.com
 aptoslabs.live
 apy-eth.eu
 apy-eth.us
+apy-ether.org
 apy-protocol.com
 apyeth.ai
 apyeth.com

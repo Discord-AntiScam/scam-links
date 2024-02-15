@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-15T23:39:12Z
+! Updated: 2024-02-15T23:39:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -22192,6 +22192,7 @@ steampromo2023.pl
 steampromote.com
 steamprowed-dlgitalcards.com
 steamprowered.ru
+steamproxy.cc
 steamproxy.net
 steampubg.top
 steampubggift.asia

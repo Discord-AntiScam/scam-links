@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-16T18:56:15Z
+! Updated: 2024-02-16T19:11:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27027,6 +27027,7 @@ twltch-ltem.com
 twltch-main.com
 twltch-major.com
 twltch-majors.com
+twltch-pgl.com
 twltch-play.com
 twltch-premier.com
 twltch-premieres.com

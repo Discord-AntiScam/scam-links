@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-16T15:03:04Z
+! Updated: 2024-02-16T15:30:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9460,6 +9460,7 @@ gsm-csb.ru
 gt-protocoi.io
 gta6event.com
 gtp4live.tech
+guard-protector.ru
 guardian-angel.xyz
 guesskings.com
 guide-events.com

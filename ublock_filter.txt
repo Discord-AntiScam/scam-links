@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-17T00:40:29Z
+! Updated: 2024-02-17T00:41:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7319,6 +7319,7 @@ dnitropremium.com
 dnitropremium.ru
 dnitropremum.ru
 docs-arabia-supreme-supplements.trycloudflare.com
+docusignsfilexx.pages.dev
 dogechien.info
 dogecoinevents.org
 dogewarrior-giveaway.info

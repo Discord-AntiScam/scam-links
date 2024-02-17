@@ -1848,6 +1848,7 @@ collabland.team
 collabland.tel
 collabland.wtf
 collablandauth.org
+collablandconnect.xyz
 collablands.org
 collablandsecure.net
 collablandsyncdapp.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-17T17:07:29Z
+! Updated: 2024-02-17T19:06:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13113,6 +13113,7 @@ operationbroken.xyz
 operationreptide.com
 operationriptide.online
 operationriptide.tk
+opeseapro-click.vercel.app
 oplac-rachunek.crabdance.com
 opne-sae.digital
 opnsea.digital

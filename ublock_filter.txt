@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-17T19:06:56Z
+! Updated: 2024-02-17T19:48:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9444,6 +9444,7 @@ gotournam.ru
 gotournamentcs.ru
 gotournaments.ru
 gotournamentscs.ru
+gotv-meow.com
 gotyouripboi.com
 gowlex.com
 gp-valorant.com

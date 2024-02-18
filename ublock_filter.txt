@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-18T00:49:02Z
+! Updated: 2024-02-18T00:49:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -880,6 +880,7 @@ bank---auth.best
 barleyapp.finance
 bars33.online
 base-layer2.com
+baseswaap.top
 baslerkislaya.com
 bayc-event.net
 baymack.com

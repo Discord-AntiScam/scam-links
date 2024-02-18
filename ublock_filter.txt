@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-18T21:20:41Z
+! Updated: 2024-02-18T21:20:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13020,6 +13020,7 @@ offsaphirenfts.com
 ogisha.site
 ogishame.top
 oglaszammurza.pl
+ohnepixelskinsfree.com
 oin-hypesquad-moderators.com
 okay-dating.com
 okdiscord.com

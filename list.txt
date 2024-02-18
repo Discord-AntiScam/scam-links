@@ -1849,6 +1849,7 @@ collabland.club
 collabland.digital
 collabland.la
 collabland.land
+collabland.pm
 collabland.pro
 collabland.team
 collabland.tel

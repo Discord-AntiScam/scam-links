@@ -1396,6 +1396,7 @@ captcha-server.click
 captcha-slugs.com
 captcha-smart.top
 captcha-veri.com
+captcha-verify.site
 captcha-vrfy.com
 captcha-vulcan.com
 captcha-whitelist.art

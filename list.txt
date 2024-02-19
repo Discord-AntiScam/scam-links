@@ -27502,6 +27502,7 @@ verification-vulcan.xyz
 verification-wick.xyz
 verification.bot
 verification.dyno.so
+verificationbot.ru
 verificationbotwick.space
 verifications-collab.land
 verifications-discord.com

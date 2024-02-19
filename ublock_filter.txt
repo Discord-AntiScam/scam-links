@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-19T20:41:41Z
+! Updated: 2024-02-19T21:41:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -5007,6 +5007,7 @@ discordacademy.site
 discordacademyapp.com
 discordacademyforms.com
 discordacc2.repl.co
+discordaccount.space
 discordaccs.xyz
 discordadp.com
 discordadpp.com

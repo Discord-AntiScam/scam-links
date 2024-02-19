@@ -1493,6 +1493,7 @@ captchabot.me
 captchabot.org
 captchabot.pm
 captchabot.site
+captchabot.space
 captchabot.to
 captchabot.top
 captchabot.us

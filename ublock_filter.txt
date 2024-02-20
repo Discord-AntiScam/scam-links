@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-20T19:58:39Z
+! Updated: 2024-02-20T20:02:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8975,6 +8975,7 @@ gamevbs.pro
 gamex.codes
 gamillionaire.com
 gaming-at-my.best
+gaming-twitch.com
 gamivos.com
 gamletaarnhuset.no
 gams-toph.xyz

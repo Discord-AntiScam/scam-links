@@ -13099,6 +13099,7 @@ opennsea.pw
 opens-glft.ru
 opense.design
 opense.digital
+opensea-2click.vercel.app
 opensea-airdrop.live
 opensea-clickclaim.vercel.app
 opensea-collab.vercel.app

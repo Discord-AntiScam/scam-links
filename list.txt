@@ -28374,6 +28374,7 @@ zipsetgod.com
 zk-bridge.network
 zk-sync.pages.dev
 zkfair-launchpad.org
+zkfair.events
 zkloyalty.com
 zkpolyhedra.com
 zks-nft.app

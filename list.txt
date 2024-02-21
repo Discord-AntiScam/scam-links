@@ -14777,6 +14777,7 @@ satoshi-vm-gate.com
 satoshievm.network
 satoshionsol.com
 satoshiprotocol.io
+satoshiprotocol.org
 satoshirewards.online
 satoshis-join.com
 satoshisvm.network

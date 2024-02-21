@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-21T12:00:35Z
+! Updated: 2024-02-21T12:00:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8147,6 +8147,7 @@ event-satoshivm.io
 event-spacex.info
 event-tesla.com
 event-tesla2x.com
+event.65ddc0bd.circletokenhub.com
 event.tesla2double.repl.co
 eventapply.com
 eventcsgo.com

@@ -5999,6 +5999,7 @@ discordscanner.com
 discordsea.com
 discordsearch.co
 discordsecurity.crisp.help
+discordsecurity.xyz
 discordselect.com
 discordserver.tk
 discordservice.com

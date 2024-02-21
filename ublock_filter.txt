@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-21T17:55:06Z
+! Updated: 2024-02-21T18:01:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13416,6 +13416,7 @@ postreceive.com
 postsale.cloud
 postsupport.net
 power-sk1n.net.ru
+poweredcommunity.com
 poweredworkshop.com
 pp.144-172-123-153.cprapid.com
 ppancakeswapp.finance

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-21T20:17:50Z
+! Updated: 2024-02-21T20:28:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26150,6 +26150,7 @@ streamnconmunity.com
 streamnconmunity.ru
 streampoered.com
 streampowered.eu
+streampowered.org.ru
 streampowered.ru
 streampowered.store
 streampowereed.com

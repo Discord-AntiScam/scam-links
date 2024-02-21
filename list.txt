@@ -1245,6 +1245,7 @@ botcaptcha-verify.online
 botcaptcha-verify.org
 botcaptcha-verify.site
 botcaptcha.com
+botcaptcha.net
 botcaptcha.site
 botcaptchaverify.online
 botcaptchaverify.site

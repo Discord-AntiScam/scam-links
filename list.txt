@@ -2091,6 +2091,7 @@ crypto-eth.pw
 crypto-eth2.pw
 crypto-job-hub.com
 crypto-job.online
+crypto-prize.info
 crypto-slate.xyz
 crypto2023event.org
 crypto4hires.com

@@ -1405,6 +1405,7 @@ captcha-owls-of-fortune.fr
 captcha-protect.online
 captcha-protect.xyz
 captcha-server.click
+captcha-site.com
 captcha-slugs.com
 captcha-smart.top
 captcha-veri.com

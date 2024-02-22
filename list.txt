@@ -27555,6 +27555,7 @@ verif-sledgehammer.claims
 verif-store.com
 verifapp.us
 verification-account.tk
+verification-captcha-bot.fun
 verification-collab.land
 verification-discord.cf
 verification-discord.com

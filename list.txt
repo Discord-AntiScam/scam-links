@@ -11789,6 +11789,7 @@ mod-test.com
 mod-tester.com
 modacademy-application.com
 modapplications-discord.com
+mode-network.events
 modechallenger.com
 moderador-academy-exam.com
 moderador-academy-join.com

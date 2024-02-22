@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-22T12:10:30Z
+! Updated: 2024-02-22T13:01:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11793,6 +11793,7 @@ mod-test.com
 mod-tester.com
 modacademy-application.com
 modapplications-discord.com
+mode-network.events
 modechallenger.com
 moderador-academy-exam.com
 moderador-academy-join.com

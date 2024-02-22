@@ -14958,6 +14958,7 @@ server-crew3.xyz
 server-guild-verif.com
 server-hypesquad.com
 server-joining.click
+server-protector.online
 server-raid-protection.click
 server-roblox.com
 server-squad.com

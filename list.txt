@@ -1389,6 +1389,7 @@ captcha-bot.site
 captcha-bot.tech
 captcha-bot.website
 captcha-bot.xyz
+captcha-botprotection.com
 captcha-bots.com
 captcha-bots.org
 captcha-check.xyz

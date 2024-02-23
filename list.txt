@@ -1396,6 +1396,7 @@ captcha-botprotection.com
 captcha-bots.com
 captcha-bots.org
 captcha-check.xyz
+captcha-click.com
 captcha-discord.com
 captcha-dyno.com
 captcha-guild.click

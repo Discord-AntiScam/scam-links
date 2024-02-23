@@ -8359,6 +8359,7 @@ faze-giveaway.online
 faze-giveaway.ru
 faze-giveaway.site
 faze-me.ru
+faze-rolls.pro
 faze-skin.ru
 faze-skins.ru
 faze-slot.ru

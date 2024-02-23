@@ -13129,6 +13129,7 @@ openai23.live
 openaibtc.org
 openaiprize.live
 openbetasource2.com
+openbox2.vercel.app
 opencase-cs2.com
 opencase-giveaway.de
 opencase.space

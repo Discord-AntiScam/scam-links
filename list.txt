@@ -14965,6 +14965,7 @@ server-captcha.link
 server-captcha.site
 server-captchas.site
 server-crew3.xyz
+server-detection.xyz
 server-guild-verif.com
 server-hypesquad.com
 server-joining.click

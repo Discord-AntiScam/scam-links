@@ -1411,6 +1411,7 @@ captcha-server.click
 captcha-site.com
 captcha-slugs.com
 captcha-smart.top
+captcha-solver.com
 captcha-veri.com
 captcha-verify.site
 captcha-vrfy.com

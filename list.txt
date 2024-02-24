@@ -11125,6 +11125,7 @@ launch-zkfair.io
 launches-satoshivm.com
 launchpad-zkfair.com
 launchpads-satoshivm.io
+launchs-eigenlayer.com
 layer-zero.pro
 layer-zero.site
 layer-zero.today

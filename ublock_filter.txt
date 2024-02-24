@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-24T13:49:18Z
+! Updated: 2024-02-24T13:58:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14727,6 +14727,7 @@ rustinity.net
 rustlistservers.pro
 rustmonitoringserverslist.pro
 rustmoon.net
+rustopia.world
 rustoria-us.com
 rustoria.net
 rustoria.space

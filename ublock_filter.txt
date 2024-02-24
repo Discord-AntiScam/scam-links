@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-24T08:28:30Z
+! Updated: 2024-02-24T11:18:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2092,6 +2092,7 @@ crabrave.pw
 crazy-down.ga
 creatpeico.gq
 creditscpfree.website
+creepz-alpha.club
 creepz-alpha.com
 crew-spacex5.pro
 crewslide.gq

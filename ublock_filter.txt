@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-24T16:40:26Z
+! Updated: 2024-02-24T17:07:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13778,6 +13778,7 @@ radar-tour.site
 radardapp.com
 rafiamarketingagency.com
 raftbit.com
+raid-protect.xyz
 raiden-bot.xyz
 raidprotect.xyz
 raidrush.info

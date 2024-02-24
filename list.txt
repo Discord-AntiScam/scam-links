@@ -1234,6 +1234,7 @@ bot-protect.online
 bot-protect.xyz
 bot-protection.online
 bot-protection.xyz
+bot-protector.com
 bot-protector.online
 bot-redirect.com
 bot-secure.xyz

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T12:54:27Z
+! Updated: 2024-02-25T13:53:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28471,6 +28471,7 @@ zero-airdrop.com
 zero-lend.app
 zero-lends.com
 zeroiand.xyz
+zerolende.xyz
 zerolends.com
 zetachain-airdrop.network
 zetachain.pages.dev

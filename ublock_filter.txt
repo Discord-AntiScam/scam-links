@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T23:01:05Z
+! Updated: 2024-02-25T23:01:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -889,6 +889,7 @@ bars33.online
 base-layer2.com
 baseservicedomain.app
 baseservicedomain.net
+baseservicedomain.org
 baseswaap.top
 baslerkislaya.com
 bayc-event.net

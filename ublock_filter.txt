@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T23:17:56Z
+! Updated: 2024-02-25T23:19:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8374,6 +8374,7 @@ fast-nitro.xyz
 fast-travel.org
 fast.discord-hypesquad-verify.repl.co
 fast2cup.com
+fast2cupcs.ru
 fastclick.com
 fastcup-cs.ru
 fastcup-play.ru

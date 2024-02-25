@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T22:54:21Z
+! Updated: 2024-02-25T22:57:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -748,6 +748,7 @@ apyether.com
 apyether.digital
 apyether.eu
 apyether.us
+apyethfinance.net
 apyprotocol.org
 aquare-payment.site
 arbclaim.co

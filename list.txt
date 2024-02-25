@@ -3031,7 +3031,6 @@ decrypt.partners
 decryptmedia.co
 ded4950.inmotionhosting.com
 defi-airdrops.web.app
-defi-dashboards.web.app
 defi-debank.com
 del-pinar.com.ar
 delawareipackage.com
@@ -9033,6 +9032,7 @@ garstel.github.io
 gate-mee6.xyz
 gate-satoshi.com
 gate-undeads-club.com
+gatekava.link
 gatekava.live
 gates-satoshivm.com
 gather.skin

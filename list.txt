@@ -1534,6 +1534,7 @@ captchabotverif.online
 captchabotverif.site
 captchabotverification.website
 captchabotverification.xyz
+captchabotverifiy.online
 captchabotverify.site
 captchabotverify.website
 captchabotverify.xyz

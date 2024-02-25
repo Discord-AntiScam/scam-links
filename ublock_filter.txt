@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T22:57:17Z
+! Updated: 2024-02-25T22:58:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28411,6 +28411,7 @@ xgreen-exchange.com
 xgreen-trade.com
 xiaobaixitong.com
 xiomoinuyt03.z11.web.core.windows.net
+xlauncher-apps.com
 xmarscoin.com
 xn--chin-6na.link
 xn--discrd-zxa.com

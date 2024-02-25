@@ -883,6 +883,7 @@ bank---auth.best
 barleyapp.finance
 bars33.online
 base-layer2.com
+basesdomains.org
 baseservicedomain.app
 baseservicedomain.net
 baseservicedomain.org

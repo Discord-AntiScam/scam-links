@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T23:01:11Z
+! Updated: 2024-02-25T23:01:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1365,6 +1365,7 @@ bynfrex.com
 bypassbotverify.site
 bysellers.xyz
 byynility.com
+bznam.xyz
 c-arl.xyz
 c-you-mamont.ru
 c0llab-land.app

@@ -16625,6 +16625,7 @@ stakefish-io.com
 stakewise.so
 stakewises.app
 stakewises.fi
+staking-caga.web.app
 staking-satoshivm.com
 staking-satoshivm.io
 staking.neuronnetwork.space

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T13:55:23Z
+! Updated: 2024-02-25T14:04:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27,6 +27,7 @@
 19irjnillkigersogb.ru
 19mngebhapi.ru
 1gerjshgs.ru
+1i1.my.id
 1month-premium.com
 1nitro.club
 1ownandfresh1.com

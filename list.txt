@@ -1360,7 +1360,6 @@ c-you-mamont.ru
 c0llab-land.app
 c2money-skins.buzz
 caga-eth.web.app
-caga-projects.web.app
 caga-stakers.web.app
 calendly.contact
 calendly.fi
@@ -16619,6 +16618,7 @@ staff-discord.com
 staff-discord.net
 staisticdiscord.com
 stake-ator.app
+stake-caga.web.app
 stake-satoshivm.com
 stake-shido.com
 stakefish-io.com

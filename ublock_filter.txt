@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-25T14:04:59Z
+! Updated: 2024-02-25T14:06:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13341,6 +13341,7 @@ pc00131.asia
 pc825000398.asia
 pdiscord.com
 peliculas3.me
+pepe2.app
 pepe2.cash
 pepe2023.com
 pepe2drop.com

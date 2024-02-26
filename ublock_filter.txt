@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-26T21:50:49Z
+! Updated: 2024-02-26T22:21:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3058,6 +3058,7 @@ decryptmedia.co
 ded4950.inmotionhosting.com
 defi-airdrops.web.app
 defi-debank.com
+defi-scan.web.app
 del-pinar.com.ar
 delawareipackage.com
 deltalore.pro

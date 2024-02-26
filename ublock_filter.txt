@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-26T09:21:24Z
+! Updated: 2024-02-26T09:22:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7945,6 +7945,7 @@ elon-musk.stream
 elon-musk2023.site
 elon-tesla.space
 elon-tsla.site
+elon-x.info
 elon-x2.com
 elon.in.net
 elon2023giveaway.site

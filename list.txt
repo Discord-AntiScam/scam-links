@@ -317,6 +317,7 @@ airdrop-magiceden.com
 airdrop-mavia.com
 airdrop-nitro.com
 airdrop-pork.com
+airdrop-satoshivm.app
 airdrop-satoshivm.com
 airdrop-shardeum.com
 airdrop-shardeum.org

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-26T12:18:40Z
+! Updated: 2024-02-26T13:44:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14722,6 +14722,7 @@ rust-twitcn.com
 rust-us.com
 rust-voting.com
 rust-withdraw.com
+rust-world.com
 rust.facepunchs.com
 rust.gift
 rust.wf

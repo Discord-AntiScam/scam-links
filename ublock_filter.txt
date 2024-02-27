@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-27T05:26:42Z
+! Updated: 2024-02-27T07:36:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2068,6 +2068,7 @@ continue-site.website
 convocation-for-hypeteams.com
 convocation-hypeteams.com
 convocation-to-hypesquad.com
+coolcatsavatar.xyz
 copyclothing.art
 copyclothing.link
 copyrightbusinessgroup.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-27T07:36:07Z
+! Updated: 2024-02-27T08:41:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1625,6 +1625,7 @@ case2win.pro
 case4win.pro
 casebynavi.com
 casekey.ru.com
+casenaviopen.com
 cases-fastdrop.com
 casescsgo.ru
 casesdrop.xyz

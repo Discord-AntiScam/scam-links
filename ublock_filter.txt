@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-28T00:31:58Z
+! Updated: 2024-02-28T00:32:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13298,6 +13298,7 @@ osiedloweprzekazy.click
 oskarbit.com
 otherhalf.life
 otherside.community
+otseastake.info
 ouo.io
 ourhypewords.com
 ournewsafte.biz

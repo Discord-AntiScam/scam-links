@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-28T00:31:37Z
+! Updated: 2024-02-28T00:31:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1366,6 +1366,7 @@ but-three.xyz
 buttzasluve.gq
 buxquick.com
 buy-nitro.xyz
+buyportalcoin.com
 bycdu.cam
 bycsdu.cam
 bynfrex.com

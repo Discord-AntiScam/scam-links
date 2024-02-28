@@ -13515,6 +13515,7 @@ portal-coin.web.app
 portal-eth.web.app
 portal-mavia.com
 portal-sale.web.app
+portal-staking-project.web.app
 portal-staking.web.app
 portalcoins.online
 portalgaming.online

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-28T22:16:00Z
+! Updated: 2024-02-28T23:44:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26613,6 +26613,7 @@ tebex.cloud
 techevolution.work
 techgenerator.xyz
 techinnsrl.com
+teencontent.xyz
 teens2fcuk.net
 teenyreligious.com
 teigraf.store

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-02-29T00:37:30Z
+! Updated: 2024-02-29T03:47:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9766,6 +9766,7 @@ hychain-topia.xyz
 hychain.events
 hychain.trading
 hychainnode.xyz
+hychin.com
 hycs2.com
 hydra2018.ru
 hydro-protocol.xyz

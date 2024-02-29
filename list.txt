@@ -14937,6 +14937,7 @@ satoshivm-api.com
 satoshivm-claim.xyz
 satoshivm-event.com
 satoshivm-gates.com
+satoshivm-promo.com
 satoshivm-reward.online
 satoshivm-reward.site
 satoshivm-reward.xyz

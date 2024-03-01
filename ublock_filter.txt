@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-01T22:46:04Z
+! Updated: 2024-03-01T22:46:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27443,6 +27443,7 @@ twltcn2csgo.com
 twoe.asia
 twtcs2.pro
 twtlab.space
+tyloo-connect.cn.com
 typiccor.com
 u89.000webhostapp.com
 u924157p.beget.tech

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-01T12:07:26Z
+! Updated: 2024-03-01T12:34:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3081,6 +3081,7 @@ defi-boost.web.app
 defi-debank.com
 defi-read.web.app
 defi-scan.web.app
+defi-site.web.app
 del-pinar.com.ar
 delawareipackage.com
 deltalore.pro

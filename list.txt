@@ -3077,6 +3077,7 @@ defi-boost.web.app
 defi-debank.com
 defi-read.web.app
 defi-scan.web.app
+defi-site.web.app
 del-pinar.com.ar
 delawareipackage.com
 deltalore.pro

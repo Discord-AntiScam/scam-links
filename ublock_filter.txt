@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-01T00:31:56Z
+! Updated: 2024-03-01T02:02:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9735,6 +9735,7 @@ http-roblox.com.ge
 httpdlscordnitro.ru.com
 httpe-steamcommunity.ru
 https-discord.com
+https-dyno.com
 https-roblox.com.ge
 https-roblox.ga
 https-steamcommunity.com

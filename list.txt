@@ -3076,6 +3076,7 @@ ded4950.inmotionhosting.com
 defi-airdrops.web.app
 defi-boost.web.app
 defi-debank.com
+defi-finance.web.app
 defi-read.web.app
 defi-scan.web.app
 defi-site.web.app

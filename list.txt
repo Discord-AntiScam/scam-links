@@ -8274,6 +8274,7 @@ events-new-hypeteam.com
 events-pendle.fi
 events-rewards.xyz
 events-riotgames.com
+events-satoshivm.com
 events-servicess.ml
 events-squad.com
 events-starknet.app

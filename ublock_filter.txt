@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-01T22:45:25Z
+! Updated: 2024-03-01T22:45:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13860,6 +13860,7 @@ punks-2023.com
 pupok.link
 purplehoodie.com
 putffer.fi
+pw-hub-auth.com
 pwrtds.com
 pylwex.com
 qatar-business-guide.net

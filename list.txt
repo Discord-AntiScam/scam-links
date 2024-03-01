@@ -1407,6 +1407,7 @@ capchasbot.app
 capdefend.xyz
 capitalswiftpremium.com
 captcha-assist.click
+captcha-authorisation.com
 captcha-auto.com
 captcha-bot-auth.org
 captcha-bot-scam.onrender.com

@@ -1261,6 +1261,7 @@ bot-servers.cc
 bot-servers.info
 bot-sledgehammer.com
 bot-valorant.com
+bot-verification.xyz
 bot-verify.xyz
 bot-vulcan.xyz
 bot.capcha.lol

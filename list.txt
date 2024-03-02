@@ -319,6 +319,7 @@ airdrop-nitro.com
 airdrop-pork.com
 airdrop-satoshivm.app
 airdrop-satoshivm.com
+airdrop-satoshivm.net
 airdrop-shardeum.com
 airdrop-shardeum.org
 airdrop-tia.org

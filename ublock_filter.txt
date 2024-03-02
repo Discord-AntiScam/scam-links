@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-02T13:25:44Z
+! Updated: 2024-03-02T15:02:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -323,6 +323,7 @@ airdrop-nitro.com
 airdrop-pork.com
 airdrop-satoshivm.app
 airdrop-satoshivm.com
+airdrop-satoshivm.net
 airdrop-shardeum.com
 airdrop-shardeum.org
 airdrop-tia.org

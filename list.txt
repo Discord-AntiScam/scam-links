@@ -12739,6 +12739,7 @@ newsinmir.com
 newsurprizeforyou.com
 newsvalorant.com
 newtresures-manta.network
+newuser-connect-collab.land
 newyasr-ds.com
 newyear-d.com
 newyear-discord.com
@@ -14960,7 +14961,6 @@ satoshi-join.com
 satoshi-vm-gate.com
 satoshievm.network
 satoshionsol.com
-satoshiprotocol.app
 satoshiprotocol.io
 satoshiprotocol.org
 satoshirewards.online

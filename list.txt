@@ -11120,6 +11120,7 @@ kava-api.pro
 kava-api.pw
 kava-api.xyz
 kava-guards.com
+kavabot.app
 kavachain.club
 kavacloud.xyz
 kavagate.one

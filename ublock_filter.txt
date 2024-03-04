@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-04T03:45:39Z
+! Updated: 2024-03-04T05:14:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14897,6 +14897,7 @@ rustupon.ru
 rustwin.fun
 rustx.pro
 rustx.shop
+rustxcase.top
 rusty-golden.com
 rusty-remains.com
 rustygift.site

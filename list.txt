@@ -27328,6 +27328,7 @@ twitcn-cs2.tv
 twitcn-csgo.com
 twitcn-csgo2.com
 twitcn-esports.com
+twitcn-valorant.com
 twitcn2csgo.com
 twitcncs2.tv
 twitcs2.pro

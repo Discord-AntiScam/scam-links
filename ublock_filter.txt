@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-04T16:46:42Z
+! Updated: 2024-03-04T17:13:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15195,6 +15195,7 @@ sgifts.space
 sh.st
 shadowpay.pp.ru
 shangqian163.com
+shangqianshi.com
 shania.join-room-private.my.id
 shardeum.sec-web3.foundation
 share-roblox.com

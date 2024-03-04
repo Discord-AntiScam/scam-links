@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-04T22:11:35Z
+! Updated: 2024-03-04T22:11:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27290,6 +27290,7 @@ twitchgifts.com
 twitchgive.com
 twitchiem.com
 twitchloot.com
+twitchloot.ru
 twitchmajor.com
 twitchmajors.com
 twitchprize.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-04T12:30:06Z
+! Updated: 2024-03-04T12:30:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15345,6 +15345,7 @@ singup-hypesquad.com
 singup-hypesquadacademy.org
 singup-moderator.com
 singup-moderators.com
+singup-satoshivm.com
 sisyphean-milligram.000webhostapp.com
 site-roblox.co
 site-roblox.net

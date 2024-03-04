@@ -3025,6 +3025,7 @@ dapp-pendle.fi
 dapp-porkcoin.com
 dappcrate.com
 dappradar.eco
+dappradar.haus
 dappradar.host
 dappradar.land
 dappradar.tools

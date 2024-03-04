@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-04T05:37:15Z
+! Updated: 2024-03-04T05:37:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1797,6 +1797,7 @@ claims-usdt.org
 claims-web3.website
 claimusdc.io
 clan-big.ru
+clanceptab.com
 claspedtwelve.com
 classic-dlscord.com
 classic-nitro.com
@@ -28562,7 +28563,6 @@ x2years.net
 x33681t2.beget.tech
 x403.nitro.com.au
 xaecore.com
-xai-62v.pages.dev
 xchngecrypto.buzz
 xcoins.top
 xcrewteam.com

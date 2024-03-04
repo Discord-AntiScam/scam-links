@@ -2399,6 +2399,7 @@ cs2go-twitch.com
 cs2go.pro
 cs2godrop.com
 cs2h.ru
+cs2hf.fun
 cs2hx.ru
 cs2hyperx.ru
 cs2inv.pro

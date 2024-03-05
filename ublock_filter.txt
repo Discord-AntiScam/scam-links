@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-05T22:04:14Z
+! Updated: 2024-03-05T22:04:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -106,6 +106,7 @@
 3month-give.com
 3months-dicsord.com
 3psil0n.fr
+4-chess.online
 411medias.com
 4gameranking.com
 5000usdt.com

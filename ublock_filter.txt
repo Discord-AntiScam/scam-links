@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-05T17:09:44Z
+! Updated: 2024-03-05T17:30:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14046,6 +14046,7 @@ ref-8743225872878-redeemwalletcode.com-de.eu
 ref-discord.com
 referralpay.co
 reg-nitro.org.ru
+reg-vmsatoshi.app
 regeralnet.xyz
 register-academy-moderators.com
 register-academy.com

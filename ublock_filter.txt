@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-06T19:51:24Z
+! Updated: 2024-03-06T21:56:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14995,6 +14995,7 @@ salariumstar.com
 salomex.com
 samsungnitro.xyz
 samsungnitro.y0host.com
+sanpaliax.github.io
 santa.bitxskins.com
 saphione.com
 saphire-nft-official.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-06T18:12:29Z
+! Updated: 2024-03-06T19:51:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13259,6 +13259,7 @@ omniagent-portal.com
 on-crypto-jobs.com
 on-cryptojob.com
 on-roblox.com
+one-percent-club-gate.com
 one-viseca-tipila8097259058.codeanyapp.com
 onegadget.ru
 onehave.xyz

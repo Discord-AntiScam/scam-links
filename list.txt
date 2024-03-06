@@ -27256,6 +27256,7 @@ twitch.bz
 twitch.ceddny.com
 twitch.facepunch-llc.com
 twitch.facepunchstudio.com
+twitch.getseasy.com
 twitch.gift
 twitch.rust-ltd.com
 twitch.valobundles.com

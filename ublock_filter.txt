@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-06T08:35:09Z
+! Updated: 2024-03-06T09:15:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15358,6 +15358,7 @@ simple-give.com
 simplenavi-csgoplus.com
 simplenitro.com
 simplenitro.gift
+simpler-cs2.com
 sinder8.com
 singularity-net.space
 singup-discordmoderator.com

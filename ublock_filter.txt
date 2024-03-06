@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-06T15:56:44Z
+! Updated: 2024-03-06T15:56:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1381,6 +1381,7 @@ bugbounty-invite.dev
 bullcoin24.com
 bumexbit.com
 bundle-valorant.fun
+bundle.valplays.com
 bundlevalorant.com
 bunfq.ru
 business-support-us.com

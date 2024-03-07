@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-07T13:22:45Z
+! Updated: 2024-03-07T14:05:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9419,6 +9419,7 @@ giftfrom.gq
 gifthypixel.net
 gifthypixel.site
 gifthypixels.site
+gifting-happy-steam.com
 gifting-lunarclient.store
 gifting-nitro.com
 gifting-nitro.xyz

@@ -431,6 +431,7 @@ antibots.xyz
 antibotspam.re
 antig-hra.com
 antiraidbot.click
+antiraidguard.xyz
 antiraidprotection.xyz
 antispam.re
 antispambot.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-07T18:58:16Z
+! Updated: 2024-03-08T13:57:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3027,6 +3027,7 @@ d-nitro.tk
 d-nitro.xyz
 d-r.cc
 d.iscord.xyz
+d0nk-rolls.com
 d1sc0rd.com
 d1scord.co.uk
 d1scord.com

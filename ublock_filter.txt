@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-09T18:27:16Z
+! Updated: 2024-03-09T18:27:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8580,6 +8580,7 @@ feo-verse.xyz
 feoverse.info
 feoverse.vip
 feskins.com
+feysg6hs.s-qn.my.id
 fi-connect-space.tech
 fictiongroin.com
 fighterera.online

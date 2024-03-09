@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-09T21:46:16Z
+! Updated: 2024-03-09T21:46:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12686,6 +12686,7 @@ ne12.biz
 necnatela.gq
 needcryptojob.com
 needjobcord.com
+neftyblocks.xyz
 neir.asia
 nekamigos.com
 neodrive.ru

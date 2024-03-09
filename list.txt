@@ -27989,6 +27989,7 @@ verifybot.ru
 verifycaptcha-bot.online
 verifycaptcha-bot.site
 verifycaptcha.net
+verifycaptcha.org
 verifycaptcha.xyz
 verifycaptchabot.site
 verifycaptchas.xyz

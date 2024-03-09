@@ -1318,6 +1318,7 @@ botscaptchas.com
 botsecure.online
 botsecure.xyz
 botsecured.xyz
+botsecuringserver.xyz
 botsecurisation.online
 botsecurisation.xyz
 botsecuritor.online

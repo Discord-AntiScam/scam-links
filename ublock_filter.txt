@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-09T22:06:09Z
+! Updated: 2024-03-09T22:12:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27882,6 +27882,7 @@ valorantskin.fun
 valorantskins.pro
 valorantskins.world
 valorantskinsroulette.fun
+valorantspin.lol
 valorantsplayss.fun
 valorantti.fun
 valoranttourning.pw

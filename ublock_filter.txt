@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-09T11:52:47Z
+! Updated: 2024-03-09T11:52:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9695,7 +9695,6 @@ guild-system.net
 guildassist.re
 guildassistant.click
 guildautomation.com
-guildguard.xyz
 guitar-love.ru
 guns-slot.tk
 guxes.com
@@ -11495,6 +11494,7 @@ longxrun.online
 looks-rare-raffle.info
 looksrare-d1x.pages.dev
 looksraredrop.com
+lookup-ai.xyz
 lookupai.xyz
 lookupbot.xyz
 loop-nitro.com

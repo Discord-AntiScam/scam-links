@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-09T20:40:38Z
+! Updated: 2024-03-09T21:29:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -856,6 +856,7 @@ authmee6.net
 authmee6.org
 authmee6.xyz
 authnet.cf
+authority-collab.land
 authorize-collab.land
 authorize-roblox.com
 authpostbase.com

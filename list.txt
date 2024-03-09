@@ -1308,6 +1308,7 @@ botprotect-verify.online
 botprotect.xyz
 botprotection.online
 botprotection.xyz
+botprotections.xyz
 botprotector.online
 botprotector.xyz
 botprotectserver.xyz

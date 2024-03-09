@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-09T21:47:44Z
+! Updated: 2024-03-09T21:48:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -827,6 +827,7 @@ atnpx.com
 atomicresolve.top
 atsatonmarec.gq
 att-102677-updated092.weeblysite.com
+att-104220-104146.weeblysite.com
 att-105320.square.site
 att-mail-101062.weeblysite.com
 att-mail-102008.weeblysite.com

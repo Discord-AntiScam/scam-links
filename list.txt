@@ -12314,6 +12314,7 @@ mysterybox099.vercel.app
 mysterybox11.vercel.app
 mysterybox113.vercel.app
 mysterybox28.vercel.app
+mysterybox5.vercel.app
 mysterybox728.vercel.app
 mysteryboxclaim.vercel.app
 mysteryboxnft44.vercel.app

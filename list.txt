@@ -11289,6 +11289,7 @@ launch-satoshivms.network
 launch-savm.network
 launch-zkfair.io
 launches-satoshivm.com
+launching-savm.network
 launchpad-zkfair.com
 launchpads-satoshivm.io
 launchs-eigenlayer.com

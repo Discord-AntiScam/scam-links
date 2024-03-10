@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-10T17:20:29Z
+! Updated: 2024-03-10T18:49:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11293,6 +11293,7 @@ launch-satoshivms.network
 launch-savm.network
 launch-zkfair.io
 launches-satoshivm.com
+launching-savm.network
 launchpad-zkfair.com
 launchpads-satoshivm.io
 launchs-eigenlayer.com

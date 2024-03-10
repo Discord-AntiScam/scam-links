@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-10T17:09:11Z
+! Updated: 2024-03-10T17:20:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11240,6 +11240,7 @@ kuminaluna.xyz
 kunai-valorant.com
 kwww-roblox.com
 l-roblox.com
+l2mainet.xyz
 l2s.pet
 l4t0ym.us
 lachrymation-demetallize-arthroplasty.xyz

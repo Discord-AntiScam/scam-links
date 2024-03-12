@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-12T16:50:36Z
+! Updated: 2024-03-12T16:50:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -371,6 +371,7 @@ allin1-digitalcontent.net
 allocated-satoshivm.com
 allocation-chain.link
 allocation-jup.trading
+allocation-polyhedranetwork.com
 allocation-satoshivm.com
 allocations-polyhedra.network
 allthetraffic.co.cc

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-12T19:44:18Z
+! Updated: 2024-03-13T09:19:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9168,6 +9168,7 @@ gapscult.com
 gardensrestaurantandcatering.com
 garstel.github.io
 gas-refund.web.app
+gasfee.io
 gate-mee6.xyz
 gate-satoshi.com
 gate-undeads-club.com

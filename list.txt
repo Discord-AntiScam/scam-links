@@ -1446,6 +1446,7 @@ captcha-assist.click
 captcha-authorisation.com
 captcha-auto.com
 captcha-bot-auth.org
+captcha-bot-protect.fun
 captcha-bot-scam.onrender.com
 captcha-bot-verify.fun
 captcha-bot-verify.site

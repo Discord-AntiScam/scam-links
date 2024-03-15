@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-15T16:33:27Z
+! Updated: 2024-03-15T16:33:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16181,6 +16181,7 @@ spacexdouble.com
 spacexevent.live
 spacexevent.tech
 spacexfreecrypto.com
+spacexgive.org
 spacexgive2023.com
 spacexgivenow.com
 spacexgo2023.com

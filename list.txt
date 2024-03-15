@@ -1300,6 +1300,7 @@ botcaptcha.net
 botcaptcha.site
 botcaptchaverify.online
 botcaptchaverify.site
+botcaptchaverifydev.ru
 botcollab.land
 botdetect.click
 botdetect.xyz

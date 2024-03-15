@@ -13823,6 +13823,7 @@ protect-captcha.online
 protect-captchaverify.xyz
 protect4-bot-captcha-verify.online
 protected-clicker.com
+protectedcaptchabotverify.ru
 protectingserver.xyz
 protectioncaptchabot.ru
 protocol-layerzero.app

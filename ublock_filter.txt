@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-16T11:41:01Z
+! Updated: 2024-03-16T11:42:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12898,6 +12898,7 @@ niggas.click
 nikofreecase.com
 nikog2skins.com
 nikogivegiveskin.com
+nikoskins.com
 nip-gl.com
 nip1.ru
 nip10.ru

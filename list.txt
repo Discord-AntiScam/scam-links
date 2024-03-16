@@ -769,6 +769,7 @@ aquare-payment.site
 arbclaim.co
 arbitruimsurvey.com
 arbitrum-token-bridge-git-fix-event-logs-w-3bc88f-offchain-labs.vercel.app
+arbitrum-token-bridge-git-new-tx-history-s-a94206-offchain-labs.vercel.app
 arbiturn.foundation
 arbltrumfoundatlon.live
 arcades.tech

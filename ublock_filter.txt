@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-16T11:46:54Z
+! Updated: 2024-03-16T11:47:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -774,6 +774,7 @@ arbclaim.co
 arbitruimsurvey.com
 arbitrum-token-bridge-git-fix-event-logs-w-3bc88f-offchain-labs.vercel.app
 arbitrum-token-bridge-git-new-tx-history-s-a94206-offchain-labs.vercel.app
+arbitrum-token-bridge-lzuqj6mif-offchain-labs.vercel.app
 arbiturn.foundation
 arbltrumfoundatlon.live
 arcades.tech

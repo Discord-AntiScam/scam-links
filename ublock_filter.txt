@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-16T11:44:23Z
+! Updated: 2024-03-16T11:44:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28706,6 +28706,7 @@ www.steamcommunity.space
 www.steamcommunitylie.top
 www.steamommunity.com
 www.streamcommunity.ru.com
+www.tiffany-holz.de
 www.vanarchaiin.com
 www.www.discord-nitro.ru.com
 www.xpromo-discord.com

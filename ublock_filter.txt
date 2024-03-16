@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-16T11:48:45Z
+! Updated: 2024-03-16T11:50:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26794,6 +26794,7 @@ tacking-uspsot-nj.com
 tacticalchampionship.com
 tacticalclashes.com
 tacticalshowcase.com
+taiko-airdrop.com
 takaytry.z11.web.core.windows.net
 take-discord.com
 take-hypesquad.gq

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-17T19:05:56Z
+! Updated: 2024-03-17T19:06:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27380,6 +27380,7 @@ twitch-major.com
 twitch-majors.com
 twitch-nude.com
 twitch-pgl.com
+twitch-pglcs2.com
 twitch-play.com
 twitch-premier.com
 twitch-premiere.com

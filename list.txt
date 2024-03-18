@@ -15316,6 +15316,7 @@ server-system.co
 serverprotect.xyz
 serverprotection.xyz
 serverprotector.xyz
+servers-bot.xyz
 servers-captcha.site
 servers-captchas.site
 serveuser.com

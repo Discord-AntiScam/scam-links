@@ -1289,6 +1289,7 @@ bot-security-dev.xyz
 bot-security-online.xyz
 bot-security.online
 bot-security.xyz
+bot-server-verify.xyz
 bot-server.cc
 bot-servers.cc
 bot-servers.info

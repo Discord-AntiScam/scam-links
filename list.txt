@@ -13437,6 +13437,7 @@ openseanft2.vercel.app
 openseap1.vercel.app
 openseapr-claim-rose.vercel.app
 openseapro150-giveaway.web.app
+openseaproclaims.vercel.app
 openseaproject-click.vercel.app
 openseaproject65.vercel.app
 openseaproject736.vercel.app

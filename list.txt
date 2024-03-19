@@ -2350,6 +2350,7 @@ cs2-invites.vip
 cs2-limited-test.peacockguesthousenepal.com
 cs2-limited.info
 cs2-loot.pro
+cs2-major.com
 cs2-natus.pro
 cs2-nfts.com
 cs2-nftz.com

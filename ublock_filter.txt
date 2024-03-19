@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-19T20:37:39Z
+! Updated: 2024-03-19T21:49:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7530,6 +7530,7 @@ dominospizza-nl.com
 dominospizzanl.com
 donk-esports.com
 donk-prime.net
+donkrolls.org
 doomislands.xyz
 dopaminedop.pages.dev
 dopevent.org

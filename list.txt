@@ -1504,6 +1504,7 @@ captcha-protect.xyz
 captcha-robot.xyz
 captcha-server.click
 captcha-site.com
+captcha-site.xyz
 captcha-slugs.com
 captcha-smart.top
 captcha-solver.com

@@ -13852,6 +13852,7 @@ protect-captcha.online
 protect-captcha.xyz
 protect-captchaverify.xyz
 protect4-bot-captcha-verify.online
+protectcaptchabot.ru
 protected-clicker.com
 protectedcaptchabotverify.ru
 protectingserver.xyz

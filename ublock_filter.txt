@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-21T17:28:00Z
+! Updated: 2024-03-21T18:49:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15590,6 +15590,7 @@ skins.org.ru
 skins.pp.ru
 skinsbears.com
 skinsforcsgo.ru
+skinshere.com
 skinsmonkey-exclusive.pro
 skinssmonkey.ru
 skinsup.monster

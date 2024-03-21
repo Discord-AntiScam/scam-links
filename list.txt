@@ -526,6 +526,7 @@ app-moderator.com
 app-nitro.com
 app-nitro.ru
 app-polyhedra.com
+app-polyhedra.space
 app-roblox.com
 app-roblox.info
 app-roblox.net

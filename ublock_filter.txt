@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-21T18:50:11Z
+! Updated: 2024-03-21T18:50:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9088,6 +9088,7 @@ frogs-jump.xyz
 from-puste.xyz
 frontier-yahoo-update-108036.square.site
 fskins-cs2.com
+fsport-arena.com
 fsport-cs2.pro
 fsport-csgo.com
 fsport-csgo.ru

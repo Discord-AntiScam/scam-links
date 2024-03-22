@@ -15342,6 +15342,7 @@ server-protection.xyz
 server-protector.online
 server-raid-protection.click
 server-roblox.com
+server-secure.xyz
 server-security-bot.xyz
 server-security.xyz
 server-squad.com

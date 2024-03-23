@@ -1319,6 +1319,7 @@ botcaptchaverify.online
 botcaptchaverify.site
 botcaptchaverifydev.ru
 botcollab.land
+botdefenderonline.xyz
 botdetect.click
 botdetect.xyz
 botdetector.online

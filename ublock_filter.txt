@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-22T23:29:32Z
+! Updated: 2024-03-23T01:15:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -880,6 +880,7 @@ autth-veb-login.ru
 autth-veeb-logiln.site
 autumnbot.cloud
 auuthh-veb-login.site
+auxingame.com
 avatarblox.com
 avatars-roblox.com
 avatartexture.com

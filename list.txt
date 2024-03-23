@@ -17371,6 +17371,7 @@ steam-gift.fun
 steam-gift.ir
 steam-gift.online
 steam-gift.pro
+steam-gift.shop
 steam-gift.site
 steam-gift.store
 steam-gift50.com

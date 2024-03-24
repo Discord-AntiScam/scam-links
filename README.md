@@ -5,7 +5,7 @@
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Discord-AntiScam/scam-links?color=4169e1&style=for-the-badge)
 
-This is a comprehensive repository with over **24000** curated phishing and scam domains that appear on the Discord platform. 
+This is a comprehensive repository with over **29 000** curated phishing and scam domains that appear on the Discord platform. 
 
 We provide lists of malicious domains to server owners to safeguard their members from malicious links and researchers that investigate these threats.
 

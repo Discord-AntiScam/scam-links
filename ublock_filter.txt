@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-23T19:51:33Z
+! Updated: 2024-03-24T07:01:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2494,6 +2494,7 @@ cs2navicases.com
 cs2newtour.com
 cs2oldrop.quest
 cs2pack.pro
+cs2pgl.com
 cs2pop.com
 cs2pop.ru
 cs2prime.pro
@@ -9105,6 +9106,7 @@ fsport-cup.ru
 fsport-cyber.ru
 fsport-cyber.site
 fsportcs2.ru
+fsportcsgo.com
 fsportcsgo.space
 fsportcyber.ru
 fsporte.ru
@@ -13382,6 +13384,7 @@ old-crash.com
 oldharper.xyz
 ollab.land
 ollabs.land
+ollobz.land
 oltoro.top
 omestredacama.net
 omgtnc.com
@@ -14707,6 +14710,7 @@ roblox.wf
 roblox.work.gd
 roblox.work.gd.dichvudark.sbs
 roblox.xn--cm-fmc.cf
+roblox.yt
 roblox.za.com
 roblox.zynaweb.com
 roblox0.com
@@ -17374,6 +17378,7 @@ steam-gift.fun
 steam-gift.ir
 steam-gift.online
 steam-gift.pro
+steam-gift.shop
 steam-gift.site
 steam-gift.store
 steam-gift50.com

@@ -14706,6 +14706,7 @@ roblox.wf
 roblox.work.gd
 roblox.work.gd.dichvudark.sbs
 roblox.xn--cm-fmc.cf
+roblox.yt
 roblox.za.com
 roblox.zynaweb.com
 roblox0.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-24T22:28:02Z
+! Updated: 2024-03-24T22:28:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13750,6 +13750,7 @@ polyhymnia-mar.com
 pond0x-online.net
 ponderobot.com
 ponk.pro
+pool-nftproject.firebaseapp.com
 pools-uniswap.network
 popsads.link
 popsicle.gift

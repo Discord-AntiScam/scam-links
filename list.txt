@@ -13724,10 +13724,10 @@ polyhedra-network.vercel.app
 polyhedra.club
 polyhedra.finance
 polyhedra.pw
-polyhedraaidrop.com
 polyhedradrops.online
 polyhedrafoundation.com
 polyhedraguard.github.io
+polyhedranetworks.com
 polyhedras.cc
 polyhedrasguard.web.app
 polyhedraswap.com

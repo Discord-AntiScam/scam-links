@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-23T23:29:24Z
+! Updated: 2024-03-24T06:26:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13383,6 +13383,7 @@ old-crash.com
 oldharper.xyz
 ollab.land
 ollabs.land
+ollobz.land
 oltoro.top
 omestredacama.net
 omgtnc.com

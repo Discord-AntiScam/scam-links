@@ -1261,6 +1261,7 @@ boredapevachtclub.com
 bot-captcha-verify.online
 bot-captcha-verify.site
 bot-captcha.com
+bot-captcha.fr
 bot-captcha.online
 bot-captchadev.ru
 bot-defender.online

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-25T20:37:41Z
+! Updated: 2024-03-25T20:37:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -21018,6 +21018,7 @@ steamcomucnity.com
 steamcomueniity.ru
 steamcomuenity.com
 steamcomuenity.ru
+steamcomuenlty.com
 steamcomuinite.ru
 steamcomuinity.com
 steamcomuinity.ru
@@ -27170,7 +27171,6 @@ the-hypesquad-on-application.com
 the-invitation-hypeteams.com
 the-invite-hypesquad.com
 the-join-hypesquadevents-news.com
-the-polyhedra.com
 the-roblox.ga
 the-selecteds-hypesquad.com
 the-subscribe-hypesquad.tk

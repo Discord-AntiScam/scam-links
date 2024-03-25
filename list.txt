@@ -13742,6 +13742,7 @@ polyguards.github.io
 polyhedra-airdrop.network
 polyhedra-apps.com
 polyhedra-foundation.com
+polyhedra-foundation.org
 polyhedra-network.vercel.app
 polyhedra.club
 polyhedra.finance

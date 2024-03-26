@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-26T12:50:16Z
+! Updated: 2024-03-26T12:50:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9300,6 +9300,7 @@ get-nitro.org
 get-nitro.xyz
 get-nitrogift.com
 get-nltro.com
+get-polyhedra.com
 get-premiumgift.com
 get-premiums.com
 get-reward.eu.org

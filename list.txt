@@ -13754,6 +13754,7 @@ polyhedra-alchemy.com
 polyhedra-apps.com
 polyhedra-foundation.com
 polyhedra-foundation.org
+polyhedra-network.live
 polyhedra-network.vercel.app
 polyhedra.club
 polyhedra.finance

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-26T12:48:43Z
+! Updated: 2024-03-26T12:48:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1015,6 +1015,7 @@ beta-hypesquad.com
 beta-invite.app
 beta-invite.com
 beta-news.org
+beta-polyhedra-io.com
 beta-profile.app
 beta-profile.com
 beta-roblox.com

@@ -336,6 +336,7 @@ airdrop-zkfair.network
 airdrop.homes
 airdroplayerzero.top
 airdroploot.com
+airdroppolyhedra.foundation
 airdrops-shardeum.org
 airdrops-taikos.xyz
 airdrops.ooo

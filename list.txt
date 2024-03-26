@@ -3209,6 +3209,7 @@ deshevil.xyz
 detectbots.click
 detectspam.click
 dev-discord.com
+dev-loyalty-polyhedra.network
 dev-pgclaim.pantheonsite.io
 devdiscord.com
 developer-bot.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-26T12:49:06Z
+! Updated: 2024-03-26T12:49:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11626,6 +11626,7 @@ low1cost.store
 lowblind.com
 loyal.charity
 loyal.wf
+loyalty-polyhedra.network
 loyaltys.online
 loycoins.com
 lp3xc.site

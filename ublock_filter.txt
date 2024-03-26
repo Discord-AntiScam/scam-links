@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-26T13:07:53Z
+! Updated: 2024-03-26T13:11:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8977,6 +8977,7 @@ foxcryptoby.com
 foxechange.com
 foxmods.xyz
 fps-booster.pw
+fr-authacces.com
 fr3e-verify-g1ft-2024.ru
 fragdiscord.online
 fredis-nitro.gq

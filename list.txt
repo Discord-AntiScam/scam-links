@@ -1320,6 +1320,7 @@ botcaptcha.com
 botcaptcha.net
 botcaptcha.site
 botcaptchaverify.online
+botcaptchaverify.ru
 botcaptchaverify.site
 botcaptchaverifydev.ru
 botcollab.land

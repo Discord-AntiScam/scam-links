@@ -1788,6 +1788,7 @@ cheatlab.org
 check-tokens.web.app
 check-web3.com
 checkcaptcha-bot.site
+checkcaptchabot.ru
 checkcryptojob.com
 checkeligibility-cyber.co
 checker-tokens.web.app

@@ -322,6 +322,7 @@ airdrop-layerzeros.network
 airdrop-magiceden.com
 airdrop-mavia.com
 airdrop-nitro.com
+airdrop-polyhedra.xyz
 airdrop-pork.com
 airdrop-satoshivm.app
 airdrop-satoshivm.com

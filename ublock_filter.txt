@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-27T22:16:11Z
+! Updated: 2024-03-27T22:16:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15298,6 +15298,7 @@ scwanmei.ru
 sdcuu.net
 sdicsords.xyz
 sdiscord.com
+sea-community.com
 sea-token.io
 seamcommnuity.com
 seamcommnunity.com

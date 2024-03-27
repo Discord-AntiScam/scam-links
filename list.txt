@@ -1576,6 +1576,7 @@ captcha.quest
 captcha.rs
 captcha.sale
 captcha.securitybot-auth.xyz
+captcha.server-security.online
 captcha.skin
 captcha.systems
 captcha.tf

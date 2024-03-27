@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-27T07:33:52Z
+! Updated: 2024-03-27T12:12:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13612,6 +13612,7 @@ paczka-w-drodze.com
 pages-notifications.net
 palowarnia.com
 palworid.com
+pancake-stake.pages.dev
 pancake-swap-drop.pro
 pancakeswap.press
 pancakeswapp.pro

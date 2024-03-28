@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-28T13:36:54Z
+! Updated: 2024-03-28T13:44:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15404,6 +15404,7 @@ seletionshypesquad.com
 selly.gg
 seltectedformy-hypesquad.com
 selverif.com
+semipro-cs.com
 semvirus.pt
 sendyou123.com
 senjata-gratis.duckdns.org

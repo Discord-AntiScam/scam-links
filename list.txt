@@ -12471,7 +12471,6 @@ mysteryboxnft43.vercel.app
 mysteryboxnft44.vercel.app
 mysteryboxs6.vercel.app
 mysteryboxt1.vercel.app
-mysteryclaim14.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclick83.vercel.app
 mysteryclickm.vercel.app
@@ -13532,6 +13531,7 @@ openseap1.vercel.app
 openseapr-claim-rose.vercel.app
 openseapro150-giveaway.web.app
 openseaproclaims.vercel.app
+openseaproclicks-silk.vercel.app
 openseaproject-click.vercel.app
 openseaproject65.vercel.app
 openseaproject736.vercel.app

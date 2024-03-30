@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-30T16:39:19Z
+! Updated: 2024-03-30T16:39:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12326,6 +12326,7 @@ mrobloxx.com
 ms-madeinabyss.com
 msc-nft.com
 msgift.io
+msterybox9276.vercel.app
 mstr-event.net
 msverify.dev
 msx2.top
@@ -13941,7 +13942,6 @@ programs-hypesquad-signup.com
 programs-moderator.com
 project-mavia.com
 project-porkcoin.com
-project-stakings.web.app
 projectclaim-nft.web.app
 projectnfts-opensea.vercel.app
 projectqql.com

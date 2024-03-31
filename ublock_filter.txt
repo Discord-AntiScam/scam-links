@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-31T11:17:51Z
+! Updated: 2024-03-31T11:17:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13837,6 +13837,7 @@ portal-coin.web.app
 portal-eth.web.app
 portal-mavia.com
 portal-sale.web.app
+portal-stake-gaming.web.app
 portal-staking-project.web.app
 portal-staking.web.app
 portal-stakings.web.app

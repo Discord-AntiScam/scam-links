@@ -13833,6 +13833,7 @@ portal-coin.web.app
 portal-eth.web.app
 portal-mavia.com
 portal-sale.web.app
+portal-stake-gaming.web.app
 portal-staking-project.web.app
 portal-staking.web.app
 portal-stakings.web.app

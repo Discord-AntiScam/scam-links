@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-03-31T11:17:49Z
+! Updated: 2024-03-31T11:17:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7569,7 +7569,6 @@ dominospizza-nl.com
 dominospizzanl.com
 donk-esports.com
 donk-friendly.com
-donk-present.org
 donk-prime.net
 donk-prize.com
 donk-raffles.org
@@ -12449,6 +12448,7 @@ mystery-clouds.com
 mystery-nftbox.com
 mysterybocsr.vercel.app
 mysterybox-nft.online
+mysterybox-proclick.vercel.app
 mysterybox099.vercel.app
 mysterybox11.vercel.app
 mysterybox1111.vercel.app

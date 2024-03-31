@@ -7995,6 +7995,7 @@ dynotools.click
 dynotools.dev
 dynotools.ink
 dynotools.one
+dynotools.tech
 dynov.art
 dynovalidation.com
 dynover.app

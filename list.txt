@@ -12478,6 +12478,7 @@ mysteryclaims36a.vercel.app
 mysteryclaimsnft.vercel.app
 mysteryclick83.vercel.app
 mysteryclickm.vercel.app
+mysteryclicks31.vercel.app
 mysteryclicks58.vercel.app
 mysteryopn.vercel.app
 mystrybox76.vercel.app

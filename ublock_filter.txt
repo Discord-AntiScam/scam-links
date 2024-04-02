@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-02T18:06:50Z
+! Updated: 2024-04-02T18:07:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27177,6 +27177,7 @@ teslafreemoney.com
 teslafund.live
 teslagive.live
 teslagiveaway.gift
+teslagiveaway.top
 teslagives.org
 teslagives2023.com
 teslagives23.live

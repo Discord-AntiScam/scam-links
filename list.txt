@@ -12490,6 +12490,7 @@ mysteryclaim40c.vercel.app
 mysteryclaim52b.vercel.app
 mysteryclaims36a.vercel.app
 mysteryclaimsnft.vercel.app
+mysteryclick72.vercel.app
 mysteryclick83.vercel.app
 mysteryclickm.vercel.app
 mysteryclicks31.vercel.app

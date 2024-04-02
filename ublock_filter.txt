@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-02T18:08:19Z
+! Updated: 2024-04-02T19:05:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16200,6 +16200,7 @@ snowgivingg.com
 snxpool.com
 soft-gratis.com
 softgaz.ru
+solanamemecoinairdropclaim.pages.dev
 solheimweb.com
 solicitation-hypesquad.ga
 solicitationfor-events.com

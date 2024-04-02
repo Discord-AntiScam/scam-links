@@ -12480,6 +12480,7 @@ mysterybox7787.vercel.app
 mysterybox8277.vercel.app
 mysterybox8376.vercel.app
 mysterybox9087.vercel.app
+mysteryboxc432.vercel.app
 mysteryboxclaim.vercel.app
 mysteryboxes-smoky.vercel.app
 mysteryboxes882.vercel.app

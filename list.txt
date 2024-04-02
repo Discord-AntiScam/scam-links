@@ -1390,6 +1390,7 @@ bounty-connect.live
 bountysday.com
 box-nftburn.web.app
 box-nfts.online
+box-openseapool.firebaseapp.com
 box.live-web3.net
 box2youcs2.com
 boxcs2easy.fun

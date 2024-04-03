@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-03T22:54:40Z
+! Updated: 2024-04-03T22:55:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27505,6 +27505,7 @@ trustpool.xyz
 trustsentry.org
 trustwallet-restoresweb-restore.webflow.io
 trustwallet-support.com
+trustwalletsupport.vercel.app
 try-source2.eu
 ts0051.asia
 tsla-2023.com

@@ -9832,6 +9832,7 @@ hallowen-nitro.com
 halo-analyse.web.app
 halo-meta.com
 halo-paperhands.pages.dev
+halo-platform.pages.dev
 halo-portfolio.web.app
 halo-track.web.app
 haloinfinite.shop

@@ -15498,6 +15498,7 @@ server.captcha-verify-bot.ru
 serverprotect.xyz
 serverprotection.xyz
 serverprotector.xyz
+serverprotects.xyz
 servers-bot.xyz
 servers-captcha.site
 servers-captchas.site

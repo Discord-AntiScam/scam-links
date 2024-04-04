@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T11:20:09Z
+! Updated: 2024-04-04T11:23:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27949,6 +27949,7 @@ uniswap-v4-pool.pages.dev
 uniswap.li
 uniswapv3.xyz
 unitedebattle.com
+univ4-platform.pages.dev
 uopernfl.top
 uopernfr.top
 uopirior.top

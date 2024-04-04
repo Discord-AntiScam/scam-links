@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T17:00:39Z
+! Updated: 2024-04-04T17:45:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1827,6 +1827,7 @@ chess-net.info
 chess2x.com
 chess2x.net
 chestuwygli.com
+chic-pothos-10e942.netlify.app
 chillbearcheck.com
 chillbearclub.info
 chintsressels.com

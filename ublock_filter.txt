@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T11:23:12Z
+! Updated: 2024-04-04T13:58:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15408,6 +15408,7 @@ security-bot.online
 security-safety-support.com
 securitycollab.land
 securitydefender.xyz
+securityon.xyz
 seed-nitro.com
 seedbreakgoal.live
 seekersofparagon-xyz.pages.dev

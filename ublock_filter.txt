@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T16:54:46Z
+! Updated: 2024-04-04T16:54:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1844,6 +1844,7 @@ churchward-objectiv.000webhostapp.com
 circle-usdc.live
 citydao.live
 ckre.net
+claim-0penseamint.web.app
 claim-airdrop.com
 claim-airdrop.live
 claim-cs2.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T13:58:18Z
+! Updated: 2024-04-04T13:58:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -29066,6 +29066,7 @@ xiomoinuyt03.z11.web.core.windows.net
 xlauncher-apps.com
 xmarscoin.com
 xn--chin-6na.link
+xn--discor-12a.com
 xn--discrd-zxa.com
 xn--disordapp-s3a.com
 xn--dos-fna.net

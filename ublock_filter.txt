@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T16:54:51Z
+! Updated: 2024-04-04T17:00:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13864,6 +13864,7 @@ polyhedras.cc
 polyhedrasguard.web.app
 polyhedraswap.com
 polyhedratoday.pro
+polyhedraviazk.com
 polyhedrazk.net
 polyhedrazk.xyz
 polyhendra.com

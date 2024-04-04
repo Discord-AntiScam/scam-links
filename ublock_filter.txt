@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-04T16:54:49Z
+! Updated: 2024-04-04T16:54:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1844,7 +1844,6 @@ churchward-objectiv.000webhostapp.com
 circle-usdc.live
 citydao.live
 ckre.net
-claim-0penseamint.web.app
 claim-airdrop.com
 claim-airdrop.live
 claim-cs2.com
@@ -13586,6 +13585,7 @@ openseanft2.vercel.app
 openseap1.vercel.app
 openseapr-claim-rose.vercel.app
 openseapro150-giveaway.web.app
+openseaproclaim.on.fleek.co
 openseaproclaims.vercel.app
 openseaproclicks-silk.vercel.app
 openseaproject-click.vercel.app

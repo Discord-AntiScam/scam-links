@@ -1840,7 +1840,6 @@ churchward-objectiv.000webhostapp.com
 circle-usdc.live
 citydao.live
 ckre.net
-claim-0penseamint.web.app
 claim-airdrop.com
 claim-airdrop.live
 claim-cs2.com
@@ -13582,6 +13581,7 @@ openseanft2.vercel.app
 openseap1.vercel.app
 openseapr-claim-rose.vercel.app
 openseapro150-giveaway.web.app
+openseaproclaim.on.fleek.co
 openseaproclaims.vercel.app
 openseaproclicks-silk.vercel.app
 openseaproject-click.vercel.app

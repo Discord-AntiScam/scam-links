@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-05T16:23:46Z
+! Updated: 2024-04-05T16:25:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13995,6 +13995,7 @@ prizendroll.com
 prizes-navi.pro
 prizesworldcenter.com
 pro-collab.land
+pro-mintpool.firebaseapp.com
 procaptchaverify.ru
 profi-para.com
 profile-442572242.online

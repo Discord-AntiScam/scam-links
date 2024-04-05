@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-05T16:43:46Z
+! Updated: 2024-04-05T16:44:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13045,6 +13045,7 @@ nft-clickgrab.vercel.app
 nft-g-opensea.vercel.app
 nft-hedgies.com
 nft-imints.com
+nft-openbox-e24a0.web.app
 nft-palworld.com
 nft-presale.live
 nft-sushi.com

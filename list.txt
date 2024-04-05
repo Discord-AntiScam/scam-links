@@ -12107,6 +12107,7 @@ miniurl.pw
 mint-0pensea-3993b.web.app
 mint-0penseaclaim.web.app
 mint-boxpool.firebaseapp.com
+mint-boxpool.web.app
 mint-dorks.xyz
 mint-hatsunemiku.com
 mint-nftbox-3f8cd.web.app

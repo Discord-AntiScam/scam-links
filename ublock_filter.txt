@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-05T14:00:35Z
+! Updated: 2024-04-05T14:00:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12901,6 +12901,7 @@ netund.com
 network-collab.land
 network-jito.xyz
 network-layerzero.app
+network-polyhedra.com
 networkpolyhedra.net
 new-academy-forms-renew-testers-moderetors-connect.com
 new-apply-beta.com

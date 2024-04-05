@@ -15512,6 +15512,7 @@ server-squad.com
 server-system.app
 server-system.co
 server.captcha-verify-bot.ru
+serverboton.xyz
 serverprotect.xyz
 serverprotection.xyz
 serverprotector.xyz

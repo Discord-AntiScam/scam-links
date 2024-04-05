@@ -1860,6 +1860,7 @@ claim-link.date
 claim-link.io
 claim-manatoken.com
 claim-manta.network
+claim-opeansea.firebaseapp.com
 claim-polyhedra.net
 claim-polyhedra.org
 claim-porkcoin.org

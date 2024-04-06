@@ -22375,6 +22375,7 @@ steamgift.online
 steamgift.org.ru
 steamgift.site
 steamgift.space
+steamgiftactivation.store
 steamgiftbox.com
 steamgiftcard.ru
 steamgiftcards.cf

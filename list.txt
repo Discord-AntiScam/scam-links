@@ -1869,6 +1869,7 @@ claim-link.io
 claim-manatoken.com
 claim-manta.network
 claim-opeansea.firebaseapp.com
+claim-openeth.web.app
 claim-polyhedra.net
 claim-polyhedra.org
 claim-porkcoin.org

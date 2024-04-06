@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-06T09:48:54Z
+! Updated: 2024-04-06T10:28:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1402,6 +1402,7 @@ bounty-connect.live
 bountysday.com
 box-0penseapro.web.app
 box-burnownft.web.app
+box-clamnow.web.app
 box-nftburn.web.app
 box-nfts.online
 box-opensea-e4221.web.app

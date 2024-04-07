@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-07T12:08:12Z
+! Updated: 2024-04-07T12:08:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1414,6 +1414,7 @@ box-openseapool.firebaseapp.com
 box.live-web3.net
 box2youcs2.com
 boxcs2easy.fun
+boxes-openseanow.web.app
 boxgolg.club
 boxmint-project.web.app
 boxnft-mint.web.app

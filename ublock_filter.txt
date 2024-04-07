@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-07T20:58:18Z
+! Updated: 2024-04-07T20:58:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10131,6 +10131,7 @@ hypeevents-formulary.com
 hypeevents-program.com
 hypeevents-programs.com
 hypeformulary.com
+hyper-nitro.ru
 hyper-tournament.xyz
 hyperegister.com
 hyperegister.online

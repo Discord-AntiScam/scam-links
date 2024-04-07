@@ -14087,6 +14087,7 @@ prophetscollab.land
 prostesprawy.click
 protect-captcha.online
 protect-captcha.xyz
+protect-captchabot-shield.site
 protect-captchaverify.xyz
 protect4-bot-captcha-verify.online
 protectcaptchabot.ru

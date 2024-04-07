@@ -1861,6 +1861,7 @@ circle-usdc.live
 citydao.live
 ckre.net
 claim-0penprosea.firebaseapp.com
+claim-150pro.firebaseapp.com
 claim-airdrop.com
 claim-airdrop.live
 claim-boxpool.web.app

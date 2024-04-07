@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-07T17:13:24Z
+! Updated: 2024-04-07T18:29:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13852,6 +13852,7 @@ players2gamers.ru
 playersauction.ru
 playeslgaming.ru
 playeslseries.com
+playestates.co
 playfastcup.ru
 playrank.net
 playroblox.ga

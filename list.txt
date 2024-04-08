@@ -485,6 +485,7 @@ api-sledgehammer.com
 api-vulcan.com
 api-wallet-verification.pages.dev
 api.discord.cool-js.cloud
+api.guardkava.club
 api0-collabland.com
 api10-altverify.com
 api14-altidentifier.com

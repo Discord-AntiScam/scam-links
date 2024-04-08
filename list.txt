@@ -15574,6 +15574,7 @@ server-protectors.xyz
 server-protects.online
 server-raid-protection.click
 server-roblox.com
+server-secure-on.xyz
 server-secure.xyz
 server-security-bot.xyz
 server-security.xyz

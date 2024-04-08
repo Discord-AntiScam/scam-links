@@ -1911,6 +1911,7 @@ claimhypixel.net
 claiminghypixel.net
 claimlayerzero.net
 claimnft-box.web.app
+claimnftboxes.web.app
 claimnitro.me
 claimpage-saga.pages.dev
 claimpepe.co

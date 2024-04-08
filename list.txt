@@ -1322,6 +1322,7 @@ bot-servers.cc
 bot-servers.info
 bot-sledgehammer.com
 bot-valorant.com
+bot-verif.xyz
 bot-verification.xyz
 bot-verifier.online
 bot-verifier.xyz

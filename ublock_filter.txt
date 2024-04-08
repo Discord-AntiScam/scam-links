@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-08T18:09:06Z
+! Updated: 2024-04-08T18:09:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -6919,7 +6919,6 @@ distro-satoshivm.com
 disuord.gift
 disuscord.site
 disuscord.xyz
-disvalor.com
 disvord.ml
 diswcord.com
 disxcord.com
@@ -8419,6 +8418,7 @@ ethapy.io
 ethapy.net
 ethapy.org
 etharbitragebot.com
+ethenaclaim.xyz
 ether-porkcoin.com
 ether-rank.web.app
 ether-tesla.com

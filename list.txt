@@ -6915,7 +6915,6 @@ distro-satoshivm.com
 disuord.gift
 disuscord.site
 disuscord.xyz
-disvalor.com
 disvord.ml
 diswcord.com
 disxcord.com
@@ -8415,6 +8414,7 @@ ethapy.io
 ethapy.net
 ethapy.org
 etharbitragebot.com
+ethenaclaim.xyz
 ether-porkcoin.com
 ether-rank.web.app
 ether-tesla.com

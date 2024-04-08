@@ -1882,6 +1882,7 @@ claim-link.date
 claim-link.io
 claim-manatoken.com
 claim-manta.network
+claim-nftgiveaway.web.app
 claim-opeansea.firebaseapp.com
 claim-openeth.firebaseapp.com
 claim-openeth.web.app
@@ -13653,7 +13654,6 @@ openseaproject65.vercel.app
 openseaproject736.vercel.app
 openseaproject82.vercel.app
 openseaproject83.vercel.app
-openseapros45.vercel.app
 openseauth.info
 opensenft.vercel.app
 opensia.club

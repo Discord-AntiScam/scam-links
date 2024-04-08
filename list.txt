@@ -1179,7 +1179,6 @@ blast-launchpad.pages.dev
 blast-layer.web.app
 blast-platform.pages.dev
 blast-protocol.xyz
-blast-rewards.com
 blast-tv-giveaway.pro
 blastcode.io
 blastcsgo.com
@@ -28373,6 +28372,7 @@ vamox.shop
 vanarchaiin.com
 varbloox.com
 varfabit.com
+vazox.shop
 vbs-game-2.pro
 vbs-game.pro
 vbucksminer.ru

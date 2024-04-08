@@ -9896,6 +9896,7 @@ harambetoken.top
 harzfriends.de
 hash-connects.com
 haste.monster
+havaclaim.com
 havecryptojob.com
 haypesquad-formulary-team.com
 hclcsgo.ga
@@ -13665,7 +13666,6 @@ openseaproject65.vercel.app
 openseaproject736.vercel.app
 openseaproject82.vercel.app
 openseaproject83.vercel.app
-openseasclick324.vercel.app
 openseauth.info
 opensenft.vercel.app
 opensia.club

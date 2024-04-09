@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-09T11:37:12Z
+! Updated: 2024-04-09T11:37:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8336,6 +8336,7 @@ epulzegaming.com
 eraoflegends.com
 erbloxii.xyz
 erc20-mining.com
+erc404pandora.vercel.app
 eree9.000webhostapp.com
 es-csgo.com
 eseacsgo.com
@@ -12553,7 +12554,6 @@ mysterybox6771.vercel.app
 mysterybox7269.vercel.app
 mysterybox728.vercel.app
 mysterybox745.vercel.app
-mysterybox74n.vercel.app
 mysterybox76275.vercel.app
 mysterybox7787.vercel.app
 mysterybox79lj.vercel.app

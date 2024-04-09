@@ -8332,6 +8332,7 @@ epulzegaming.com
 eraoflegends.com
 erbloxii.xyz
 erc20-mining.com
+erc404pandora.vercel.app
 eree9.000webhostapp.com
 es-csgo.com
 eseacsgo.com
@@ -12549,7 +12550,6 @@ mysterybox6771.vercel.app
 mysterybox7269.vercel.app
 mysterybox728.vercel.app
 mysterybox745.vercel.app
-mysterybox74n.vercel.app
 mysterybox76275.vercel.app
 mysterybox7787.vercel.app
 mysterybox79lj.vercel.app

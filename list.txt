@@ -488,6 +488,7 @@ api-wallet-verification.pages.dev
 api.discord.cool-js.cloud
 api.guardkava.club
 api0-collabland.com
+api1-vulcverify.com
 api10-altverify.com
 api14-altidentifier.com
 api15-altidentifier.com

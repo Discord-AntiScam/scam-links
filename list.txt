@@ -492,6 +492,7 @@ api1-vulcverify.com
 api10-altverify.com
 api14-altidentifier.com
 api15-altidentifier.com
+api15vulcan.com
 api16-altidentifier.com
 api20-altverify.com
 api20-collab.land

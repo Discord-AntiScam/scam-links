@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-10T18:00:14Z
+! Updated: 2024-04-10T19:12:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15067,6 +15067,7 @@ robolox.com.de
 robolox.info
 robolox.pl
 robolox.uk.com
+robot-captcha.xyz
 robox.com.by
 robox.com.ge
 robqlox.com

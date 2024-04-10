@@ -14136,6 +14136,7 @@ protect-captcha.online
 protect-captcha.xyz
 protect-captchabot-shield.site
 protect-captchaverify.xyz
+protect.chaptcha.xyz
 protect.oauth-verification.xyz
 protect4-bot-captcha-verify.online
 protectcaptchabot.ru

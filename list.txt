@@ -28739,6 +28739,7 @@ web3-register.foundation
 web3-satoshivm.com
 web3-uaidh.formstack.com
 web3-uzawv.formstack.com
+web3-world.org
 web3-worldcoin.com
 web3-wsmcasino.netlify.app
 web3-zetachain.com

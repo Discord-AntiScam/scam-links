@@ -11350,6 +11350,7 @@ kava-api.pro
 kava-api.pw
 kava-api.xyz
 kava-guards.com
+kava-web.club
 kava-web.one
 kava-web.xyz
 kavabot.app

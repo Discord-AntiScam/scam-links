@@ -27756,6 +27756,7 @@ twitch-esports.tv
 twitch-event.com
 twitch-event.ru
 twitch-exclusive.com
+twitch-facepunc.ru
 twitch-facepunch.com
 twitch-facepunchs.com
 twitch-favours.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-11T12:48:50Z
+! Updated: 2024-04-11T14:10:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1977,6 +1977,7 @@ cls-tournament.ru
 club-apply-squad.tk
 club-hypesquad.com
 club-moderatorsacademy.net
+club-nfts.com
 club-robloxs.com
 club-squad-now.ml
 clubboost-nitro.shop

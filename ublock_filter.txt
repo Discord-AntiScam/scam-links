@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-12T19:31:31Z
+! Updated: 2024-04-12T19:33:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11651,6 +11651,7 @@ livetesla.pro
 lkdiscord.com
 llab-verifys.host
 llab-verifys.icu
+llabs-connect.wiki
 llabs.land
 lll78609908016.asia
 llll0001582.com

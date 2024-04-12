@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-12T11:31:23Z
+! Updated: 2024-04-12T11:31:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1903,6 +1903,7 @@ claim-manta.network
 claim-mintopenpro.web.app
 claim-nftgiveaway.web.app
 claim-nftpro.firebaseapp.com
+claim-nftpro.web.app
 claim-opeansea.firebaseapp.com
 claim-openeth.firebaseapp.com
 claim-openeth.web.app

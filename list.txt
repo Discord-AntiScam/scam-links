@@ -1899,6 +1899,7 @@ claim-manta.network
 claim-mintopenpro.web.app
 claim-nftgiveaway.web.app
 claim-nftpro.firebaseapp.com
+claim-nftpro.web.app
 claim-opeansea.firebaseapp.com
 claim-openeth.firebaseapp.com
 claim-openeth.web.app

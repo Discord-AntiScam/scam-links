@@ -1560,6 +1560,7 @@ captcha-guild.xyz
 captcha-info.com
 captcha-join.com
 captcha-login.id
+captcha-lookup.xyz
 captcha-owls-of-fortune.fr
 captcha-protect.online
 captcha-protect.xyz

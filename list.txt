@@ -2068,6 +2068,7 @@ collab-verify.land
 collab.ac
 collab.claims
 collab.gs
+collab.land-clubs.com
 collab.land.gl
 collab.land.gmbh
 collab.ms

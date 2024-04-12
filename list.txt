@@ -1546,6 +1546,7 @@ captcha-bot.net
 captcha-bot.org
 captcha-bot.pro
 captcha-bot.site
+captcha-bot.space
 captcha-bot.tech
 captcha-bot.website
 captcha-bot.xyz

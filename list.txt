@@ -1319,6 +1319,7 @@ bot-protector.online
 bot-protects.xyz
 bot-redirect.com
 bot-secure.xyz
+bot-securing.xyz
 bot-securisation.xyz
 bot-security-dev.xyz
 bot-security-online.xyz

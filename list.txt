@@ -1852,6 +1852,7 @@ cheatlab.app
 cheatlab.org
 check-bot-verify.ru
 check-tokens.web.app
+check-verify-bot.ru
 check-web3.com
 checkcaptcha-bot.site
 checkcaptchabot.ru

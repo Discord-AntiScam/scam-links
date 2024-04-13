@@ -11370,6 +11370,7 @@ kava-web.club
 kava-web.one
 kava-web.xyz
 kavabot.app
+kavabot.me
 kavachain.club
 kavacloud.xyz
 kavagate.one

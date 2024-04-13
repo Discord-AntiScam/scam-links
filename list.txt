@@ -1371,6 +1371,7 @@ botprotect-verification.online
 botprotect-verify.online
 botprotect.xyz
 botprotecting.uk
+botprotectingservers.xyz
 botprotection.online
 botprotection.xyz
 botprotections.xyz

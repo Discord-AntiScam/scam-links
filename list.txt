@@ -18473,7 +18473,6 @@ steamcommnunity.ru.com
 steamcommnunity.site
 steamcommnunity.xyz
 steamcommnuniy.com
-steamcommnunjty.com
 steamcommnunlity.com
 steamcommnunlity.ru
 steamcommnunllty.ru
@@ -28544,6 +28543,7 @@ verify-vulcan.xyz
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
 verifybadgeteam.com
+verifybot.land
 verifybot.ru
 verifycaptcha-bot.online
 verifycaptcha-bot.site

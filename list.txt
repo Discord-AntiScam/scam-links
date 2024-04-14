@@ -11375,6 +11375,7 @@ kava-web.xyz
 kavabot.app
 kavabot.me
 kavachain.club
+kavachecks.club
 kavacloud.xyz
 kavagate.one
 kavaguard.com

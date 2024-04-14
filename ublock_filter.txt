@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-14T10:34:49Z
+! Updated: 2024-04-14T12:48:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11476,6 +11476,7 @@ land-assests.com
 land-confirm.com
 land-hub.org
 land-ip.com
+land-protocol.com
 land-satoshi.com
 land-satoshis.com
 land-satoshivms.com

@@ -1339,6 +1339,7 @@ bot-verif.xyz
 bot-verification.xyz
 bot-verifier.online
 bot-verifier.xyz
+bot-verify-check.ru
 bot-verify.xyz
 bot-vulcan.xyz
 bot.capcha.lol

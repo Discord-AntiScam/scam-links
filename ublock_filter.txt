@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-16T22:23:08Z
+! Updated: 2024-04-16T22:23:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -25158,6 +25158,7 @@ stearnconmuninty.ru
 stearnconmunitily.ru
 stearnconmunitiy.ru
 stearnconmunitly.com
+stearnconmunitty.ru
 stearnconmunity.co
 stearnconmunity.com
 stearnconmunity.me

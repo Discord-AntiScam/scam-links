@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-16T20:29:21Z
+! Updated: 2024-04-16T20:29:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1182,7 +1182,6 @@ blast-bf1.pages.dev
 blast-bzu.pages.dev
 blast-csgo.cc
 blast-csgo.com
-blast-dex.pages.dev
 blast-esport.com
 blast-event.com
 blast-io.web.app
@@ -13870,6 +13869,7 @@ paperhanded-check.web.app
 paperhanded-network.web.app
 paperhanded.pages.dev
 paperhandeds.pages.dev
+paperhander.pages.dev
 paperhands-analyser.web.app
 paperhands-check.web.app
 paperhands-coin.web.app

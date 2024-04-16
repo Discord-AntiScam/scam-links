@@ -1178,7 +1178,6 @@ blast-bf1.pages.dev
 blast-bzu.pages.dev
 blast-csgo.cc
 blast-csgo.com
-blast-dex.pages.dev
 blast-esport.com
 blast-event.com
 blast-io.web.app
@@ -13866,6 +13865,7 @@ paperhanded-check.web.app
 paperhanded-network.web.app
 paperhanded.pages.dev
 paperhandeds.pages.dev
+paperhander.pages.dev
 paperhands-analyser.web.app
 paperhands-check.web.app
 paperhands-coin.web.app

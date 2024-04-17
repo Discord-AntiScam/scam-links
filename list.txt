@@ -13861,6 +13861,7 @@ pandemidestekpaket.cf
 pandziennikarz.click
 pannel-discord.nl
 paper-hand.web.app
+paper-handed.com
 paper-hands-ethereum.web.app
 paper-hold.web.app
 paperhand-check.web.app

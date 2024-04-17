@@ -510,6 +510,7 @@ api36-collab.land
 api5-collabland.com
 api53-collab.land
 api62-collab.land
+api7-vulcanbot.com
 api8-collabland.com
 apicollab.land
 apidaap.pages.dev

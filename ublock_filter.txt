@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-17T17:41:07Z
+! Updated: 2024-04-17T19:53:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13576,6 +13576,7 @@ oauth-discord.com
 oauth-discord.xyz
 oauth2-bot.site
 oauth2-dyno.xyz
+oauth2-verification.xyz
 oauthverification.xyz
 obensea.pw
 oblcx.com

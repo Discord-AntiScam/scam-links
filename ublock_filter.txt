@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-17T15:29:55Z
+! Updated: 2024-04-17T17:41:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9297,6 +9297,7 @@ gala-hub.com
 gala-play.ru
 gala-wins.com
 galaxyxtrade.com
+galxe-unique.life
 galxe.cm
 galxe.com.au
 galxe.com.co

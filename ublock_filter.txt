@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-18T04:32:09Z
+! Updated: 2024-04-18T05:53:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10001,6 +10001,7 @@ hook-ups-here2.com
 hootsworkshop.com
 hope-nitro.com
 horried.pro
+hot-leaks.xyz
 hot00001102.asia
 hot00003501.asia
 hot00003504.asia

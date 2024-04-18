@@ -13580,6 +13580,7 @@ oauth-discord.xyz
 oauth2-bot.site
 oauth2-dyno.xyz
 oauth2-verification.xyz
+oauth2.fr
 oauthverification.xyz
 obensea.pw
 oblcx.com

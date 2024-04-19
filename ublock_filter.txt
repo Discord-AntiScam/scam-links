@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-19T06:01:53Z
+! Updated: 2024-04-19T08:30:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13180,6 +13180,7 @@ newyeargift.asia
 newyearstale.skin
 newyearsub.com
 nexcubit.com
+nextkava.club
 nezur.net
 nfc.gallery
 nft-0penseaclaim.web.app

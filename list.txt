@@ -351,6 +351,7 @@ airdrops-shardeum.org
 airdrops-taikos.xyz
 airdrops.ooo
 airdrops.website
+airdropscanner.web.app
 airlauchpad.app
 airlaunchpad.app
 airreward.pro

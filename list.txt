@@ -2083,6 +2083,7 @@ collab-security.land
 collab-sync.land
 collab-token.com
 collab-verify.land
+collab-webapp.com
 collab.ac
 collab.claims
 collab.gs

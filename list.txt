@@ -14085,6 +14085,7 @@ portal-eth.web.app
 portal-gaming-project.pages.dev
 portal-gaming.pages.dev
 portal-mavia.com
+portal-platform.pages.dev
 portal-project.pages.dev
 portal-sale.web.app
 portal-stake-gaming.web.app

@@ -1537,6 +1537,7 @@ captcha-bot-protect.fun
 captcha-bot-scam.onrender.com
 captcha-bot-verification.xyz
 captcha-bot-verify.fun
+captcha-bot-verify.ru
 captcha-bot-verify.site
 captcha-bot.app
 captcha-bot.cc

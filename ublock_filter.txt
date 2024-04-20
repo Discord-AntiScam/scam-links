@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-20T20:13:50Z
+! Updated: 2024-04-20T22:48:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10900,6 +10900,7 @@ integrate-hypesquad-exams.com
 integration-on-hypesquad.com
 intell.in.ua
 intent-developers.com
+interactauth.top
 internetspeedtracker.com
 intimki.com
 into-nitro.com

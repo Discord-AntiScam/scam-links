@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-20T14:40:51Z
+! Updated: 2024-04-20T16:04:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1782,6 +1782,7 @@ careers.ua
 carl-bot.io
 carl-bot.me
 carl-bot.pro
+carlbeta.com
 carlbot.click
 carlbot.ga
 carlbot.me

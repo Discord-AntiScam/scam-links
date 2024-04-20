@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-20T10:23:38Z
+! Updated: 2024-04-20T10:23:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9374,6 +9374,7 @@ gate-undeads-club.com
 gatekava.link
 gatekava.live
 gates-satoshivm.com
+gateway-collab.com
 gather.skin
 gave-nitro.com
 gavenitro.com

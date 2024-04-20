@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-20T10:23:57Z
+! Updated: 2024-04-20T10:34:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -828,6 +828,7 @@ arthyredir.com
 article-cryptonews.com
 artofmob.co
 aselink.guru
+asi-matrica.io
 asiaroblox.cam
 aslnk.link
 asset-vulcan.com

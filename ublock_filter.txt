@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-20T10:23:44Z
+! Updated: 2024-04-20T10:23:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2174,6 +2174,7 @@ commhnmgo.com
 communities-manta.com
 community-discord.com
 community-emailevent.gq
+community-guard.com
 community-satoshivm.io
 community-tia.org
 communityfiledetails.com

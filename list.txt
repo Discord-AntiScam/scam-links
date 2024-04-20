@@ -28582,6 +28582,7 @@ ver-server.com
 veri-captcha.bot
 vericord.xyz
 verif-5556.com
+verif-bot.xyz
 verif-nitro.ru
 verif-nitro.xyz
 verif-sledgehammer.claims

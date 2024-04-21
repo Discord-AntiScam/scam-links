@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-21T01:17:28Z
+! Updated: 2024-04-21T06:22:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11616,6 +11616,7 @@ ldlscordapp.com
 leaguecs.ru
 leaguecsgo.ga
 leagueofcsgo.ru
+leakster.online
 leancoding.co
 leesfeeandgas.com
 lef23671.justinstalledpanel.com

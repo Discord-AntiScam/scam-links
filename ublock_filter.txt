@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-20T23:18:52Z
+! Updated: 2024-04-21T00:58:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15254,6 +15254,7 @@ rolimons.sbs
 rolimons.tech
 rolimons.xyz
 rolimonstatus.com
+rolinker.app
 rolinker.io
 roll-bit.pro
 roll-case.com

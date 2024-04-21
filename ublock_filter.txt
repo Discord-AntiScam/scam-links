@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-21T06:22:47Z
+! Updated: 2024-04-21T12:18:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15319,6 +15319,7 @@ rug-radio-gates.com
 rugive-csgorun.xyz
 rules-academy-moderatiors.com
 runcsgo.com
+rune-ston.web.app
 rushingfolder.com
 rushskillz.net.ru
 rust-app.com

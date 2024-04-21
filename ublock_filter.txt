@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-21T19:39:16Z
+! Updated: 2024-04-21T20:31:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2206,6 +2206,7 @@ confirmcryptojob.org
 connecl-collab.land
 connect-academy-moderetors-testers.com
 connect-beta-custom.com
+connect-collablands.xyz
 connect-csgo.com
 connect-events-hypesquad.com
 connect-forms-renews-moderetors.com

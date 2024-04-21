@@ -1584,6 +1584,7 @@ captcha-protect.online
 captcha-protect.xyz
 captcha-protections-bot.xyz
 captcha-protectverifysecurity.xyz
+captcha-robot.lol
 captcha-robot.xyz
 captcha-server.click
 captcha-site.com

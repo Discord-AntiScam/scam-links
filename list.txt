@@ -2203,6 +2203,7 @@ confirmcryptojob.org
 connecl-collab.land
 connect-academy-moderetors-testers.com
 connect-beta-custom.com
+connect-collabland.lol
 connect-collablands.xyz
 connect-csgo.com
 connect-events-hypesquad.com

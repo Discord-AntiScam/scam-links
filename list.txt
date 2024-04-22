@@ -11506,6 +11506,7 @@ lancapviral.room-private-free.my.id
 land-api20.com
 land-api5.com
 land-assest.com
+land-assests.app
 land-assests.com
 land-confirm.com
 land-hiring.com

@@ -1706,6 +1706,7 @@ captchabot.us
 captchabot.website
 captchabotdata.xyz
 captchabotguild.com
+captchabots-verify.xyz
 captchabots.cc
 captchabots.fr
 captchabots.xyz

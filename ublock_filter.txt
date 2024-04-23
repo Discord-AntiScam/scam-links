@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-22T19:24:46Z
+! Updated: 2024-04-23T12:58:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -988,6 +988,7 @@ bedevlopers.com
 bedevlopers.info
 bedynet.ru
 beefyv.com
+begigachad.ru
 begigantchad.ru
 beginner-moderator-formulary.com
 beincrypto.legal

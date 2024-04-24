@@ -9948,6 +9948,7 @@ hack-expert-solution.link
 halitaoz.cam
 hallowen-nitro.com
 halo-analyse.web.app
+halo-crypto.pages.dev
 halo-diamondhands.pages.dev
 halo-meta.com
 halo-paperhands.pages.dev

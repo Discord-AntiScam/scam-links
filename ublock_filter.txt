@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-24T16:45:13Z
+! Updated: 2024-04-24T16:45:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12264,6 +12264,7 @@ mint-claimnft.firebaseapp.com
 mint-claimnft.web.app
 mint-dorks.xyz
 mint-hatsunemiku.com
+mint-mysteryboxprojts.vercel.app
 mint-nftbox-3f8cd.web.app
 mint-nowopenseaeth.web.app
 mint-opensa.web.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-24T04:49:16Z
+! Updated: 2024-04-24T04:49:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1988,6 +1988,7 @@ click-collab.land
 click2click.xyz
 clickclaims1.vercel.app
 clickclaims1f.vercel.app
+clickclaims1g.vercel.app
 clickcliam9xx.vercel.app
 clicmenti.gq
 clicnews.com

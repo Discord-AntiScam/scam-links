@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-24T16:58:21Z
+! Updated: 2024-04-24T18:25:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13764,6 +13764,7 @@ open-glfts.ru
 open-glfts.space
 open-gpt23.com
 open-mystery.web.app
+open-mystery77.vercel.app
 open-soma.com
 openacase.xyz
 openai-2023.live

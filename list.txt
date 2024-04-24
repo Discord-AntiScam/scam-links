@@ -2212,6 +2212,7 @@ confirmcollab.land
 confirmcryptojob.org
 connecl-collab.land
 connect-academy-moderetors-testers.com
+connect-airdrop-metamask-gateway01a.com
 connect-beta-custom.com
 connect-collabland.lol
 connect-collablands.xyz

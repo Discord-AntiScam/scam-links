@@ -1722,6 +1722,7 @@ captchabotverif.site
 captchabotverification.online
 captchabotverification.website
 captchabotverification.xyz
+captchabotverifications.xyz
 captchabotverifiy.online
 captchabotverify.ru
 captchabotverify.site

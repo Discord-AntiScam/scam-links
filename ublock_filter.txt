@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-24T19:41:05Z
+! Updated: 2024-04-25T02:34:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11492,6 +11492,7 @@ kingfamilyphotoalbum.com
 kingofqueens2021.github.io
 kitfoxmosfield.repl.co
 kkkmvb.xyz
+klarkak.net
 kldmten.net
 kleinadministraties.nl
 kmdd6.ru

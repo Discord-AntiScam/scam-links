@@ -14169,6 +14169,7 @@ portal-token.pages.dev
 portalcoins.online
 portalgaming.online
 portalproject-official.web.app
+portals-gaming.pages.dev
 portals-gaming.web.app
 posadaladesmera.es
 posprzedajemy.pl

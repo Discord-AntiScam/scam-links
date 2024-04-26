@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-26T08:19:46Z
+! Updated: 2024-04-26T08:20:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -886,6 +886,7 @@ auth-mee6.xyz
 auth-sledgehammer.app
 auth-vulcan.xyz
 auth-wallets.com
+authenticate-collab.com
 authenticate-collab.land
 authenticate-vulcan.xyz
 authenticate.hypesquading.repl.co

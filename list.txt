@@ -14844,6 +14844,7 @@ restorecord-verify.xyz
 restorecordcaptcha.xyz
 restorecords.xyz
 restorecosm.bid
+restoremembers-verify.xyz
 retargetcore.com
 retur-hypesquad.com
 return-moderators-events.com

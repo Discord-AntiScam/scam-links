@@ -12748,6 +12748,7 @@ mysteryclicks81c.vercel.app
 mysteryclicksclaims.vercel.app
 mysterymints1f.vercel.app
 mysterymints5.vercel.app
+mysterynft28.vercel.app
 mysteryopn.vercel.app
 mysteryybox5.vercel.app
 mysteryybox6.vercel.app

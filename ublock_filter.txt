@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-27T18:40:40Z
+! Updated: 2024-04-27T18:40:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13508,6 +13508,7 @@ nitrodsgiveways.xyz
 nitroegif.xyz
 nitroegift.ru
 nitroegift.xyz
+nitrofast.ru
 nitrofgift.xyz
 nitrofr.ml
 nitrofree.one

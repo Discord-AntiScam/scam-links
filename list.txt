@@ -2102,6 +2102,7 @@ collab-land1.pages.dev
 collab-lands.pw
 collab-link.land
 collab-portal.com
+collab-redirect.xyz
 collab-security.land
 collab-sync.land
 collab-token.com

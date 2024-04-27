@@ -2221,6 +2221,7 @@ connect-academy-moderetors-testers.com
 connect-airdrop-metamask-gateway01a.com
 connect-beta-custom.com
 connect-collabland.lol
+connect-collabland.pw
 connect-collablands.xyz
 connect-csgo.com
 connect-events-hypesquad.com
@@ -14840,7 +14841,6 @@ restorecord-verifications.xyz
 restorecord-verify.icu
 restorecord-verify.online
 restorecord-verify.xyz
-restorecord.space
 restorecordcaptcha.xyz
 restorecords.xyz
 restorecosm.bid

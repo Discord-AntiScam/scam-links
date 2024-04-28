@@ -1413,6 +1413,7 @@ botsecurity-online.xyz
 botsecurity.online
 botsecurity.xyz
 botserver-protector.online
+botserverdefender.xyz
 botserverprotecting.xyz
 botskava.best
 botskava.live

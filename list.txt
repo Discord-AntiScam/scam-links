@@ -12669,6 +12669,7 @@ mystery-clouds.com
 mystery-link6.vercel.app
 mystery-nftbox.com
 mysterybocsr.vercel.app
+mysterybox-mint-claim.vercel.app
 mysterybox-nft.online
 mysterybox-proclick.vercel.app
 mysterybox099.vercel.app

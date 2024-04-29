@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-29T17:22:25Z
+! Updated: 2024-04-29T17:38:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -5912,6 +5912,7 @@ discordiairdrop.com
 discordiapp.fun
 discordiasbox.com
 discordiatech.co.uk
+discordiation-app.ru
 discordiation-verify.ru
 discordiboost.com
 discordicon.com

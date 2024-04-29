@@ -330,6 +330,7 @@ airdrop-inqubeta.pages.dev
 airdrop-layerzeros.network
 airdrop-magiceden.com
 airdrop-mavia.com
+airdrop-myria.com
 airdrop-nitro.com
 airdrop-polyhedra.xyz
 airdrop-pork.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-29T15:53:31Z
+! Updated: 2024-04-29T15:58:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13478,6 +13478,7 @@ nitroboostcord.blogspot.com
 nitroboostmethod.valexamiky.repl.co
 nitroboosts.shop
 nitrochallange.com
+nitrochecker.altervista.org
 nitroclaim.com
 nitroclay.ru
 nitroclicks.com

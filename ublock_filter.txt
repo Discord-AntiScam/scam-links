@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-30T11:06:12Z
+! Updated: 2024-04-30T11:06:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28830,6 +28830,7 @@ versustour.xyz
 vertiq.info
 vertmaxbit.com
 vesnexchange.com
+veve-starknet.pages.dev
 vexstria.vercel.app
 vfgrse.com
 vhoru.com.ua

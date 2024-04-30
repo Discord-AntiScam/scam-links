@@ -29048,6 +29048,7 @@ web3-mint.live
 web3-nft.app
 web3-nftsbox.xyz
 web3-ocean.com
+web3-polyhedra.network
 web3-reconnect.com
 web3-register.foundation
 web3-satoshivm.com

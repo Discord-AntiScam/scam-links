@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-04-29T20:09:24Z
+! Updated: 2024-04-30T04:02:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11822,6 +11822,7 @@ loginst.dnsme.eu.org
 logitech-nitro-gift.gq
 logoxcoin.com
 lomdrex.com
+lometuubeta.blogspot.com
 longlunar.vip
 longxrun.online
 looks-rare-raffle.info

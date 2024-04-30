@@ -1605,6 +1605,7 @@ captcha-site.com
 captcha-site.xyz
 captcha-slugs.com
 captcha-smart.top
+captcha-solve.lol
 captcha-solver.com
 captcha-veri.com
 captcha-verification.xyz

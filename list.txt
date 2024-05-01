@@ -17957,6 +17957,7 @@ steam-gift.pro
 steam-gift.shop
 steam-gift.site
 steam-gift.store
+steam-gift.xyz
 steam-gift50.com
 steam-giftcards.com
 steam-gifted.com

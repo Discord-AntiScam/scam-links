@@ -14222,6 +14222,7 @@ portal-token.pages.dev
 portalcoins.online
 portalgaming.online
 portalproject-official.web.app
+portals-game.pages.dev
 portals-gaming.pages.dev
 portals-gaming.web.app
 portals-token.pages.dev

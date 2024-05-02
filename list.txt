@@ -1332,6 +1332,7 @@ bot-protect.xyz
 bot-protecting.xyz
 bot-protection.online
 bot-protection.xyz
+bot-protections.online
 bot-protections.xyz
 bot-protector.com
 bot-protector.online

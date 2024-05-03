@@ -15228,6 +15228,7 @@ roblox.icu
 roblox.ink
 roblox.jpn.com
 roblox.ke
+roblox.kg
 roblox.link.club
 roblox.mex.com
 roblox.miami

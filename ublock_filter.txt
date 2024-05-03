@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-03T08:15:56Z
+! Updated: 2024-05-03T09:03:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3835,6 +3835,7 @@ dircode.ru
 dircord-nitra.com
 dircord-nitro.com
 dircsod.gift
+direct-links.net
 direx-nitqo.gq
 dirolzz.xyz
 dirs-tools.gq

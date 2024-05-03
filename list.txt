@@ -12743,6 +12743,7 @@ mysteryboxclaim.vercel.app
 mysteryboxclik34.vercel.app
 mysteryboxe781.vercel.app
 mysteryboxes-smoky.vercel.app
+mysteryboxes32.vercel.app
 mysteryboxes882.vercel.app
 mysteryboxfreeclaims.vercel.app
 mysteryboxing44.vercel.app

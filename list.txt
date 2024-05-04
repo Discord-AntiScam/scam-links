@@ -28812,6 +28812,7 @@ verification-mee6.xyz
 verification-microsoft.com
 verification-vulcan.xyz
 verification-wick.xyz
+verification-wumpus-club.xyz
 verification.bot
 verification.dyno.so
 verification.memesonsol.com

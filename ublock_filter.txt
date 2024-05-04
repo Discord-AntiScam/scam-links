@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-04T19:48:43Z
+! Updated: 2024-05-04T20:37:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16692,6 +16692,7 @@ soliciting-moderators.com
 solicitinghypesquad.com
 solicition-hypesquadevents.com
 solliciting-hypesquad-events.com
+solve-captcha-robot.lol
 solve-captchas.com
 soma-cases.com
 soma-cases.ru

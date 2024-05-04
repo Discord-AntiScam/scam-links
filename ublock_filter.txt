@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-04T18:33:14Z
+! Updated: 2024-05-04T18:34:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15723,6 +15723,7 @@ sanpaliax.github.io
 santa.bitxskins.com
 saphione.com
 saphire-nft-official.com
+saphirebots.shop
 saphirenftsofficial.com
 saphires-nfts.fr
 sapphire-bot.store

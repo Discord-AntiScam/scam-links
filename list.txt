@@ -15913,6 +15913,7 @@ serialkey89.com
 server-captcha.digital
 server-captcha.link
 server-captcha.site
+server-captchabot-nft.com
 server-captchas.site
 server-crew3.xyz
 server-detection.xyz

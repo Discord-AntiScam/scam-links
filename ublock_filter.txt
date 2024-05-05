@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-05T09:28:40Z
+! Updated: 2024-05-05T11:54:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28458,6 +28458,7 @@ uknrust.com
 ultima.center
 ultima.city
 ultimabeam.com
+ulxefg.cfd
 um-bredirect.com
 umbrellajump.xyz
 unblckdiscord.cf

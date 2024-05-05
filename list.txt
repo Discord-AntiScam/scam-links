@@ -1365,6 +1365,7 @@ bot-verifier.xyz
 bot-verify-check.ru
 bot-verify.xyz
 bot-verifying.xyz
+bot-verifyserver.xyz
 bot-vulcan.xyz
 bot.capcha.lol
 bot.ngo

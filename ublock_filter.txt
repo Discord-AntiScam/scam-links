@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-05T06:36:06Z
+! Updated: 2024-05-05T07:12:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14160,6 +14160,7 @@ pltw.com
 plume-game.com
 plumgumstars.com
 plus9605128106.asia
+plusvb.com
 pnd.tl
 podgorz.org
 poe-exchange.com

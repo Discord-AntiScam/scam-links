@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-06T13:48:18Z
+! Updated: 2024-05-06T15:09:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1915,6 +1915,7 @@ checkcryptojob.com
 checkeligibility-cyber.co
 checker-tokens.web.app
 checkerskin.com
+checking-bot.ru
 checkingnotifications.org
 checkup08.biz
 checkverifybot.ru

@@ -5202,6 +5202,7 @@ discord-us.ml
 discord-usetup.ru
 discord-verif.ga
 discord-verification-account.tk
+discord-verification-bot.xyz
 discord-verification-on.xyz
 discord-verification.com
 discord-verification.xyz

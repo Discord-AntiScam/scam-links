@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-06T16:31:43Z
+! Updated: 2024-05-06T19:14:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8541,6 +8541,7 @@ ethergases.com
 ethersclaim.com
 etherstake.co
 ethionab.org
+ethmail.org
 ethopt.io
 ethvip7.com
 etsy-store-verlfy.com

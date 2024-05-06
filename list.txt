@@ -467,6 +467,7 @@ antivirus.landerhd.com
 aoeah.promo-codes.world
 ap7.ru
 ape-coins.org
+ape-coins.pages.dev
 ape-terminals.com
 apecoin-llc.com
 apecoin.cx
@@ -11477,7 +11478,6 @@ kava-guards.com
 kava-web.club
 kava-web.one
 kava-web.xyz
-kavabase.cc
 kavabot.app
 kavabot.me
 kavachain.club

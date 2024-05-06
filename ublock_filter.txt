@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-06T19:30:55Z
+! Updated: 2024-05-06T19:30:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -865,6 +865,7 @@ astrdrop.net
 astresports.xyz
 asusworlds.com
 ataribtc.com
+atleta-network.vercel.app
 atmonwestper.gq
 atnpx.com
 atomicresolve.top

@@ -1357,6 +1357,7 @@ bot-security-on.xyz
 bot-security-online.xyz
 bot-security.online
 bot-security.xyz
+bot-securs.online
 bot-server-defender.xyz
 bot-server-protect.xyz
 bot-server-verify.xyz

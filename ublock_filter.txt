@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-07T21:13:00Z
+! Updated: 2024-05-07T22:35:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3466,6 +3466,7 @@ dicord-premium.ru
 dicord.de
 dicord.gg
 dicord.gift
+dicord.shop
 dicord.site
 dicord.space
 dicord.tk

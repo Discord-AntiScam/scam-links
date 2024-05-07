@@ -14966,6 +14966,7 @@ restorecord-verif.xyz
 restorecord-verifi.xyz
 restorecord-verification-bot.xyz
 restorecord-verification-nsfw.xyz
+restorecord-verification.xyz
 restorecord-verifications.xyz
 restorecord-verificaton.xyz
 restorecord-verify.icu

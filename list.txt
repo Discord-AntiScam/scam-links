@@ -29824,6 +29824,7 @@ zkpolyhedra.app
 zkpolyhedra.com
 zkpolyhedra.net
 zkpolyhedra.org
+zkpolyhedra.tech
 zkpudgy.trading
 zks-nft.app
 zksync-era.pages.dev

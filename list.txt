@@ -10140,6 +10140,7 @@ https-steamcommunity.com
 https-steamcommunity.ru
 https-www-robblox.com
 https-www-roblox.com
+https-www-roblox.com.kz
 httpss-roblox.com
 httsp-roblox.com.ge
 httsp-steamcommunity.com

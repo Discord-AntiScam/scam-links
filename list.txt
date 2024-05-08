@@ -1629,6 +1629,7 @@ captcha-slugs.com
 captcha-smart.top
 captcha-solve.lol
 captcha-solver.com
+captcha-validation.lol
 captcha-veri.com
 captcha-verification.xyz
 captcha-verifications.xyz

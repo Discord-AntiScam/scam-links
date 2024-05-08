@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-08T20:33:19Z
+! Updated: 2024-05-08T20:33:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12360,6 +12360,7 @@ mint-openmysteryboxx.vercel.app
 mint-opensa.web.app
 mint-opensea-proclaim6.vercel.app
 mint-opensea-projts-mocha.vercel.app
+mint-openseanftso.vercel.app
 mint-openseaprogets.vercel.app
 mint-proboxes.web.app
 mint-shardeum.org

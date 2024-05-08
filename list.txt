@@ -12356,6 +12356,7 @@ mint-openmysteryboxx.vercel.app
 mint-opensa.web.app
 mint-opensea-proclaim6.vercel.app
 mint-opensea-projts-mocha.vercel.app
+mint-openseanftso.vercel.app
 mint-openseaprogets.vercel.app
 mint-proboxes.web.app
 mint-shardeum.org

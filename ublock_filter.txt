@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-09T05:49:39Z
+! Updated: 2024-05-09T08:42:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1031,6 +1031,7 @@ best-nitro-discorde.com
 best-nitro.com
 best-prizehouse15.info
 best-prizes-house.life
+best-verify-wick.ru
 bestbut.com
 bestdatinglocal1.com
 bestoffer2021.info

@@ -15005,6 +15005,7 @@ restorecordsecure.online
 restorecosm.bid
 restoremembers-verify.xyz
 restores-discord.xyz
+restors-cords.xyz
 retargetcore.com
 retur-hypesquad.com
 return-moderators-events.com

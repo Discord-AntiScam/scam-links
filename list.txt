@@ -2090,6 +2090,7 @@ coin-base.com.ru
 coin-defi.web.app
 coin-hold.web.app
 coin-layerzero.com
+coin-portal.pages.dev
 coin-portals.web.app
 coin-spacex.com
 coinbap.com

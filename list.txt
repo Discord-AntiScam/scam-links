@@ -8791,6 +8791,7 @@ faze-59.pro
 faze-case.ru
 faze-clan.shop
 faze-cs.com
+faze-cs2-event.com
 faze-cs2.com
 faze-csgo.com
 faze-csgo.ru

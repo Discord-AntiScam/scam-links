@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-12T12:34:55Z
+! Updated: 2024-05-12T14:49:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14106,6 +14106,7 @@ paperhands-coin.web.app
 paperhands-eth.web.app
 paperhands-holders.web.app
 paperhands-networks.web.app
+paperhands-portfoliotracker.pages.dev
 paperhold-net.web.app
 paperholder-ethereum.web.app
 paperholder-network.web.app

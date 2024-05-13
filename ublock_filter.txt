@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-13T03:49:22Z
+! Updated: 2024-05-13T07:29:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11616,6 +11616,7 @@ l4t0ym.us
 labz.land
 lachrymation-demetallize-arthroplasty.xyz
 lackystars.com
+lacunabot.xyz
 lady-datings-here.com
 laidauni.com
 lakskuns.xyz

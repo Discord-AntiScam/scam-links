@@ -14095,6 +14095,7 @@ paperhand-ethereum.web.app
 paperhand-network.web.app
 paperhand-networks.web.app
 paperhand-scan.web.app
+paperhand-wallet.pages.dev
 paperhanded-check.web.app
 paperhanded-network.web.app
 paperhanded.pages.dev

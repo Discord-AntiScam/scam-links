@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-14T22:09:36Z
+! Updated: 2024-05-14T22:09:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3261,6 +3261,7 @@ cupwin.xyz
 cur.lv
 curiouscat.club
 customer-coinbase.com
+cwqce21c321c1cfrqhrh21ex.pages.dev
 cyber-csgo.link
 cyber-csgo.space
 cyber-gsx.com

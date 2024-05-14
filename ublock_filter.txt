@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-14T08:05:41Z
+! Updated: 2024-05-14T14:18:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -17031,6 +17031,7 @@ squadteam-badge.gq
 squadteam-badge.ml
 srahah.eu
 srahah.pl
+sreamcamnnunlty.com
 sreamcomminity.ru
 sreamcommuniity.com
 sreamcommunity.com

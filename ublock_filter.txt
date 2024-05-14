@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-14T00:47:06Z
+! Updated: 2024-05-14T08:05:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -29339,6 +29339,7 @@ wick-bot.xyz
 wick-bots.site
 wick-bots.space
 wick-check-ru.ru
+wick-checking-verify.ru
 wick-verification.site
 wick-verify.ru
 wick-verify.site

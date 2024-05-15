@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-15T03:01:39Z
+! Updated: 2024-05-15T08:23:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -514,6 +514,7 @@ api14-altidentifier.com
 api15-altidentifier.com
 api15vulcan.com
 api16-altidentifier.com
+api2-vulcan.xyz
 api20-altverify.com
 api20-collab.land
 api23-collab.land

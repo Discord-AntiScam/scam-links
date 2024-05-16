@@ -15035,6 +15035,7 @@ restorecord.pro
 restorecord.site
 restorecord.tech
 restorecordcaptcha.xyz
+restorecordprotector.xyz
 restorecords.xyz
 restorecordsecure.online
 restorecosm.bid

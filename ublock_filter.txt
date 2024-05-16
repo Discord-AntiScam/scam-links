@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-16T16:32:41Z
+! Updated: 2024-05-16T19:50:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2500,6 +2500,7 @@ cryptoslugsweb.com
 cryptoslugswebs3.com
 cryptoslugworld.com
 cryptossmoney.com
+cryptosupportnetwork.com
 crytposlate.com
 cs-2-drop.ru
 cs-2-limit.online

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-16T09:49:36Z
+! Updated: 2024-05-16T09:49:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8644,6 +8644,7 @@ events-satoshivm.com
 events-servicess.ml
 events-squad.com
 events-starknet.app
+events-steth.net
 events.dlscord.click
 events.formulary-invite.dev
 eventsdiscord.com

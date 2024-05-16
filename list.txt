@@ -8640,6 +8640,7 @@ events-satoshivm.com
 events-servicess.ml
 events-squad.com
 events-starknet.app
+events-steth.net
 events.dlscord.click
 events.formulary-invite.dev
 eventsdiscord.com

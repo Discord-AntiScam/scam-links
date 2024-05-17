@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-17T20:18:36Z
+! Updated: 2024-05-17T20:18:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15079,6 +15079,7 @@ reward-hypixel.net
 reward-ocean.net
 reward-tipcoin.tech
 reward-twltch.com
+reward-zora.com
 reward2.xyz
 rewardbuddy.me
 rewards-apyeth.net

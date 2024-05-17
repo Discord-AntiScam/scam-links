@@ -15075,6 +15075,7 @@ reward-hypixel.net
 reward-ocean.net
 reward-tipcoin.tech
 reward-twltch.com
+reward-zora.com
 reward2.xyz
 rewardbuddy.me
 rewards-apyeth.net

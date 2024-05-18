@@ -14120,6 +14120,7 @@ paperhand-portfoliotracker.pages.dev
 paperhand-scan.web.app
 paperhand-wallet.pages.dev
 paperhanded-check.web.app
+paperhanded-halos.pages.dev
 paperhanded-network.web.app
 paperhanded.pages.dev
 paperhandeds.pages.dev

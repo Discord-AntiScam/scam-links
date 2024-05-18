@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-18T17:49:58Z
+! Updated: 2024-05-18T17:51:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13795,6 +13795,7 @@ o-auth-discord.github.io
 o-roblox.com
 o-uccino.top
 o9wg8q.monster
+oa2.app
 oa2.lol
 oa2.site
 oak.pm

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-19T22:17:53Z
+! Updated: 2024-05-19T23:19:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16133,6 +16133,7 @@ sexygood.pro
 sexyladydesire.xyz
 sfeamcommunity.com
 sfeamcommunity.ru
+sfeamcommunlty.com
 sfeamcommunlty.ru
 sfeamcomnunity.com
 sfeamconmunity.com

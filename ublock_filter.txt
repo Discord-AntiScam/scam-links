@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-19T22:17:15Z
+! Updated: 2024-05-19T22:17:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -848,6 +848,7 @@ asiaroblox.cam
 aslnk.link
 assests-collab.land
 asset-vulcan.com
+assets-collab-land.github.io
 assistguild.com
 associate-formulary-hypesquad.com
 associate-hypesquad-events.com

@@ -15020,6 +15020,7 @@ restorecord-bot-p.xyz
 restorecord-bot.online
 restorecord-bot.site
 restorecord-bot.xyz
+restorecord-botdefender.xyz
 restorecord-captcha.xyz
 restorecord-cloud.xyz
 restorecord-defend.xyz

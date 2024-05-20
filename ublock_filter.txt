@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-20T23:36:17Z
+! Updated: 2024-05-20T23:36:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -7992,6 +7992,7 @@ dsstatistic.com
 dsstatistician.com
 dsstatistics.com
 dsstats.com
+dst.gg
 dstabs.com
 dstatistic.com
 dstatisticbot.com

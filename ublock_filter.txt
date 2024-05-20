@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-20T23:11:40Z
+! Updated: 2024-05-20T23:27:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9927,6 +9927,7 @@ glosslogics.com
 glugruptixo.com
 glveaways-nltro.com
 glxae.com
+glxe.co.com
 glxea.com
 gmads.net
 gmail.infosecurityshop.com

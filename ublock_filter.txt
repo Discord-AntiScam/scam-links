@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-20T23:05:55Z
+! Updated: 2024-05-20T23:11:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1557,6 +1557,7 @@ caga-stake.web.app
 caga-stakers.web.app
 caga-staking.web.app
 calendly.contact
+calendly.events
 calendly.fi
 calendly.la
 calhellly.click

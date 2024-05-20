@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-20T23:36:27Z
+! Updated: 2024-05-20T23:40:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16844,6 +16844,7 @@ snow.discordchristmas.com
 snowgiving-n.com
 snowgiving-sub.com
 snowgivingg.com
+snuck.link
 snxpool.com
 soft-gratis.com
 softgaz.ru

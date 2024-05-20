@@ -1721,6 +1721,7 @@ captchabot-protect.xyz
 captchabot-protection.xyz
 captchabot-secureverif.fun
 captchabot-security.xyz
+captchabot-site.xyz
 captchabot-verification.site
 captchabot-verification.xyz
 captchabot-verifier.online

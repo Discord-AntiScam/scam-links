@@ -29051,6 +29051,7 @@ verifsledgehammer.com
 verify-atleta-network.vercel.app
 verify-bloxlink.com
 verify-bot.land
+verify-botnsfw.xyz
 verify-captcha-antibot.fun
 verify-captcha-bot.ru
 verify-captcha.bot

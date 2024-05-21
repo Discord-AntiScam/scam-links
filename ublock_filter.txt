@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-21T08:06:30Z
+! Updated: 2024-05-21T08:07:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1250,6 +1250,7 @@ blox.land
 bloxassets.com
 bloxavatar.com
 bloxcopy.com
+bloxfiip.com
 bloxflip.bet
 bloxflip.online
 bloxfruits.click

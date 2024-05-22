@@ -15048,6 +15048,7 @@ restorecord-login.xyz
 restorecord-oauth-captcha.xyz
 restorecord-oauth-verification.xyz
 restorecord-oauth.online
+restorecord-oauths.xyz
 restorecord-protect.online
 restorecord-protector.xyz
 restorecord-redirect.xyz

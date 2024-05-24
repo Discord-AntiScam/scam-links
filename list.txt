@@ -15073,6 +15073,7 @@ restorecord-security.xyz
 restorecord-securitybot.online
 restorecord-server.xyz
 restorecord-serverprotect.online
+restorecord-serverprotect.xyz
 restorecord-serververify.online
 restorecord-teennsfw.online
 restorecord-verfi.xyz

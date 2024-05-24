@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-24T23:18:26Z
+! Updated: 2024-05-24T23:19:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28113,6 +28113,7 @@ tiktok-mint.online
 timepixies.io
 tini.best
 tiny-url.online
+tinytaskdapp.vercel.app
 tipcoins.app
 tipslife.ru
 tipteamgg.xyz

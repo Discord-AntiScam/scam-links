@@ -15063,6 +15063,7 @@ restorecord-oauth.online
 restorecord-oauths.xyz
 restorecord-protect.online
 restorecord-protector.xyz
+restorecord-redirect.com
 restorecord-redirect.xyz
 restorecord-redirects.xyz
 restorecord-securate.online

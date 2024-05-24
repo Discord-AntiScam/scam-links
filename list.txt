@@ -2003,6 +2003,7 @@ claim-openeth.firebaseapp.com
 claim-openeth.web.app
 claim-openmint.firebaseapp.com
 claim-polyhedra.net
+claim-polyhedra.network
 claim-polyhedra.org
 claim-porkcoin.org
 claim-quant.com

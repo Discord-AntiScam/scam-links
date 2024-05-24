@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-23T18:33:50Z
+! Updated: 2024-05-24T03:23:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8327,6 +8327,7 @@ egp-gifts.com
 eigemlayer.xyz
 electronika.spb.ru
 electum.online
+elemental-azuki.pages.dev
 elevisions.biz
 eligibility-polyhedra.network
 elisaesport-cs2.com

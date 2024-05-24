@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-24T07:13:02Z
+! Updated: 2024-05-24T09:26:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12336,6 +12336,7 @@ mee8.xyz
 meebots.click
 meetsource-2.com.de
 meetsource-2.eu
+megafans.online
 megatuz.ru
 mekaverse-minting.com
 mekaverse-minting.net

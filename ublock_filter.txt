@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-25T19:41:05Z
+! Updated: 2024-05-25T19:41:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1200,6 +1200,7 @@ bitxam.com
 bitxenix.com
 bitxpulse.com
 bitxskins.com
+bixer.lol
 bkpmediafire.my.id
 bl0cksrefresh.com
 black-friday.ga

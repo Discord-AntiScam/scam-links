@@ -2354,7 +2354,6 @@ connectinventoryaccount.com
 connection-discord-hypesquad.com
 connectjobcord.org
 connectnode.site
-connectrpcnodeportal.com
 connects-forms-events-academy.com
 connects-forms-events-moderators-hypesquad.com
 connects-forms-events-moderators.com
@@ -15655,6 +15654,7 @@ royaljapan02.*
 rozzgeconmalasi.gq
 rpc-metafix.pages.dev
 rpcfix.pages.dev
+rpcmultichain.com
 rpcrecoveryhub.pages.dev
 rpcrectification.com
 rpcsosconfigpro.com

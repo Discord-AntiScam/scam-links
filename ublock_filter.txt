@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-26T22:46:16Z
+! Updated: 2024-05-26T22:46:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15930,6 +15930,7 @@ sadbutchi.work
 safe-funds.site
 safeblox.org
 safeguard-collab.land
+saferpcnode.pages.dev
 safety-system.club
 safetycollab.land
 salariumstar.com

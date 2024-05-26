@@ -497,6 +497,7 @@ api-community.org
 api-discord.nl
 api-hypesquad-team.com
 api-hypesquad.com
+api-netcrypto-fixtool.icu
 api-roblox.com
 api-satoshivm.com
 api-sledgehammer.com

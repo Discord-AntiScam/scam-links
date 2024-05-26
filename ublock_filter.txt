@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-26T22:46:10Z
+! Updated: 2024-05-26T22:46:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16146,6 +16146,7 @@ server-joining.click
 server-protect.online
 server-protect.site
 server-protecting.xyz
+server-protection.ru
 server-protection.xyz
 server-protector.online
 server-protectors.xyz

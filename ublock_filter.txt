@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-26T22:46:05Z
+! Updated: 2024-05-26T22:46:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3449,6 +3449,7 @@ detected-check-bot.ru
 detectspam.click
 dev-discord.com
 dev-loyalty-polyhedra.network
+dev-multichainsapproved.pantheonsite.io
 dev-pgclaim.pantheonsite.io
 devdiscord.com
 developer-bot.com

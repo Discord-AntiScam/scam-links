@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-25T22:39:41Z
+! Updated: 2024-05-26T06:45:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15163,6 +15163,7 @@ rewards-apyeth.net
 rewards-arbitrum.com
 rewards-hypixel-claim.com
 rewards-hypixel.com
+rewards-polyhedra.com
 rewards-twitch.com
 rewardsgiantusa.com
 rewardspremium-nitro.gq

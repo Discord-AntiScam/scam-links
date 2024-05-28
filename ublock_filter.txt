@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-28T02:54:31Z
+! Updated: 2024-05-28T03:29:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11608,6 +11608,7 @@ keepdiscorderclean.top
 keepmybit.com
 keka-cold.ru
 kellitilitra.gq
+kelpgreen.xyz
 keoxcoin.com
 keremsahinn.com
 keungz.network

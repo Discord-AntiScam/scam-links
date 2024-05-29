@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-29T02:46:25Z
+! Updated: 2024-05-29T10:55:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27949,6 +27949,7 @@ tesla-june.pro
 tesla-ltt.com
 tesla-may.com
 tesla-more.tech
+tesla-musk24.com
 tesla-online.net
 tesla-pepe.com
 tesla-prize.info

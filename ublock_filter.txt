@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-29T02:40:52Z
+! Updated: 2024-05-29T02:44:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3367,6 +3367,7 @@ dapps-space.vercel.app
 dapps-zqhuf.formstack.com
 dappsite.xyz
 dappsradar.io
+dappsupportfay.pages.dev
 dappsupports.com
 dappswalletconnect-hlner.formstack.com
 dappweb.vercel.app

@@ -15088,6 +15088,7 @@ restore-cords.xyz
 restore-help.xyz
 restore-verification.xyz
 restore-verifications.xyz
+restore-welcome.ru
 restorecord-antiraids.xyz
 restorecord-bot-p.xyz
 restorecord-bot.online

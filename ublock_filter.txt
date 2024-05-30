@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-30T06:55:00Z
+! Updated: 2024-05-30T06:55:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -27816,6 +27816,7 @@ sweetgirls.date
 swellnetwork.trading
 swift-wallet.pages.dev
 swiftathblocks.pages.dev
+swiftfixissues.pages.dev
 swtest.ru
 swww-roblox.com
 sychronizerpcfix.online

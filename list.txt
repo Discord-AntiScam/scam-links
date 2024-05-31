@@ -3373,6 +3373,7 @@ dappradar.host
 dappradar.land
 dappradar.tools
 dappradar.uno
+dappradarr.cfd
 dappradarv2.com
 dappresolved.pages.dev
 dapps-space.vercel.app

@@ -790,6 +790,7 @@ apps-twitchs.com
 apps-twltch.com
 apps-twltch.tv
 apps-vulcan.net
+appvalidations.pages.dev
 appvulcan.com
 appvulcan.net
 appvulcan.xyz

@@ -3370,6 +3370,7 @@ dappradar.land
 dappradar.tools
 dappradar.uno
 dappradarv2.com
+dappresolved.pages.dev
 dapps-space.vercel.app
 dapps-zqhuf.formstack.com
 dappsite.xyz

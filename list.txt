@@ -15142,6 +15142,7 @@ restorecord-defend.xyz
 restorecord-defender-oauth.xyz
 restorecord-defending.xyz
 restorecord-defenseraid.xyz
+restorecord-discords.xyz
 restorecord-guard.xyz
 restorecord-guardian.xyz
 restorecord-login-security.xyz

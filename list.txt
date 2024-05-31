@@ -15168,6 +15168,7 @@ restorecord.tech
 restorecordbackup.xyz
 restorecordbot.xyz
 restorecordcaptcha.xyz
+restorecordguild.xyz
 restorecordmembers.xyz
 restorecordprotector.xyz
 restorecords.xyz

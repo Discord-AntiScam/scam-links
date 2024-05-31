@@ -3488,7 +3488,6 @@ dexautomate.web.app
 dexautomated.web.app
 dexenos.com
 dexrectification.live
-dexsupport-tools.pages.dev
 dfiscord.com
 dfscord-app.club
 dfscord-app.com
@@ -29483,6 +29482,7 @@ webjobcord.com
 webpushcloud.top
 webr-roblox.com
 webrecepty.info
+webrectification.pages.dev
 webroblox.org
 webroblox.rf.gd
 webs-minting.com

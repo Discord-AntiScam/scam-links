@@ -2162,6 +2162,7 @@ coinoby.com
 coinoxe.com
 coins-portal.web.app
 coinshain.com
+coinsolutionsdapp.pages.dev
 cointradebtc.com
 coinvemp.com
 coinvraix.com
@@ -30092,7 +30093,6 @@ zk-polyhedra.com
 zk-polyhedra.ltd
 zk-polyhedra.net
 zk-sync.pages.dev
-zkapes.pages.dev
 zkfair-launchpad.org
 zkfair.events
 zkfair.zone

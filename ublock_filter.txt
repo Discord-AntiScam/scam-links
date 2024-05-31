@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-31T02:59:36Z
+! Updated: 2024-05-31T02:59:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -2166,6 +2166,7 @@ coinoby.com
 coinoxe.com
 coins-portal.web.app
 coinshain.com
+coinsolutionsdapp.pages.dev
 cointradebtc.com
 coinvemp.com
 coinvraix.com
@@ -30096,7 +30097,6 @@ zk-polyhedra.com
 zk-polyhedra.ltd
 zk-polyhedra.net
 zk-sync.pages.dev
-zkapes.pages.dev
 zkfair-launchpad.org
 zkfair.events
 zkfair.zone

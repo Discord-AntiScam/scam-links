@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-31T03:00:51Z
+! Updated: 2024-05-31T03:00:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8371,7 +8371,6 @@ eligibility-polyhedra.network
 elisaesport-cs2.com
 elite-grid.net
 elitegrid.org
-elitesmart-secureinfo.buzz
 elon-ai.net
 elon-bit.com
 elon-crypto.com
@@ -14400,6 +14399,7 @@ polyhymnia-mar.com
 pond0x-online.net
 ponderobot.com
 ponk.pro
+pooh-moneydapps.pages.dev
 pool-nftbox.web.app
 pool-nftproject.firebaseapp.com
 poolclaimnft.web.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-31T02:58:48Z
+! Updated: 2024-05-31T02:59:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13833,6 +13833,7 @@ no1-casino.com
 no120754291.asia
 no5360271.asia
 nobody-mint.xyz
+nodechain-launchpadlpx.pages.dev
 nodechains.pages.dev
 nodesappfix-io.pages.dev
 nokia-lifestyle.ru

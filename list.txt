@@ -920,6 +920,7 @@ authenticate.hypesquading.repl.co
 authenticateacess.pages.dev
 authenticatequickfix.vercel.app
 authentication-collab.land
+authenticationsapp.pages.dev
 authentifyme.xyz
 authmee6.com
 authmee6.net

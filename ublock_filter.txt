@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-05-31T03:00:33Z
+! Updated: 2024-05-31T03:00:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -924,6 +924,7 @@ authenticate.hypesquading.repl.co
 authenticateacess.pages.dev
 authenticatequickfix.vercel.app
 authentication-collab.land
+authenticationsapp.pages.dev
 authentifyme.xyz
 authmee6.com
 authmee6.net

@@ -1938,6 +1938,7 @@ chainge.gift
 chainlayerzero.com
 chainlink.am
 chainlink.website
+chainsdexauth.pages.dev
 chainspad.web.app
 chaintogglereset.com
 challengermode.best

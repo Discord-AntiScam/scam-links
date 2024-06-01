@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-01T00:51:16Z
+! Updated: 2024-06-01T00:51:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -594,6 +594,7 @@ app.lensl.xyz
 appdiscord.net
 appdrop.gg
 appeal-hypesquad.com
+appeal-polyhedra.com
 appealsteamcommunity.help
 appgifts-z.ru
 appgifts.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-01T13:28:23Z
+! Updated: 2024-06-01T18:49:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28551,6 +28551,7 @@ twitch.valobundles.com
 twitch2cs.com
 twitch2csgo.com
 twitch2csgo.tv
+twitch2drops.com
 twitchblasts.com
 twitchcamp.com
 twitchcase.com

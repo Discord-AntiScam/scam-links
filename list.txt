@@ -15138,6 +15138,7 @@ restore-verifycation.ru
 restore-welcome.ru
 restorecord-antiraids.xyz
 restorecord-authentication.xyz
+restorecord-authprotect.xyz
 restorecord-authprotection.xyz
 restorecord-bestprotect.xyz
 restorecord-bot-p.xyz

@@ -1750,6 +1750,7 @@ captchabot-secureverif.fun
 captchabot-security.xyz
 captchabot-site.top
 captchabot-site.xyz
+captchabot-verification.org
 captchabot-verification.site
 captchabot-verification.xyz
 captchabot-verifier.online

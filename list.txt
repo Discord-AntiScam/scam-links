@@ -11625,6 +11625,7 @@ kavacom.one
 kavacom.top
 kavagate.one
 kavago.live
+kavago.pro
 kavago.site
 kavago.vip
 kavaguard.com

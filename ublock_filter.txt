@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-02T07:44:15Z
+! Updated: 2024-06-02T07:44:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12752,6 +12752,7 @@ mt216.asia
 multiadblock.com
 multibit.events
 multibits.trading
+multichainx.live
 multiversechainx.com
 murenex.com
 musk-bit.com

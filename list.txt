@@ -15226,6 +15226,7 @@ restorecordmembers.xyz
 restorecordprotector.xyz
 restorecords.xyz
 restorecordsecure.online
+restorecordverify.xyz
 restorecosm.bid
 restoremembers-verify.xyz
 restores-discord.xyz

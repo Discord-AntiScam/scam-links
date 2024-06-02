@@ -15154,6 +15154,7 @@ restore-welcome.ru
 restorecord-antiraids.xyz
 restorecord-authentication.xyz
 restorecord-authguard.xyz
+restorecord-authguardian.xyz
 restorecord-authprotect.xyz
 restorecord-authprotection.xyz
 restorecord-bestprotect.xyz

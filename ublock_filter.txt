@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-03T18:35:19Z
+! Updated: 2024-06-03T19:27:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13491,6 +13491,7 @@ newsurprizeforyou.com
 newsvalorant.com
 newtresures-manta.network
 newuser-connect-collab.land
+newwork-6oy.pages.dev
 newyasr-ds.com
 newyear-d.com
 newyear-discord.com

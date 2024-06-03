@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-03T18:32:48Z
+! Updated: 2024-06-03T18:33:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -962,6 +962,7 @@ awirabigmoneyrolls.xyz
 axdsz.pro
 azimovcase.tk
 azropa.gq
+azuki-elementals-waitlist.pages.dev
 azuki-elementals.info
 azukielementalnfts.pages.dev
 azukielementalscollection.pages.dev

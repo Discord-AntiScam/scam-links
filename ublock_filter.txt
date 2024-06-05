@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-05T10:43:00Z
+! Updated: 2024-06-05T10:43:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14859,6 +14859,7 @@ radardapp.com
 rafiamarketingagency.com
 raftbit.com
 raid-protect.xyz
+raid-secure.xyz
 raiden-bot.xyz
 raidprotect.xyz
 raidrush.info

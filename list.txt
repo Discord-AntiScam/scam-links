@@ -2076,6 +2076,7 @@ claims-space.id
 claims-usdt.org
 claims-web3.website
 claimsteth.net
+claimtaiko-ard.pages.dev
 claimusdc.io
 clan-big.ru
 clanceptab.com

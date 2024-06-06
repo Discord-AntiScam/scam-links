@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-06T02:48:10Z
+! Updated: 2024-06-06T02:48:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14354,6 +14354,7 @@ pineisland.ga
 pineislands.org
 pingola.ru
 pink-drainer.com
+pink-sale.pages.dev
 pinkdiscord.000webhostapp.com
 piscanecmatematika.xyz
 pizzaeria-papajohns.com

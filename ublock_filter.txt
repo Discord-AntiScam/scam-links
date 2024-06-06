@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-06T02:47:57Z
+! Updated: 2024-06-06T02:48:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -29056,6 +29056,7 @@ valorant-gift.online
 valorant-giftaway.com
 valorant-gifter.com
 valorant-gifts.com
+valorant-giftskins.top
 valorant-give.site
 valorant-giveaway.com
 valorant-giveaway.ltd

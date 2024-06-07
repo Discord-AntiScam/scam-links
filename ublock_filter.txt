@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-07T21:27:47Z
+! Updated: 2024-06-07T21:28:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1258,6 +1258,7 @@ blasze.com
 blasze.tk
 blockchainsyncs.pages.dev
 blockchaiweb.pages.dev
+blockdexresolve.pages.dev
 blockdexsolution.pages.dev
 blockskipad.com
 blockver.000webhostapp.com

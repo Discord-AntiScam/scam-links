@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-10T19:38:14Z
+! Updated: 2024-06-10T19:42:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -17293,6 +17293,7 @@ spinvalorant.pro
 spinvalorant.site
 spletnius.ru
 splunk.monster
+splunks.pro
 spongestoken.pages.dev
 sponqve2.vip
 sportcyberecl.online

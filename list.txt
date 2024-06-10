@@ -16211,6 +16211,7 @@ security-bot-on.xyz
 security-bot-protect.ru
 security-bot.net
 security-bot.online
+security-captcha.xyz
 security-safety-support.com
 securitybot-auth.xyz
 securitybotauth.xyz

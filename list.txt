@@ -1410,6 +1410,7 @@ bot-verifier.xyz
 bot-verify-check.ru
 bot-verify-secure-online.xyz
 bot-verify.xyz
+bot-verifyer.xyz
 bot-verifying.xyz
 bot-verifyserver.xyz
 bot-vulcan.xyz

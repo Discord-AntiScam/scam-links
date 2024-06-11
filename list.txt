@@ -15206,6 +15206,7 @@ restore-verifications.xyz
 restore-verifycation.ru
 restore-welcome.ru
 restore-wick.ru
+restorecord-anti-bot.online
 restorecord-antiraids.xyz
 restorecord-auth.xyz
 restorecord-authentication.xyz

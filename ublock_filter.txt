@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-12T20:21:40Z
+! Updated: 2024-06-12T20:52:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -29694,6 +29694,7 @@ wegranox.com
 weibo-b5game.com
 weibo-csgo.com
 weirdrs.cc
+welcome-bot.ru
 welcome-from-hype.com
 welcome-gifts.ru
 welcome-hype-members.com

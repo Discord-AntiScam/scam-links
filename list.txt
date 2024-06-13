@@ -15247,6 +15247,7 @@ restorecord-guardian.xyz
 restorecord-guild.xyz
 restorecord-login-security.xyz
 restorecord-login.xyz
+restorecord-newbot.xyz
 restorecord-nsfw.xyz
 restorecord-oauth-captcha.xyz
 restorecord-oauth-verification.xyz

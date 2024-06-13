@@ -13954,6 +13954,7 @@ nsfwonly.xyz
 nsfwprotect-auth.xyz
 nsfws.novanode.win
 nsfwverification.xyz
+nsfwverifications-bot.xyz
 nsfwverifications.xyz
 nsfwverify.xyz
 nsfwverifyon.xyz

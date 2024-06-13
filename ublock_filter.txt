@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-13T20:52:35Z
+! Updated: 2024-06-13T20:53:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -13958,6 +13958,7 @@ nsfwonly.xyz
 nsfwprotect-auth.xyz
 nsfws.novanode.win
 nsfwverification.xyz
+nsfwverifications-bot.xyz
 nsfwverifications.xyz
 nsfwverify.xyz
 nsfwverifyon.xyz

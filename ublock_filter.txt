@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-13T18:08:54Z
+! Updated: 2024-06-13T20:34:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15661,6 +15661,7 @@ roblox.jpn.com
 roblox.ke
 roblox.kg
 roblox.link.club
+roblox.md
 roblox.mex.com
 roblox.miami
 roblox.mk

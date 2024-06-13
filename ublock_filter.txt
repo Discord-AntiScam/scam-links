@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-13T00:46:09Z
+! Updated: 2024-06-13T00:47:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -9431,6 +9431,7 @@ freenitros.tk
 freenitrowithsteam.xyz
 freenlitro.com
 freenltro.ru
+freensfw-verify.xyz
 freerobloxgenerator.tk
 freeskins.online
 freeskinsgift.ru

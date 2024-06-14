@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-14T09:57:43Z
+! Updated: 2024-06-14T10:30:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8607,6 +8607,7 @@ esl-gives.com
 esl-official.com
 esl-proleague.net
 esl-skin.com
+esl-twitch.com
 esl2023.org
 esl2x.tech
 eslcase.pw

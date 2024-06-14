@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-14T09:24:21Z
+! Updated: 2024-06-14T09:57:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -3991,6 +3991,7 @@ dirtyteenagers.com
 dis-app.gq
 dis-cord-gift.ru
 dis-cord-net.preview-domain.com
+dis-faster.com
 dis-gif.ru
 dis-gifo.gq
 dis-gifto.gq

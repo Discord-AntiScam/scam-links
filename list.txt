@@ -2329,6 +2329,7 @@ communitygive.site
 communitysteam.ru
 communitystoreskins.com
 communitystoreworkshop.com
+communitystorpowered.com
 communitytradeoffer.com
 communitytradeoffer.com.ru
 communityworkshopart.com
@@ -11687,7 +11688,6 @@ kavapen.com
 kavaplatform.com
 kavaprotocol.xyz
 kavasecure.live
-kavasguard.pro
 kavashield.club
 kavashield.org
 kavashield.top

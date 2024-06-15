@@ -16390,6 +16390,7 @@ server-joining.click
 server-protect.online
 server-protect.site
 server-protecting.xyz
+server-protection-verification.xyz
 server-protection.ru
 server-protection.xyz
 server-protector.online

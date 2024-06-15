@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-15T17:45:53Z
+! Updated: 2024-06-15T17:46:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1545,6 +1545,7 @@ btcbolex.com
 btcbonus.net
 btcclicks.com
 btccrypto-online.com
+btcoinminetrx.xyz
 btconline.io
 btcpool.io
 btctrade.world

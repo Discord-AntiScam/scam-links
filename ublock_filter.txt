@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-15T07:11:14Z
+! Updated: 2024-06-15T07:18:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16490,6 +16490,7 @@ shop.discordglft.org
 shoppingsurveysonline.com
 shopy-nitro.tk
 shorte.st
+shorters.icu
 shorterurl.online
 shorterurl.site
 shorteverywhere.ru

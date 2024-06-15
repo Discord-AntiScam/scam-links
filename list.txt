@@ -15352,6 +15352,7 @@ restorecordxyz.xyz
 restorecosm.bid
 restoregates.xyz
 restoremembers-verify.xyz
+restores-bot.ru
 restores-check.ru
 restores-discord.xyz
 restores-verifycation.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-16T15:55:19Z
+! Updated: 2024-06-16T18:04:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -16514,6 +16514,7 @@ showdownhub.com
 showdownzone.com
 shrt.co
 shrturl.net
+shrturl.nl
 shrturl.vip
 shrtz.me
 shrurl.xyz

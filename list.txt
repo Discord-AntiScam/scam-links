@@ -15278,6 +15278,7 @@ restorecord-guardian.xyz
 restorecord-guild.site
 restorecord-guild.xyz
 restorecord-iprotecting.online
+restorecord-logd.online
 restorecord-login-security.xyz
 restorecord-login.xyz
 restorecord-newbot.xyz

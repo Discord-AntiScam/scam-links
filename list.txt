@@ -15260,6 +15260,7 @@ restorecord-bot.site
 restorecord-bot.xyz
 restorecord-botdefender.xyz
 restorecord-bots.xyz
+restorecord-botsecure.xyz
 restorecord-captcha.xyz
 restorecord-cloud.xyz
 restorecord-connect.info

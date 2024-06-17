@@ -15283,6 +15283,7 @@ restorecord-discord-verification.xyz
 restorecord-discords.xyz
 restorecord-exemple.xyz
 restorecord-guard.xyz
+restorecord-guardauth.xyz
 restorecord-guardian.xyz
 restorecord-guild.site
 restorecord-guild.xyz

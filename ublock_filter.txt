@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-17T20:00:46Z
+! Updated: 2024-06-17T20:05:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1531,6 +1531,7 @@ breefingteam.com
 brhot-verify1.xyz
 brhotverify-bot.xyz
 brhotvrfy-bot.xyz
+brhtsvrify.xyz
 bricsgoldbank.com
 bridge-claimings.xyz
 bridge-claims.live

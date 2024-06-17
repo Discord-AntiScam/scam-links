@@ -1406,6 +1406,7 @@ bot-server.cc
 bot-servers.cc
 bot-servers.info
 bot-sledgehammer.com
+bot-trio.com
 bot-valorant.com
 bot-verif.xyz
 bot-verification.xyz

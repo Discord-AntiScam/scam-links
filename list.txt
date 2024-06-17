@@ -1390,6 +1390,7 @@ bot-secur.online
 bot-secure-onlined.xyz
 bot-secure.xyz
 bot-secured.online
+bot-secured.xyz
 bot-securing.xyz
 bot-securisation.xyz
 bot-security-dev.xyz

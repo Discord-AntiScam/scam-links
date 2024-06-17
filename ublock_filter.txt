@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-17T07:31:17Z
+! Updated: 2024-06-17T18:47:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11948,6 +11948,7 @@ linealayerbank.pages.dev
 lineaxskin.com
 link-dappradar.com
 link-hypixel.com
+link-roblox.com
 link-secureapi.com
 linkbucks.com
 linkdiscord-airdrop.com

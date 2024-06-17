@@ -15324,6 +15324,7 @@ restorecord-secureshield.xyz
 restorecord-security.xyz
 restorecord-securitybot.online
 restorecord-server.xyz
+restorecord-serverdefender.online
 restorecord-serverprotect.online
 restorecord-serverprotect.xyz
 restorecord-servers.tech

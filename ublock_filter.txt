@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-17T19:40:20Z
+! Updated: 2024-06-17T19:40:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15600,6 +15600,7 @@ roblox-redirect.com
 roblox-reverts.com
 roblox-ro.com
 roblox-robux.de
+roblox-ru.com
 roblox-rw.com
 roblox-siite.com
 roblox-site.com

@@ -16328,6 +16328,7 @@ secure-raid.xyz
 secure-retry-connecting.alphakreed.com
 secure-shield.xyz
 secure-verification-protect.xyz
+secure-verify-bot.xyz
 secured-captchabot.fun
 secured-collab.land
 securesystemguide.com

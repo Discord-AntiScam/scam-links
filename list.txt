@@ -15328,6 +15328,7 @@ restorecord-redirects.xyz
 restorecord-securate.online
 restorecord-secure.online
 restorecord-secure.xyz
+restorecord-secured.xyz
 restorecord-secureshield.xyz
 restorecord-security.xyz
 restorecord-securitybot.online

@@ -15371,6 +15371,7 @@ restorecord.pw
 restorecord.site
 restorecord.tech
 restorecordbackup.xyz
+restorecordbot.site
 restorecordbot.xyz
 restorecordcaptcha.xyz
 restorecordguild.xyz

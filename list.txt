@@ -15311,6 +15311,7 @@ restorecord-oauth-captcha.xyz
 restorecord-oauth-verification.xyz
 restorecord-oauth.online
 restorecord-oauths.xyz
+restorecord-protect-bot.top
 restorecord-protect.com
 restorecord-protect.online
 restorecord-protecter.xyz

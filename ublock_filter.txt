@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-19T17:15:12Z
+! Updated: 2024-06-19T17:15:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12332,6 +12332,7 @@ media-love.workers.dev
 mediafiire.com
 mediahouse.com.ua
 medium-captcha.com
+mediumcaptcha.com
 mee-6.net
 mee-redirect.xyz
 mee6-app.com

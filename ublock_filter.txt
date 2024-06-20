@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-20T07:00:02Z
+! Updated: 2024-06-20T16:31:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -29081,6 +29081,7 @@ udmoney.club
 ugifts-discord.gq
 uglyface.tech
 uhackfree.ru
+ui50o.ru
 uii.io
 uioca.club
 uirusu.jp

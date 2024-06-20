@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-20T16:34:11Z
+! Updated: 2024-06-20T17:48:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15777,6 +15777,7 @@ robloxbing.com
 robloxco.com
 robloxcomverification.roverification.repl.co
 robloxdownload.org
+robloxes.ru
 robloxfr.com
 robloxg.com
 robloxgamecode.com

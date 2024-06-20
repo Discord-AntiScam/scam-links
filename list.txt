@@ -1630,6 +1630,7 @@ captcha-auto.com
 captcha-bot-auth.org
 captcha-bot-check.ru
 captcha-bot-one.ru
+captcha-bot-protect.best
 captcha-bot-protect.fun
 captcha-bot-scam.onrender.com
 captcha-bot-secure-server.xyz

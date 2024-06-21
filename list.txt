@@ -1417,6 +1417,7 @@ bot-verifier.online
 bot-verifier.xyz
 bot-verify-check.ru
 bot-verify-secure-online.xyz
+bot-verify.fr
 bot-verify.xyz
 bot-verifyer.xyz
 bot-verifying.xyz

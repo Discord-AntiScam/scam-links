@@ -15354,6 +15354,7 @@ restorecord-serverprotect.online
 restorecord-serverprotect.xyz
 restorecord-servers.tech
 restorecord-serververify.online
+restorecord-sureauth.xyz
 restorecord-teennsfw.online
 restorecord-verfi.xyz
 restorecord-verication.xyz

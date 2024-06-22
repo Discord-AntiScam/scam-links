@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-22T19:14:51Z
+! Updated: 2024-06-22T19:52:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1177,6 +1177,7 @@ binanceus.valekiralamaistanbul.com
 bingotrades.com
 bingstyle.com
 bintexdao.com
+bio2-8mr.pages.dev
 biraxy.xyz
 bit-cryptex.com
 bit-wall.com

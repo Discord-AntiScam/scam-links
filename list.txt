@@ -29518,6 +29518,7 @@ verification-discord.com
 verification-id1939.com
 verification-mee6.xyz
 verification-microsoft.com
+verification-protection.xyz
 verification-restor.ru
 verification-secure.xyz
 verification-vulcan.xyz

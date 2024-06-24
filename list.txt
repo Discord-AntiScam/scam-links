@@ -17142,6 +17142,7 @@ sledgehammer-bot.com
 sledgehammer-captcha.app
 sledgehammer-metahydras.app
 sledgehammer.land
+sledgehammer.lol
 sledgehammer.me
 sledgehammer.pm
 sledgehammer.st

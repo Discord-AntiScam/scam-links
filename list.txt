@@ -14224,6 +14224,7 @@ opensealink.vercel.app
 openseamint4i.vercel.app
 openseamint4pp.vercel.app
 openseamint5l.vercel.app
+opensean-claimnft22.vercel.app
 openseanfft.com
 openseanft-pr0ject.firebaseapp.com
 openseanft-projects.vercel.app

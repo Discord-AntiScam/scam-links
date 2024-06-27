@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-27T08:01:52Z
+! Updated: 2024-06-27T08:02:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15111,6 +15111,7 @@ regeralnet.xyz
 register-academy-moderators.com
 register-academy.com
 register-alpha-capita-club.com
+register-azuro.net
 register-bubble.com
 register-collab.com
 register-community-hypesquad.com

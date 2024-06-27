@@ -15019,6 +15019,7 @@ rbxcold.buzz
 rbxcold.online
 rbxcraft.com
 rbxcreate.com
+rbxdecal.com
 rbxfilp.com
 rbxfree.com
 rbxfresh.com

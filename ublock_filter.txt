@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-27T08:01:48Z
+! Updated: 2024-06-27T08:01:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -12308,6 +12308,7 @@ masktokens.io
 maskx2.cc
 maslootok.xyz
 matchrile.com
+matias.me
 matrica-holder.com
 matrica.business
 matrica.zone

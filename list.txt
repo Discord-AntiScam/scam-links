@@ -2142,6 +2142,7 @@ cloud-dyno.com
 cloud9.academy
 cloud9team.fun
 cloud9team.space
+clouds-member.workers.dev
 cloudteam9.com
 cloudteam9.fun
 clove-nitro.com

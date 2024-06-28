@@ -17165,6 +17165,7 @@ sledgehammer-bot.app
 sledgehammer-bot.com
 sledgehammer-captcha.app
 sledgehammer-metahydras.app
+sledgehammer-verify.app
 sledgehammer.land
 sledgehammer.lol
 sledgehammer.me

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-30T17:22:00Z
+! Updated: 2024-06-30T18:28:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11788,6 +11788,7 @@ koreagame.asia
 koreagift.asia
 kr-immebot-pl-7b8901.firebaseapp.com
 kr-nfts.com
+kraftonevent.com
 krokomineop.com
 kruhzgodovina.xyz
 kruti-skin.ru

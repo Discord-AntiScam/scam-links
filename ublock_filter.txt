@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-06-30T05:48:03Z
+! Updated: 2024-06-30T07:46:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28167,6 +28167,7 @@ sui-claimings-web3.cc
 sukien-riotgames.com
 summer-rust.xyz
 summerdiscord.com
+summerevent.skin
 sunflowerland.click
 sunitro-gift.xyz
 suntextilesllc.com

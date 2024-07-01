@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-01T04:45:11Z
+! Updated: 2024-07-01T15:45:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -360,6 +360,7 @@ airdroplayerzero.top
 airdroploot.com
 airdroppolyhedra.foundation
 airdroppolyhedra.space
+airdrops-layerzero.foundation
 airdrops-shardeum.org
 airdrops-taikos.xyz
 airdrops.ooo

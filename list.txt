@@ -1819,6 +1819,7 @@ captchabot.top
 captchabot.uno
 captchabot.us
 captchabot.website
+captchabot.wtf
 captchabotdata.xyz
 captchabotguild.com
 captchabots-verify.xyz

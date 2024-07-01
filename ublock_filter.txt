@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-01T22:32:29Z
+! Updated: 2024-07-01T22:32:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -14300,6 +14300,7 @@ optimdrop.com
 optimii.be
 optimism.on-fleek.app
 optnx.co
+oraichain.ink
 oravblox.com
 orb-halo.pages.dev
 orb-web3.com

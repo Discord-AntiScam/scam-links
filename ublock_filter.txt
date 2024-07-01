@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-01T22:32:50Z
+! Updated: 2024-07-01T22:32:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8389,6 +8389,7 @@ easywincs.fun
 easywincs.ru
 eb-roblox.com
 ebrawl.org
+ecosystemsolutions.ssott.com
 ecyberunited.com
 edo1pj.xyz
 eese.io

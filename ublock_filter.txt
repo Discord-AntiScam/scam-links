@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-02T17:21:30Z
+! Updated: 2024-07-02T19:15:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15964,6 +15964,7 @@ rocketleague-twitch.com
 rocketlegue.pro
 rocketpool.cash
 rockettrade.pro
+rodecal.com
 rodseeopenky.com
 roexporter.site
 roexporter.xyz

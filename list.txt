@@ -12083,6 +12083,7 @@ login-hypevents-ads.com
 login-moderator-academy.com
 login-moderator-discord.com
 login-moderator.discordauth.repl.co
+login-restores.ru
 login.discord-moderator-academy.repl.co
 login.hype-squad-discord.repl.co
 login.moderationdc.repl.co

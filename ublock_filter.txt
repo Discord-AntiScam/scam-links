@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-05T10:32:42Z
+! Updated: 2024-07-05T10:32:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28290,6 +28290,7 @@ t-me-e-girl.ru
 t-me-freegirls.ru
 t-me-girl.ru
 t-me-checkgirls.ru
+t-me-nude-katty.xyz
 t-me-verifygirls.ru
 t-me-welcomenudes.ru
 t510.asia

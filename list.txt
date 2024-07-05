@@ -15390,6 +15390,7 @@ restorecord-oauth.online
 restorecord-oauths.xyz
 restorecord-oauthsafe.info
 restorecord-ouathshield.info
+restorecord-ouathshields.info
 restorecord-protect-bot.top
 restorecord-protect-server.info
 restorecord-protect.com

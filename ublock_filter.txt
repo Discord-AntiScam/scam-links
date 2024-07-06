@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-06T13:28:55Z
+! Updated: 2024-07-06T20:46:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -8143,6 +8143,7 @@ dwaynejon.xyz
 dwny.org
 dxiscord.com
 dy-no.deno.dev
+dybot.org
 dydxcoin.net
 dydxevent.com
 dymo.app

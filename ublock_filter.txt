@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-07T00:58:13Z
+! Updated: 2024-07-07T05:48:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10038,6 +10038,7 @@ givenatus.site
 gives-valorant.net
 givesdrop.org.ru
 givesdrop.ru
+givesmusk.net
 givesteam.com
 givestesla.com
 givestesla.io

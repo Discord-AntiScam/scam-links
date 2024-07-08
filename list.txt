@@ -15470,6 +15470,7 @@ restorecordbot.site
 restorecordbot.xyz
 restorecordcaptcha.xyz
 restorecordguild.xyz
+restorecordguilding.xyz
 restorecordify-bot.xyz
 restorecordify.xyz
 restorecordmember.xyz

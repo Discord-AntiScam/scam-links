@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-08T01:31:59Z
+! Updated: 2024-07-08T01:32:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -236,6 +236,7 @@ account-riotgames.com
 account02verify.com
 accountauthorization.xyz
 accountingdept.files.com
+accountrecoverymetaonlineservice.com
 accrpn.asia
 accrpr.asia
 accrpre.asia

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-08T18:23:40Z
+! Updated: 2024-07-08T19:45:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -15322,6 +15322,7 @@ ressbit.com
 restake-swellnetwork.io
 restart-hypesquad.com
 restorcord-server.xyz
+restorcord-verify.ru
 restorcord.xyz
 restore-anti-oauthorize.xyz
 restore-authorize.xyz

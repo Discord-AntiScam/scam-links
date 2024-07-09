@@ -1647,6 +1647,7 @@ captcha-bot-protect.best
 captcha-bot-protect.fun
 captcha-bot-scam.onrender.com
 captcha-bot-secure-server.xyz
+captcha-bot-site.xyz
 captcha-bot-verification.xyz
 captcha-bot-verify.fun
 captcha-bot-verify.ru

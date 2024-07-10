@@ -15470,6 +15470,7 @@ restorecord-verifyer.xyz
 restorecord-x.xyz
 restorecord.pro
 restorecord.pw
+restorecord.ru
 restorecord.site
 restorecord.tech
 restorecord.vip

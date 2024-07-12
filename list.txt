@@ -15410,6 +15410,7 @@ restorecord-oauthguardian.info
 restorecord-oauths.xyz
 restorecord-oauthsafe.info
 restorecord-ouathshield.info
+restorecord-ouathshield.xyz
 restorecord-ouathshields.info
 restorecord-protect-bot.top
 restorecord-protect-server.info

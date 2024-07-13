@@ -1397,6 +1397,7 @@ bot-protector.com
 bot-protector.online
 bot-protects.xyz
 bot-redirect.com
+bot-restorecord.ru
 bot-restores.ru
 bot-secur.online
 bot-secure-onlined.xyz

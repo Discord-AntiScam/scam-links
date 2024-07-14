@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-14T13:51:19Z
+! Updated: 2024-07-14T20:33:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10195,6 +10195,7 @@ guard-protection.ru
 guard-protector.ru
 guardian-angel.xyz
 guardian-collab.land
+guardian-verif.xyz
 guardkava.cloud
 guardkava.network
 guesskings.com

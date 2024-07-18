@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-18T18:07:20Z
+! Updated: 2024-07-18T21:56:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -29849,6 +29849,7 @@ vp8106.asia
 vremechko.org
 vremyamn.ru
 vrfy-brhot.info
+vrfy-brhot.xyz
 vrfybot-brhot.xyz
 vrfypop.xyz
 vrux.lol

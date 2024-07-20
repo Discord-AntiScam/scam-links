@@ -14661,6 +14661,7 @@ portalcoins.online
 portalgaming.online
 portalproject-official.web.app
 portals-game.pages.dev
+portals-gaming-coin.pages.dev
 portals-gaming.pages.dev
 portals-gaming.web.app
 portals-project.pages.dev

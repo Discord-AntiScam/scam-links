@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-20T17:56:52Z
+! Updated: 2024-07-20T18:59:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -11746,6 +11746,7 @@ kavaco.xyz
 kavacom.club
 kavacom.one
 kavacom.top
+kavadefi.one
 kavadefi.xyz
 kavagate.one
 kavago.live

@@ -11782,6 +11782,7 @@ kavasverify.link
 kavasverify.vip
 kavasverse.vip
 kavaverify.support
+kavaverifybot.pages.dev
 kavaverse.xyz
 kavawebs.xyz
 kavaworld.club

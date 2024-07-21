@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-21T22:34:08Z
+! Updated: 2024-07-21T22:34:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -10248,6 +10248,7 @@ halo-paperhands.pages.dev
 halo-platform.pages.dev
 halo-portfolio.pages.dev
 halo-portfolio.web.app
+halo-portfolios.web.app
 halo-track.web.app
 halo-trading.pages.dev
 haloinfinite.shop

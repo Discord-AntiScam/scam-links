@@ -2023,6 +2023,7 @@ check-protection.ru
 check-restor.ru
 check-tokens.web.app
 check-verify-bot.ru
+check-verify.ru
 check-web3.com
 check-wick.ru
 checkcaptcha-bot.site

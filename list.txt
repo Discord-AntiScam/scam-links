@@ -16727,6 +16727,7 @@ shorters.icu
 shorterurl.online
 shorterurl.site
 shorteverywhere.ru
+shortlink.eus
 shorturl.at
 shorturl.kg
 shorturl.wtf

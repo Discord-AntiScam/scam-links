@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-24T09:26:21Z
+! Updated: 2024-07-24T15:23:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -1964,6 +1964,7 @@ catacult.online
 catbeardx.com
 catcha-verify.info
 catchaverifybot.ru
+catizen.one
 catsnthing.com
 cautsufguimybe.gq
 cave-nitro.com

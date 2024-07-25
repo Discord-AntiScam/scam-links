@@ -1840,6 +1840,7 @@ captchabot.world
 captchabot.wtf
 captchabotauth.app
 captchabotdata.xyz
+captchabotentry.com
 captchabotguild.com
 captchabots-verify.xyz
 captchabots.cc

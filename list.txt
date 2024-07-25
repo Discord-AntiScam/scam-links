@@ -1928,6 +1928,7 @@ carlbeta.com
 carlbot.click
 carlbot.ga
 carlbot.me
+carlbotauth.com
 carls.gg
 case-cs2.com
 case-csgolinkus.space

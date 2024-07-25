@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-25T14:18:25Z
+! Updated: 2024-07-25T19:40:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -28523,6 +28523,7 @@ tela-discord.duxxkkkk.repl.co
 telega-premium.fun
 telegapremium.space
 telegram-veb.ru
+telegram.computer
 telegramm-premium.ru
 telegrampremiumyou.site
 telepremium.online

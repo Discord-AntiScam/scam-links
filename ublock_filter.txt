@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-27T16:34:12Z
+! Updated: 2024-07-27T16:34:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 0p-1.com
@@ -26,6 +26,7 @@
 17954-coinbase.com
 17ebook.com
 18nsfw-verification.xyz
+1984-redux.xyz
 19igkjgwndapi.ru
 19irjnillkigersogb.ru
 19mngebhapi.ru
@@ -843,6 +844,7 @@ arbitrum-token-bridge-9ykfjucyr-offchain-labs.vercel.app
 arbitrum-token-bridge-git-fix-event-logs-w-3bc88f-offchain-labs.vercel.app
 arbitrum-token-bridge-git-new-tx-history-s-a94206-offchain-labs.vercel.app
 arbitrum-token-bridge-lzuqj6mif-offchain-labs.vercel.app
+arbitrym.pics
 arbiturn.foundation
 arbltrumfoundatlon.live
 arcades.tech
@@ -1223,6 +1225,7 @@ bitmuskx2.com
 bitnexy.com
 bitofux.com
 bitrealm.io
+bitrels.com
 bitriax.com
 bitroblox.xyz
 bitrock.app
@@ -1601,6 +1604,7 @@ bunfq.ru
 burn-boxpool.web.app
 burn-boxpoolnow.firebaseapp.com
 burn-boxpoolnow.web.app
+burn-opennft.firebaseapp.com
 business-support-us.com
 bussines-spen.click
 bussinesuitesupport.com
@@ -1657,6 +1661,7 @@ capcha.lol
 capchasbot.app
 capdefend.xyz
 capitalswiftpremium.com
+capsule-house.xyz
 captcha-access.ru
 captcha-antibot.fun
 captcha-app.net
@@ -2000,6 +2005,7 @@ celestia-event.site
 centralheat.me
 centralheat.net
 ceo-space-x.net
+ceoinbase.com
 certified-moderating-school.com
 certifycryptojob.online
 ceters.net
@@ -2156,6 +2162,7 @@ claimusdc.io
 clan-big.ru
 clanceptab.com
 claspedtwelve.com
+classic-battle.net
 classic-dlscord.com
 classic-nitro.com
 classicnitro.com
@@ -2252,6 +2259,7 @@ coinkox.com
 coinlisting.site
 coinlistx2.com
 coinlybit.com
+coinlymx.com
 coinmasterexplore.com
 coinmeex.com
 coinmoney.in.net
@@ -2383,6 +2391,8 @@ comdlscold.com
 comdlscoord-apps.com
 comdlscord-main.ru.com
 come-nitro.com
+comexlite.top
+comexlite.xyz
 comgift-discords.com
 coming-soon-events-hype.ga
 comiposr.top
@@ -2619,6 +2629,7 @@ cryptojobtech.com
 cryptolnvest.net
 cryptomose.com
 cryptomusk.net
+cryptonall.com
 cryptonexys.com
 cryptonftgiveaway.online
 cryptoninjapartner.com
@@ -3511,6 +3522,7 @@ datasig.io
 datauth.io
 datawallet.cc
 datawallet.contractors
+datawallet.in
 datawallet.legal
 datfuture.com
 dating.hdxvideos.ru
@@ -3606,6 +3618,7 @@ devlopers.info
 devloyaltypolyhedra.network
 devtools-api.com
 dewapanel.my.id
+dex-tradee.com
 dexautomate.web.app
 dexautomated.web.app
 dexenos.com
@@ -4042,6 +4055,7 @@ dilsocrd.ru
 dinetluvilli.gq
 diorikadazy.gq
 dioscord.com
+dip-pies.xyz
 diplom4rabota.ru
 diqscordapp.com
 dircode.ru
@@ -6853,6 +6867,7 @@ discourd.site
 discourdapp.com
 discourdgift.ru
 discovd.com
+discoversync.pages.dev
 discoverylands.com
 discoxd.com
 discozd.com
@@ -6874,6 +6889,7 @@ discqrde.club
 discqrde.com
 discqrde.gg
 discqrld.gift
+discrd-hypesquad.com
 discrd.cc
 discrd.co
 discrd.com
@@ -7985,6 +8001,7 @@ dpd-group-taseneh779753577.codeanyapp.com
 dracenic-gravinyl.icu
 dragonary-giveaway.info
 dre-pgc2021.ru
+dream-valorant.com
 dreamcoin24.com
 dreamone.online
 driscord.gift
@@ -8015,6 +8032,7 @@ drop.net.ru
 drop.org.ru
 drop.pp.ru
 dropairhunter.top
+dropava.net
 dropdot.info
 dropds-gift.gq
 drope.monster
@@ -8235,6 +8253,7 @@ dyno-verification.org
 dyno-verify.com
 dyno-verify.gg
 dyno-verify.net
+dyno-verify.xyz
 dyno.asia
 dyno.authtoken-b78sj2d59cdd8bb7cd.repl.co
 dyno.autos
@@ -8777,6 +8796,7 @@ etsy-reservation.com
 etsy-store-verlfy.com
 etsy-verifications.com
 etsy-verifs.com
+eu-hotel.com
 euphe-gun.com
 euphonious-sable-30ec8d.netlify.app
 evalorant.com
@@ -9005,6 +9025,7 @@ faze-59.pro
 faze-case.ru
 faze-clan.shop
 faze-cs.com
+faze-cs.ru
 faze-cs2-event.com
 faze-cs2.com
 faze-csgo.com
@@ -9123,6 +9144,7 @@ fire-dungeon.com
 fire-s3.web.app
 firmis-min.com
 first-formulary-hypesquad.com
+first-x-drops.top
 firtonesroll.ru.com
 fiscord.com
 fixall.io
@@ -9134,6 +9156,7 @@ flash.cn
 flashymass.com
 flearmadness.com
 flepcoin.com
+floidex.com
 flyes-coin.com
 fnatic-drop.com
 fnatic-ro1ls.ru.com
@@ -9550,6 +9573,7 @@ freeverification.ru
 freeverifybot.ru
 friendship-cocacola.store
 frmint-nft.com
+froggyfriend.xyz
 frogs-jump.xyz
 from-puste.xyz
 frontier-yahoo-update-108036.square.site
@@ -9676,6 +9700,7 @@ gamillionaire.com
 gaming-at-my.best
 gaming-portals.pages.dev
 gaming-twitch.com
+gamingquestmasters.com
 gamivos.com
 gamletaarnhuset.no
 gams-toph.xyz
@@ -10252,6 +10277,7 @@ guild-captcha.cc
 guild-captcha.lol
 guild-captcha.site
 guild-captchabot-security.com
+guild-captchabot.com
 guild-captchas.site
 guild-collab.land
 guild-gate.click
@@ -11413,6 +11439,7 @@ item125096963.asia
 itemcloud.one
 itemsgobio.com
 itemshelper.com
+itkdigzfdg.top
 iunar.store
 ivww-roblox.com
 iwantu.com
@@ -11758,6 +11785,7 @@ justcause.fun
 justdash.xyz
 justdiscord.com
 justdoit.cards
+juuni-nft.xyz
 k0101.asia
 k799021.asia
 kakaogame.club
@@ -11782,8 +11810,10 @@ kava-web.one
 kava-web.xyz
 kavabase.cloud
 kavabot.app
+kavabot.club
 kavabot.me
 kavachain.club
+kavacheck.xyz
 kavachecks.club
 kavacloud.xyz
 kavaco.club
@@ -13165,6 +13195,7 @@ mysteryclaim52b.vercel.app
 mysteryclaim73.vercel.app
 mysteryclaims13g.vercel.app
 mysteryclaims27d.vercel.app
+mysteryclaims28a.vercel.app
 mysteryclaims36a.vercel.app
 mysteryclaims37g.vercel.app
 mysteryclaims41.on.fleek.co
@@ -13565,6 +13596,7 @@ neftyblocks.xyz
 neir.asia
 nekamigos.com
 neo-tokyo-gaming.pages.dev
+neo.gift
 neodrive.ru
 neotokyo-event.codes
 nepoleno.ru
@@ -13739,6 +13771,7 @@ nft-sushi.com
 nft-tesla.com
 nft21click.vercel.app
 nftbox-airdrop.com
+nftcentral.in
 nftclaim803.vercel.app
 nftclaimclick.vercel.app
 nftmint-eth.com
@@ -14616,6 +14649,7 @@ playeslgaming.ru
 playeslseries.com
 playestates.co
 playfastcup.ru
+playmightyhero.xyz
 playrank.net
 playroblox.ga
 plays-roblox.com
@@ -14881,6 +14915,7 @@ prompt-0x217.xyz
 pronline.ru
 prophetbotcollab.land
 prophetcollab.land
+prophetsbotcollab.land
 prophetscollab.land
 prostesprawy.click
 protect-captcha.online
@@ -14903,6 +14938,7 @@ protects-discord-bots-verificationq.xyz
 protects-discord-bots-verificationx.xyz
 protocol-layerzero.app
 protocolgroupgroups.com
+protournament4.com
 protradeex.com
 proworkinc.xyz
 proxysync.pages.dev
@@ -15090,6 +15126,7 @@ qqfzn.com
 qrsource2.pro
 qsadas.discordmodeclub.repl.co
 qsng.cn
+qswk.cc
 qualityhealth.com
 quellaplentyresolute.com
 quest-polyhedranetwork.com
@@ -15437,6 +15474,7 @@ restorcord.space
 restorcord.xyz
 restore-anti-oauthorize.xyz
 restore-authorize.xyz
+restore-bot.com
 restore-cord-bot.online
 restore-cord-bot.shop
 restore-cord-captcha.xyz
@@ -15602,6 +15640,7 @@ restorecordna.xyz
 restorecordns.xyz
 restorecordprotector.xyz
 restorecords-ds.xyz
+restorecords.org
 restorecords.xyz
 restorecordsecure.online
 restorecordverify.xyz
@@ -15646,6 +15685,7 @@ reward-csgo.com
 reward-graph.com
 reward-hypixel.net
 reward-ocean.net
+reward-rtfkt.com
 reward-tipcoin.tech
 reward-twltch.com
 reward-zora.com
@@ -15888,6 +15928,7 @@ roblox.com.ee
 roblox.com.et
 roblox.com.ge
 roblox.com.gp
+roblox.com.gr
 roblox.com.gt
 roblox.com.gy
 roblox.com.hn
@@ -16178,6 +16219,7 @@ rouonixon.com
 rovault.tech
 rovbox.com
 roverify.ru
+royalelld.top
 royaljapan02.*
 rozzgeconmalasi.gq
 rpc-metafix.pages.dev
@@ -17003,6 +17045,7 @@ skyblockiansverify.com
 skyblockmods.com
 skybophor.gq
 skyhelper.fun
+skypay.pw
 skythesquad.com
 skytils.com
 skyutilities.fun
@@ -17398,6 +17441,7 @@ sledgehammr.app
 sledgehammr.xyz
 sledgehanmer.app
 sledgehemmer.app
+sledgehemmer.com
 sledgerhammer.app
 sledgeshammer.app
 sledgeshammers.com
@@ -17584,6 +17628,7 @@ source2csgobeta.com
 source2free.ru
 source2gain-csgo.pro
 source2go.world
+source2i.com
 source2l.uk
 source2skins.pro
 source2skins.ru
@@ -18469,6 +18514,7 @@ starncomrnunity.ru
 starship-day2023.com
 starship-x2.space
 starship23.org
+starship2x.net
 starship33.com
 starshipspacex.io
 starshipx2.space
@@ -19399,6 +19445,7 @@ steamcommmnunity.ru
 steamcommmuiniity.ru
 steamcommmuinty.ru
 steamcommmuity.ru
+steamcommmuniity.com
 steamcommmuniity.ru
 steamcommmunilty.com
 steamcommmunilty.ru
@@ -19468,6 +19515,7 @@ steamcommnnily.com
 steamcommnnity.com
 steamcommnnity.net.ru
 steamcommnnity.online
+steamcommnnity.site
 steamcommnnity.su
 steamcommnnlty.com
 steamcommnnlty.ru
@@ -19942,6 +19990,7 @@ steamcommuneutie.com
 steamcommuneutiei.com
 steamcommuneutiey.com
 steamcommuneutiu.com
+steamcommuneutiue.com
 steamcommuneutiui.com
 steamcommuneutiuie.com
 steamcommuneutuei.com
@@ -22064,6 +22113,7 @@ steamcomnnunitly.com
 steamcomnnunitly.ru
 steamcomnnunits.ru
 steamcomnnunitty.art
+steamcomnnunitty.com
 steamcomnnunitty.online
 steamcomnnunitty.ru
 steamcomnnunitu.ru
@@ -22713,6 +22763,7 @@ steamcomunninuty.com
 steamcomunniti.ru
 steamcomunnitiy.com
 steamcomunnitiy.ru
+steamcomunnitliy.ru
 steamcomunnitlly.com
 steamcomunnitly.com
 steamcomunnitly.pro
@@ -24001,6 +24052,7 @@ steamncommunltty.ru
 steamncommunlty.online
 steamncommunlty.ru
 steamncommunnity.com
+steamncommunnity.ru
 steamncommunnlty.ru
 steamncommunrity.com
 steamncommunrty.com
@@ -24545,6 +24597,7 @@ steamxcommnuilty.ru
 steamxcommuniity.xyz
 steamxcommunilty.ru
 steamxcommunity.com
+steamxdiscord.com
 steamxdiscord.online
 steamxdiscord.pl
 steamxomm.club
@@ -25161,6 +25214,7 @@ steancomunity.net.ru
 steancomunity.space
 steancomunitytradeffer.xyz
 steancomuniytyli.online
+steancomuniytyli.ru
 steancomunjty.ru
 steancomunlty.ru
 steancomunniity.ru
@@ -25296,6 +25350,7 @@ steanconnuninty.ru
 steanconnunitiy.ru
 steanconnunity.com
 steanconnunity.ru
+steanconnunitygroup.ru
 steanconnunlty.com
 steanconnunnitty.com
 steanconnuntiy.ru
@@ -26745,6 +26800,7 @@ steemcommuniity.ru
 steemcommuniiy.ru
 steemcommuniiy.site
 steemcommunilee.xyz
+steemcommunili.ru
 steemcommunillty.com
 steemcommunilty.com
 steemcommunilty.xyz
@@ -28205,6 +28261,7 @@ streamconmunitly.ru
 streamconmunitu.ru
 streamconmunity.com
 streamconmunity.ru
+streamconmunity.us.to
 streamconmunlty.ru
 streamconmunyti.com
 streamconmutiy.com
@@ -28416,6 +28473,7 @@ suntextilesllc.com
 sup-event.gq
 sup-event.ml
 sup-idea.com
+super-ordinary.xyz
 superdatenow3.com
 superlpini.click
 support-391647094929792.com
@@ -28442,6 +28500,7 @@ supportmoderatoracademy.com
 supportopensea.vercel.app
 supporttfb-m.click
 supreme2.ru
+supsus.top
 surfacesbusinesss.xyz
 surl.li
 survey-arbitrium.com
@@ -28719,6 +28778,7 @@ teslax-2023.info
 teslax24.com
 teslax2coin.com
 teslax2coinx.com
+teslax2s.net
 teslaxv.com
 teslayx2.com
 teslevent2x.net
@@ -28803,6 +28863,7 @@ thelaberynthgame.com
 thelastgame.ru
 thelayerzero.com
 thelayerzero.network
+thelunarclient.com
 themekaversed.org
 themekaverses.org
 themoderator-apply.com
@@ -28894,6 +28955,7 @@ topvincere.net.ru
 topvincere.org.ru
 topw-gamez.xyz
 topz-games.xyz
+torexify.com
 totalav.com
 totaltopposts.com
 tour-csgo.ru
@@ -28942,6 +29004,7 @@ tracking-orbs.pages.dev
 tracking-pack-uspn.com
 tracking-usopt-fu.com
 tracklyfast.com
+trackpacks-serve.top
 tracksbot.com
 trade-leagues.com
 trade-offer.site
@@ -29070,6 +29133,7 @@ twitch-case.ru
 twitch-cast.com
 twitch-community.com
 twitch-connects.com
+twitch-content.com
 twitch-cs.com
 twitch-cs.org
 twitch-cs.pro
@@ -29492,6 +29556,7 @@ urlsmall.online
 urlsmall.site
 uroblox.com
 urtyert.com
+us.zendebadiran.tk
 usa-twitch.com
 usa2024.net
 usbnovel.com
@@ -29523,16 +29588,23 @@ usps-onlinestore.com
 uspscd.com
 uspseran.top
 uspsfn.top
+uspsuyn.top
 usspcx.top
 usspey.top
+usspff.top
 ussphj.top
+ussphy.top
 usspiw.top
 usspjl.top
+ussplc.top
 ussply.top
 usspmx.top
+usspmz.top
+usspow.top
 usspoz.top
 ussprf.top
 ussprg.top
+ussptg.top
 ussptw.top
 usspvn.top
 usspwf.top
@@ -29572,6 +29644,7 @@ valo-riot.shop
 valobell.org
 valoboof.fun
 valobuzz.fun
+valofans.com
 valogym.com
 valohex.fun
 valojeen.fun
@@ -29681,6 +29754,7 @@ valorant2023.fun
 valorant2023.lol
 valorant2023.online
 valorant2023.site
+valorant2024.com
 valorant25.com
 valorant26.com
 valorant44.com
@@ -30094,6 +30168,7 @@ warning-selectioneventhype.gq
 wastrex.com
 watch-video.net
 watchprecise-bestextremelyfile.best
+watt-inc.net
 wavebtc.com
 wavedexcoin.com
 wawacsgo.store
@@ -30184,6 +30259,7 @@ web3slugs.com
 web3whales.website
 webappvr.gq
 webdapp.pages.dev
+webdappresolve.pages.dev
 webjobcord.com
 webpushcloud.top
 webr-roblox.com
@@ -30231,6 +30307,7 @@ weplaycs.de
 weplayedesports.net
 westart-auth.pro
 westxblackify.xyz
+wexcrypto.net
 whalewire.app
 whalewire.business
 what-were.xyz
@@ -30616,6 +30693,7 @@ wwwroblox.ru
 wwwv--roblox.com
 wwwv-roblox.xyz
 wwwvroblox.com
+wwwvw-roblox.com
 wwwvww-roblox.com
 wwww-robiox.com
 wwww-roblox.co

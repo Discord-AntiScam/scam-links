@@ -9,7 +9,7 @@ This is a comprehensive repository with over **30 000** curated phishing and sca
 
 We provide lists of malicious domains to server owners to safeguard their members from malicious links and researchers that investigate these threats.
 
-The database is actively maintained by [akac](https://github.com/actually-akac) & [ThinLiquid](https://github.com/ThinLiquid).<br>
+The database is actively maintained by [akac](https://github.com/akacdev) & [ThinLiquid](https://github.com/ThinLiquid).<br>
 
 *Note:* We only add apex domains if the entire domain was registered in bad faith. Some of the domains have already been taken down by the respective domain registrars. 
 

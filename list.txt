@@ -66,6 +66,7 @@
 2023-ripple.com
 2023-stark.net
 2023-tsla.com
+2023aktuweiter.info
 2023g.com
 2023openai.live
 2023spacex.net
@@ -98,6 +99,7 @@
 2navi.me
 2nitr0newyear23.ink
 2source.ch
+2source.pro
 2x-crypto.live
 2x-tsla.com
 2xbitcoin.net
@@ -539,6 +541,7 @@ api16-altidentifier.com
 api2-vulcan.xyz
 api20-altverify.com
 api20-collab.land
+api22-altidentifier.com
 api23-collab.land
 api24-collab.land
 api25-collab.land
@@ -1208,6 +1211,7 @@ bitcoinbwin.com
 bitcoinesystem.su
 bitcoingenerator.cash
 bitcoingenerator.me
+bitcoinlaundry.cash
 bitcoinminetrix-2.pages.dev
 bitcturbo.com
 bitcwolfs.com
@@ -1285,6 +1289,7 @@ blockchaiweb.pages.dev
 blockdexresolve.pages.dev
 blockdexsolution.pages.dev
 blockskipad.com
+blocksynchronize.pages.dev
 blockver.000webhostapp.com
 blockverse-mainet.vercel.app
 blog-roblox.com
@@ -1394,6 +1399,7 @@ bot-developers.com
 bot-dyno.gg
 bot-guild.cc
 bot-guild.click
+bot-guild.info
 bot-guild.site
 bot-guilding.co.uk
 bot-guilds.info
@@ -1622,6 +1628,7 @@ bycuru.com
 bynfrex.com
 bypassbotverify.site
 bysellers.xyz
+bytnox.com
 byynility.com
 bznam.com
 bznam.xyz
@@ -2163,6 +2170,7 @@ claims-web3.website
 claimsteth.net
 claimtaiko-ard.pages.dev
 claimusdc.io
+claimzk.com
 clan-big.ru
 clanceptab.com
 claspedtwelve.com
@@ -2373,6 +2381,7 @@ collsb.land
 colnbase-supports.com
 cologne-case.com
 com-eng.eu
+com-helpny.com
 com-lottery.club
 com-robux.club
 combestskins.org.ru
@@ -2504,6 +2513,7 @@ connectt-hypesquad-intents.com
 connectt-hypesquad.com
 connectwallet-collab.land
 connectwallet-io.pages.dev
+connectweb-sync.pages.dev
 connectweb3-trustwallet.com
 connectx-collab.land
 connectxr-fixer.rf.gd
@@ -2604,6 +2614,7 @@ crypto-obada.infinityfreeapp.com
 crypto-paperhand.web.app
 crypto-prize.info
 crypto-slate.xyz
+crypto-tesla2023.org
 crypto2023event.org
 crypto4hires.com
 cryptoadventure.xyz
@@ -2632,6 +2643,7 @@ cryptojobone.com
 cryptojobs-experiences.com
 cryptojobs-hub.com
 cryptojobs-hubs.com
+cryptojobsforhire.com
 cryptojobtech.com
 cryptolnvest.net
 cryptomose.com
@@ -2697,6 +2709,7 @@ cs-source-2.ru
 cs-source2.fun
 cs-source2.gifts
 cs-source2.net
+cs-twitch.site
 cs-twitch.tv
 cs-twitchs.com
 cs-twitchs.tv
@@ -2748,6 +2761,7 @@ cs2-rewards.com
 cs2-rolls.com
 cs2-skin.com
 cs2-sources.com
+cs2-sourcesinvitess.com
 cs2-sourse.com
 cs2-sourses.com
 cs2-stats.net
@@ -2823,6 +2837,7 @@ cs2ence.com
 cs2esports-blast.com
 cs2esports.ru
 cs2eucounterstrike.com
+cs2event.ru
 cs2eventlive.org
 cs2f.pro
 cs2fastcup.fun
@@ -2896,6 +2911,7 @@ cs2source.com
 cs2source.gift
 cs2source.net
 cs2source.pro
+cs2source.us
 cs2sourcebeta.com
 cs2sourcebeta.ru
 cs2sources-invites.com
@@ -3006,6 +3022,7 @@ csgo-dallas.com
 csgo-dallas.com.ru
 csgo-dallas.ru
 csgo-discord.xyz
+csgo-drop.ru
 csgo-drop.space
 csgo-dym.ru
 csgo-earn.com
@@ -3430,6 +3447,7 @@ csxshell.com
 cteamcamnynity67823535672.xyz
 cteamcommunity.xyz
 cteamcoomunity.com
+cu2y5zx6.us
 cuberlaggue.site
 cupcsgo.ru
 cupgoo.xyz
@@ -3590,6 +3608,7 @@ defi.42web.io
 defirepairstool.com
 del-pinar.com.ar
 delawareipackage.com
+deloxbit.com
 deltalore.pro
 deltasec300gt.fun
 dengiua.com
@@ -8242,6 +8261,7 @@ dyno-captchas.com
 dyno-dev.net
 dyno-entry.xyz
 dyno-gate.com
+dyno-gg.in
 dyno-gg.link
 dyno-oauth2.xyz
 dyno-premium.xyz
@@ -8587,6 +8607,7 @@ elonx2.net
 elonx2.pro
 elonx2.top
 elonxspace.com
+eloxup.com
 email-gamingevents.gq
 email-hse-hypesquad.gq
 email-joinevents.ml
@@ -8830,6 +8851,7 @@ event-tesla.com
 event-tesla2x.com
 event.65ddc0bd.circletokenhub.com
 event.tesla2double.repl.co
+eventairdrop.xyz
 eventapply.com
 eventcsgo.com
 eventfromblast23.pro
@@ -8881,6 +8903,7 @@ eventshype-forms.gq
 eventshypesquad.com
 eventsmoderation-discord.com
 everpg.online
+everybodys-fun.xyz
 everyconnect.pages.dev
 everyonechances.com
 evil-kongs.com
@@ -9094,6 +9117,7 @@ faze67.com
 faze69.com
 faze7.pro
 faze7.ru
+faze70.com
 faze71.com
 faze72.com
 faze75.ru
@@ -9741,6 +9765,7 @@ gdiscord.com
 geekotg.com
 geithub.com
 gemini-captcha.com
+geminiproa.shop
 gemtoon.com
 generator.discordnitrogift.com
 genesis-dlymension.com
@@ -10098,6 +10123,7 @@ give-navi.com
 give-premius.com
 give-skins.com
 give-tesla.pro
+give-twitch.com
 give-xrp.com
 give2x.net
 giveavvay-valorant.com
@@ -10175,6 +10201,7 @@ gnosisbtc.com
 go-2-cup.com
 go-bot-developer.com
 go-captchas.top
+go-case.com
 go-cs.ru.com
 go-cups.ru
 go-discord.com
@@ -10456,6 +10483,7 @@ hub-app.site
 hub-liquideth.com
 hub-pendle.fi
 hub-render.com
+hub-shibatoken.org
 hubappl.site
 hubgifts-reg.ru
 hubnpl-auth.pro
@@ -11229,6 +11257,7 @@ id-589447987.com
 id-654132.com
 id-8756.com
 id-88694.com
+id-95864.com
 id-hypixel.net
 ideaanstudy1.live
 ideaanstudy11.live
@@ -11858,6 +11887,7 @@ kavaguard.top
 kavaguard.xyz
 kavaguards.club
 kavaguards.org
+kavaguards.site
 kavalaunch.cloud
 kavalaunch.host
 kavalaunch.online
@@ -11880,6 +11910,7 @@ kavaverify.support
 kavaverifybot.pages.dev
 kavaverifyrbot.pages.dev
 kavaverse.xyz
+kavawatch.xyz
 kavawebs.xyz
 kavaworld.club
 kavaxyz.one
@@ -11948,6 +11979,7 @@ l-roblox.com
 l2mainet.xyz
 l2s.pet
 l4t0ym.us
+labcex.com
 labz.land
 lachrymation-demetallize-arthroplasty.xyz
 lackystars.com
@@ -12395,6 +12427,7 @@ macotuqa.xyz
 mactep.org
 madexcoin.com
 madgames.xyz
+madian.co
 maggicdrop.xyz
 magic-delfy.net.ru
 magic-drops.top
@@ -12428,6 +12461,7 @@ major-twltch.com
 majorniitro.ru
 majornitroo.ru
 majors-twitch.com
+majors-twitchs.com
 majors-twltch.com
 majorstwitch.com
 makcetcsgo-old.website
@@ -12702,6 +12736,7 @@ metamaaskkwaallet.webflow.io
 metamarutis--extension.webflow.io
 metamasrkus.azurewebsites.net
 metamesks.io
+metarestorewallet.netlify.app
 metaverseconnneccttmighratedapp.website
 metawin.to
 metisdao.fi
@@ -12757,6 +12792,7 @@ mint-openseanftso.vercel.app
 mint-openseaprogets.vercel.app
 mint-proboxes.web.app
 mint-shardeum.org
+mint-sweetnftbox.web.app
 mintblockchain-rewards.vercel.app
 mintlebit.biz
 mintpool-box.web.app
@@ -13193,6 +13229,8 @@ mysterybox8376.vercel.app
 mysterybox85f.vercel.app
 mysterybox863i.vercel.app
 mysterybox9087.vercel.app
+mysterybox938.vercel.app
+mysterybox93l3.vercel.app
 mysteryboxc432.vercel.app
 mysteryboxclaim.vercel.app
 mysteryboxclik34.vercel.app
@@ -13211,6 +13249,7 @@ mysteryboxs6.vercel.app
 mysteryboxs86.vercel.app
 mysteryboxt1.vercel.app
 mysteryboxx-proclaim9.vercel.app
+mysteryboxx1f.vercel.app
 mysteryboxx1r.vercel.app
 mysteryboy53s.vercel.app
 mysterybx9s.vercel.app
@@ -13607,6 +13646,7 @@ naviteam.net.ru
 navitoday.pro
 navitop4.net.ru
 naviuk.com
+navivictorygifts.pro
 navivincere.com
 navlgg.com
 navy-freecases.ru
@@ -13810,6 +13850,7 @@ nftmint-eth.com
 nftopenseaclaim.vercel.app
 nftopenseas.vercel.app
 nftreward.fun
+nfts-mintbox.firebaseapp.com
 nfts-mintclaim.web.app
 nftswhitelist.info
 nftwalletconnect.000.pe
@@ -14396,6 +14437,7 @@ opendrop.io
 opengifts.space
 openlisiting.io
 openmintnow.web.app
+openmysteriesnft.vercel.app
 openmysterybox44.vercel.app
 opennsea.pw
 opens-glft.ru
@@ -14636,6 +14678,7 @@ pepe2drop.com
 pepecoineth.com
 pepecoins.net
 pepemusk.live
+pepetsla.com
 personal-safety-update.com
 personalculturedflash.discordevents.repl.co
 petsimulator.info
@@ -14735,6 +14778,7 @@ polyhedra-apps.com
 polyhedra-drop.com
 polyhedra-foundation.com
 polyhedra-foundation.org
+polyhedra-network-connect.com
 polyhedra-network.fun
 polyhedra-network.live
 polyhedra-network.online
@@ -15165,6 +15209,7 @@ qsadas.discordmodeclub.repl.co
 qsng.cn
 qswk.cc
 qualityhealth.com
+qubecrypt.com
 quellaplentyresolute.com
 quest-polyhedranetwork.com
 quest-puffers.fi
@@ -15175,6 +15220,7 @@ quickdapp.net
 quickmessage.us
 quickrobux.net
 quiz-discord.com
+qvex.net
 qwe41241qweqw1.online
 qytlex.com
 r-roblox.com
@@ -15904,6 +15950,7 @@ roblox-com.biz
 roblox-com.gq
 roblox-com.live
 roblox-com.pl
+roblox-com.us
 roblox-evenement.online
 roblox-fr.site
 roblox-g.com
@@ -19933,6 +19980,7 @@ steamcommumily.com
 steamcommumily.ru
 steamcommumintly.com
 steamcommumintty.com
+steamcommuminty.com
 steamcommuminty.ru
 steamcommumitily.com
 steamcommumitiy.com
@@ -19994,6 +20042,7 @@ steamcommunaiy.com
 steamcommunaiy.ru
 steamcommunaty.com
 steamcommunaty.ru
+steamcommuncity.ru
 steamcommuncity.top
 steamcommuncty.ru
 steamcommuncty.site
@@ -21421,6 +21470,7 @@ steamcommunnltiy.pp.ru
 steamcommunnltly.com
 steamcommunnltny.ru
 steamcommunnlttu.ru
+steamcommunnltty.com
 steamcommunnltty.ru
 steamcommunnltu.ru
 steamcommunnlty.com
@@ -21707,6 +21757,7 @@ steamcommurlity.com
 steamcommurlity.ru
 steamcommurliy.ru
 steamcommurllty.ru
+steamcommurlly.ru
 steamcommurlty.com
 steamcommurlty.ru
 steamcommurniity.com
@@ -22337,6 +22388,7 @@ steamcomnunitly.ru
 steamcomnunitly.tk
 steamcomnunitq.online
 steamcomnunitq.ru
+steamcomnunitry.com
 steamcomnunittly.com
 steamcomnunitty.com
 steamcomnunitty.online
@@ -22592,6 +22644,7 @@ steamcomrurnity.ru
 steamcomsonity.com
 steamcomsunity.com
 steamcomtunlty.ru
+steamcomtunumiy.top
 steamcomuanity.ru
 steamcomuaunity.ru
 steamcomuccmity.ru
@@ -22682,6 +22735,7 @@ steamcomunily.ru
 steamcomunilyn.ru
 steamcomuninity.ru
 steamcomuninruty.ru
+steamcomunintly.ru
 steamcomuninty.com
 steamcomuninty.ru
 steamcomuninty.store
@@ -23616,6 +23670,7 @@ steamcoumnity.ru
 steamcoumunity.com
 steamcoumunity.eu
 steamcoumunity.ru
+steamcounmmunity.com
 steamcounmunity.com
 steamcovvunity.com
 steamcromminuty.ru
@@ -24167,6 +24222,7 @@ steamncomnunity.com
 steamncomnunity.online
 steamncomnunity.ru
 steamncomnunity.site
+steamncomnunity.website
 steamncomnunlty.com.ru
 steamncomnunnitiy.com
 steamncomnunnity.com
@@ -24737,6 +24793,7 @@ steancommnnunity.ru
 steancommnuilty.com
 steancommnuilty.online
 steancommnuilty.ru
+steancommnuitlily.ru
 steancommnuitty.com
 steancommnuitty.ru
 steancommnuity.com
@@ -26973,6 +27030,7 @@ steemcommynuty.net.ru
 steemcomninity.com
 steemcomninity.ru
 steemcomnmuniity.ru
+steemcomnmunily.online
 steemcomnmunily.ru
 steemcomnmunity.com
 steemcomnmunity.ru
@@ -26991,6 +27049,7 @@ steemcomnrunity.com
 steemcomnumity.ru
 steemcomnuniti.ru
 steemcomnunity.com
+steemcomnunity.net.ru
 steemcomnunity.ru
 steemcomnunniti.ru
 steemcomnunnity.ru
@@ -27077,6 +27136,7 @@ steemmcommunity.ru
 steemmcommunuty.net.ru
 steemmcomunity.ru
 steemmcomunity.site
+steemncommunlty.com
 steemommuntity.com
 steempowerd.ru
 steempowered.com
@@ -28128,6 +28188,7 @@ streamcommunity.app
 streamcommunity.cam
 streamcommunity.com.ru
 streamcommunity.fun
+streamcommunity.hopto.org
 streamcommunity.live
 streamcommunity.me
 streamcommunity.net
@@ -28726,6 +28787,7 @@ tenzvalorant.fun
 tergmimans.gq
 terlaby.com
 terms-review36.com
+teschek.top
 tesignca.gq
 tesla-2023.pro
 tesla-2x.org
@@ -28808,6 +28870,7 @@ teslagives2023.com
 teslagives23.live
 teslago.net
 teslagpt.live
+teslagptx2.live
 teslainvest2023.com
 teslalife.org
 teslalive.site
@@ -29606,6 +29669,7 @@ updelly.com
 upexs.top
 upgrade-opensea.io
 uplixs.com
+upretex.com
 ups-drop.com
 upshroomishtor.com
 ur-l.me
@@ -29658,24 +29722,34 @@ usps-onlinestore.com
 uspscd.com
 uspseran.top
 uspsfn.top
+uspsuxw.top
 uspsuyn.top
+usspab.top
+usspat.top
 usspay.top
 usspbc.top
+usspbk.top
 usspcx.top
+usspdw.top
+usspec.top
 usspey.top
 usspff.top
 ussphf.top
 ussphj.top
+ussphv.top
 ussphy.top
 usspil.top
 usspiw.top
 usspjl.top
+usspkj.top
 ussplc.top
 ussply.top
 usspmx.top
 usspmz.top
+usspnj.top
 usspow.top
 usspoz.top
+ussppc.top
 ussppj.top
 usspqp.top
 ussprf.top
@@ -29684,9 +29758,13 @@ ussprm.top
 usspsp.top
 ussptg.top
 ussptw.top
+usspua.top
+usspub.top
 usspud.top
+usspue.top
 usspvn.top
 usspwf.top
+usspwp.top
 usspya.top
 usspzb.top
 usunwirusa.pl
@@ -29881,6 +29959,7 @@ valoranthappy.fun
 valorantknife.fun
 valorantlegends.com
 valorantofficial.com
+valorantplay.lol
 valorantplay.pro
 valorantplay.site
 valorantplayzone.fun
@@ -29950,6 +30029,7 @@ vazox.shop
 vbmore.com
 vbs-game-2.pro
 vbs-game.pro
+vbsgame.pro
 vbucksminer.ru
 vbucksplease.com
 vcs-lancap-free.str-check1.my.id
@@ -30250,6 +30330,7 @@ wanmeizi.ru
 warning-selectioneventhype.gq
 wastrex.com
 watch-video.net
+watchearncsgo.pro
 watchprecise-bestextremelyfile.best
 watt-inc.net
 wavebtc.com
@@ -30484,6 +30565,7 @@ womenforyou.net
 womeniover.com
 womeniovers.net
 wonderhall.net
+wooxcoin.com
 wop-intevents.ml
 workerz1.com
 workshopsfiile.com
@@ -30939,6 +31021,7 @@ yuriblog.ru
 yvotsb.com
 yvww-roblox.com
 ywww-roblox.com
+yxxth.top
 z93729n9.beget.tech
 zaglotyz.net.ru
 zajtrkhisa.xyz
@@ -30950,6 +31033,7 @@ zdcombo.ru
 zedplays.com
 zeferesds.com
 zelenka.guru
+zengo.one
 zerkclan.net
 zero-airdrop.com
 zero-lend.app

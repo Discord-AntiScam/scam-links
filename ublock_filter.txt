@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-28T23:45:42Z
+! Updated: 2024-07-28T23:45:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1325,6 +1325,7 @@ bitcharge.eu
 bitcharge.us
 bitchargex.com
 bitcoin2024.gives
+bitcoin2024.live
 bitcoinbwin.com
 bitcoinesystem.su
 bitcoingenerator.cash

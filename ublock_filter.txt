@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-28T02:03:09Z
+! Updated: 2024-07-28T12:59:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -30581,6 +30581,7 @@ tesla-2x.org
 tesla-3.io
 tesla-blockchain.net
 tesla-bonus23.live
+tesla-btc.com
 tesla-btc.net
 tesla-day.com
 tesla-double23.live

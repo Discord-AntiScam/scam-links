@@ -8912,6 +8912,7 @@ dynos.cc
 dynos.gg
 dynos.info
 dynos.ink
+dynos.link
 dynos.me
 dynos.one
 dynos.pm

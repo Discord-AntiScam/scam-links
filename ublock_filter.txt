@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-28T23:45:50Z
+! Updated: 2024-07-29T12:00:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14969,6 +14969,7 @@ nitro-all.xyz
 nitro-app-store.com
 nitro-app.com
 nitro-app.fun
+nitro-away.com
 nitro-b.xyz
 nitro-best.com
 nitro-blond.vercel.app

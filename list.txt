@@ -1491,6 +1491,7 @@ bloxware.org
 bloxware.tk
 bloxy-nft.com
 bloxy-tools.com
+bloxy.tools
 bloxybot.com
 bloxytools.net
 bloxytools.top

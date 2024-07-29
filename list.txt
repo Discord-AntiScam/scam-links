@@ -14325,6 +14325,7 @@ mysterymints1q.vercel.app
 mysterymints1w.vercel.app
 mysterymints5.vercel.app
 mysterymintt15.vercel.app
+mysterynft-nft14.vercel.app
 mysterynft28.vercel.app
 mysterynft84.vercel.app
 mysterynft9-01.vercel.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-29T18:01:51Z
+! Updated: 2024-07-29T18:02:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -663,6 +663,7 @@ app-twltch.com
 app-vulcan.com
 app-zetachain.com
 app.lensl.xyz
+app431967.com
 appdiscord.net
 appdrop.gg
 appeal-hypesquad.com

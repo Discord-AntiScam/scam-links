@@ -3968,6 +3968,7 @@ dapp-syncc.pages.dev
 dappauthenticatortool.live
 dappcenters.cam
 dappcrate.com
+dappkaava.vercel.app
 dappradar-notification.com
 dappradar.ec
 dappradar.eco

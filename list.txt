@@ -32716,6 +32716,7 @@ welcome-hypesquad.gq
 welcome-hypesquad.tk
 welcome-hypeteam.gq
 welcome-register-squad.ml
+welcome-restorecord.ru
 welcome-subscribers-hypesquad.com
 welcome-to-hypesquad.tk
 welcome-verifycation.ru

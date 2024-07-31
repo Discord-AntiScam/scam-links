@@ -12756,6 +12756,7 @@ kavaverifybot.pages.dev
 kavaverifyrbot.pages.dev
 kavaverse.xyz
 kavawallet.live
+kavawallet.one
 kavawatch.xyz
 kavaweb.xyz
 kavawebs.xyz

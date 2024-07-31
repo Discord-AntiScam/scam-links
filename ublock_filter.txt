@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-07-31T17:37:14Z
+! Updated: 2024-07-31T17:37:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1038,6 +1038,7 @@ authsmee6.com
 authvulcan.xyz
 authy-vulcan.com
 autogielda-krukowski.pl
+autokavva.vercel.app
 autokomis-glownski.pl
 autokomis-wojtaszek.pl
 autosprzedaz-polowczyk24.pl

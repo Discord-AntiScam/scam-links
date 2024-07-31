@@ -12653,6 +12653,7 @@ kava-verify.net
 kava-web.club
 kava-web.one
 kava-web.xyz
+kavaaccess.vercel.app
 kavaaweb3net.vercel.app
 kavabase.cloud
 kavabot.app

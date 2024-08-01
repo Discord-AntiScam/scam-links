@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-01T14:46:12Z
+! Updated: 2024-08-01T19:18:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12970,6 +12970,7 @@ layerzerodrop.info
 layerzerodrop.space
 layerzerodrop.xyz
 layerzeroentrance.com
+layerzeroevent.net
 layerzerogift.com
 layerzerolabs.eu
 layerzeron.network

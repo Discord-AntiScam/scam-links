@@ -351,6 +351,7 @@ aics2.com
 aidoge.claims
 aijobcord.com
 aione.dappcrate.com
+aiozcaptchabot.com
 aipad-techs.com
 air-satoshivm.com
 airavaxdrop.top

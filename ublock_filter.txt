@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-02T18:29:03Z
+! Updated: 2024-08-02T23:13:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31958,6 +31958,7 @@ v-dyno.xyz
 v-hypixel.com
 v-mee6.xyz
 v-roblox.com
+v-verify-dyno.com
 v-xmas.com
 v-xmas.org
 v.wickbotverify.repl.co

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-02T23:19:59Z
+! Updated: 2024-08-02T23:20:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2525,6 +2525,7 @@ cm.mx
 cmegroupotc1.com
 cn-counterstrike.com
 cn-counterstrike2.com
+cn-sledgehammer.app
 cncryptojob.com
 cngcpy.com
 cnnworld.news

@@ -2521,6 +2521,7 @@ cm.mx
 cmegroupotc1.com
 cn-counterstrike.com
 cn-counterstrike2.com
+cn-sledgehammer.app
 cncryptojob.com
 cngcpy.com
 cnnworld.news

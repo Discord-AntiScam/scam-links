@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-02T23:26:57Z
+! Updated: 2024-08-02T23:41:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2956,6 +2956,7 @@ cpdc-net-dev.com
 cpmstatsart.com
 cportcyber.ru
 cpp-discord.com
+cptchabot.com
 crabrave.pw
 crazy-down.ga
 creatpeico.gq

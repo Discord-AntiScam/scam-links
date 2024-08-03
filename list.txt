@@ -652,6 +652,7 @@ app-roblox.info
 app-roblox.net
 app-rollbit.site
 app-safegnosis.top
+app-sledgehammer.app
 app-sledgehammer.org
 app-syncvulcan.xyz
 app-twitch.com
@@ -2106,7 +2107,6 @@ captchabotverify.site
 captchabotverify.website
 captchabotverify.xyz
 captchabotverlfyss.site
-captchacarl.xyz
 captchaclick.net
 captchacom.ru
 captchacom.site

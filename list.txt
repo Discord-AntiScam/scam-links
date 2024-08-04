@@ -18950,6 +18950,7 @@ sledgehammer-bot.com
 sledgehammer-captcha.app
 sledgehammer-desktop.app
 sledgehammer-home.app
+sledgehammer-join.app
 sledgehammer-metahydras.app
 sledgehammer-phone.app
 sledgehammer-tool.app

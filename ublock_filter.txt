@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-04T15:22:44Z
+! Updated: 2024-08-04T20:05:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9319,6 +9319,7 @@ esl2x.tech
 eslcase.pw
 eslcs.pro
 eslcs2.com
+eslcs2.pro
 eslcsgo.com
 eslcsgo.net
 eslcsgo.org

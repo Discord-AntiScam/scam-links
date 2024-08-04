@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-03T20:21:47Z
+! Updated: 2024-08-04T01:51:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17583,6 +17583,7 @@ rocketlegue.pro
 rocketpool.cash
 rocketpool.gallery
 rockettrade.pro
+rocraft.us
 rodecal.com
 rodexar.com
 rodseeopenky.com

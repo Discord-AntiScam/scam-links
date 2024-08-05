@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-05T21:08:38Z
+! Updated: 2024-08-05T21:08:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32773,6 +32773,7 @@ weeklyjob.online
 wegranox.com
 weibo-b5game.com
 weibo-csgo.com
+weinrd.top
 weirdrs.cc
 welcome-bot.ru
 welcome-from-hype.com

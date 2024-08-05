@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-05T14:22:59Z
+! Updated: 2024-08-05T14:23:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2774,6 +2774,7 @@ community-china.com
 community-discord.com
 community-emailevent.gq
 community-guard.com
+community-pixelverse.net
 community-satoshivm.io
 community-tia.org
 communityfiledetails.com

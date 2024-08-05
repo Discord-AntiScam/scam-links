@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-05T14:20:01Z
+! Updated: 2024-08-05T14:20:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10778,6 +10778,7 @@ give-csgorun.xyz
 give-elon-musk23.site
 give-elonmusk2023.site
 give-elonmusk23.site
+give-musk.net
 give-musk23.site
 give-navi.com
 give-premius.com

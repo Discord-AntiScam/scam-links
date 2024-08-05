@@ -12678,6 +12678,7 @@ kava-web.one
 kava-web.xyz
 kavaaccess.vercel.app
 kavaaweb3net.vercel.app
+kavab0t.pages.dev
 kavabase.cloud
 kavabot.app
 kavabot.cloud

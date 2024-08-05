@@ -11003,6 +11003,7 @@ guild-guard.xyz
 guild-lookup.xyz
 guild-protect.xyz
 guild-renzo.xyz
+guild-sledgehammer.app
 guild-system-bot.com
 guild-system-verif.app
 guild-system.net

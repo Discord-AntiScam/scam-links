@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-04T20:06:06Z
+! Updated: 2024-08-05T14:19:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15680,6 +15680,7 @@ orb-web3.com
 orbita-lviv.com
 orbiter.pm
 orbs-diamondhand.pages.dev
+orbs-paperhand-wallet.pages.dev
 orbs-paperhanded.pages.dev
 orbs-wallet.pages.dev
 orcawall.com

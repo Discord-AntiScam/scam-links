@@ -12689,6 +12689,7 @@ kavabot.one
 kavabot.pro
 kavabot.xyz
 kavabotroles.pages.dev
+kavabotsverified.pages.dev
 kavabotsverify.pages.dev
 kavabotverify.pages.dev
 kavachain.club

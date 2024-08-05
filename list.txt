@@ -12672,6 +12672,7 @@ kava-guard.net
 kava-guards.com
 kava-join.net
 kava-verify.net
+kava-verify.pages.dev
 kava-web.club
 kava-web.one
 kava-web.xyz

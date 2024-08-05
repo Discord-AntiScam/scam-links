@@ -12777,6 +12777,7 @@ kavasverify.link
 kavasverify.pages.dev
 kavasverify.vip
 kavasverse.vip
+kavaverifi.pages.dev
 kavaverification.pages.dev
 kavaverification.vercel.app
 kavaverify.me

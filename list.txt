@@ -1681,6 +1681,7 @@ botprotector.xyz
 botprotects.xyz
 botprotectserver.xyz
 botraiden.xyz
+bots-collabland.pages.dev
 botscaptcha.000webhostapp.com
 botscaptchas.com
 botsecure.online

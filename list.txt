@@ -13766,6 +13766,7 @@ mintpool-box.firebaseapp.com
 mintpool-box.web.app
 mintpool-nftbox.firebaseapp.com
 mintpool-nftbox.web.app
+mintproject-claim.web.app
 mintprontf.web.app
 mints-openbox.firebaseapp.com
 mints-openbox.web.app

@@ -2194,6 +2194,7 @@ carlbot.ga
 carlbot.me
 carlbot.site
 carlbotauth.com
+carlbotcaptcha.com
 carlcaptcha.pro
 carls.gg
 case-cs2.com

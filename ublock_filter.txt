@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-08T21:22:34Z
+! Updated: 2024-08-10T16:37:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1039,6 +1039,7 @@ authorize-roblox.com
 authpostbase.com
 authsledgehammer.com
 authsmee6.com
+authsolved.pages.dev
 authvulcan.xyz
 authy-vulcan.com
 autogielda-krukowski.pl

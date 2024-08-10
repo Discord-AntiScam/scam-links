@@ -1035,6 +1035,7 @@ authorize-roblox.com
 authpostbase.com
 authsledgehammer.com
 authsmee6.com
+authsolved.pages.dev
 authvulcan.xyz
 authy-vulcan.com
 autogielda-krukowski.pl

@@ -1871,6 +1871,7 @@ capbot.site
 capcha-bot.co.nl
 capcha.lol
 capchasbot.app
+capcthabot.net
 capdefend.xyz
 capital-zinextrading.com
 capitalswiftpremium.com

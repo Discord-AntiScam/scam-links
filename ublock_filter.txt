@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-10T16:48:43Z
+! Updated: 2024-08-10T16:49:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16625,6 +16625,7 @@ reappeal-site-c9843io.vercel.app
 rebil-overview-info.com
 recaptcha-sledgehammer.app
 recaptchabot.com
+recaptchasbot.com
 receive-satoshivm.com
 receive-zetachaincom.pages.dev
 receivemask.io

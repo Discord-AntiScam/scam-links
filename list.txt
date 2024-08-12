@@ -1865,6 +1865,7 @@ cap-cord.com
 cap-info.xyz
 cap-join.xyz
 cap-robots-check.ru
+cap-tcha.com
 capbot.app
 capbot.net
 capbot.site

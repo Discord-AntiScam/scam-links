@@ -1865,7 +1865,6 @@ cap-cord.com
 cap-info.xyz
 cap-join.xyz
 cap-robots-check.ru
-cap-tcha.com
 capbot.app
 capbot.net
 capbot.site
@@ -19039,6 +19038,7 @@ sledgehammersauth.cc
 sledgehammersauth.com
 sledgehammersauths.com
 sledgehammersbots.xyz
+sledgehammerverify.app
 sledgehammr.app
 sledgehammr.xyz
 sledgehanmer.app

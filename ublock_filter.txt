@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-12T05:20:52Z
+! Updated: 2024-08-12T05:21:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18600,6 +18600,7 @@ skindear.com
 skinfas.com
 skinflan.com
 skinforvalorant.pro
+skinloot.net
 skinloots.com
 skinroll.ru
 skins-bash.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-12T15:31:48Z
+! Updated: 2024-08-12T15:32:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15907,6 +15907,7 @@ pfl.nqp.mybluehost.me
 pglopen.pro
 phantom-collab.vercel.app
 phase1-wormhole.com
+phone-sledgehammer.app
 phygical-questall.icu
 picked-events.gq
 picked-for-hypesquad.com

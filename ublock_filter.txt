@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-13T19:44:35Z
+! Updated: 2024-08-13T20:06:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12967,6 +12967,7 @@ launch-savm.network
 launch-worldcoin.org
 launch-zkfair.com
 launch-zkfair.io
+launcherbxcdefl.org
 launches-satoshivm.com
 launching-savm.network
 launchpad-zkfair.com

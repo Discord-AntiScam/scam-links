@@ -32386,6 +32386,7 @@ verification-account.tk
 verification-anti-bot.xyz
 verification-captcha-bot.fun
 verification-captcha.com
+verification-captchabot.com
 verification-collab.land
 verification-collabland.xyz
 verification-discord.cf

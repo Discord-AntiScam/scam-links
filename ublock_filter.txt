@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-13T19:43:31Z
+! Updated: 2024-08-13T19:44:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2923,6 +2923,7 @@ copyrightbusinessgroup.com
 copyrightbussinessgroup.com
 cord-gift.site
 cord-lookup.xyz
+cordapps.xyz
 corona-virus-map.com
 correction-tool.pages.dev
 cosmtrade.com

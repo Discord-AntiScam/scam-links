@@ -32413,6 +32413,7 @@ verify-captcha.com
 verify-captcha.net
 verify-captchabot.app
 verify-captchabot.site
+verify-captchasbot.com
 verify-chat-bot.ru
 verify-check-captcha.ru
 verify-dircord-captch.ru

@@ -2814,6 +2814,7 @@ confirmcryptojob.org
 connecl-collab.land
 connect-academy-moderetors-testers.com
 connect-airdrop-metamask-gateway01a.com
+connect-asset-land.netlify.app
 connect-beta-custom.com
 connect-collabland.lol
 connect-collabland.pw

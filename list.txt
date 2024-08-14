@@ -600,6 +600,7 @@ api3-collabland.com
 api33-collab.github.io
 api34-collab.com
 api36-collab.land
+api3vulcan.xyz
 api43collab-land.com
 api47-collab.cloud
 api5-collabland.com

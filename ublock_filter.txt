@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-15T01:30:20Z
+! Updated: 2024-08-15T02:06:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16573,6 +16573,7 @@ ratingsbot.com
 ratnet.od.ua
 ravblox.info
 ravokecash.org
+raydiumnfts.xyz
 raydiumswap.com
 razblox.com
 rblx-api.top

@@ -20191,6 +20191,7 @@ stargate-app.pages.dev
 stargate-events.com
 stargatevent.com
 starknet-launch.com
+starknet-verify.vercel.app
 starknet.press
 starknet.support
 starknetone.life

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-15T12:27:07Z
+! Updated: 2024-08-15T15:40:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -30711,6 +30711,7 @@ tenzse.com
 tenzskinsx.com
 tenzvaiorant.com
 tenzvalorant.fun
+tenzvalrnt.com
 tergmimans.gq
 terlaby.com
 terms-review36.com

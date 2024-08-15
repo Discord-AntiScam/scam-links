@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-15T15:58:01Z
+! Updated: 2024-08-15T23:04:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1110,6 +1110,7 @@ barleyapp.finance
 bars33.online
 base-layer2.com
 base-pass.org
+basedevo.cc
 basedomain.xyz
 basename.site
 basesdomains.org

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-16T17:04:43Z
+! Updated: 2024-08-16T17:06:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10406,6 +10406,7 @@ gamevbs.pro
 gamex.codes
 gamillionaire.com
 gaming-at-my.best
+gaming-portal-token.pages.dev
 gaming-portal.pages.dev
 gaming-portals.pages.dev
 gaming-twitch.com

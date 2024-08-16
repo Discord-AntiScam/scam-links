@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-16T17:00:02Z
+! Updated: 2024-08-16T17:00:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10098,6 +10098,7 @@ formularys-hypesquad-official.com
 formularys-moderatorsacademy.com
 formularys-test-hypesquad.com
 fornite.best
+fortifysafeguard.com
 fortnite-christmas.com
 fortnite-gift.com
 fortnite-gifts.com

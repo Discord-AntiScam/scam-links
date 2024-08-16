@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-16T17:01:32Z
+! Updated: 2024-08-16T17:01:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -358,6 +358,7 @@ aijobcord.com
 aione.dappcrate.com
 aiozbot.net
 aiozcaptchabot.com
+aiozverify.net
 aipad-techs.com
 air-satoshivm.com
 airavaxdrop.top

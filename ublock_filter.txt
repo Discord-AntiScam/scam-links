@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-16T17:02:03Z
+! Updated: 2024-08-16T17:02:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12685,6 +12685,7 @@ justdoit.cards
 juuni-nft.xyz
 k0101.asia
 k799021.asia
+kaavaweb3.vercel.app
 kakaogame.club
 kakaogamegift.asia
 kakaogift.fun

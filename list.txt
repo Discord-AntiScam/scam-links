@@ -16151,6 +16151,7 @@ portals-gaming-token.pages.dev
 portals-gaming.pages.dev
 portals-gaming.web.app
 portals-project.pages.dev
+portals-token-gaming.pages.dev
 portals-token.pages.dev
 portals-token.web.app
 portalsgaming.pages.dev

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-16T17:02:44Z
+! Updated: 2024-08-16T17:03:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15739,6 +15739,7 @@ optic-bridge.com
 optimdrop.com
 optimii.be
 optimism.on-fleek.app
+optimism123.pages.dev
 optimisms.foundation
 optnx.co
 orablox.com

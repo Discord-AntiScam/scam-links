@@ -12715,6 +12715,7 @@ kavaalinkweb.vercel.app
 kavaaweb3net.vercel.app
 kavab0t.pages.dev
 kavabase.cloud
+kavabot-verify.pages.dev
 kavabot.app
 kavabot.cloud
 kavabot.club

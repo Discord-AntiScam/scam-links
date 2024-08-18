@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-18T05:38:31Z
+! Updated: 2024-08-18T17:44:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15592,6 +15592,7 @@ opdrop.io
 opeansea.club
 opemnsea.com
 opemsea.pw
+open-box10.vercel.app
 open-dls.gq
 open-gift.site
 open-gifts.net

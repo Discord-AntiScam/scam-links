@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-19T15:41:54Z
+! Updated: 2024-08-19T15:42:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13491,6 +13491,7 @@ marklet-csgo.ru
 maroohost.online
 marscrypt.com
 martian-wallet.claims-service.network
+martica.co
 martica.ink
 martica.vercel.app
 mask.casino

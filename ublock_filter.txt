@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-19T00:36:38Z
+! Updated: 2024-08-19T15:40:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12797,6 +12797,7 @@ kavalayer.xyz
 kavanet.pro
 kavanetwork.xyz
 kavanex.one
+kavanow.vip
 kavapen.com
 kavaplatform.com
 kavapro.vip

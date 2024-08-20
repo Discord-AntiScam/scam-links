@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-20T20:53:21Z
+! Updated: 2024-08-20T20:53:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33391,6 +33391,7 @@ xget-exchange.com
 xgreen-exchange.com
 xgreen-trade.com
 xiaobaixitong.com
+xinfinnetwork.org
 xiomoinuyt03.z11.web.core.windows.net
 xlauncher-apps.com
 xmarscoin.com

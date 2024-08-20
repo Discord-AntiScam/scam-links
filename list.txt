@@ -17505,6 +17505,7 @@ roblox.gl
 roblox.gr
 roblox.gr.com
 roblox.gs
+roblox.gt
 roblox.help
 roblox.icu
 roblox.ink

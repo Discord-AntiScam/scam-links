@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-20T20:53:28Z
+! Updated: 2024-08-20T20:53:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17509,6 +17509,7 @@ roblox.gl
 roblox.gr
 roblox.gr.com
 roblox.gs
+roblox.gt
 roblox.help
 roblox.icu
 roblox.ink

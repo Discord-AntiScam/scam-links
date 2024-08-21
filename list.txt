@@ -1633,6 +1633,7 @@ bot-server.cc
 bot-servers.cc
 bot-servers.info
 bot-sledgehammer.com
+bot-squad.online
 bot-trio.com
 bot-valorant.com
 bot-verif.xyz

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-21T17:30:23Z
+! Updated: 2024-08-21T17:30:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -29796,6 +29796,7 @@ stjeamcomnunity.ru
 stjeamcomuniity.ru
 stjeamconmunnitii.com
 stlaemcommyuniyt.ru
+stlamcommnunnlty.com
 stleaamcommunity.com
 stleam-communithy.com
 stleam.ru

@@ -2295,6 +2295,7 @@ cgllab.land
 chain-list.life
 chain-padds.pages.dev
 chaincode-switch.org
+chainconnect.pages.dev
 chaindrop.live
 chainfixdapp.com
 chainge.gift

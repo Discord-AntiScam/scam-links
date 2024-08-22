@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-22T03:46:10Z
+! Updated: 2024-08-22T13:15:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12682,6 +12682,7 @@ jtoget.net
 jtontwrk.com
 juct-case.ru
 juggle-jobs.pages.dev
+juice-foundation.org
 julyevent.skin
 jup-start.com
 jup-test-46s.pages.dev

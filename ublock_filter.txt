@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-23T20:28:49Z
+! Updated: 2024-08-23T20:28:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9221,6 +9221,7 @@ email-hse-hypesquad.gq
 email-joinevents.ml
 email-teamhypesquad.gq
 emapqrf.top
+embed-captcha.com
 emeraldsite.xyz
 emeritex.com
 emininrizoli.gq

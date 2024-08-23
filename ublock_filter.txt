@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-23T20:24:58Z
+! Updated: 2024-08-23T20:25:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17741,6 +17741,7 @@ rolinked.app
 rolinked.ca
 rolinked.co
 rolinked.com
+rolinked.info
 rolinked.io
 rolinked.pro
 rolinked.su

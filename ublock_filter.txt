@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-23T20:38:32Z
+! Updated: 2024-08-23T20:42:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9483,6 +9483,7 @@ event-hytopia.com
 event-musk.com
 event-online.pro
 event-pendle.fi
+event-polyhebra.com
 event-satoshivm.app
 event-satoshivm.io
 event-spacex.info

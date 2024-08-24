@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-23T20:42:09Z
+! Updated: 2024-08-24T13:19:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -7829,6 +7829,7 @@ distro-satoshivm.com
 disuord.gift
 disuscord.site
 disuscord.xyz
+disvcord.cc
 disvord.ml
 diswcord.com
 disxcord.com

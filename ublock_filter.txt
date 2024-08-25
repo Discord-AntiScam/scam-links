@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T00:25:58Z
+! Updated: 2024-08-25T00:27:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15945,6 +15945,7 @@ passport-gitcoin.org
 pastamalicious.com
 pathofexile.site
 paxosbot.net
+paxosentry.net
 pay-18.info
 pay-ads.com
 pay-and-helplines-service.pages.dev

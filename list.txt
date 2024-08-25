@@ -13030,6 +13030,7 @@ layer-zero.pro
 layer-zero.site
 layer-zero.today
 layer2-evm.pages.dev
+layer2-novawallet-fix.pages.dev
 layerszeros.org
 layerzeero.app
 layerzeero.pro

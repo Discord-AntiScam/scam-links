@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T00:24:30Z
+! Updated: 2024-08-25T00:25:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17270,6 +17270,7 @@ riptidepass.ru
 ritfrex.com
 riusttwitchdrolpst.skin
 rivalscs2.xyz
+rivosxyz.net
 rl-bounce.com
 rl-chaser.com
 rl-exchange.pro

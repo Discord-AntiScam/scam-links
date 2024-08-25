@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T01:17:57Z
+! Updated: 2024-08-25T01:18:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2474,6 +2474,7 @@ claimgifts.shop
 claimhedra.com
 claimhypixel.com
 claimhypixel.net
+claiming-airdrops.xyz
 claiming-requests-web3.xyz
 claiminghypixel.net
 claimlayerzero.net

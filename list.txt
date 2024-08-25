@@ -1852,6 +1852,7 @@ c2money-skins.buzz
 ca-ptcha.com
 caaptchaadiscord.online
 caax9990.com
+cacptcha.bot
 cacptha.bot
 caga-airdrop.web.app
 caga-eth.web.app

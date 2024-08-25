@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T16:54:17Z
+! Updated: 2024-08-25T16:54:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13539,6 +13539,7 @@ matchrile.com
 matias.me
 maticra.net
 matirca.net
+matirca.vercel.app
 matrica-holder.com
 matrica.business
 matrica.zone

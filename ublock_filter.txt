@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T00:25:49Z
+! Updated: 2024-08-25T00:25:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13802,6 +13802,7 @@ microsoft-verify.live
 microsup.net
 microsupportjp.xyz
 migrate-memedefiv2.xyz
+migration-selfchain.com
 mimic-shhans.xyz
 minadiscord.000webhostapp.com
 mine-manta.network

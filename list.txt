@@ -397,6 +397,7 @@ airdroplayerzero.top
 airdroploot.com
 airdroppolyhedra.foundation
 airdroppolyhedra.space
+airdrops-claiming.click
 airdrops-layerzero.foundation
 airdrops-shardeum.org
 airdrops-taikos.xyz

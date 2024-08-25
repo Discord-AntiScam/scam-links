@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T01:17:46Z
+! Updated: 2024-08-25T01:17:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2646,6 +2646,7 @@ coins-bit-vip.ink
 coins-bit-vip.wiki
 coins-portal.web.app
 coins-satoshivm.com
+coins-trump.pages.dev
 coinshain.com
 coinsolutionsdapp.pages.dev
 coinstwo.com

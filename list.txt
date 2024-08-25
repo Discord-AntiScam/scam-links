@@ -2642,6 +2642,7 @@ coins-bit-vip.ink
 coins-bit-vip.wiki
 coins-portal.web.app
 coins-satoshivm.com
+coins-trump.pages.dev
 coinshain.com
 coinsolutionsdapp.pages.dev
 coinstwo.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T01:18:23Z
+! Updated: 2024-08-25T01:18:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15813,6 +15813,7 @@ order-96.com
 ordgift.ga
 ordinalsbubbles.shop
 ordinaryluckrewardextra.club
+org-m.pro
 org-roblox.com
 organization-discord.com
 organogold-business.com

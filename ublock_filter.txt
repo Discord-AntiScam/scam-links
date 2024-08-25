@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-25T00:46:41Z
+! Updated: 2024-08-25T00:47:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15791,6 +15791,7 @@ orbs-paperhand-wallet.pages.dev
 orbs-paperhanded.pages.dev
 orbs-portfolio-tracker.dev
 orbs-wallet.pages.dev
+orbs-wallets.pages.dev
 orcawall.com
 ord.gg
 order-40.com

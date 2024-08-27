@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-27T02:16:53Z
+! Updated: 2024-08-27T02:16:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2320,6 +2320,7 @@ chainlink.am
 chainlink.limited
 chainlink.website
 chainpads.web.app
+chainscan.me
 chainsdexauth.pages.dev
 chainspad.web.app
 chainsrectify.pages.dev

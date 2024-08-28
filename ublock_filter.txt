@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-28T21:23:29Z
+! Updated: 2024-08-28T21:23:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16094,6 +16094,7 @@ polarfigames.com
 polarisautotrading.com
 poligonka-steking.top
 polimer.xyz
+poliyhedra.foundation
 poliyhedra.xyz
 polkasale.pro
 poly-gate.web.app

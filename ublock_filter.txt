@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-29T20:48:22Z
+! Updated: 2024-08-29T20:48:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9297,6 +9297,7 @@ enter-one-percentclub.com
 enter-onepercent-club.com
 enter-optimism.com
 enter-orbiter.foundation
+enter-polyhedra.app
 enter-pudy.com
 enter-reform.com
 enter-reformdao.com

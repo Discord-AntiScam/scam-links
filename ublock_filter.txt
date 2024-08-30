@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-29T20:48:47Z
+! Updated: 2024-08-30T11:13:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -30643,6 +30643,7 @@ sushiwaq.com
 susnhiswap.com
 susshiwap.com
 sveanmconmmumnuty.com
+sveanncoommnumnlty.com
 svo.guru
 swap.uni-swapv4.com
 swaplicity.xyz

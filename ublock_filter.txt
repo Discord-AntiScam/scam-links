@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-08-30T16:32:55Z
+! Updated: 2024-08-30T16:33:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13257,6 +13257,7 @@ login-academy-discord.com
 login-academy-formulary.com
 login-blast-tv-giveaway.pro
 login-bughunting.com
+login-collab.com
 login-collab.land
 login-csgo2giveaway.site
 login-discod.fun

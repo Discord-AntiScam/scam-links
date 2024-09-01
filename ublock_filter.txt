@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-01T05:09:30Z
+! Updated: 2024-09-01T15:14:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13379,6 +13379,7 @@ lunar-gifts.net
 lunar-promotions.shop
 lunar-promotions.store
 lunar-redeem.space
+lunar-redeemgift.com
 lunar-store.fun
 lunar-store.site
 lunar-wp-bet.xyz

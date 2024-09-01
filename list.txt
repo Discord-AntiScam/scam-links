@@ -1105,6 +1105,7 @@ badge-events.gq
 badge-team.ml
 badgehypesquad.com
 badger.claims
+badlion-client.net
 bafybeihiwfynfknyfb47dsewytfig4h2bctgbsruztj2wxvh4pn7p2fgzi.ipfs.dweb.link
 bag-holding.web.app
 bainushe.com

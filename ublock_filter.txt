@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-01T15:14:42Z
+! Updated: 2024-09-01T15:15:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1109,6 +1109,7 @@ badge-events.gq
 badge-team.ml
 badgehypesquad.com
 badger.claims
+badlion-client.net
 bafybeihiwfynfknyfb47dsewytfig4h2bctgbsruztj2wxvh4pn7p2fgzi.ipfs.dweb.link
 bag-holding.web.app
 bainushe.com

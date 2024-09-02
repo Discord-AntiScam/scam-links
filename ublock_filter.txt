@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-01T15:40:26Z
+! Updated: 2024-09-02T02:31:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18204,6 +18204,7 @@ scale-polyhedra.network
 scamcommunity.ru
 scan-orbiter.finance
 sceamcocmmnunlty.com
+sceamconmmnumnlty.com
 sceamcoomnumnlty.com
 sceamsoomnnunltly.com
 sceancoonmmunjty.com

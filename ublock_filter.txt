@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-03T23:06:27Z
+! Updated: 2024-09-04T04:12:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4101,6 +4101,7 @@ dawbab.xyz
 day-spacex.pro
 day-spacex23.com
 day-starship2023.com
+db-aktualisieren.com
 dc-collab.land
 dc-moderator-academy.com
 dc-nitro.gq

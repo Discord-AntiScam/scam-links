@@ -1906,6 +1906,7 @@ captcha-antispam.cc
 captcha-app.net
 captcha-assist.click
 captcha-auth.com
+captcha-authentication.xyz
 captcha-authorisation.com
 captcha-auto.com
 captcha-bot-auth.org

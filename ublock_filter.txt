@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-05T01:41:48Z
+! Updated: 2024-09-05T01:42:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16884,6 +16884,7 @@ register-moderatordiscord.com
 register-moderators-academy.com
 register-moderators.com
 register-moderattor-academy.com
+register-monad.co
 register-new-hypesquad.com
 register-new-moderator.com
 register-newhypesquad-event.com

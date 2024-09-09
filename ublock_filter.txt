@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-09T15:51:49Z
+! Updated: 2024-09-09T19:57:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11185,6 +11185,7 @@ hk-sledgehammer.xyz
 hlwn-cs2.com
 hobabit.com
 hodl-checker.web.app
+hodl-paperhanded.web.app
 hodl-trace.web.app
 hodl-tracking.web.app
 hodmex.com

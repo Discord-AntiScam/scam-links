@@ -2086,6 +2086,7 @@ captchabot-verify.org
 captchabot-verify.site
 captchabot-verify.xyz
 captchabot-verlfy.com
+captchabot-waves.com
 captchabot.ai
 captchabot.app
 captchabot.bot

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-12T19:41:01Z
+! Updated: 2024-09-12T19:53:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16657,6 +16657,7 @@ racblox.online
 radar-dapp.com
 radar-tour.site
 radardapp.com
+radarguild.org
 rafiamarketingagency.com
 raftbit.com
 raid-protect.xyz

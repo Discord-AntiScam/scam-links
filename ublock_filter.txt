@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-13T00:14:46Z
+! Updated: 2024-09-13T00:15:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31811,6 +31811,7 @@ um-bredirect.com
 umbrellajump.xyz
 unblckdiscord.cf
 undeads-alphas.com
+undetect-captcha-bot.ru
 undetection-captcha.ru
 uni-swap-protocols.pages.dev
 uni-swap-v4.pages.dev

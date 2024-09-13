@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-13T00:14:08Z
+! Updated: 2024-09-13T00:14:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18538,6 +18538,7 @@ shrtz.me
 shrurl.xyz
 shteamcommunity.com
 shtlink.xyz
+siduspad-captchabot.com
 sieamcommunily.ru
 sieamcommunity.net.ru
 sieamcommunity.org.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-13T15:32:20Z
+! Updated: 2024-09-13T15:32:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13263,6 +13263,7 @@ localsexfinderxxx4.com
 localsnapsext.com
 locations.quest
 lock-omsk.ru
+log-collab.land
 log-in-application-beta.com
 log-in-hypesquad-formulary.com
 log-in-hypesquad.com

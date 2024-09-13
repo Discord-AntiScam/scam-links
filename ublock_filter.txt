@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-12T20:57:12Z
+! Updated: 2024-09-13T00:14:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13628,6 +13628,7 @@ mee6-bot.xyz
 mee6-bots.xyz
 mee6-captcha.xyz
 mee6-connect.xyz
+mee6-features.com
 mee6-login.rf.gd
 mee6-lollipop.pages.dev
 mee6-premium.com

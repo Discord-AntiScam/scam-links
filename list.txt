@@ -4063,6 +4063,7 @@ dappradarv2.com
 dappraddar-launch.com
 dapprardar.xyz
 dappresolved.pages.dev
+dappreward.vercel.app
 dapps-fixed.pages.dev
 dapps-space.vercel.app
 dapps-zqhuf.formstack.com

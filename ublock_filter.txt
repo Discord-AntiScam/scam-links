@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-13T00:17:29Z
+! Updated: 2024-09-13T00:18:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13929,6 +13929,7 @@ mission-ax2.com
 mivabit.com
 mmc5209800115.asia
 mobile-novinki.ru
+mobile-sledgehammer.com
 mocaverse-airdrop.vercel.app
 mocaverse.claims
 mod-academy-invite.com

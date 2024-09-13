@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-13T00:19:34Z
+! Updated: 2024-09-13T00:21:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4241,6 +4241,7 @@ diamondhand.pages.dev
 diamondhanded-orb.pages.dev
 diamondhanded.pages.dev
 diamondplay.ru
+dianaways.com
 diant.lol
 diascord.com
 diasteam.itch.io

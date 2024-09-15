@@ -2340,6 +2340,7 @@ championspromo.link
 champvalorant.com
 changetournament.ru
 channel1.byethost24.com
+chaptcha.bot
 chat-gpt22.com
 chat-gpt23.com
 chatgpt2x.live

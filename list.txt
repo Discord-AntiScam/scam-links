@@ -30023,6 +30023,7 @@ store-hypixel.shop
 store-lunarclient-claim.com
 store-lunarclient.shop
 store-srupowered.ru
+store-steaempowered.com
 store-steam-csgo.ru
 store-steamcomminuty.ru.com
 store-steamcommunity.ru

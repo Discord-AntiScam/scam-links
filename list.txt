@@ -12786,6 +12786,7 @@ kavabotsverify.pages.dev
 kavabotsverifys.pages.dev
 kavabotverify.pages.dev
 kavabotverifys.pages.dev
+kavacan.vip
 kavacenter.vip
 kavachain.club
 kavachain.xyz

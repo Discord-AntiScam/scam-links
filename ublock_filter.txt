@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-18T17:22:06Z
+! Updated: 2024-09-18T17:40:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9113,6 +9113,7 @@ ecoterra-io.org
 ecoterra.ink
 ecyberunited.com
 edo1pj.xyz
+eemmbryequo.shop
 eese.io
 efixit.pages.dev
 efremovcsgo.ru

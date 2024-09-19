@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-19T16:11:03Z
+! Updated: 2024-09-19T16:12:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2456,6 +2456,7 @@ claim-nowopensea.web.app
 claim-nowpensea1.firebaseapp.com
 claim-nowpensea1.web.app
 claim-nwomyboxpro.firebaseapp.com
+claim-oat.pro
 claim-opeansea.firebaseapp.com
 claim-openeth.firebaseapp.com
 claim-openeth.web.app

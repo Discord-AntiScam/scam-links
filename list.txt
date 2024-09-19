@@ -2452,6 +2452,7 @@ claim-nowopensea.web.app
 claim-nowpensea1.firebaseapp.com
 claim-nowpensea1.web.app
 claim-nwomyboxpro.firebaseapp.com
+claim-oat.pro
 claim-opeansea.firebaseapp.com
 claim-openeth.firebaseapp.com
 claim-openeth.web.app

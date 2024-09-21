@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-21T18:02:58Z
+! Updated: 2024-09-21T20:26:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -30658,6 +30658,7 @@ subscriptions-moderation-join.com
 success-news.net
 sueamcommunity.com
 sueamconmunity.com
+sueamcoommunnlty.com
 sugacaxe.space
 suggestive.com
 sui-claimings-web3.cc

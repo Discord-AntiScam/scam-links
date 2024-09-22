@@ -2336,6 +2336,7 @@ chainspad.web.app
 chainsrectify.pages.dev
 chainsyncapp.pages.dev
 chaintogglereset.com
+challenge-captcha.bot
 challengermode.best
 champion-valorant.fun
 champions-valorant.com

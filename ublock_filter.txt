@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-22T22:37:09Z
+! Updated: 2024-09-24T14:21:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18293,6 +18293,7 @@ sdiscord.com
 sea-community.com
 sea-token.io
 seamcommnuity.com
+seamcommnumnlty.com
 seamcommnunity.com
 seamcommuiny.com
 seamcommumity.com

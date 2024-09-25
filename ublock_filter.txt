@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-24T21:13:28Z
+! Updated: 2024-09-25T13:20:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19361,6 +19361,7 @@ sometheir.xyz
 sometingwong.000webhostapp.com
 somew.ru
 soo.gd
+sophonentry.xyz
 sosedi2015.ru
 soulda16.xyz
 source-2-cs.ru

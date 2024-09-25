@@ -2106,6 +2106,7 @@ captchabot.click
 captchabot.co
 captchabot.courses
 captchabot.fi
+captchabot.fun
 captchabot.gg
 captchabot.gl
 captchabot.in

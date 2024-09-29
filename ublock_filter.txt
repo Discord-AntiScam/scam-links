@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-09-25T13:21:44Z
+! Updated: 2024-09-29T18:01:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16841,6 +16841,7 @@ reedem-hypesquad-official.com
 reedem-hypesquad.ga
 reedem-hypesquad.ml
 reedemhypesquad.com
+reepz.org
 reerobloxgenerator.tk
 reewelprotocol.com
 ref-8743225872878-redeemwalletcode.com-de.eu

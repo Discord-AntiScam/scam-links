@@ -627,6 +627,7 @@ api7-vulcanbot.com
 api8-collabland.com
 api8-vulcan.xyz
 api84-collab.land
+api86-collab.land
 apicollab.land
 apidaap.pages.dev
 apilond.com

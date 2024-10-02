@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-10-01T23:09:53Z
+! Updated: 2024-10-02T13:39:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31202,6 +31202,7 @@ tic.com.ua
 ticket-support.byethost5.com
 ticket-support.vstory.co
 tiffranka.com
+tiger-trade.xyz
 tik-team-topp.org.ru
 tiktok-mint.online
 timber-stars.com

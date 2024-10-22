@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-10-21T20:56:41Z
+! Updated: 2024-10-22T17:59:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4838,7 +4838,6 @@ discnrd.gift
 discnrdapp.com
 discnumber.com
 disco.to
-disco3d.app
 disco9rd.com
 disco9rdapp.com
 discoapps.club

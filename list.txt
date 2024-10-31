@@ -4095,6 +4095,7 @@ dappsupports.com
 dappswalletconnect-hlner.formstack.com
 dappswalletconnect-nwhsa.formstack.com
 dappsyncrectify.pages.dev
+dappwalletconnectlaunchpad.vercel.app
 dappwatchaddress.org
 dappweb.vercel.app
 dapsconnect.vercel.app

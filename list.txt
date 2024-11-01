@@ -1598,6 +1598,7 @@ bot-captchacolver.ru
 bot-captchadev.ru
 bot-check-com.ru
 bot-defender.online
+bot-defense.xyz
 bot-developers.com
 bot-dyno.gg
 bot-guild.cc

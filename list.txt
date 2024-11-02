@@ -2087,6 +2087,7 @@ captchabot-guild.com
 captchabot-login.fun
 captchabot-protect.xyz
 captchabot-protection.xyz
+captchabot-secure.xyz
 captchabot-securelogin.fun
 captchabot-secureverif.fun
 captchabot-security.xyz

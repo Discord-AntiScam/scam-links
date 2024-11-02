@@ -13535,6 +13535,7 @@ mainkava.one
 mainnet-dymension.com
 mainnet-lineabuild.pages.dev
 mainnet-satoshivm.io
+mainnetdappshub.com
 mainnetweb3.pages.dev
 major-blasts.com
 major-csgo.com

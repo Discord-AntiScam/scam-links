@@ -17923,6 +17923,7 @@ royalelld.top
 royaljapan02.*
 rozzgeconmalasi.gq
 rpc-metafix.pages.dev
+rpcapifixroot.org
 rpcbrowsers.com
 rpcconfigtech.com
 rpcdefi-support.com

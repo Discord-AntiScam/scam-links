@@ -16749,6 +16749,7 @@ rblxcopy.so
 rblxcopy.top
 rblxcorp.work
 rblxcraft.com
+rblxfresh.net
 rblxfresh.xyz
 rblxfresh.yzz.me
 rblxfresher.monster

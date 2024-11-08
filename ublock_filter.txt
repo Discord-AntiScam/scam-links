@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-07T16:08:00Z
+! Updated: 2024-11-08T12:09:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2591,6 +2591,7 @@ clouds-member.workers.dev
 cloudteam9.com
 cloudteam9.fun
 clove-nitro.com
+clovelo.pro
 cls-tournament.ru
 club-apply-squad.tk
 club-hypesquad.com

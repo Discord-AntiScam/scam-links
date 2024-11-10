@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-10T21:15:04Z
+! Updated: 2024-11-10T21:22:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12237,6 +12237,7 @@ infotrackbot.com
 infotrackerbot.com
 infringementcommunity-rules.com
 injuries.fun
+injuries.lu
 injuries.mk
 injuries.tw
 inspirationhistorical.com

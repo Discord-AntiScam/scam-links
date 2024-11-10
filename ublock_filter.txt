@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-08T21:28:55Z
+! Updated: 2024-11-10T07:33:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9476,6 +9476,7 @@ esportsrtx.com
 esporttwitch.com
 esporttwltch.com
 espots-csgo.xyz
+esprorts-liga.com
 essageriepro3-pro-logins.tempurl.host
 essharts.ru
 essnezex.ru

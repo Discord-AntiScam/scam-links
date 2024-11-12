@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-12T09:20:23Z
+! Updated: 2024-11-12T20:38:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -30668,6 +30668,7 @@ styamcommunity.com
 styamcomnunity.ru
 styeampowerd.com
 styeampowered.com
+styemconnmummnlty.com
 sub-hypeds.com
 sub-hypesquad-2022.tk
 sub-moderator.com

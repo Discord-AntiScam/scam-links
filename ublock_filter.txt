@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-17T18:35:44Z
+! Updated: 2024-11-17T20:07:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32985,6 +32985,7 @@ watchprecise-bestextremelyfile.best
 watt-inc.net
 wavebtc.com
 wavedexcoin.com
+wavesprotocolsentry.net
 waveupcoin.com
 wawacsgo.store
 waybeta2.pro

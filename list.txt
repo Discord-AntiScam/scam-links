@@ -2092,6 +2092,7 @@ captchabot-complete.com
 captchabot-defender.online
 captchabot-defender.xyz
 captchabot-discord.com
+captchabot-forta.org
 captchabot-guild.co
 captchabot-guild.com
 captchabot-login.fun

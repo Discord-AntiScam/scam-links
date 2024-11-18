@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-18T03:12:40Z
+! Updated: 2024-11-18T23:23:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17321,6 +17321,7 @@ revokeaccess-sec.vercel.app
 revokecash.net
 revokecash.one
 revokecash.us
+revokecashsign.com
 revokemycash.org
 revokemycash.xyz
 revyrex.com

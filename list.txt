@@ -1522,6 +1522,7 @@ bloxsploit.xyz
 bloxtool.vip
 bloxtools.co
 bloxtools.dev
+bloxtools.eu
 bloxtools.me
 bloxtools.net
 bloxtools.pro

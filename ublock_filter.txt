@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-20T23:54:14Z
+! Updated: 2024-11-20T23:54:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9007,6 +9007,7 @@ dynobots.io
 dynobots.net
 dynobots.org
 dynobotverify.com
+dynobotverifys.com
 dynocaptcha.ca
 dynocaptcha.dev
 dynocaptcha.eu

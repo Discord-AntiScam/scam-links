@@ -19257,6 +19257,7 @@ sledgehammer-bot.app
 sledgehammer-bot.com
 sledgehammer-captcha.app
 sledgehammer-desktop.app
+sledgehammer-etoro.com
 sledgehammer-guild.app
 sledgehammer-home.app
 sledgehammer-join.app

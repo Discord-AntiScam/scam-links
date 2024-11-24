@@ -18540,6 +18540,7 @@ server.bot-verify-check.ru
 server.captcha-bot-sec.ru
 server.captcha-verify-bot.ru
 serveraccess.cloud
+serveraccess.xyz
 serverauthon.xyz
 serverboton.xyz
 servermember.xyz

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-11-25T13:45:28Z
+! Updated: 2024-11-25T14:03:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13234,6 +13234,7 @@ lidoquest.com
 lidoscoin.com
 lidostaking-btu.pages.dev
 lif.login-bussiiness.click
+ligaesprorts.com
 lightcord.ga
 likaraoke.com
 like-eventlogins.ml

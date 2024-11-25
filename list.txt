@@ -2781,6 +2781,7 @@ collabland-wallet.com
 collabland.bz
 collabland.club
 collabland.digital
+collabland.gatewayportal-role.com
 collabland.la
 collabland.land
 collabland.pm

@@ -32930,6 +32930,7 @@ vulcan-oauth2.com
 vulcan-proof.com
 vulcan-verify.xyz
 vulcan.bz
+vulcan.direct
 vulcan.gs
 vulcan.li
 vulcan.ph

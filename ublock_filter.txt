@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-03T03:39:23Z
+! Updated: 2024-12-03T03:40:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9963,6 +9963,7 @@ fnaticteam.org.ru
 fnaticwin.xyz
 fnatik.live
 fnskins.online
+foliofy-one.vercel.app
 followclick.pro
 fond-sovest.ru
 foomcoin.club

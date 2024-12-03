@@ -2351,6 +2351,7 @@ cgdc.ct8.pl
 cgfe8889.com
 cgllab.land
 chain-fix.vercel.app
+chain-launchpad.pages.dev
 chain-list.life
 chain-padds.pages.dev
 chaincode-switch.org

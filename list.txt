@@ -1057,6 +1057,7 @@ authorizationify.click
 authorize-collab.land
 authorize-roblox.com
 authpostbase.com
+authsaffiras.cloud
 authsapph.xyz
 authsledgehammer.com
 authsmee6.com

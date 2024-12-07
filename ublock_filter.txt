@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-07T16:27:07Z
+! Updated: 2024-12-07T16:28:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33426,6 +33426,7 @@ wwcw-roblox.com
 wwdiscord.app
 wwdiscord.com
 wwe-roblox.com
+wwg-roblox.com
 wwh-club.org
 wwiw-roblox.com
 wwm-roblox.com

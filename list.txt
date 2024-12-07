@@ -3384,6 +3384,7 @@ cs2go-twitch.com
 cs2go.com.cm
 cs2go.pro
 cs2godrop.com
+cs2goldrush.com
 cs2h.ru
 cs2hf.fun
 cs2hx.ru

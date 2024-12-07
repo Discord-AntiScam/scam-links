@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-07T17:03:25Z
+! Updated: 2024-12-07T17:03:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1088,6 +1088,7 @@ avaxbit.com
 avbloxz.info
 avirus.hu
 avitofast.ru
+awe-major.com
 awek-melayu-viral.bbc-beaking.my.id
 awek-melayu96.xon-private.my.id
 awek-twitter-viral-hot.tme-viral.com

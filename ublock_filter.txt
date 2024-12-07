@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-07T17:20:11Z
+! Updated: 2024-12-07T17:20:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31120,6 +31120,7 @@ teslabonus23.live
 teslabonusx.com
 teslacars.live
 teslacase.org
+teslaceo.live
 teslaceo.net
 teslaclicksclaim.vercel.app
 teslacoin-clicks.vercel.app

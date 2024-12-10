@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-10T22:01:17Z
+! Updated: 2024-12-10T22:03:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31579,6 +31579,7 @@ turnaments.site
 turnamets-cs.ru
 turnir-cs2022.online
 turtlite.fun
+tv-bonus.pro
 tw-cs2.com
 tw-cs2.online
 tw-cs2.space

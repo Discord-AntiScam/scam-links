@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-10T21:58:29Z
+! Updated: 2024-12-10T22:01:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31468,6 +31468,7 @@ tracking-pack-uspzt.com
 tracking-usopt-fu.com
 tracklyfast.com
 trackpacks-serve.top
+tracks-collab.land
 tracksbot.com
 trade-leagues.com
 trade-offer.site

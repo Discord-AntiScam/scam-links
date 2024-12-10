@@ -2149,6 +2149,7 @@ captchabot.net
 captchabot.online
 captchabot.org
 captchabot.pages.dev
+captchabot.plus
 captchabot.pm
 captchabot.pro
 captchabot.site

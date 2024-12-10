@@ -1026,6 +1026,7 @@ auth--connection.com
 auth-bot-protect-verryfyy.online
 auth-bot-protect.online
 auth-bot-restorecord.xyz
+auth-captchabot.com
 auth-china.com
 auth-connect-collab.land
 auth-csgo2run.fun

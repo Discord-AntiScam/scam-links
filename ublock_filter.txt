@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-12T18:13:02Z
+! Updated: 2024-12-12T18:14:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -6972,7 +6972,6 @@ discordnitro.cc
 discordnitro.cf
 discordnitro.click
 discordnitro.club
-discordnitro.co
 discordnitro.codes
 discordnitro.com
 discordnitro.fun

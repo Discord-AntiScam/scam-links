@@ -15665,6 +15665,7 @@ oauths-verify.xyz
 oauthsapph02.xyz
 oauthverification.xyz
 oauthverifydiscord.xyz
+oauthxsapph.xyz
 obensea.pw
 oblcx.com
 oblox.cam

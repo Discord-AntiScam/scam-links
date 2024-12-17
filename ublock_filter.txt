@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-16T17:03:38Z
+! Updated: 2024-12-17T20:13:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31007,6 +31007,7 @@ talanka.com
 tamadoge.claims
 tamesteel.net
 tanpavirus.web.id
+tap-role.com
 taplinkk.ru
 tarcrypto.com
 tartairid.gq

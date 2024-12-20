@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-20T17:09:27Z
+! Updated: 2024-12-20T17:10:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9149,6 +9149,7 @@ e2p.xyz
 ea-drop.com
 eagle-investors.co
 earlydiscord.com
+earlyflux.space
 earn-allbridge.io
 earn-eth.net
 earn-hypesquad.gq

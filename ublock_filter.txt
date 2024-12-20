@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-20T20:06:15Z
+! Updated: 2024-12-20T20:11:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13302,6 +13302,7 @@ linea-build.app
 linealayerbank.pages.dev
 lineaxskin.com
 linexbit.com
+link-collabs.site
 link-dappradar.com
 link-hypixel.com
 link-roblox.com

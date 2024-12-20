@@ -589,6 +589,7 @@ api-fixweb3.com
 api-hypesquad-team.com
 api-hypesquad.com
 api-netcrypto-fixtool.icu
+api-nodefix.pages.dev
 api-roblox.com
 api-satoshivm.com
 api-sledgehammer.com

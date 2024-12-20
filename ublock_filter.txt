@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-20T19:39:36Z
+! Updated: 2024-12-20T19:40:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -593,6 +593,7 @@ api-fixweb3.com
 api-hypesquad-team.com
 api-hypesquad.com
 api-netcrypto-fixtool.icu
+api-nodefix.pages.dev
 api-roblox.com
 api-satoshivm.com
 api-sledgehammer.com

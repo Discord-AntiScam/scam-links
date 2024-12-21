@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-21T17:04:27Z
+! Updated: 2024-12-21T18:29:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15696,6 +15696,7 @@ oblcx.com
 oblox.cam
 oblox.cc
 oblox.cm
+oblox.com.es
 oblox.com.se
 obs.land
 obtain-hypesquad.gq

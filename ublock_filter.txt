@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-20T20:11:46Z
+! Updated: 2024-12-21T11:31:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13733,6 +13733,7 @@ md2tesla.com
 mdiscord.com
 mdteslax.com
 me-discord.com
+me-e6.com
 me-e6.xyz
 me-mee6.xyz
 me66.herokuapp.com

@@ -14028,6 +14028,7 @@ mint-opensea-d0797.firebaseapp.com
 mint-opensea-d0797.web.app
 mint-opensea-proclaim6.vercel.app
 mint-opensea-projts-mocha.vercel.app
+mint-openseabox-six.vercel.app
 mint-openseaclaimz03.vercel.app
 mint-openseanft07.vercel.app
 mint-openseanftso.vercel.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-26T23:08:49Z
+! Updated: 2024-12-27T00:05:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15720,6 +15720,7 @@ ocmordinals.xyz
 ocroxbit.com
 octoleon.live
 odis-gifts.gq
+odos-protocol.com
 odsaoodsoaodaosdas.one
 odsprzedaz.pl
 odstranitvirus.cz

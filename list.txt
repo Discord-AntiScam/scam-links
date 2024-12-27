@@ -2294,6 +2294,7 @@ carlbot.site
 carlbotauth.com
 carlbotcaptcha.com
 carlcaptcha.pro
+carlgg.click
 carls.gg
 carlscaptcha.com
 case-cs2.com

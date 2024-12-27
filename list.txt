@@ -13296,6 +13296,7 @@ lido.works
 lidofinance-api.pages.dev
 lidofinance.network
 lidogift.org
+lidogiveaway.web.app
 lidoquest.com
 lidoscoin.com
 lidostaking-btu.pages.dev

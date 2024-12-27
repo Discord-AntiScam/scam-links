@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2024-12-27T17:39:43Z
+! Updated: 2024-12-27T18:44:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19813,6 +19813,7 @@ splunk.monster
 splunkregistrar.com
 splunks.net
 splunks.pro
+splunks.xyz
 spongestoken.pages.dev
 sponqve2.vip
 sportcyberecl.online

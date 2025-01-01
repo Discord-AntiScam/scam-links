@@ -2766,6 +2766,7 @@ colilab.land
 collaab.land
 collab-antibot.github.io
 collab-assets.land
+collab-autorole.com
 collab-bot.xyz
 collab-certify.land
 collab-confirms.github.io

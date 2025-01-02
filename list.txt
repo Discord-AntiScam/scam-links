@@ -1935,6 +1935,7 @@ cap-robots-check.ru
 capbot.app
 capbot.net
 capbot.site
+capcha-bot-verify.org
 capcha-bot.co.nl
 capcha.lol
 capchasbot.app

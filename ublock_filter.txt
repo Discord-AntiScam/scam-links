@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-05T19:07:54Z
+! Updated: 2025-01-05T19:11:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19823,6 +19823,7 @@ spell-must.xyz
 spiffy-forest-meteor.glitch.me
 spin-cases.com
 spin-valorant.pro
+spin4skins.com
 spins-cases.com
 spinvalorant.pro
 spinvalorant.site

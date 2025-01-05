@@ -2825,6 +2825,7 @@ collabland-server.com
 collabland-sync.dev
 collabland-wallet-sync.com
 collabland-wallet.com
+collabland.api-role-server.com
 collabland.bz
 collabland.club
 collabland.digital

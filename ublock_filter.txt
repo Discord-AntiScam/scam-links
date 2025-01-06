@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-05T19:31:43Z
+! Updated: 2025-01-06T02:22:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15838,6 +15838,7 @@ onemacusa.com
 onemagg.com
 onenightfriend.com
 onergfx.xyz
+oneton.pro
 onetouch7.info
 ongoing-jup.app
 onliinekaava.vercel.app

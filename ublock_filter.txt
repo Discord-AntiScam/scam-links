@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-06T02:22:32Z
+! Updated: 2025-01-06T18:07:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34045,6 +34045,7 @@ zks-nft.app
 zksync-era.pages.dev
 zksyncairdrop.website
 znews-live.com
+zoblox.com
 zodiacguardians.cc
 zondervirus.nl
 zoneforyourprize.life

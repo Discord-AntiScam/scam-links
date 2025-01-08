@@ -11377,6 +11377,7 @@ https-wwvv-roblox.com
 https-www-robblox.com
 https-www-roblox.com
 https-www-roblox.com.kz
+https-www-rqblox.com
 https-wwww-roblox.com
 https-wwwww-roblox.com
 httpss-roblox.com
@@ -12822,7 +12823,6 @@ joinjobcord.net
 joinmoderators.com
 joins-collab.top
 joins-collabs.store
-joins-collabs.vip
 joins-cryptojobs.com
 joins-events.gq
 joins-forms-hypesquad.com

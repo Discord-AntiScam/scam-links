@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-08T21:10:14Z
+! Updated: 2025-01-08T21:10:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11381,6 +11381,7 @@ https-wwvv-roblox.com
 https-www-robblox.com
 https-www-roblox.com
 https-www-roblox.com.kz
+https-www-rqblox.com
 https-wwww-roblox.com
 https-wwwww-roblox.com
 httpss-roblox.com
@@ -12826,7 +12827,6 @@ joinjobcord.net
 joinmoderators.com
 joins-collab.top
 joins-collabs.store
-joins-collabs.vip
 joins-cryptojobs.com
 joins-events.gq
 joins-forms-hypesquad.com

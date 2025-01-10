@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-10T19:18:06Z
+! Updated: 2025-01-10T19:20:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33921,6 +33921,7 @@ xn--yotbe-lvab.co
 xn--yotbe-lvab.com
 xn--yotu-1ra.be
 xnescat.info
+xoblox.com
 xponsor.com
 xpremiumuser.com
 xpro.gift

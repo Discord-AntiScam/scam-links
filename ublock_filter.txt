@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-13T21:36:28Z
+! Updated: 2025-01-14T20:30:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18510,6 +18510,7 @@ sceamcoomnumnlty.com
 sceamsoomnnunltly.com
 sceancoonmmunjty.com
 scearmcommnymnlty.com
+scenamconmynlty.com
 scesportscup.com
 school-moderator.com
 school-moderators.com

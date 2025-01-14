@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-14T20:30:56Z
+! Updated: 2025-01-14T22:07:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11040,6 +11040,7 @@ gleam.blog
 gleam.su
 glets-nitro.com
 glf-dlscord.ru
+glft-actlvation.com
 glft-discord.com
 glft-discord.ru
 glft-dlscord.com

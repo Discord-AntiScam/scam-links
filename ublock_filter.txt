@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-15T20:46:55Z
+! Updated: 2025-01-15T20:57:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15043,6 +15043,7 @@ navigo.net.ru
 navileague.xyz
 navination.me
 navination.site
+navinice.com
 naviof.pw
 naviopencase.com
 naviopenscase.com

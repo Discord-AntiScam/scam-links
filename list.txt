@@ -15747,6 +15747,7 @@ oblox.cm
 oblox.com.co
 oblox.com.de
 oblox.com.es
+oblox.com.ge
 oblox.com.lv
 oblox.com.pl
 oblox.com.se

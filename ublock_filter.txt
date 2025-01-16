@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-16T16:00:11Z
+! Updated: 2025-01-16T16:01:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1425,6 +1425,7 @@ bitroblox.xyz
 bitrock.app
 bitrout.com
 bits-check.web.app
+bits-portfolio.web.app
 bitskeansell.ru
 bitsol24.com
 bitsren.com

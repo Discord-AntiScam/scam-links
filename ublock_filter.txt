@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-16T21:58:33Z
+! Updated: 2025-01-16T21:58:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33533,6 +33533,7 @@ wooxcoin.com
 wop-intevents.ml
 workerz1.com
 workshopapps.com
+workshoprange.com
 workshopsdesigns.com
 workshopsfiile.com
 workshopsfile.com

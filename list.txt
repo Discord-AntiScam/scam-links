@@ -12820,6 +12820,7 @@ joinfor-apply.gq
 joinfor-hypesquad.com
 joinfor-hypeteam.com
 joinfor-the-hypesquad-events.com
+joinguild-redirection.com
 joinhypesquad-apply.com
 joinhypesquad-club.com
 joinhypesquad-discord.com

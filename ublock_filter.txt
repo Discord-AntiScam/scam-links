@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-16T21:51:49Z
+! Updated: 2025-01-16T21:53:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13214,6 +13214,7 @@ last-dream.fr
 last-of-legends.xyz
 lastheroes.eu
 lastlegends.es
+latticetake.com
 lauchbuild.on.fleek.co
 launch-monad.com
 launch-pandora.com

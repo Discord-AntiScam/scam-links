@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-17T16:20:08Z
+! Updated: 2025-01-17T16:20:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16568,6 +16568,7 @@ privatemessage25.com
 privatepage.vip
 privatesinglesmeet.com
 privatewinners.com
+prize-poolstaked.net
 prizendroll.com
 prizes-navi.pro
 prizesworldcenter.com

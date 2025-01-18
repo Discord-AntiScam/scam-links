@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-18T01:30:09Z
+! Updated: 2025-01-18T01:32:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4150,6 +4150,7 @@ dapp-syncc.pages.dev
 dapp-wallet-connect.pages.dev
 dappaccess.pages.dev
 dappauthenticatortool.live
+dappblocc.pages.dev
 dappcenters.cam
 dappcrate.com
 dappkaava.vercel.app

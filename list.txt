@@ -1544,6 +1544,7 @@ bloxtools.co
 bloxtools.de
 bloxtools.dev
 bloxtools.eu
+bloxtools.io
 bloxtools.me
 bloxtools.net
 bloxtools.online

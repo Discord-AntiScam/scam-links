@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-18T01:32:57Z
+! Updated: 2025-01-18T15:14:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1548,6 +1548,7 @@ bloxtools.co
 bloxtools.de
 bloxtools.dev
 bloxtools.eu
+bloxtools.io
 bloxtools.me
 bloxtools.net
 bloxtools.online

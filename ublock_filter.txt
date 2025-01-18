@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-17T19:46:25Z
+! Updated: 2025-01-18T01:30:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18080,6 +18080,7 @@ roguide.xyz
 rogwarfare.com
 rogxarena.com
 rohelper.online
+rohlox.sbs
 roiblox.ml
 rokblox.com
 rolas-legacy.store

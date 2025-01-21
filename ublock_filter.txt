@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-21T17:17:04Z
+! Updated: 2025-01-21T17:43:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10718,6 +10718,7 @@ getnitrogen.org
 getoiu.com
 getpromonitro3.ink
 getpsc.pl
+getrumpmeme.web.app
 getsatoshivm.com
 getsgiftcards.com
 getsgiftscard.com

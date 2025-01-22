@@ -1949,6 +1949,7 @@ capcha-bot-verify.org
 capcha-bot.co.nl
 capcha.lol
 capchasbot.app
+capchasecure.top
 capcthabot.net
 capdefend.xyz
 caphtca.bot

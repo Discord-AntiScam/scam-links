@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-26T23:01:28Z
+! Updated: 2025-01-26T23:01:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2495,6 +2495,7 @@ churchward-objectiv.000webhostapp.com
 circle-usdc.live
 citydao.live
 citz.pro
+civiltraxconstructiongroup.com
 cjw1986.com
 cka-coincheck.shop
 cka-coincheck.xyz

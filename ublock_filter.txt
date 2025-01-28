@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-28T18:09:26Z
+! Updated: 2025-01-28T23:47:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32949,6 +32949,7 @@ valorave.com
 valoray.fun
 valorex.shop
 valormix.com
+valornew.com
 valosanta.com
 valoskine.com
 valoskino.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-29T22:41:05Z
+! Updated: 2025-01-29T22:43:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1576,6 +1576,7 @@ bloxy.tools
 bloxybot.com
 bloxytools.net
 bloxytools.top
+blumair-drop.com
 blurcare.io
 blurprotocol.us
 blurverse.pages.dev

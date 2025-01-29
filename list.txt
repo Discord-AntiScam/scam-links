@@ -1572,6 +1572,7 @@ bloxy.tools
 bloxybot.com
 bloxytools.net
 bloxytools.top
+blumair-drop.com
 blurcare.io
 blurprotocol.us
 blurverse.pages.dev

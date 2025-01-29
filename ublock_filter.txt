@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-29T13:26:22Z
+! Updated: 2025-01-29T14:15:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11339,6 +11339,7 @@ hexpool.net
 heyreap3r.xyz
 hffp.ru
 hfrhbomosa.com
+hhdscanrepair.com
 hhttps-www-roblox.com
 highslide.gq
 hihanin.com

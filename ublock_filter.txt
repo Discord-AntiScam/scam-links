@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-29T22:40:59Z
+! Updated: 2025-01-29T22:41:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12632,6 +12632,7 @@ join-coinswap.com
 join-collab.eu
 join-collab.mov
 join-collablab.eu
+join-collabs.info
 join-community-hypesquad.ml
 join-connect-hypesquad-events.com
 join-cryptojobbers.com
@@ -30106,7 +30107,6 @@ stencommunity.com
 stencommunity.ru
 stencommunnity.com
 stencomunity.ru
-stenmcommnunnity.com
 stenmcommunilty.ru.com
 stenmcommunitly.ru.com
 stenmcommunity.com

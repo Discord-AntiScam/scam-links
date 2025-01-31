@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-31T23:23:15Z
+! Updated: 2025-01-31T23:23:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16194,6 +16194,7 @@ pandasync-role1.space
 pandasync-role6.space
 pandaverif-app.com
 pandaverif-community.com
+pandaverif-guard.com
 pandaverif-role.net
 pandemidestekpaket.cf
 pandora-launchpad.com

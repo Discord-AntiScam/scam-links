@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-01-31T23:23:18Z
+! Updated: 2025-01-31T23:23:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9387,6 +9387,7 @@ emperes.com
 employeebabyman.xyz
 en-roblox.com
 enable-2fa.com
+enable-verification.com
 ence-official.xyz
 ence7.com
 encesport.xyz

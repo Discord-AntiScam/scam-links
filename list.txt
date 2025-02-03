@@ -2815,6 +2815,7 @@ collab-lands.pw
 collab-link.land
 collab-portal.com
 collab-redirect.xyz
+collab-safe-land.com
 collab-security.land
 collab-sync.land
 collab-token.com

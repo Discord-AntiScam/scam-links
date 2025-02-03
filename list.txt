@@ -22864,6 +22864,7 @@ steamcommunity.download
 steamcommunity.eu
 steamcommunity.expert
 steamcommunity.fun
+steamcommunity.gifts
 steamcommunity.giize.com
 steamcommunity.gleeze.com
 steamcommunity.group
@@ -32304,7 +32305,6 @@ unievent.plus
 uniswap-analysis.com
 uniswap-analyze.web.app
 uniswap-check.io
-uniswap-explorer.com
 uniswap-lookup.com
 uniswap-mining.web.app
 uniswap-pool-v4.pages.dev

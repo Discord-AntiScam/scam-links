@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-04T17:04:35Z
+! Updated: 2025-02-04T22:08:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18829,6 +18829,7 @@ serverprotects.xyz
 servers-bot.xyz
 servers-captcha.site
 servers-captchas.site
+servers-collab.land
 servers-secure.xyz
 servers-secured.online
 servers-secures-auth.xyz

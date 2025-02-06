@@ -11409,6 +11409,7 @@ httpps-www-roblox.com
 httppss-www-roblox.com
 https--www--roblox.com
 https--www-roblox.com
+https-app-roblox.com
 https-discord.com
 https-dyno.com
 https-roblox.com.ge

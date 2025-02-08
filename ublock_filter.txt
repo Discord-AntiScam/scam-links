@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-08T13:52:46Z
+! Updated: 2025-02-08T13:53:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20723,6 +20723,7 @@ stakecaga.com
 staked-satoshivm.com
 stakefish-io.com
 stakepolyhedra.org
+stakes.money
 stakewise.claims
 stakewise.gift
 stakewise.so

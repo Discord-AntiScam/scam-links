@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-09T15:24:56Z
+! Updated: 2025-02-09T15:25:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -474,6 +474,7 @@ altdentifier.net
 altdentifir.com
 altdentifir.org
 altdentify.app
+altdentify.id
 altdentify.link
 altdentifyer.com
 altdentlfier.click

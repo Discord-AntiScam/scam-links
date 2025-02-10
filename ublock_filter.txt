@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-10T13:17:38Z
+! Updated: 2025-02-10T13:17:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11161,6 +11161,7 @@ golovkachlena.ru
 golrklasdmk.ru
 goo-gl.me
 good-csgo-steam.ru
+goodmorningniggers.com
 google.webaccess-alerts.net
 gooniezgang.tech
 gopagefast.ru

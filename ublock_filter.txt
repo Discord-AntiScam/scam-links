@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-10T14:20:56Z
+! Updated: 2025-02-10T16:20:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33542,6 +33542,7 @@ webchain-multiverse.xyz
 webdapp.pages.dev
 webdappresolve.pages.dev
 webjobcord.com
+webkava.com
 webpushcloud.top
 webr-roblox.com
 webrecepty.info

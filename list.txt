@@ -17348,6 +17348,7 @@ restore-cord-captcha.xyz
 restore-cord-nsfw.xyz
 restore-cord-verification.xyz
 restore-cord-verify.xyz
+restore-cord.cfd
 restore-cord.xyz
 restore-cords.xyz
 restore-help.xyz

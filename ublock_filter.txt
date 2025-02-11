@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-11T09:18:28Z
+! Updated: 2025-02-11T13:53:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16358,6 +16358,7 @@ pizzaeria-papajohns.com
 plaguehunter.net
 planet-nabu.com
 planinpety.gq
+platoboost.com
 play-cs2.com
 play-gamer.com
 play-silt.games

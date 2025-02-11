@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-11T16:51:23Z
+! Updated: 2025-02-11T17:09:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -520,6 +520,7 @@ amysterybox2.vercel.app
 amysterybox5.vercel.app
 analog-2-digital.com
 analyse-trades.web.app
+analyze-tool.com
 analyzercsgo.host
 anarchycoins.pages.dev
 angrycat.info

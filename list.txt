@@ -2055,6 +2055,7 @@ captcha-undetect.ru
 captcha-validation.lol
 captcha-veri.com
 captcha-verification-bot.ru
+captcha-verification.cfd
 captcha-verification.cyou
 captcha-verification.icu
 captcha-verification.life

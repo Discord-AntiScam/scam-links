@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-11T13:53:15Z
+! Updated: 2025-02-11T16:18:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2799,6 +2799,7 @@ coinzena.com
 coinzettleltd.com
 coinzlltd.com
 coinzorn.com
+cokava.xyz
 colab-land-apis.com
 coleryujgdq345678hfdh.xyz
 colilab.land

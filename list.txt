@@ -18813,6 +18813,7 @@ server-guild-verif.com
 server-hypesquad.com
 server-joining.click
 server-nsfw-protection.xyz
+server-nsfw.top
 server-protect.online
 server-protect.site
 server-protecting.xyz

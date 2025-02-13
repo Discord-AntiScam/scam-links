@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-12T22:01:16Z
+! Updated: 2025-02-13T14:11:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33282,6 +33282,7 @@ vincerelucky.pro
 vip-lady-dreams.com
 vipcases-box.com
 vippepe.vip
+viprecruitment25.org
 viptop.ru
 viral-telegram.com
 virpropcnow.xyz

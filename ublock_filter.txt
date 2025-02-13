@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-13T22:49:50Z
+! Updated: 2025-02-13T22:49:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18577,6 +18577,7 @@ sapphire-bot.store
 sapphire-bot.xyz
 sapphirebots.shop
 sapphirebots.xyz
+sapphirepro.xyz
 sarobux.com
 satemcommunity.ru
 satexbit.com

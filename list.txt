@@ -699,6 +699,7 @@ app-vulcan.com
 app-zetachain.com
 app.lensl.xyz
 app.vaultx-rpcpiapp.org
+app2627872.com
 app431967.com
 appdiscord.net
 appdrop.gg

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-18T12:28:04Z
+! Updated: 2025-02-18T17:44:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19698,6 +19698,7 @@ slteamcomuunity.ru
 slteamconmuniity.com
 slteanmcommnumnilty.com
 sltes-roblox.com
+sltreanmcommnunlty.com
 slugcrypto-hubs.com
 slugs-job.com
 slugs-joins.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-19T14:19:13Z
+! Updated: 2025-02-20T01:26:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17132,6 +17132,7 @@ redirect-hub.site
 redirect-mee.xyz
 redirectednet.xyz
 redirection-collab.land
+redirection-gateway.com
 redirectionlink.site
 redirectorzma.site
 redirectsmes.com

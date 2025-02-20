@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-20T01:26:16Z
+! Updated: 2025-02-20T01:26:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -586,6 +586,7 @@ apecoindao.pages.dev
 apecoinmarketplace.pages.dev
 apecoins-fi.com
 apedrop.app
+apellogate.xyz
 apetreasury.com
 apextake.com
 api-app.land
@@ -12898,6 +12899,7 @@ joining-hype.com
 joining-hypesquad.com
 joinjobcord.net
 joinmoderators.com
+joins-collab.land
 joins-collab.top
 joins-collabs.store
 joins-cryptojobs.com
@@ -18567,7 +18569,6 @@ safeguard-collab.land
 safeguardbot.me
 safeguardbot.net
 safeguardhubs.org
-safeguards.live
 safety-system.club
 safetycollab.land
 saffirasauth.cloud

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-20T17:32:32Z
+! Updated: 2025-02-20T17:32:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1231,6 +1231,7 @@ best-verify-wick.ru
 bestbut.com
 bestcryptomixer.io
 bestdatinglocal1.com
+bestgame-elo.com
 bestoffer2021.info
 bestoffer21.info
 bestpanelku.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-20T17:21:38Z
+! Updated: 2025-02-20T17:21:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17051,6 +17051,7 @@ rbuxfree.com
 rbver3if2.000webhostapp.com
 rbx-blox.com
 rbxapi.net
+rbxapple.vip
 rbxbolt.xyz
 rbxbots.com
 rbxcheck.com

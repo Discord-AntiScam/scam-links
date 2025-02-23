@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-23T03:20:58Z
+! Updated: 2025-02-23T12:06:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9248,6 +9248,7 @@ easyjs.sbs
 easynltro.com
 easynltro.store
 easytornament.site
+easyverification-nsfw.ru
 easywincs.fun
 easywincs.ru
 easyxcoin.com

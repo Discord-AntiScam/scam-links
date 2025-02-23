@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-23T02:17:06Z
+! Updated: 2025-02-23T03:20:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16205,6 +16205,7 @@ p100003162.asia
 p1045.cn
 p2021.cn
 p2022.asia
+p250workshop.com
 p2wave.trade
 p6021475209.asia
 pachesma.gq

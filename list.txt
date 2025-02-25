@@ -13585,6 +13585,7 @@ loot-cs2.pro
 loot-item.xyz
 loot.net.ru
 loot.pp.ru
+lootanica.com
 lootcs.com
 lootquestor.com
 loots-nitro.gq

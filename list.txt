@@ -2264,6 +2264,7 @@ captchajobscord.com
 captchaldentiflerapp.org
 captchalogin.com
 captchanet.onrender.com
+captchapaxos.com
 captchaprotect.xyz
 captcharesolving-universe.com
 captchas-bot.info

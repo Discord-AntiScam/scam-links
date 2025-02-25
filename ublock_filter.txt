@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-25T23:07:31Z
+! Updated: 2025-02-25T23:07:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2357,6 +2357,7 @@ case-give.com
 case-magic.space
 case-naviopen.com
 case1win.pro
+case2niko.com
 case2win.pro
 case4win.pro
 casebynavi.com

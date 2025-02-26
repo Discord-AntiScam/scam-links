@@ -2838,6 +2838,7 @@ collab-land.app
 collab-land.cfd
 collab-land.club
 collab-land.co
+collab-land.me
 collab-land1.pages.dev
 collab-landed.com
 collab-landed.net
@@ -2851,7 +2852,6 @@ collab-safe-land.com
 collab-security.land
 collab-sync.land
 collab-token.com
-collab-txd-land.com
 collab-verify.land
 collab-webapp.com
 collab.ac

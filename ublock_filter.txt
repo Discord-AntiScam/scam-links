@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-26T10:31:15Z
+! Updated: 2025-02-26T10:31:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16534,6 +16534,7 @@ pond0x-online.net
 ponderobot.com
 ponk.pro
 pooh-moneydapps.pages.dev
+pool-collab.land
 pool-nftbox.web.app
 pool-nftproject.firebaseapp.com
 poolbridge.xyz

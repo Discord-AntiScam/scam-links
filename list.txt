@@ -2907,7 +2907,6 @@ collablandsecure.net
 collablandsyncdapp.com
 collabs-apis.top
 collabs-connection.top
-collabs-join.xyz
 collabs-land.app
 collabs-land.pw
 collabs-lands-veri.com
@@ -3001,6 +3000,7 @@ conf-collab.land
 confirmations.su
 confirmcollab.land
 confirmcryptojob.org
+conkava.xyz
 connecl-collab.land
 connect-academy-moderetors-testers.com
 connect-airdrop-metamask-gateway01a.com

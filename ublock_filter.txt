@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-25T23:07:36Z
+! Updated: 2025-02-26T10:31:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16207,6 +16207,7 @@ owlsandfortunes.com
 owlsoffortune-nft.com
 owlsoffortuneofficial.net
 owlsofthefortune.online
+ownership-role.net
 oxchiko.pages.dev
 oxchiko2.pages.dev
 oxtdrop.pw

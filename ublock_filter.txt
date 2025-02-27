@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-27T00:27:10Z
+! Updated: 2025-02-27T00:27:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9563,6 +9563,7 @@ esl-giveawaycsgo.pro
 esl-gives.com
 esl-official.com
 esl-proleague.net
+esl-sk.com
 esl-skin.com
 esl-twitch.com
 esl2023.org

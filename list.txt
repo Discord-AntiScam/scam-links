@@ -21290,6 +21290,7 @@ steam-ru.ru
 steam-service.ru
 steam-servicedeals.xyz
 steam-servicedeals1.xyz
+steam-shortlink.com
 steam-site.ru
 steam-skins.online
 steam-sourcecommunity.xyz

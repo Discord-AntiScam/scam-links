@@ -21295,6 +21295,7 @@ steam-service.ru
 steam-servicedeals.xyz
 steam-servicedeals1.xyz
 steam-shortlink.com
+steam-shortlink.store
 steam-site.ru
 steam-skins.online
 steam-sourcecommunity.xyz

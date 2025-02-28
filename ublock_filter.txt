@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-02-28T09:24:28Z
+! Updated: 2025-02-28T13:51:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10508,6 +10508,7 @@ freevalorant.fun
 freevalorant.net
 freeverification.ru
 freeverifybot.ru
+freeverifycation.ru
 friendship-cocacola.store
 frmint-nft.com
 froggyfriend.xyz

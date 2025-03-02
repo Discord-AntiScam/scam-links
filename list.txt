@@ -2113,6 +2113,7 @@ captcha.foo
 captcha.gdn
 captcha.group
 captcha.guilds.id
+captcha.help
 captcha.hk
 captcha.id
 captcha.in.net

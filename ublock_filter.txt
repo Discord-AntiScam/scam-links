@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-02T14:58:55Z
+! Updated: 2025-03-03T02:01:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -21246,6 +21246,7 @@ steam-gifted.com
 steam-gifts.pro
 steam-gifts.ru
 steam-gifts.store
+steam-gifts10.com
 steam-gifts50.com
 steam-giftscard.com
 steam-glft.com

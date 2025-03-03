@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-03T11:24:00Z
+! Updated: 2025-03-03T14:01:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18711,6 +18711,7 @@ sclpro.site
 scltournament.ru
 scord.eu
 scrapebust.com
+screamcommnunlty.com
 screamconmmunlty.com
 screenshare.host
 scroll.pw

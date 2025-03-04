@@ -1048,6 +1048,7 @@ auth-bot-protect.online
 auth-bot-restorecord.xyz
 auth-captchabot.com
 auth-china.com
+auth-collab.xyz
 auth-connect-collab.land
 auth-csgo2run.fun
 auth-discord.com

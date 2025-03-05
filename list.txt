@@ -13046,7 +13046,6 @@ kavadefi.xyz
 kavafinance.vip
 kavafore.top
 kavafore.vip
-kavaform.vip
 kavafront.top
 kavagate.one
 kavagate.xyz
@@ -13095,6 +13094,7 @@ kavaname.xyz
 kavanet.pro
 kavanetwork.xyz
 kavanew.top
+kavanew.vip
 kavanex.one
 kavanow.vip
 kavaonlineweb.vercel.app

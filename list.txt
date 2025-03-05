@@ -13114,6 +13114,7 @@ kavasbots.pages.dev
 kavasbotverify.pages.dev
 kavascreen.xyz
 kavasecure.live
+kavasentinel.net
 kavasentry.com
 kavasguard.club
 kavasguard.online

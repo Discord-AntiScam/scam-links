@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-06T23:23:00Z
+! Updated: 2025-03-06T23:23:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10114,6 +10114,7 @@ forcecs2.pro
 forge-university.com
 forged-hv-mtl.com
 forgotten-plume.com
+fork-land.com
 form-academy-moderators.com
 form-acess-hypesquad-events.com
 form-apply-events.com

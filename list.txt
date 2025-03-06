@@ -13115,6 +13115,7 @@ kavaprotocol.xyz
 kavas-bot.pages.dev
 kavasave.xyz
 kavasbots.pages.dev
+kavasbotsverify.pages.dev
 kavasbotverify.pages.dev
 kavascreen.xyz
 kavasecure.live
@@ -13147,7 +13148,6 @@ kavasverify.vip
 kavasverse.site
 kavasverse.vip
 kavaverifi.pages.dev
-kavaverifibot.pages.dev
 kavaverification.pages.dev
 kavaverification.vercel.app
 kavaverify.me

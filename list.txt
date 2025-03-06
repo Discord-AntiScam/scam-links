@@ -33520,6 +33520,7 @@ vulcancaptchabot.com
 vulcancaptchabots.com
 vulcancaptchas.com
 vulcangate.com
+vulcanrole-api.com
 vulcansauths.xyz
 vulcansbot.xyz
 vulcanverifybot.com

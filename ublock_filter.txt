@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-07T19:15:30Z
+! Updated: 2025-03-07T19:17:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1518,6 +1518,7 @@ blocksyner-guard.live
 blockver.000webhostapp.com
 blockverse-mainet.vercel.app
 blog-roblox.com
+blooprint.one
 blox-core.org
 blox-flip.com
 blox-link.ga

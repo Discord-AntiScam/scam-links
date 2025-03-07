@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-07T21:25:37Z
+! Updated: 2025-03-07T21:27:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18329,6 +18329,7 @@ rovault.tech
 rovbox.com
 rover-link.com
 roverify.ru
+roverl.ink
 royal-esports.com
 royalelld.top
 royaljapan02.*

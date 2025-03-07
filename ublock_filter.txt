@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-07T16:55:38Z
+! Updated: 2025-03-07T19:15:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32178,6 +32178,7 @@ twitch-roll.com
 twitch-rolls.com
 twitch-rust.com
 twitch-skins.pro
+twitch-spinc.one
 twitch-starter.com
 twitch-streams.com
 twitch-supplies.com

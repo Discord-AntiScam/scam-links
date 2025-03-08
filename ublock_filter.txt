@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-08T19:27:31Z
+! Updated: 2025-03-08T19:33:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11439,6 +11439,7 @@ holofiber.xyz
 home-fetch.com
 home-prize-winner-ma3d.live
 home-rendertoken.com
+home-roblox.com
 home-vulcan.xyz
 hook-ups-here2.com
 hootsworkshop.com

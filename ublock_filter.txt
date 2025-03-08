@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-08T02:20:02Z
+! Updated: 2025-03-08T02:28:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20071,6 +20071,7 @@ special-update.online
 special4u.xyz
 speedycred.site
 spell-must.xyz
+spherefianance.com
 spiffy-forest-meteor.glitch.me
 spin-cases.com
 spin-valorant.pro

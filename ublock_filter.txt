@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-08T02:28:02Z
+! Updated: 2025-03-08T02:28:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19701,6 +19701,7 @@ sledgehammer.land
 sledgehammer.lol
 sledgehammer.ltd
 sledgehammer.me
+sledgehammer.media
 sledgehammer.one
 sledgehammer.pm
 sledgehammer.st

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-08T02:11:11Z
+! Updated: 2025-03-08T02:17:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9344,6 +9344,7 @@ eglftdls-sub.com
 eglftfromds.com
 egp-gifts.com
 eigemlayer.xyz
+electriccaptcha.net
 electronika.spb.ru
 electum.online
 elemental-azuki.pages.dev

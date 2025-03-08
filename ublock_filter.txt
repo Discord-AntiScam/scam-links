@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-08T02:17:53Z
+! Updated: 2025-03-08T02:20:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18379,6 +18379,7 @@ rubygame.life
 rude-discord.com
 rudekidz.live
 rudekidz.net
+rudekidz.site
 rudicsord-glfts.com
 rudiiscord-gift.ru
 rudiiscord-nittro.ru

@@ -19830,6 +19830,7 @@ smart-paym.su
 smartauthrectify.pages.dev
 smartcommunity.net
 smartdrap.ru
+smartechresolver.pages.dev
 smartmultichainconnect.com
 smartnodetechapp.pages.dev
 smartsync-protocol.buzz

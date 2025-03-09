@@ -3109,6 +3109,7 @@ connectscord.xyz
 connectsonlinedapps.weebly.com
 connectt-hypesquad-intents.com
 connectt-hypesquad.com
+connectvalidator.pages.dev
 connectwallet-collab.land
 connectwallet-io.pages.dev
 connectwallet.co.in

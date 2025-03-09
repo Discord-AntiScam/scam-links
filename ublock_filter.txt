@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-09T05:32:38Z
+! Updated: 2025-03-09T06:08:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10615,6 +10615,7 @@ galx.com.mx
 galx.eu
 galxe-air.com
 galxe-cyber.com
+galxe-quest-mitosis2.pages.dev
 galxe-unique.life
 galxe-unique.top
 galxe.cm

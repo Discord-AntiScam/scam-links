@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-09T20:20:10Z
+! Updated: 2025-03-09T20:21:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17022,6 +17022,7 @@ qbt-giveaway.info
 qcoldteam.life
 qgifts-disc.gq
 qh0m1b.cfd
+qm50card.ru
 qntjackpot.com
 qoblox.com
 qq789.com.cn

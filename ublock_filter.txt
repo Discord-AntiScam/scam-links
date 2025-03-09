@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-09T16:54:53Z
+! Updated: 2025-03-09T16:56:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9902,6 +9902,7 @@ fang-operation.ru
 fantasticfilms.ru
 faravirus.ro
 farestonpw.ru.com
+farikfrr.xyz
 farm-layrzero.com
 farmxcash.com
 faselesscsgo.com

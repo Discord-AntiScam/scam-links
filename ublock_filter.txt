@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-09T21:43:17Z
+! Updated: 2025-03-09T21:56:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11408,6 +11408,7 @@ helpdesk-79a46.web.app
 helperfinderids.com
 helpsteampoweredsupport.com
 helumex.com
+helusi48dap.pages.dev
 hentai-tube.me
 hep.com
 herdcowhas.icu

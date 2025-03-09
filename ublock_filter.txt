@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-09T20:28:05Z
+! Updated: 2025-03-09T20:29:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33026,6 +33026,7 @@ valikep.com
 valikor.com
 valirane.com
 valixara.lol
+valixskins.lol
 valkablum.com
 valmaron.com
 valntenz.com

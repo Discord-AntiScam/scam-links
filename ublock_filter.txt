@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-09T20:17:41Z
+! Updated: 2025-03-09T20:17:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1136,6 +1136,7 @@ azukielementalscollection.pages.dev
 azukishilumia.com
 b-time.site
 b38.info
+b50card.ru
 baac8634-fannykey.ru
 baac8634-www.fannykey.ru
 babbara.xyz

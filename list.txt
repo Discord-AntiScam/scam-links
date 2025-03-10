@@ -994,6 +994,7 @@ aslnk.link
 assests-collab.land
 asset-vulcan.com
 assets-collab-land.github.io
+assets-dex.com
 assetvalidation.info
 assistguild.com
 associate-formulary-hypesquad.com

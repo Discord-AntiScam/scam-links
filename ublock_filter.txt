@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-10T19:33:28Z
+! Updated: 2025-03-10T19:54:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10656,6 +10656,7 @@ game-tournaments.net.ru
 game0061.asia
 gameb-platform.com
 gameclaim.codes
+gamecopier-tau.vercel.app
 gamecsgo.ru
 gamekor.net.ru
 gamepassnitro.digital

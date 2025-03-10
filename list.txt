@@ -8824,6 +8824,7 @@ drop-pro.com
 drop-satoshivm.app
 drop-satoshivm.com
 drop-satoshivm.io
+drop-tv.pro
 drop-twltchs.com
 drop-valorant.pro
 drop-worldcoin.xyz

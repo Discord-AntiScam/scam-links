@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-11T19:06:10Z
+! Updated: 2025-03-11T19:16:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9690,6 +9690,7 @@ ethkava.online
 ethmail.org
 ethopt.io
 ethvip7.com
+etoro-captchabot.xyz
 etsy-reservation.com
 etsy-store-verlfy.com
 etsy-verif-shops.com

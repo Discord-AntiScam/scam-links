@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-11T18:35:59Z
+! Updated: 2025-03-11T19:06:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16416,6 +16416,7 @@ pepe2.app
 pepe2.cash
 pepe2023.com
 pepe2drop.com
+pepecoin-gift18.vercel.app
 pepecoineth.com
 pepecoins.net
 pepelaunchx.com

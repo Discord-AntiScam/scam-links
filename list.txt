@@ -32620,6 +32620,7 @@ uniswap-analyze.web.app
 uniswap-check.io
 uniswap-estimator.web.app
 uniswap-evaluate.web.app
+uniswap-evaluates.web.app
 uniswap-filter.web.app
 uniswap-lookup.com
 uniswap-lookup.web.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-13T15:57:27Z
+! Updated: 2025-03-13T16:11:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3099,6 +3099,7 @@ connected-hypesquad-events.tk
 connectedcollab.land
 connectelementals.com
 connecter-collab.land
+connectguard.org
 connectguild.site
 connecting-collab.land
 connectinventoryaccount.com

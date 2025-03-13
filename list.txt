@@ -13186,6 +13186,7 @@ kavasverify.pages.dev
 kavasverify.vip
 kavasverse.site
 kavasverse.vip
+kavauthorize.xyz
 kavaverifi.pages.dev
 kavaverification.pages.dev
 kavaverification.vercel.app

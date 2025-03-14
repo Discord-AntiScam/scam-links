@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-14T17:13:49Z
+! Updated: 2025-03-14T18:08:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34555,6 +34555,7 @@ zideks.ru
 zierldfiyly.top
 zierldfyly.top
 zigzagfi.live
+zillacase.com
 zipansion.com
 zipsetgo.com
 zipsetgod.com

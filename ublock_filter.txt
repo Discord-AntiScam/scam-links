@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-14T18:08:02Z
+! Updated: 2025-03-14T18:12:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17437,6 +17437,7 @@ renew-moderators-academy.com
 renew-moderators.com
 renoku-relink.vercel.app
 renzcoins.xyz
+renzcprotocol.com
 renzfinance.xyz
 renzgains.xyz
 renzoprotocol.support

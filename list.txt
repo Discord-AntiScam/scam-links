@@ -19098,6 +19098,7 @@ shorterurl.online
 shorterurl.site
 shorteverywhere.ru
 shortlink.eus
+shortlinks.guru
 shorturl.at
 shorturl.kg
 shorturl.win

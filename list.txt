@@ -18392,6 +18392,7 @@ royal-esports.com
 royalelld.top
 royaljapan02.*
 rozzgeconmalasi.gq
+rpc-connectdappslaunchpadprotocol.vercel.app
 rpc-metafix.pages.dev
 rpcapifixroot.org
 rpcbrowser.org

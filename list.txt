@@ -710,6 +710,7 @@ app.vaultx-rpcpiapp.org
 app2627872.com
 app431967.com
 app437991.com
+appcrypto-lilac.vercel.app
 appcrypto-v3.vercel.app
 appdiscord.net
 appdrop.gg

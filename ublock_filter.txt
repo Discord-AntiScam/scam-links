@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-15T13:40:57Z
+! Updated: 2025-03-15T18:07:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34560,6 +34560,7 @@ zerowafturnod.pages.dev
 zetachain-airdrop.network
 zetachain.pages.dev
 zetaclaim.pages.dev
+zetamarket.pages.dev
 zeusclicks.com
 zhdzkj.com
 zheicofifthresu.gq

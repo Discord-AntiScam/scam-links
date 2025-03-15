@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-15T12:32:06Z
+! Updated: 2025-03-15T13:30:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33606,6 +33606,7 @@ vote-moderators.com
 vote-moderators.tk
 vote-renzoprotocol.com
 voteforme-hypesquad.com
+voteforskin.shop
 votes-hype-events-support-moderator.com
 voting-for-hypesquad.gq
 voting-hypesquad.com

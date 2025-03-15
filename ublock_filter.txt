@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-15T19:10:25Z
+! Updated: 2025-03-15T19:10:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -442,6 +442,7 @@ all-nitro.xyz
 allbridge.company
 allbridges.cc
 allchainprotocol.com
+allcryptnode.xyz
 alldappsfix.pages.dev
 alldeppcon.pages.dev
 allhugenewz.com

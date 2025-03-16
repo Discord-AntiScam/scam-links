@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T18:11:01Z
+! Updated: 2025-03-16T18:14:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13285,6 +13285,7 @@ kr-nfts.com
 kraftonevent.com
 krakenft.shop
 krokomineop.com
+krollvalidator.in
 kruhzgodovina.xyz
 kruti-skin.ru
 kry-ptoria.xyz

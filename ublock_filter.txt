@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T18:02:39Z
+! Updated: 2025-03-16T18:06:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10136,6 +10136,7 @@ fnskins.online
 foliofy-one.vercel.app
 followclick.pro
 fomo-checkup.web.app
+fomo-diamondhands.xyz
 fomo-lookup.web.app
 fomo-radar.web.app
 fomo-search.web.app

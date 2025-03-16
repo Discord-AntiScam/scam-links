@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T17:51:25Z
+! Updated: 2025-03-16T17:52:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11199,6 +11199,7 @@ glxe.co.com
 glxea.com
 gmads.net
 gmail.infosecurityshop.com
+gmgn-aitradingbot.com
 gncr.org
 gnosisbtc.com
 go-2-cup.com

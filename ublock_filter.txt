@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T17:25:18Z
+! Updated: 2025-03-16T17:51:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10092,6 +10092,7 @@ finalheroes.com
 finance-coinbase.com
 finance.business-empire.com-articles.comm-news.com
 financesk.com
+financesphere.xyz
 find-lphones.live
 findlocalgirlnow.com
 findlovernow.com

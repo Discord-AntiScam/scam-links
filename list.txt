@@ -608,6 +608,7 @@ api-nodefix.pages.dev
 api-roblox.com
 api-satoshivm.com
 api-sledgehammer.com
+api-smartprotocol.pages.dev
 api-vulcan.com
 api-wallet-verification.pages.dev
 api-web3.xyz

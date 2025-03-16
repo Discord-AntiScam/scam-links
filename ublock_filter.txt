@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T15:47:13Z
+! Updated: 2025-03-16T15:48:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4363,6 +4363,7 @@ defi-assist.netlify.app
 defi-boost.web.app
 defi-debank.com
 defi-finance.web.app
+defi-launchpad-bay.vercel.app
 defi-read.web.app
 defi-scan.web.app
 defi-site.web.app

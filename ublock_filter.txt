@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T17:59:50Z
+! Updated: 2025-03-16T18:02:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16070,6 +16070,7 @@ open-gifts.space
 open-glfts.ru
 open-glfts.space
 open-gpt23.com
+open-mints.com
 open-mystery.web.app
 open-mystery77.vercel.app
 open-ocean-27ab6b82284c.herokuapp.com

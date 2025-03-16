@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-16T21:54:23Z
+! Updated: 2025-03-16T22:04:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -232,6 +232,7 @@ academymoderatortests.com
 academymods.com
 academytestermoderator.com
 academytestersforms.com
+acard-50.cfd
 acc.pp.ua
 acceder.gratis
 accept-terms.ru

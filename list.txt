@@ -15853,6 +15853,7 @@ now-squad.com
 now-teamsquad.com
 npmjs.me
 nsfw-discord.cfd
+nsfw-discord.icu
 nsfw-restorecord-protect.xyz
 nsfw-verification.xyz
 nsfw-verification18.info

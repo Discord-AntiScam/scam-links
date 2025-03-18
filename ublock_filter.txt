@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-18T22:28:06Z
+! Updated: 2025-03-18T22:48:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18432,6 +18432,7 @@ rpcbrowsers.com
 rpcconfigtech.com
 rpcdefi-support.com
 rpcdefisupport.surge.sh
+rpcexchange.org
 rpcfix.pages.dev
 rpcmultichain.com
 rpcnode.org

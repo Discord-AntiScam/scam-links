@@ -18428,6 +18428,7 @@ rpcbrowsers.com
 rpcconfigtech.com
 rpcdefi-support.com
 rpcdefisupport.surge.sh
+rpcexchange.org
 rpcfix.pages.dev
 rpcmultichain.com
 rpcnode.org

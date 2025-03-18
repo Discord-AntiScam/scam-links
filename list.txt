@@ -1520,6 +1520,7 @@ blockdexsolution.pages.dev
 blockdexsystems.pages.dev
 blocknoderesolve.pages.dev
 blocks-mainnet.vercel.app
+blocksdappsrectify.vercel.app
 blockskipad.com
 blocksmainnet.vercel.app
 blocksynchronize.pages.dev

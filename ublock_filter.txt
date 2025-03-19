@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-19T21:02:24Z
+! Updated: 2025-03-19T21:05:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -717,6 +717,7 @@ app.vaultx-rpcpiapp.org
 app2627872.com
 app431967.com
 app437991.com
+appactivator-panel.com
 appcrypto-lilac.vercel.app
 appcrypto-v3.vercel.app
 appdiscord.net

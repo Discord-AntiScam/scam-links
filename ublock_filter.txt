@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-19T22:47:57Z
+! Updated: 2025-03-19T22:48:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18927,6 +18927,7 @@ seed-nitro.com
 seedbreakgoal.live
 seedclub-captcha.com
 seedclub-captcha.xyz
+seedclubcaptcha.com
 seekersofparagon-xyz.pages.dev
 seekingbabyjshop.com
 sehotgame.xyz

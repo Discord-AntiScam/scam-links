@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-20T22:16:24Z
+! Updated: 2025-03-20T22:24:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33314,6 +33314,7 @@ valorant-spin.com
 valorant-spin.pro
 valorant-spin.services
 valorant-start.com
+valorant-support.com
 valorant-tips.pro
 valorant-twiches.fun
 valorant-twltch.com

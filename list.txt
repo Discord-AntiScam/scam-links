@@ -2919,6 +2919,7 @@ collabland-layer2.com
 collabland-link.com
 collabland-security.com
 collabland-server.com
+collabland-shard.com
 collabland-sync.dev
 collabland-wallet-sync.com
 collabland-wallet.com

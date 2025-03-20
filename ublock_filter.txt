@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-20T22:14:03Z
+! Updated: 2025-03-20T22:16:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33348,6 +33348,7 @@ valorant88.com
 valorantai.pro
 valorantarcane.site
 valorantarms.com
+valorantbonus.shop
 valorantbst.fun
 valorantbundle.site
 valorantcase.site

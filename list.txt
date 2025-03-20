@@ -33366,6 +33366,7 @@ valorantgear.pro
 valorantget.com
 valorantgift.fun
 valorantgift.online
+valorantgift.shop
 valorantgift.site
 valorantgifts.fun
 valorantgifts.pro

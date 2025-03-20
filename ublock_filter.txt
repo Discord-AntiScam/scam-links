@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-20T17:16:58Z
+! Updated: 2025-03-20T17:37:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31424,6 +31424,7 @@ stubralor.gq
 stuckcaptcha.co.vu
 studiogiamberardino.it
 studyportal.cloud
+stueamconmumnlty.com
 stuemconmunity.com
 stuffed.ru
 stuiop.com

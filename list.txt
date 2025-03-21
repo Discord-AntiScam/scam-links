@@ -1682,6 +1682,7 @@ bot-captcha.xyz
 bot-captchacolver.ru
 bot-captchadev.ru
 bot-check-com.ru
+bot-collab.land
 bot-defender.online
 bot-defense.xyz
 bot-developers.com

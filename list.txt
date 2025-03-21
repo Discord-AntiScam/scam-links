@@ -32742,6 +32742,7 @@ uniswap-filter.web.app
 uniswap-filtering.web.app
 uniswap-lookup.com
 uniswap-lookup.web.app
+uniswap-lookups.web.app
 uniswap-mining.web.app
 uniswap-open.web.app
 uniswap-pool-v4.pages.dev

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-21T15:33:01Z
+! Updated: 2025-03-21T15:38:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32755,6 +32755,7 @@ uniswap-open.web.app
 uniswap-pool-v4.pages.dev
 uniswap-pool.pages.dev
 uniswap-portfolio.org
+uniswap-reviewers.web.app
 uniswap-tracer.live
 uniswap-track-online.pages.dev
 uniswap-track-tool.pages.dev

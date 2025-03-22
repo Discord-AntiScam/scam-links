@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-22T22:46:16Z
+! Updated: 2025-03-22T22:52:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19136,6 +19136,7 @@ share.nowblox.com
 shared-tools.xyz
 shellz-orb.xyz
 shewantsumuch.com
+shexobisai.com
 shhh.lol
 shib.events
 shiba-airdrop.space

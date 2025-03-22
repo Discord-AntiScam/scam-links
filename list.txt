@@ -4284,6 +4284,7 @@ dappreward.vercel.app
 dapps-bridge.vercel.app
 dapps-fixed.pages.dev
 dapps-space.vercel.app
+dapps-xbridge.vercel.app
 dapps-zqhuf.formstack.com
 dappsauthfix.pages.dev
 dappsblockresolve.pages.dev

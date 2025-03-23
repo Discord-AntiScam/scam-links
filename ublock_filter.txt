@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-23T19:35:59Z
+! Updated: 2025-03-23T19:36:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32895,6 +32895,7 @@ usdcevent.us
 usdcircle.io
 usdcreward.xyz
 usdcup.org
+usdrecovery.xyz
 usdt-drop.space
 usdt-v2.com
 usdt.web3adrp.net

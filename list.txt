@@ -18383,6 +18383,7 @@ role-management.net
 role-ownership.com
 role-server.com
 role-synchronization.com
+roleassigner.com
 roles-collab.com
 roles-kavaverify.pages.dev
 rolimons.click

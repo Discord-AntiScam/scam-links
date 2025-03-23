@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-23T19:07:49Z
+! Updated: 2025-03-23T19:13:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31615,6 +31615,7 @@ swiftindexchain.web.app
 swiftlinkedurl.parge.co
 swiftnodesresolution.pages.dev
 swiftnodexresolve.pages.dev
+swiftveriauth.online
 swirebit.com
 swissborgclaim.com
 swtest.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-23T19:05:56Z
+! Updated: 2025-03-23T19:07:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4260,6 +4260,7 @@ damlidab.site
 damned2023.com
 dao-worldcoin.com
 daocoin-pepe.com
+daoovali.pages.dev
 daopepe.com
 dapp-galxe.com
 dapp-havacoin.me

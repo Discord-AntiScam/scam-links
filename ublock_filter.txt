@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-23T17:12:25Z
+! Updated: 2025-03-23T17:13:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31545,6 +31545,7 @@ supersynced.xyz
 support-391647094929792.com
 support-discord.gq
 support-discord.ru
+support-ebc.pages.dev
 support-examevent.gq
 support-for-hypesquad.com
 support-hype-moderators-events.com

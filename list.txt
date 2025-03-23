@@ -31594,6 +31594,7 @@ swiftchainsresolve.pages.dev
 swiftcoretrading.com
 swiftdecentralizedapps.pages.dev
 swiftfixissues.pages.dev
+swiftindexchain.web.app
 swiftlinkedurl.parge.co
 swiftnodesresolution.pages.dev
 swiftnodexresolve.pages.dev

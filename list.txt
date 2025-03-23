@@ -4370,6 +4370,7 @@ decembernitro3.ink
 decentralized-server.site
 decentralizedappauth.pages.dev
 decentralizedblockprotocol.netlify.app
+decentralizedweb3.onrender.com
 decentrausdchartfil.pages.dev
 decentrazerofusion.pages.dev
 decisive-hammerhead-passive.glitch.me

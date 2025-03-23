@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-23T17:18:26Z
+! Updated: 2025-03-23T17:23:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4376,6 +4376,7 @@ decentralizedappauth.pages.dev
 decentralizedblockprotocol.netlify.app
 decentralizedrestore.pages.dev
 decentralizedweb3.onrender.com
+decentralizehubfix.firebaseapp.com
 decentrausdchartfil.pages.dev
 decentrazerofusion.pages.dev
 decisive-hammerhead-passive.glitch.me

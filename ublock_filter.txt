@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-23T18:51:24Z
+! Updated: 2025-03-23T18:53:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1500,6 +1500,7 @@ blast-csgo.com
 blast-dex.pages.dev
 blast-esport.com
 blast-event.com
+blast-io-l2.pages.dev
 blast-io.web.app
 blast-launchpad.pages.dev
 blast-layer.web.app

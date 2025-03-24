@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-24T15:49:43Z
+! Updated: 2025-03-24T15:49:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18411,6 +18411,7 @@ role-management.com
 role-management.net
 role-ownership.com
 role-server.com
+role-synchro.com
 role-synchronization.com
 roleassigner.com
 roles-collab.com

@@ -12453,6 +12453,7 @@ id-95864.com
 id-9831.com
 id-98423.com
 id-98425.com
+id-captcha.com
 id-drop.com
 id-hypixel.net
 id-uzpay.xyz

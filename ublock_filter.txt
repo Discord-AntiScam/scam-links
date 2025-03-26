@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-26T11:01:51Z
+! Updated: 2025-03-26T15:07:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16580,6 +16580,7 @@ playscsgo.ru
 playsource2.com
 playsource2.pro
 playtenz.com
+playtest192852.com
 playtests.games
 playto.ru
 playvalorant-beast.top

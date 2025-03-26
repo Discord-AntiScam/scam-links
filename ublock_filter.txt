@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-26T17:56:11Z
+! Updated: 2025-03-26T19:01:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3677,6 +3677,7 @@ cschecker.ru
 cscybersport.ru
 csdrop.live
 csemorney.xyz
+csfrcat.com
 csfun.fun
 csggtradebestt.buzz
 csggtradebestt.life

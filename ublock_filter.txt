@@ -1,11 +1,12 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-26T19:01:58Z
+! Updated: 2025-03-26T22:38:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
 08us2w109ps.top
 0p-1.com
 0pensea-gifts-013.vercel.app
+0pensea-gifts-017.vercel.app
 0www-roblox.com
 0x-11a.pages.dev
 0x000-ticket-mod.rf.gd

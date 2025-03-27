@@ -2961,6 +2961,7 @@ collablands-connect.top
 collablands-connect.wiki
 collablands-connect.xyz
 collablands-connects.vip
+collablands-eth.com
 collablands-wallet.com
 collablands.org
 collablandsecure.net

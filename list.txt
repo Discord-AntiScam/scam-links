@@ -13915,6 +13915,7 @@ mainnetdappshub.com
 mainnetweb3.pages.dev
 major-blasts.com
 major-csgo.com
+major-esp.com
 major-liga.com
 major-twitch.com
 major-twitchs.com

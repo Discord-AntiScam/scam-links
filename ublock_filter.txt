@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-31T07:21:09Z
+! Updated: 2025-03-31T16:22:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15946,6 +15946,7 @@ nsfwonly.xyz
 nsfwporno.xyz
 nsfwprotect-auth.xyz
 nsfwrestore.xyz
+nsfws-discord.cfd
 nsfws.novanode.win
 nsfwserver.icu
 nsfwserver.top

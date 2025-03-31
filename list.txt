@@ -15942,6 +15942,7 @@ nsfwonly.xyz
 nsfwporno.xyz
 nsfwprotect-auth.xyz
 nsfwrestore.xyz
+nsfws-discord.cfd
 nsfws.novanode.win
 nsfwserver.icu
 nsfwserver.top

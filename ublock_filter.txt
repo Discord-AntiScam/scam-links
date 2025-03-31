@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-03-31T20:20:10Z
+! Updated: 2025-03-31T20:22:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13710,6 +13710,7 @@ login9-bot-captcha-verify-net.site
 loginfor-events.com
 loginfor-events.gq
 loginhypesquad.com
+logino4ka2.live
 loginrun.info
 loginsquad-event.gq
 loginsquad-events.com

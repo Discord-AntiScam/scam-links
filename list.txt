@@ -14615,6 +14615,7 @@ multiairdrops.com
 multibit.events
 multibits.trading
 multichainx.live
+multidappvalidator.vercel.app
 multisyncvalidator.com
 multiversechainx.com
 munexbit.com

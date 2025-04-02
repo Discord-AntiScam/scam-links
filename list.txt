@@ -3161,6 +3161,7 @@ connectt-hypesquad.com
 connectvalidator.pages.dev
 connectwallet-collab.land
 connectwallet-io.pages.dev
+connectwallet.cloud
 connectwallet.co.in
 connectweb-sync.pages.dev
 connectweb3-trustwallet.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-05T08:52:57Z
+! Updated: 2025-04-05T12:41:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13611,6 +13611,7 @@ linksdlscordgiftl.com
 linksdlscordgifty.com
 linksdlscordifti.com
 linkshort.run
+linkshorter.digital
 linkshrink.net
 linktrade.pp.ua
 lion-vipcoin.top

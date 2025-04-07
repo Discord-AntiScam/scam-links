@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-07T17:45:20Z
+! Updated: 2025-04-07T21:42:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14994,6 +14994,7 @@ nakamigosclub.com
 nakamigosworld.com
 nakapote.com
 nakedphotos.club
+namcards.com
 name-bases.xyz
 name0fbestway.com
 nameshop.info

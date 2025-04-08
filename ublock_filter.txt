@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-08T02:24:13Z
+! Updated: 2025-04-08T02:24:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -8810,6 +8810,7 @@ dmarket-csgo.sa.com
 dmarketskins.com
 dmdiscord.com
 dmkdrop.pw
+dmmarket.net
 dnitro-premium.xyz
 dnitro-steam.com
 dnitropremium.com

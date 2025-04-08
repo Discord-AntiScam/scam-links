@@ -11412,7 +11412,6 @@ guildassist.re
 guildassistant.click
 guildautomation.com
 guildmember.xyz
-guildmerger.cc
 guildrestore.xyz
 guildrole.xyz
 guitar-love.ru

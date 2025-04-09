@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T22:07:41Z
+! Updated: 2025-04-09T22:08:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32806,6 +32806,7 @@ twltchclaims.com
 twltchcs.tv
 twltchcs2.com
 twltchcs2.tv
+twltchdrops.com
 twltchesl.com
 twltchesport.com
 twltchesports.com

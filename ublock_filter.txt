@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T17:42:53Z
+! Updated: 2025-04-09T22:03:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -8866,6 +8866,7 @@ downloads2020.com
 downloads2021.com
 doynex.com
 dpd-group-taseneh779753577.codeanyapp.com
+dpopcaseus.cfd
 dracenic-gravinyl.icu
 dragonary-giveaway.info
 dre-pgc2021.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T22:16:06Z
+! Updated: 2025-04-09T22:16:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12724,6 +12724,7 @@ isanofca.gq
 iscord.gift
 iscordglft.org
 islandofhopes.online
+issuesrectify.netlify.app
 item125096963.asia
 itemcloud.one
 itemsgobio.com

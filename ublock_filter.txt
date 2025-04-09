@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T22:09:21Z
+! Updated: 2025-04-09T22:10:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9711,6 +9711,7 @@ esportgift.ru
 esportpoint.xyz
 esports-cs2.com
 esports-esl.ru
+esports-play2win.com
 esports-trade.net.ru
 esports-twitch.tv
 esports-twitchs.com

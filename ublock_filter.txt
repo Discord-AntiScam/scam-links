@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T22:06:00Z
+! Updated: 2025-04-09T22:06:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13968,6 +13968,7 @@ maolegendafishinga.ru
 maper.info
 marafonec.com
 marbling.pe.kr
+march50gift.com
 marcita.vercel.app
 marinaivanovna123.one
 maritca.vercel.app

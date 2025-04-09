@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T22:17:19Z
+! Updated: 2025-04-09T22:18:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14640,6 +14640,7 @@ multiadblock.com
 multiairdrops.com
 multibit.events
 multibits.trading
+multichain-web.pages.dev
 multichainx.live
 multidappvalidator.vercel.app
 multisyncvalidator.com

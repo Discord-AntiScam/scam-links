@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-09T22:12:23Z
+! Updated: 2025-04-09T22:13:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17346,6 +17346,7 @@ receive-satoshivm.com
 receive-zetachaincom.pages.dev
 receivemask.io
 reco-very8889129.com
+reconnectwallet.pages.dev
 recove-ry171191.com
 recove-ry9897.com
 recover-data-support-cc894ir.surge.sh

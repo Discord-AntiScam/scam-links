@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-15T23:45:43Z
+! Updated: 2025-04-16T18:40:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20304,6 +20304,7 @@ spamremove.click
 spatlex.com
 spdb16.vip
 spdb6.vip
+speamcoomnumnlty.com
 speamcoonnmumnlty.com
 special-update.online
 special4u.xyz

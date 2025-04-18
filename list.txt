@@ -19282,6 +19282,7 @@ shorturl.wtf
 shorturls.ru
 showdownhub.com
 showdownzone.com
+shrt.asia
 shrt.co
 shrturl.net
 shrturl.nl

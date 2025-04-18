@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-18T15:11:52Z
+! Updated: 2025-04-18T16:20:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19286,6 +19286,7 @@ shorturl.wtf
 shorturls.ru
 showdownhub.com
 showdownzone.com
+shrt.asia
 shrt.co
 shrturl.net
 shrturl.nl

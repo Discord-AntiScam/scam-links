@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-20T20:34:09Z
+! Updated: 2025-04-20T23:37:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19048,6 +19048,7 @@ secure-verification-protect.xyz
 secure-verify-bot.xyz
 securebridge.onrender.com
 securebridgedapp.com
+securecord.top
 secured-captchabot.fun
 secured-collab.land
 secured-vulcan.xyz

@@ -18258,6 +18258,7 @@ roblox.mq
 roblox.mr
 roblox.mu
 roblox.mw
+roblox.net.kg
 roblox.ng
 roblox.org.in
 roblox.pm
@@ -33649,7 +33650,6 @@ valorantromania.cloud
 valorants.eu
 valorants.fun
 valorantskin.fun
-valorantskins.click
 valorantskins.pro
 valorantskins.world
 valorantskinsroulette.fun

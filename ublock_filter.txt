@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-20T01:43:11Z
+! Updated: 2025-04-20T01:45:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11471,6 +11471,7 @@ harambetoken.top
 harzfriends.de
 hash-connects.com
 haste.monster
+haust.cloud
 hava-apps.com
 hava-coins.com
 havaclaim.com

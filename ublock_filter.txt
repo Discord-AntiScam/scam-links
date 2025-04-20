@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-20T14:49:22Z
+! Updated: 2025-04-20T15:17:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10821,6 +10821,7 @@ genesls-dymension.com
 gengxinbuchang.club
 genideo.com
 genkai-cyberkongz.online
+genn.lu
 genned.net
 gennirto.org
 genny.cc

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-20T02:22:24Z
+! Updated: 2025-04-20T02:23:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17255,6 +17255,7 @@ ramses.gift
 random-mechanics.itch.io
 rangevalidator.web.app
 ranked-gamers.com
+ranked-players.com
 rankedplay-cs2.com
 ranks-hypixel.gift
 rao-ees.ru

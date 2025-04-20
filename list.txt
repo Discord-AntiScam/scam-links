@@ -673,6 +673,7 @@ aplly-hype.ml
 app-captcha.bot
 app-captcha.com
 app-claim.xyz
+app-contract.com
 app-dao.com
 app-dicsord.ru
 app-discord-nitro.ru

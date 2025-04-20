@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-20T02:21:28Z
+! Updated: 2025-04-20T02:22:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13651,6 +13651,7 @@ liquideth.us
 liquidether.org
 liquidether.world
 liquidityentry.netlify.app
+lisdrops.ru
 lisempnet.gq
 list-hypesquad.gq
 list-roblox.com

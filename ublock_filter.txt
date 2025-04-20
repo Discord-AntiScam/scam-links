@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-20T02:25:32Z
+! Updated: 2025-04-20T07:03:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1073,6 +1073,7 @@ auth-china.com
 auth-collab.top
 auth-collab.vip
 auth-collab.xyz
+auth-collabs.xyz
 auth-connect-collab.land
 auth-csgo2run.fun
 auth-discord.com

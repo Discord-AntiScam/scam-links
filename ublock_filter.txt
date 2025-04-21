@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-21T13:05:29Z
+! Updated: 2025-04-21T14:35:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2449,6 +2449,7 @@ cbcompenstation.com
 ccd.deno.dev
 ccgorun.site
 ccs.cash
+cctourcup.com
 cd-dvd-brennen.de
 cd-id.com
 cdc3918.asia

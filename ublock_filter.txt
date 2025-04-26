@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-26T16:22:42Z
+! Updated: 2025-04-26T18:31:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19257,6 +19257,7 @@ sfeamcomnunity.com
 sfeamconmunity.com
 sfeamconunity.website
 sfeanmcommnunnlty.com
+sfeanmcoommnumnlty.com
 sfecj.com
 sfleamcommunlty.com
 sgift-premeum.xyz

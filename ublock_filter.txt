@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-04-29T13:38:53Z
+! Updated: 2025-04-29T18:00:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13942,6 +13942,7 @@ magic-delfy.net.ru
 magic-drops.top
 magic4you.nu
 magicalsecure.netlify.app
+magicblock.pro
 magicroyal.org
 magicrun.site
 magicstreek.me

@@ -10222,6 +10222,7 @@ fomo-analyze.xyz
 fomo-checkup.web.app
 fomo-diamondhands.xyz
 fomo-lookup.web.app
+fomo-paperhands.xyz
 fomo-radar.web.app
 fomo-search.web.app
 fomo-tracking.web.app

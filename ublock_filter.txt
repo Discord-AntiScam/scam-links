@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-03T02:38:01Z
+! Updated: 2025-05-03T02:39:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10058,6 +10058,7 @@ fatbtc.org
 fatbtcvip.com
 fates-world.xyz
 fathlesschilddemonic.ga
+fathompulse.com
 fattykettleinexpedient.com
 faxnews.ru
 faze-59.pro

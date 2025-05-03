@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-03T02:29:26Z
+! Updated: 2025-05-03T02:29:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13943,6 +13943,7 @@ m90694rb.beget.tech
 macitra.vercel.app
 macotuqa.xyz
 mactep.org
+macv3drive.com
 madexcoin.com
 madgames.xyz
 madian.co

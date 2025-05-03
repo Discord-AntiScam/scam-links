@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-03T02:27:44Z
+! Updated: 2025-05-03T02:29:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15624,6 +15624,7 @@ niggas.click
 niggas.fun
 niggas.top
 niggasclick.pages.dev
+nighttometabundle.pages.dev
 nikofreecase.com
 nikog2esportsgiveaway.com
 nikog2skins.com

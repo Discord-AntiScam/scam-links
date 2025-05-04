@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-04T15:36:23Z
+! Updated: 2025-05-04T15:36:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14113,6 +14113,7 @@ mediafire.ink
 mediahouse.com.ua
 medium-captcha.com
 mediumcaptcha.com
+mediumturquoise-mouse-480755.hostingersite.com
 medusa-eth.pages.dev
 medxbit.com
 mee-6.net

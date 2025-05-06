@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-06T15:01:06Z
+! Updated: 2025-05-06T21:13:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14296,6 +14296,7 @@ memberguild.xyz
 memberserver.xyz
 memcoin.xyz
 meme-lands.xyz
+meme-pepe-unchained.lol
 memeclaim.xyz
 memecoin-game.com
 memecoin-waitlist.org

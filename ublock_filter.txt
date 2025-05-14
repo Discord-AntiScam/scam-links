@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-13T15:20:02Z
+! Updated: 2025-05-14T13:56:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3221,6 +3221,7 @@ convex.gift
 convocation-for-hypeteams.com
 convocation-hypeteams.com
 convocation-to-hypesquad.com
+cookie-fun.net
 coolcatsavatar.xyz
 coollob.land
 copyclothing.art

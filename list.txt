@@ -11461,6 +11461,7 @@ guild-system.net
 guildassist.re
 guildassistant.click
 guildautomation.com
+guildcheck.net
 guildian.org
 guildmember.xyz
 guildrestore.xyz

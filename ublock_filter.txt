@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-18T18:12:46Z
+! Updated: 2025-05-18T18:27:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15452,6 +15452,7 @@ netkava.xyz
 nettflxiauggdn.com
 netund.com
 netvaultifyx.tech
+network-collab-land.com
 network-collab.land
 network-jito.xyz
 network-layerzero.app

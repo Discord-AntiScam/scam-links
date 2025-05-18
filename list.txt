@@ -4319,6 +4319,7 @@ dapp-rectification.pages.dev
 dapp-syncc.pages.dev
 dapp-wallet-connect.pages.dev
 dappaccess.pages.dev
+dappaccess.web.app
 dappauthenticatortool.live
 dappblocc.pages.dev
 dappcenters.cam

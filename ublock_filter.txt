@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-20T18:31:39Z
+! Updated: 2025-05-21T07:33:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -24987,6 +24987,7 @@ steamcomnmuntly.com
 steamcomnmunty.com
 steamcomnmunty.online
 steamcomnmunty.ru
+steamcomnmunuty.com
 steamcomnmunuty.ru
 steamcomnmunyti.com
 steamcomnmurmity.com

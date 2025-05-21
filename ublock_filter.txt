@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-21T07:33:44Z
+! Updated: 2025-05-21T16:03:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -709,6 +709,7 @@ app-polyhedra.space
 app-roblox.com
 app-roblox.info
 app-roblox.net
+app-role.com
 app-rollbit.site
 app-safegnosis.top
 app-sledgehammer.app

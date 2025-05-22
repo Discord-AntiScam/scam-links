@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-22T19:24:45Z
+! Updated: 2025-05-22T19:25:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12582,6 +12582,7 @@ ijustwannabeyour.top
 iketrest.com
 il119.com
 illuminatelocks.com
+illuvium-season.com
 illuvium-v2.io
 ilonbotomonification.space
 image-gamersss.ru

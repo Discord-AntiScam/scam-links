@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-22T20:59:08Z
+! Updated: 2025-05-23T19:13:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13849,6 +13849,7 @@ loverfuck.com
 low1cost.ru
 low1cost.store
 lowblind.com
+lox.hk.com
 loyal.charity
 loyal.wf
 loyalty-polyhedra.network

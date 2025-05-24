@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-23T22:01:34Z
+! Updated: 2025-05-24T08:56:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9819,6 +9819,7 @@ eue-ts.vip
 euphe-gun.com
 euphonious-sable-30ec8d.netlify.app
 euphoriamjdasjncxz.shop
+euricann.ch
 evalorant.com
 eve-cord.com
 eve-dao.com

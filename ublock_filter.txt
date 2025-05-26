@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-25T21:30:28Z
+! Updated: 2025-05-26T14:58:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12551,6 +12551,7 @@ id-98425.com
 id-captcha.com
 id-drop.com
 id-hypixel.net
+id-role.com
 id-uzpay.xyz
 ideaanstudy1.live
 ideaanstudy11.live

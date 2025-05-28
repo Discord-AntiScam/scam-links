@@ -1542,6 +1542,7 @@ blocks-mainnet.vercel.app
 blocksdappsrectify.vercel.app
 blockskipad.com
 blocksmainnet.vercel.app
+blocksonnet.pages.dev
 blocksynchronize.pages.dev
 blocksyner-guard.live
 blockver.000webhostapp.com

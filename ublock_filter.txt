@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-29T15:21:36Z
+! Updated: 2025-05-29T15:36:57Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20359,6 +20359,7 @@ spaceid.mintbadges.com
 spacelives.net
 spacemusk.live
 spacesnakes.net
+spacestrac.online
 spacex-2023.info
 spacex-airdrop.online
 spacex-ax2.live

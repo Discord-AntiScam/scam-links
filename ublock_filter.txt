@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-29T15:20:37Z
+! Updated: 2025-05-29T15:21:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2727,6 +2727,7 @@ classic-nitro.com
 classicnitro.com
 cleanphonefast.com
 clear-collab.land
+cleptmensahs.online
 click-collab.land
 click2click.xyz
 clickclaims1.vercel.app

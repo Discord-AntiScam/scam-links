@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-05-29T15:50:27Z
+! Updated: 2025-05-29T16:18:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17035,6 +17035,7 @@ project-captchabot-security.com
 project-mavia.com
 project-porkcoin.com
 project-portal.pages.dev
+project-uniswap.web.app
 projectclaim-nft.web.app
 projectfree-claim.vercel.app
 projectnft-openseapro.vercel.app

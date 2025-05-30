@@ -4460,6 +4460,7 @@ defi.42web.io
 defi5-eth.com
 defi5566.com
 defidappsrestore.web.app
+defiecosystem.netlify.app
 defirepairstool.com
 defismartresolve.firebaseapp.com
 defisyncresolve.pages.dev

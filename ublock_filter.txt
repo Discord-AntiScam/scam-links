@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-01T18:28:28Z
+! Updated: 2025-06-01T18:49:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2793,6 +2793,7 @@ code-riotgames.com
 code24promo.com
 codespark.novanode.win
 codingyourpain.itch.io
+cogni-xphere.art
 cogni-xphere.info
 cogni-xphere.org
 cogni-xphere.xyz

@@ -16367,6 +16367,7 @@ opensea-pages.online
 opensea-pro52.vercel.app
 opensea-projectnft.vercel.app
 opensea-unbox.vercel.app
+opensea-xewo.vercel.app
 opensea.icu
 opensea.io.deals.notification.the-harvesters.net
 opensea3456.vercel.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-01T18:49:06Z
+! Updated: 2025-06-01T19:48:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -30820,6 +30820,7 @@ stemcumunnity.ru.com
 stemecommnuniity.ru
 stemecommumity.com
 stemecommunity.cfd
+stemecommunity.com
 stemecommunlty.com
 stemecommunnity.ru
 stemecommuunity.com

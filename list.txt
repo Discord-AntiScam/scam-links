@@ -20060,6 +20060,7 @@ sledgehammer-tool.app
 sledgehammer-user.app
 sledgehammer-verify.app
 sledgehammer.bio
+sledgehammer.bot
 sledgehammer.cc
 sledgehammer.direct
 sledgehammer.land

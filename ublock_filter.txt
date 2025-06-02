@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-02T23:20:55Z
+! Updated: 2025-06-02T23:22:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -31796,6 +31796,7 @@ streomcommunuty.com
 stretax.com
 striamcommunity.ru
 strikesource2.site
+strongape-club.art
 strongape.club
 strongapeclub.art
 strongapeclub.info

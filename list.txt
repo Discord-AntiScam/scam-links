@@ -16433,6 +16433,7 @@ opensei.info
 opensenft.vercel.app
 opensia.club
 openssea.pw
+opensupermint.firebaseapp.com
 opensupermint.web.app
 opentea.xyz
 openxbit.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-02T23:24:33Z
+! Updated: 2025-06-02T23:50:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4470,6 +4470,7 @@ defi-site.web.app
 defi.42web.io
 defi5-eth.com
 defi5566.com
+defidapps.netlify.app
 defidappsrestore.web.app
 defiecosystem.netlify.app
 defirepairstool.com

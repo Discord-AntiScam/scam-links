@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-02T23:20:35Z
+! Updated: 2025-06-02T23:20:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12606,6 +12606,7 @@ ilonbotomonification.space
 image-gamersss.ru
 imageshare.best
 immo1914.vercel.app
+immortal.st
 immortalsites.xyz
 imms.store
 impostors.vip

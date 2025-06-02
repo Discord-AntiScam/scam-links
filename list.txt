@@ -18120,6 +18120,7 @@ robiox.com.tr
 robiox.es
 robiox.eu
 robiox.one
+robiox.pk
 robiox.pl
 robiox.serv00.net
 robiox.shop
@@ -34243,7 +34244,6 @@ vvvv-robiox.com
 vvvv-roblox.com
 vvvvvw-roblox.com
 vvvw-robiox.com
-vvw-roblox.com
 vvwv-roblox.com
 vvww--roblox.com
 vvww-roblox.com

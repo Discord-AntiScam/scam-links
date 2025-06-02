@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-02T14:02:30Z
+! Updated: 2025-06-02T14:02:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18072,6 +18072,7 @@ ro-bypas.com
 ro-linked.github.io
 ro-texture.com
 ro.blox.hk.com
+ro.blox.pk
 ro0lox.com
 ro4.biz
 ro4lox.com

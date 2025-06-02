@@ -18427,6 +18427,7 @@ robloxi.com.cm
 robloxi.com.de
 robloxi.com.kz
 robloxi.com.ng
+robloxi.com.pk
 robloxi.com.se
 robloxi.com.tr
 robloxi.net

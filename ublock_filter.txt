@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-03T16:44:04Z
+! Updated: 2025-06-03T16:46:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13075,6 +13075,7 @@ join-reform.com
 join-reform.trading
 join-reformdao.com
 join-retirement-sol.com
+join-roblox.com
 join-rocketpool.com
 join-rollbit.com
 join-rollbit.xyz

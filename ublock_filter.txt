@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-02T23:50:33Z
+! Updated: 2025-06-03T07:55:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34005,6 +34005,7 @@ verificationservice.icu
 verificationsfw.cfd
 verificationsite.icu
 verificationsnsfws.cfd
+verifidapp.com
 verified-collab.land
 verified-formulary-to-moderator.com
 verified-moderators-club.com

@@ -14039,6 +14039,7 @@ mainnet-satoshivm.io
 mainnetdappshere.vercel.app
 mainnetdappshub.com
 mainnetweb3.pages.dev
+mainnetxdapps2.netlify.app
 mainnetzonehub3.netlify.app
 major-blasts.com
 major-csgo.com

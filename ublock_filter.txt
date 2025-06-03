@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-03T16:46:48Z
+! Updated: 2025-06-03T16:58:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14043,6 +14043,7 @@ mainnet-satoshivm.io
 mainnetdappshere.vercel.app
 mainnetdappshub.com
 mainnetweb3.pages.dev
+mainnetxdapps2.netlify.app
 mainnetzonehub3.netlify.app
 major-blasts.com
 major-csgo.com

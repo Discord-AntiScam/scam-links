@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-03T18:16:47Z
+! Updated: 2025-06-04T12:53:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19080,6 +19080,7 @@ saweria.co
 sawex.net
 sbauthorization.net
 sbauthorization.ru
+sbeamcummnumnlty.com
 sbheaven.com
 sbmasters.online
 sbmverification.ru

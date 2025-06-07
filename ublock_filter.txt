@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-07T08:01:06Z
+! Updated: 2025-06-07T10:05:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -600,6 +600,7 @@ apello.cc
 apello.gg
 apello.one
 apello.pages.dev
+apellobot.com
 apellobot.xyz
 apellogate.net
 apellogate.org

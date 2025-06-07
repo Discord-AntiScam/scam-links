@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-07T14:34:10Z
+! Updated: 2025-06-07T16:30:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16237,6 +16237,7 @@ officialnftsaphire.com
 officialposttrack.com
 officialsaphirenfts.com
 officialsaphiresnfts.com
+officialsync.vercel.app
 officialverfyteam-services.ml
 offsaphirenfts.com
 ogisha.site

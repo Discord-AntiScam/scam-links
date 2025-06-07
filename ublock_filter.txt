@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-07T10:05:13Z
+! Updated: 2025-06-07T14:34:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20044,6 +20044,7 @@ sleancommunity.ru
 sleancommunlty.ru
 sleancommunlty.site
 sleancommunlty.xyz
+sleancomnnumnlty.com
 sleancomnunitiy.ru
 sleancomnunity.ru
 sleanconmunitiy.ru

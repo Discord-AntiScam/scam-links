@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-09T18:32:04Z
+! Updated: 2025-06-09T22:18:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4395,6 +4395,7 @@ dashboard-appe.digital
 dashboard-captchabot.com
 dashboard-coinbases.cloud
 dasjdjhsaheq.one
+databasemainnetserver.com
 dataresolveweb.info
 datasig.io
 datauth.io

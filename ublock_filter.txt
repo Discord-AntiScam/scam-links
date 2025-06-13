@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-12T14:42:00Z
+! Updated: 2025-06-13T03:11:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -27758,6 +27758,7 @@ steamstorestrade.xyz
 steamstoretrade1.xyz
 steamstradecommunity.xyz
 steamsummer.com
+steamsummergift.icu
 steamsuprise-card.com
 steamsuprise.com
 steamswap.xyz

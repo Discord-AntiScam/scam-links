@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-20T21:25:37Z
+! Updated: 2025-06-20T21:25:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18973,6 +18973,7 @@ rustxcase.top
 rustxkk.com
 rustxwave.com
 rusty-golden.com
+rusty-house.com
 rusty-remains.com
 rustygift.site
 rustyp.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-22T17:14:25Z
+! Updated: 2025-06-22T17:16:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1633,6 +1633,7 @@ bloxver.site
 bloxver.tech
 bloxverify.com
 bloxverify.ru
+bloxw.com
 bloxware.org
 bloxware.tk
 bloxy-nft.com

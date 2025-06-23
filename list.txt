@@ -603,6 +603,7 @@ apellogate.org
 apellogate.xyz
 apetreasury.com
 apextake.com
+api-apello.bot
 api-app.land
 api-beta.com
 api-collab.community

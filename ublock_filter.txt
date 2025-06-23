@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-23T18:37:28Z
+! Updated: 2025-06-23T18:37:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19217,6 +19217,7 @@ secure-instagram.ru
 secure-protection.shop
 secure-raid.xyz
 secure-retry-connecting.alphakreed.com
+secure-roblox.com
 secure-shield.xyz
 secure-verification-bot.xyz
 secure-verification-protect.xyz

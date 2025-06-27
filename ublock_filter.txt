@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-06-25T14:07:34Z
+! Updated: 2025-06-27T12:50:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14918,6 +14918,7 @@ myrolls.monster
 myrollz.com
 mysafeguard.org
 mysearchflow.com
+mysellauth.com
 myskincsgo.site
 mysofinance.net
 mysofinancing.com

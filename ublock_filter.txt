@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-07T15:35:10Z
+! Updated: 2025-07-07T15:36:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -508,6 +508,7 @@ alts-dentifier.online
 altsdentifier.site
 alttrade24.com
 altverify.live
+altverify.pro
 altxch.com
 alwaysal.co
 am-csgo.xyz
@@ -2844,6 +2845,7 @@ collab-land-dao.com
 collab-land-dapp.co.uk
 collab-land-dapp.com
 collab-land-eths.com
+collab-land-funds.com
 collab-land-gateway.com
 collab-land-mine.com
 collab-land-nodex.com
@@ -9330,6 +9332,7 @@ e-premiumtime.com
 e-woman-verifys.xyz
 e-womans.xyz
 e.ethmining.name
+e.vg
 e2p.xyz
 ea-drop.com
 eagle-investors.co
@@ -13514,6 +13517,7 @@ land-api.top
 land-api20.com
 land-api5.com
 land-api5.top
+land-api6.top
 land-api7.top
 land-app.top
 land-assest.com
@@ -17556,6 +17560,7 @@ redexios.com
 redirect-302.com
 redirect-hub.site
 redirect-mee.xyz
+redirect-vulcan.xyz
 redirectednet.xyz
 redirection-collab.land
 redirection-gateway.com
@@ -20277,6 +20282,7 @@ sodexer.com
 soft-full.website
 soft-gratis.com
 softgaz.ru
+sol-land.com
 sol-sensei.com
 solanamemecoinairdropclaim.pages.dev
 solheimweb.com
@@ -24636,6 +24642,7 @@ steamcommunuty.net.ru
 steamcommunuty.org.ru
 steamcommunuty.ru
 steamcommunutys.ru
+steamcommunvity.com
 steamcommunvlty.com
 steamcommunvti.ru
 steamcommunvty.com
@@ -30067,6 +30074,7 @@ stecnmcommunity.com
 stecrncomunity.ru
 stedmcomnmunlty.com
 stedmconnmumlty.com
+stedmcoommnunlty.com
 stedmcooommnlunlty.com
 steeaamcommuunniity.com
 steeaamcommuunnity.com
@@ -31879,6 +31887,7 @@ striamcommunity.ru
 strikesource2.site
 strongape-club.art
 strongape-club.live
+strongape-club.online
 strongape-club.pro
 strongape.club
 strongapeclub.art
@@ -34284,6 +34293,7 @@ vulcan-system.com
 vulcan-verifier.net
 vulcan-verify.top
 vulcan-verify.xyz
+vulcan-welcome.xyz
 vulcan.bz
 vulcan.community
 vulcan.direct

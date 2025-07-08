@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-08T20:28:35Z
+! Updated: 2025-07-08T20:52:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16318,6 +16318,7 @@ omestredacama.net
 omgtnc.com
 omniagent-portal.com
 on-chain-protocol.vercel.app
+on-chainexplores.pages.dev
 on-crypto-jobs.com
 on-cryptojob.com
 on-roblox.com

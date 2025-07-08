@@ -1587,7 +1587,6 @@ bloxfruits.click
 bloxguard.org
 bloxguard.xyz
 bloxiesofficial.com
-bloxlab.st
 bloxlink.bot
 bloxlink.co
 bloxlink.eu
@@ -1623,6 +1622,7 @@ bloxtools.me
 bloxtools.net
 bloxtools.online
 bloxtools.pro
+bloxtools.sbs
 bloxtools.site
 bloxtools.st
 bloxtools.top

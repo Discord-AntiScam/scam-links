@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-09T12:03:06Z
+! Updated: 2025-07-09T17:42:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13555,6 +13555,7 @@ land-dis.top
 land-disc.top
 land-ethereum.com
 land-evm.com
+land-gate.com
 land-hiring.com
 land-hub.org
 land-id.top

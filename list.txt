@@ -13551,6 +13551,7 @@ land-dis.top
 land-disc.top
 land-ethereum.com
 land-evm.com
+land-gate.com
 land-hiring.com
 land-hub.org
 land-id.top

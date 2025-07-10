@@ -604,6 +604,7 @@ apellogate.io
 apellogate.net
 apellogate.org
 apellogate.xyz
+apellogating.io
 apetreasury.com
 apextake.com
 api-apello.bot

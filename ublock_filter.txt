@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-09T17:42:12Z
+! Updated: 2025-07-10T08:05:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16638,6 +16638,7 @@ packmonitors-serve.top
 packserver-tracker.top
 packtrack-serve.info
 paczka-w-drodze.com
+pad-chalngpt.com
 pages-notifications.net
 pagesauth.com
 palowarnia.com

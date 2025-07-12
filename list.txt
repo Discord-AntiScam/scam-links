@@ -2971,6 +2971,7 @@ collab-lands.pw
 collab-link.land
 collab-loading.com
 collab-nodes.com
+collab-pass.com
 collab-portal.com
 collab-rare.com
 collab-redirect.xyz

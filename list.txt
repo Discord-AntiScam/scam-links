@@ -11522,6 +11522,7 @@ guildautomation.com
 guildcheck.net
 guildguardpro.com
 guildian.org
+guildme.live
 guildmember.xyz
 guildrestore.xyz
 guildrole.xyz

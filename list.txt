@@ -11519,6 +11519,7 @@ guild-system.net
 guildassist.re
 guildassistant.click
 guildautomation.com
+guildbot.org
 guildcheck.net
 guildguardpro.com
 guildian.org

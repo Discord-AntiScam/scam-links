@@ -11520,6 +11520,7 @@ guildassist.re
 guildassistant.click
 guildautomation.com
 guildcheck.net
+guildguardpro.com
 guildian.org
 guildmember.xyz
 guildrestore.xyz

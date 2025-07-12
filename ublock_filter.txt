@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-12T02:58:46Z
+! Updated: 2025-07-12T02:59:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9832,6 +9832,7 @@ establish-coinbase.com
 eternalvalorant.fun
 eth-apy.eu
 eth-apy.org
+eth-lands.com
 eth-wifhat.lol
 ethapy.io
 ethapy.net

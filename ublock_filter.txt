@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-13T18:18:01Z
+! Updated: 2025-07-13T18:18:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18862,6 +18862,7 @@ rugive-csgorun.xyz
 rules-academy-moderatiors.com
 runcsgo.com
 rune-ston.web.app
+rushbglobal.com
 rushingfolder.com
 rushskillz.net.ru
 rust-16.com

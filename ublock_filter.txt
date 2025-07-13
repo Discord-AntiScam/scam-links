@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-13T18:33:29Z
+! Updated: 2025-07-13T19:58:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20605,6 +20605,7 @@ spiritswap.gift
 spitlex.com
 spletnius.ru
 splinter-lands.xyz
+splunk.gg
 splunk.monster
 splunkregistrar.com
 splunks.net

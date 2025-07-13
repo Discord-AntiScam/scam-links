@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-13T21:32:29Z
+! Updated: 2025-07-13T22:40:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10268,6 +10268,7 @@ finevalorant.fun
 fire-dungeon.com
 fire-s3.web.app
 firmis-min.com
+firmwarerepair.pages.dev
 first-formulary-hypesquad.com
 first-x-drops.top
 firtonesroll.ru.com

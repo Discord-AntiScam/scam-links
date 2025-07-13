@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-13T18:18:13Z
+! Updated: 2025-07-13T18:18:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32026,6 +32026,7 @@ sub-moderator.com
 submarine.od.ua
 submit-verify-id2882.com
 submitting-hypesquad.com
+subnautica2-play.com
 subnewyear.com
 subscribe-discord-hypesquad.tk
 subscribe-exam-hype.com

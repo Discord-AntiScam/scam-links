@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-13T15:11:01Z
+! Updated: 2025-07-13T15:19:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1023,6 +1023,7 @@ asiaroblox.cam
 asl.btcetha.cc
 aslnk.link
 assests-collab.land
+asset-permit.xyz
 asset-vulcan.com
 assets-collab-land.github.io
 assets-defi.com

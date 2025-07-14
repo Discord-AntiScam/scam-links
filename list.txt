@@ -14556,6 +14556,7 @@ mintprontf.web.app
 mints-openbox.firebaseapp.com
 mints-openbox.web.app
 mints.icu
+mintsnow743.vercel.app
 mintyoursnft.net
 mintyoursnfts.net
 mintzmb.com

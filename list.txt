@@ -19102,6 +19102,7 @@ s.team-ok.com
 s.team-rk.com
 s.team-vto.com
 s.team.gr.com
+s.teama.sbs
 s.teamr.sbs
 s00017.asia
 s1cases.site

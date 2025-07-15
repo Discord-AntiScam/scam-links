@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-15T05:58:42Z
+! Updated: 2025-07-15T06:23:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -8982,6 +8982,7 @@ drop-csgo.ru
 drop-dymension.xyz
 drop-esl.pw
 drop-exclusive.com
+drop-extreme.com
 drop-giveaway.top
 drop-ion.website
 drop-key.ru

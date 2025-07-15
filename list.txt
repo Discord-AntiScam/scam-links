@@ -2944,7 +2944,6 @@ collab-labs.net
 collab-land-access.app
 collab-land-api.app
 collab-land-bridge.com
-collab-land-crypto.com
 collab-land-dao.com
 collab-land-dapp.co.uk
 collab-land-dapp.com
@@ -13565,6 +13564,7 @@ land-community.com
 land-confirm.com
 land-dao.top
 land-db.top
+land-dc.app
 land-dc.top
 land-dis.top
 land-disc.top

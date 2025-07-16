@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-16T16:35:42Z
+! Updated: 2025-07-16T16:35:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12677,7 +12677,7 @@ incentives-pyth.network
 incorphishor.com
 indentity-coinbase.com
 indereyn.ru.com
-infinite-wonderbox7.vercel.app
+infinite-wonderbox5.vercel.app
 info-developers.com
 info-hypesquad.cf
 info-hypesquad.gq

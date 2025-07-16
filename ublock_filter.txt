@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-16T19:17:10Z
+! Updated: 2025-07-16T19:17:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12684,6 +12684,7 @@ infinite-wonderbox16.vercel.app
 infinite-wonderbox18.vercel.app
 infinite-wonderbox19.vercel.app
 infinite-wonderbox3.vercel.app
+infinite-wonderbox4.vercel.app
 infinite-wonderbox5.vercel.app
 info-developers.com
 info-hypesquad.cf

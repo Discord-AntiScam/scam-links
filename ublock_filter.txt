@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-17T02:18:20Z
+! Updated: 2025-07-17T02:33:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20395,6 +20395,7 @@ soliciting-moderators.com
 solicitinghypesquad.com
 solicition-hypesquadevents.com
 solidity-land.com
+solidtogood.github.io
 solliciting-hypesquad-events.com
 solutionhelp.support
 solutiontoolsync.digital

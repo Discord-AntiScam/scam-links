@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-17T22:26:36Z
+! Updated: 2025-07-17T22:36:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33140,6 +33140,7 @@ twitchloot.ru
 twitchmajor.com
 twitchmajors.com
 twitchprize.com
+twitchprizes.com
 twitchreward.com
 twitchroll.com
 twitchrust.com

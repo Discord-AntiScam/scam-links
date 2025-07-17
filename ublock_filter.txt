@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-16T22:40:24Z
+! Updated: 2025-07-17T01:48:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35122,6 +35122,7 @@ www.freeinstagramfollowersonline.com
 www.freenitrogenerator.tk
 www.freerobloxgenerator.tk
 www.hdiscordapp.com
+www.infinite-wonderbox9.vercel.app
 www.invitemoderatordiscord.com
 www.luckycrush.ga
 www.mekaversecollection.com

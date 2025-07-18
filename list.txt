@@ -11531,6 +11531,7 @@ guildassistant.click
 guildautomation.com
 guildbot.org
 guildcheck.net
+guildguardbot.cc
 guildguardpro.com
 guildian.org
 guildme.live

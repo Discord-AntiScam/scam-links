@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-18T12:21:16Z
+! Updated: 2025-07-18T13:11:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34838,6 +34838,7 @@ wolfdotgame.xyz
 womenforyou.net
 womeniover.com
 womeniovers.net
+wonder-project3.vercel.app
 wonderhall.net
 wooxcoin.com
 wop-intevents.ml

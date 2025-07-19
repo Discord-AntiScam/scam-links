@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-19T12:22:20Z
+! Updated: 2025-07-19T14:47:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -6229,6 +6229,7 @@ discord-online.com
 discord-online.ru
 discord-opensource.ml
 discord-org.com
+discord-outh2-matica.vercel.app
 discord-partner.com
 discord-partner.net
 discord-partners.com

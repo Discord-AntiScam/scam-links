@@ -19136,6 +19136,7 @@ s.team-vto.com
 s.team-yuk.com
 s.team.gr.com
 s.teama.sbs
+s.teamia.sbs
 s.teamj.sbs
 s.teamo.cfd
 s.teamr.sbs

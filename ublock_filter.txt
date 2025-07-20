@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-20T02:15:30Z
+! Updated: 2025-07-20T02:23:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16973,6 +16973,7 @@ polyhedra.ltd
 polyhedra.pw
 polyhedraa.network
 polyhedraairdrop.store
+polyhedraclaim.mobi
 polyhedradrop.com
 polyhedradrop.digital
 polyhedradrop.org

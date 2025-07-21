@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-20T19:17:59Z
+! Updated: 2025-07-21T07:30:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17441,6 +17441,7 @@ pulsechain-contribution.xyz
 pulsechainpass.app
 pulsechainpass.com
 pumpfun.tel
+pumr-fun-login-discord-wallet-verif.vercel.app
 punks-2023.com
 pupok.link
 pupvotes.xyz

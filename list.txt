@@ -34801,6 +34801,7 @@ wickapp.fun
 wickauth.com
 wickbot-verify.xyz
 wickbot.cc
+wickbot.co
 wickbot.fun
 wickbot.in
 wickbot.info

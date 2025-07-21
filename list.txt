@@ -14544,6 +14544,7 @@ mint-nft-box4.vercel.app
 mint-nft-box5.vercel.app
 mint-nft-box7.vercel.app
 mint-nft-box8.vercel.app
+mint-nft-box9.vercel.app
 mint-nft-boxx-murex.vercel.app
 mint-nftbox-3f8cd.firebaseapp.com
 mint-nftbox-3f8cd.web.app

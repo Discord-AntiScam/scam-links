@@ -14536,6 +14536,7 @@ mint-hatsunemiku.com
 mint-myboxnftn0w.web.app
 mint-mysteryboxprojts.vercel.app
 mint-mysteryboxx07.vercel.app
+mint-nft-box.vercel.app
 mint-nft-box1.vercel.app
 mint-nft-box2-gamma.vercel.app
 mint-nft-box3.vercel.app

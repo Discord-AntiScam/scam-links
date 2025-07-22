@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-22T11:53:17Z
+! Updated: 2025-07-22T13:22:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34820,6 +34820,7 @@ wickbot.pw
 wickbot.ru
 wickbot.site
 wickbot.space
+wickbots.com
 wickbots.site
 wickbots.space
 wickbotverify.fun

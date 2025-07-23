@@ -2994,6 +2994,7 @@ collab.claims
 collab.eth-land.com
 collab.gs
 collab.land-clubs.com
+collab.land-join.app
 collab.land.gl
 collab.land.gmbh
 collab.ms

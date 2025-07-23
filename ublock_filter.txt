@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-23T17:28:03Z
+! Updated: 2025-07-23T17:29:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35341,6 +35341,7 @@ xn--dos-fna.net
 xn--dscord-iwa.cc
 xn--dscordapp-vpb.com
 xn--hypequad-events-i4c.net
+xn--hypxel-yva.net
 xn--magceden-vkb.com
 xn--me6-lra.xyz
 xn--minecrft-5za.com

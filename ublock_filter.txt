@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-23T15:33:48Z
+! Updated: 2025-07-23T17:28:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12484,6 +12484,7 @@ hypixel.com.de
 hypixel.com.pl
 hypixel.com.ru
 hypixel.design
+hypixel.gift
 hypixel.in
 hypixel.me
 hypixel.net.tr

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-24T10:14:45Z
+! Updated: 2025-07-24T15:51:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19601,6 +19601,7 @@ shangqianshi.com
 shania.join-room-private.my.id
 shara-ai-discord-outh2.vercel.app
 shardeum.sec-web3.foundation
+shards-land.com
 share-roblox.com
 share.nowblox.com
 shared-tools.xyz

@@ -21982,6 +21982,7 @@ steam-promo-page.ml
 steam-pubg.club
 steam-pubgbattlegrounds.asia
 steam-rep.com
+steam-replacer.twc1.net
 steam-rewards.com
 steam-ru.ru
 steam-service.ru

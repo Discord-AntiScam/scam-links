@@ -15761,6 +15761,7 @@ nft-captchabot-security.com
 nft-clickgrab.vercel.app
 nft-g-opensea.vercel.app
 nft-giftbox16-neon.vercel.app
+nft-giftbox4-delta.vercel.app
 nft-hedgies.com
 nft-imints.com
 nft-lucky-b0x14.vercel.app

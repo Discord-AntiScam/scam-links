@@ -14593,6 +14593,7 @@ mintpool-nftbox.firebaseapp.com
 mintpool-nftbox.web.app
 mintproject-claim.web.app
 mintprontf.web.app
+mintptojects217.vercel.app
 mints-openbox.firebaseapp.com
 mints-openbox.web.app
 mints.icu

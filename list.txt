@@ -14600,6 +14600,7 @@ mintptojects213.vercel.app
 mintptojects214.vercel.app
 mintptojects216.vercel.app
 mintptojects217.vercel.app
+mintptojects219.vercel.app
 mints-openbox.firebaseapp.com
 mints-openbox.web.app
 mints.icu

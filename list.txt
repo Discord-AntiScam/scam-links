@@ -16557,6 +16557,7 @@ openseae.com
 openseagso.vercel.app
 openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev
 opensealink.vercel.app
+openseamint.mintlive.xyz
 openseamint2.firebaseapp.com
 openseamint2.web.app
 openseamint3.firebaseapp.com

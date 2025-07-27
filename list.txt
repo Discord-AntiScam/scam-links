@@ -16505,6 +16505,7 @@ opensea-box1.web.app
 opensea-case.vercel.app
 opensea-claim15-gamma.vercel.app
 opensea-claim4-kohl.vercel.app
+opensea-click23-olive.vercel.app
 opensea-clickclaim.vercel.app
 opensea-collab.vercel.app
 opensea-coming.vercel.app

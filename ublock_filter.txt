@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-27T17:59:09Z
+! Updated: 2025-07-27T18:36:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16617,6 +16617,7 @@ openseasi.vercel.app
 openseasolana28.vercel.app
 openseauth.info
 openseavos.vercel.app
+openseavsd.vercel.app
 openseaxins.vercel.app
 openseaxmintz.web.app
 openseazsi.vercel.app

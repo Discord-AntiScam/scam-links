@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-29T16:11:39Z
+! Updated: 2025-07-29T19:03:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11180,6 +11180,7 @@ gift-valorant.pro
 gift50steam.com
 gift71027416.asia
 giftcard-steam.com
+giftcardworkshop.com
 giftdicord.xyz
 giftdicsard.xyz
 giftdicsord.xyz

@@ -10053,6 +10053,7 @@ faceit-verifi.com
 faceit.3dmaxlobby.com
 faceit.clsseason.com
 faceit.gooseason.com
+faceit.wokseason.com
 faceit.xenseason.com
 faceitcase.com
 faceitcsgo.pro

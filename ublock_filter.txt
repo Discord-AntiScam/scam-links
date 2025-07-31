@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T00:15:30Z
+! Updated: 2025-07-31T00:20:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16416,6 +16416,7 @@ on-roblox.com
 one-percent-club-gate.com
 one-viseca-tipila8097259058.codeanyapp.com
 oneconnect.pages.dev
+oneconnectdapps.firebaseapp.com
 oneconnectdapps.web.app
 onegadget.ru
 onehave.xyz

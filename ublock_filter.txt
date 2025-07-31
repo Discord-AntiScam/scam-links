@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T01:20:58Z
+! Updated: 2025-07-31T15:39:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -6380,6 +6380,7 @@ discord-townhall.com
 discord-tracker.ru
 discord-trackingbot.com
 discord-trackingbot.fun
+discord-tradingview.click
 discord-tradingview.com
 discord-true.com
 discord-trustandsafety.com

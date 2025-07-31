@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T18:59:42Z
+! Updated: 2025-07-31T20:14:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -27780,6 +27780,7 @@ steampowered.game-playtest.com
 steampowered.gameinfoplaytest.com
 steampowered.guru
 steampowered.help
+steampowered.help-appeal.com
 steampowered.info
 steampowered.irl.com.pk
 steampowered.jcharante.com

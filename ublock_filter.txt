@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T15:39:25Z
+! Updated: 2025-07-31T15:39:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34621,6 +34621,7 @@ wagmi.gift
 wagnex.com
 wait-checking.ru
 wakulandcaptcha.xyz
+walcontmax.online
 walkers-crypto.xyz
 wallconet.onrender.com
 wallconnet.onrender.com

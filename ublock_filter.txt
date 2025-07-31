@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T20:14:59Z
+! Updated: 2025-07-31T21:20:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17210,6 +17210,7 @@ premiums-nitro.com
 premiumsdiscords.com
 premiumsgift.com
 premiumtelegram.fun
+presale-claim.pages.dev
 presale-claiming.vercel.app
 presale-ye.shop
 present-nitro.ru

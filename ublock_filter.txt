@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T18:14:36Z
+! Updated: 2025-07-31T18:59:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16910,6 +16910,7 @@ picked-join-hypesquad.com
 pickedfor-events.com
 pickedforhypesquad.com
 pickedhypesquad.gq
+picktwo.pages.dev
 picsartnitro.us
 picsartpromo.us
 piglinbrute.com

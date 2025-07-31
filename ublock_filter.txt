@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T00:20:32Z
+! Updated: 2025-07-31T01:20:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10055,6 +10055,7 @@ faceit-login.ru
 faceit-premium.com
 faceit-verifi.com
 faceit.3dmaxlobby.com
+faceit.bleseasons.com
 faceit.clsseason.com
 faceit.gleseason.com
 faceit.gooseason.com

@@ -10051,6 +10051,7 @@ faceit-login.ru
 faceit-premium.com
 faceit-verifi.com
 faceit.3dmaxlobby.com
+faceit.bleseasons.com
 faceit.clsseason.com
 faceit.gleseason.com
 faceit.gooseason.com

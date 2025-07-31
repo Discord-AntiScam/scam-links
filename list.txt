@@ -2956,6 +2956,7 @@ collab-land-gateway.com
 collab-land-mine.com
 collab-land-nodex.com
 collab-land-rares.com
+collab-land-spark.com
 collab-land-switch.com
 collab-land-txe.com
 collab-land-txp.com

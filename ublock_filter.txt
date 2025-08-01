@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-07-31T23:05:23Z
+! Updated: 2025-08-01T04:21:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -312,6 +312,7 @@ activationwalletlink.com
 active-badge.online
 active-giants.com
 active-trade.ltd
+ad-hellcase.com
 adalgard-wol.com
 adam-bomb.xyz
 adating.link

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-01T05:06:52Z
+! Updated: 2025-08-01T05:21:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14017,6 +14017,7 @@ lucah-melayu.my.id
 luck88200900021.asia
 lucky-case.com
 lucky4wins.club
+luckybox991.vercel.app
 luckycrush.ga
 luckydrop.site
 luckyfast.ru

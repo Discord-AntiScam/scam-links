@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-01T05:21:26Z
+! Updated: 2025-08-01T08:28:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9190,6 +9190,7 @@ dsvalues.com
 dsw-tools.gq
 dswcordgft.xyz
 dtscord.com
+dubai-global-village.com
 dubai2049.com
 duckfed.com
 ducksmoney.com

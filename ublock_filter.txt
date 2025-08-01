@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-01T15:15:14Z
+! Updated: 2025-08-01T16:15:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11389,6 +11389,7 @@ glob21.online
 global-dates-here.com
 global-fund.org
 global-survey-online.com
+global-village-tickets.com
 globalcs.monster
 globalomsk.ru
 globaltekforex.com

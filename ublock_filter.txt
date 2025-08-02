@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-02T11:55:59Z
+! Updated: 2025-08-02T11:56:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -471,6 +471,7 @@ alphacoinex.com
 alphaguard.vip
 alphaguards.xyz
 alphasource2.com
+alt-bot.cfd
 alt-bot.xyz
 alt-dentifier.org
 alt-dentifier.site

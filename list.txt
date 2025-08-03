@@ -3238,6 +3238,7 @@ connectjobcord.org
 connectnode.site
 connectpresalesolutions.pages.dev
 connects-collab.land
+connects-collab.xyz
 connects-forms-events-academy.com
 connects-forms-events-moderators-hypesquad.com
 connects-forms-events-moderators.com

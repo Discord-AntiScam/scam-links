@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-03T11:23:07Z
+! Updated: 2025-08-03T12:45:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3242,6 +3242,7 @@ connectjobcord.org
 connectnode.site
 connectpresalesolutions.pages.dev
 connects-collab.land
+connects-collab.xyz
 connects-forms-events-academy.com
 connects-forms-events-moderators-hypesquad.com
 connects-forms-events-moderators.com

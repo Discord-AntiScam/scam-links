@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-05T10:04:37Z
+! Updated: 2025-08-05T11:25:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14913,6 +14913,7 @@ multichainx.live
 multidappvalidator.vercel.app
 multisyncvalidator.com
 multiversechainx.com
+multiweb3dapps.vercel.app
 munexbit.com
 murenex.com
 musk-bit.com

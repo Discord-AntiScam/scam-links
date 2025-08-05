@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-05T11:25:00Z
+! Updated: 2025-08-05T17:12:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33184,6 +33184,7 @@ twitch-premiere.com
 twitch-premieres.com
 twitch-premiers.com
 twitch-prize.com
+twitch-raffle.pro
 twitch-raffles.com
 twitch-rival.com
 twitch-rivals.ru

@@ -19227,6 +19227,7 @@ s.team-ok.com
 s.team-qqq.com
 s.team-rk.com
 s.team-vto.com
+s.team-xr.com
 s.team-yuk.com
 s.team.gr.com
 s.teama.sbs

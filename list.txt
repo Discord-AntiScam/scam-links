@@ -14615,6 +14615,7 @@ mint-retrodiffusion.com
 mint-shardeum.org
 mint-sweetnftbox.web.app
 mintblockchain-rewards.vercel.app
+mintingprog8.vercel.app
 mintlebit.biz
 mintlink43.vercel.app
 mintmysterypro.web.app

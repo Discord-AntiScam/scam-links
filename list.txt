@@ -13612,6 +13612,7 @@ land-dc.app
 land-dc.top
 land-dis.top
 land-disc.top
+land-discord.app
 land-ethereum.com
 land-evm.com
 land-gate.com

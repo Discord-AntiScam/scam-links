@@ -16651,6 +16651,7 @@ openseauth.info
 openseavos.vercel.app
 openseavsd.vercel.app
 openseavsk.vercel.app
+openseavsoir.vercel.app
 openseaxins.vercel.app
 openseaxmintz.web.app
 openseazsi.vercel.app

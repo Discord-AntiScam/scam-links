@@ -16619,6 +16619,7 @@ openseanft-pr0ject.firebaseapp.com
 openseanft-projects.vercel.app
 openseanft2.vercel.app
 openseanfts-giveaway1.firebaseapp.com
+openseanftxsol3.vercel.app
 openseanowmynft.web.app
 openseaoffers.io
 openseap1.vercel.app

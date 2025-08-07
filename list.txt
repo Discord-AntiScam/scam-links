@@ -2945,6 +2945,7 @@ collab-connects.vip
 collab-discord.github.io
 collab-funder-land.com
 collab-gateway-land.com
+collab-joins-land.com
 collab-l2-land.com
 collab-labs.net
 collab-land-access.app

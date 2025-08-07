@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-07T01:19:20Z
+! Updated: 2025-08-07T03:19:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33260,6 +33260,7 @@ twitchdrop.space
 twitchdrop.top
 twitchdrop7.com
 twitchdropcs.com
+twitchdrops.cc
 twitchdrops.fun
 twitchdrops.net.ru
 twitchdrops.online

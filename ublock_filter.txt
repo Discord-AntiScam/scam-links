@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-07T17:14:21Z
+! Updated: 2025-08-08T00:25:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17721,6 +17721,7 @@ re-roblox.com
 readytosinglesmeet.com
 realeastateusmueiw.pages.dev
 realnetnews.com
+realoum.netlify.app
 realskins.xyz
 realtorg.xyz
 realtower.ru

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-08T15:10:57Z
+! Updated: 2025-08-08T16:26:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16534,6 +16534,7 @@ openclaimsd.vercel.app
 opendrop.io
 opengifts.space
 openlisiting.io
+openmind-check.web.app
 openmintnow.firebaseapp.com
 openmintnow.web.app
 openmintpool.web.app

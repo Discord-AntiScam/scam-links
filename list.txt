@@ -473,7 +473,6 @@ alt-dentifier.org
 alt-dentifier.site
 alt-dentifier.xyz
 alt-verifier.cfd
-alt-verlfying.cfd
 altdentefier.org
 altdentifer.com
 altdentifier-api.xyz
@@ -11573,6 +11572,7 @@ guildrole.xyz
 guildshield.net
 guildsystem.net
 guildverify.com
+guildxyz.com
 guitar-love.ru
 guns-slot.tk
 guxes.com

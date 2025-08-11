@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-11T18:20:04Z
+! Updated: 2025-08-11T20:50:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34788,6 +34788,7 @@ web-rolblox.com
 web-rolbox.com
 web-rpcdappfix.com
 web-satoshivm.io
+web-solutions.pages.dev
 web-syncdapp.pages.dev
 web-telegram.ink
 web-telegram.ru

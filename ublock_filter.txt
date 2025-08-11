@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-10T22:22:59Z
+! Updated: 2025-08-11T09:42:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33307,6 +33307,7 @@ twitchgg.shop
 twitchgg.skin
 twitchgift.com
 twitchgift.pro
+twitchgiftdrop.com
 twitchgifts.com
 twitchgive.com
 twitchiem.com

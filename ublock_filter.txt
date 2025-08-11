@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-11T14:56:17Z
+! Updated: 2025-08-11T18:20:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14048,6 +14048,7 @@ luckygift.space
 luckygo.ru
 luckygo.ru.com
 luckyiwin.ml
+luckymint9268.vercel.app
 luckywinner-web1.com
 ludibry.tech
 luminabit.com

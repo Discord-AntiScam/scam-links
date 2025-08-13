@@ -18661,6 +18661,7 @@ roblox.sh
 roblox.sn
 roblox.suarapmi.com
 roblox.sx
+roblox.tc
 roblox.td
 roblox.tg
 roblox.tl

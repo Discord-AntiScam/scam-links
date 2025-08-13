@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-13T13:23:46Z
+! Updated: 2025-08-13T13:23:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32598,6 +32598,7 @@ telewonders.art
 telpremiums.com
 telsabonus.live
 telsadouble.live
+temmiecat.github.io
 tenerix.com
 tenz-roll.lol
 tenz.skin

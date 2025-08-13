@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-13T06:29:46Z
+! Updated: 2025-08-13T13:23:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19704,6 +19704,7 @@ sgift-premium.xyz
 sgift-premiums.xyz
 sgifts.space
 sh.st
+shadow45921.github.io
 shadowpay.pp.ru
 shangqian163.com
 shangqianshi.com

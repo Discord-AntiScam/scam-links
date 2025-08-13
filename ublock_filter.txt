@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-13T13:24:10Z
+! Updated: 2025-08-13T13:25:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -329,6 +329,7 @@ admntrk.com
 adopt-meprivateserverlink362374383934.com
 adoptme.website
 adpopblocker.com
+adrilolghg.github.io
 adropped.app
 ads-apply-hype.com
 ads-discord.com

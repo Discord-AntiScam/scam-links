@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-14T08:20:14Z
+! Updated: 2025-08-14T09:10:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12909,6 +12909,7 @@ iroblox.com.ng
 iroblox.org
 irockhiphop.com
 iron-nitro.com
+irrel.25u.com
 isanofca.gq
 iscord.gift
 iscordglft.org

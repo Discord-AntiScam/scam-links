@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-13T16:53:56Z
+! Updated: 2025-08-14T03:04:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9507,6 +9507,7 @@ eese.io
 efixit.pages.dev
 efremovcsgo.ru
 egfites-premeum.com
+eggparty.claims
 eggvex.quest
 eggy.cool
 egift-3month.com

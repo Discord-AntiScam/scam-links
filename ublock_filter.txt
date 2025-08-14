@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-14T20:40:23Z
+! Updated: 2025-08-14T23:23:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10942,6 +10942,7 @@ geithub.com
 gemini-captcha.com
 geminiproa.shop
 gemtoon.com
+generalsupport.pages.dev
 generator.discordnitrogift.com
 genesis-dlymension.com
 genesis-dlymenslon.com

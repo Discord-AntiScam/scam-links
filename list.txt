@@ -14045,7 +14045,7 @@ lucky-giftbox12.vercel.app
 lucky-giftbox13.vercel.app
 lucky-giftbox15.vercel.app
 lucky-giftbox18.vercel.app
-lucky-giftbox23.vercel.app
+lucky-giftbox22.vercel.app
 lucky-giftbox8.vercel.app
 lucky4wins.club
 luckybox991.vercel.app

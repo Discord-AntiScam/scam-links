@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-15T15:31:02Z
+! Updated: 2025-08-15T16:21:35Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1180,6 +1180,7 @@ b38.info
 b50card.ru
 baac8634-fannykey.ru
 baac8634-www.fannykey.ru
+babb-bzrqe4jpt-indexbinary05-gmailcom.vercel.app
 babbara.xyz
 baby-roshan.top
 babycranial.com

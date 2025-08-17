@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-17T14:14:20Z
+! Updated: 2025-08-17T18:00:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11779,6 +11779,7 @@ https-www-rqblox.com
 https-wwwv-roblox.com
 https-wwww-roblox.com
 https-wwwww-roblox.com
+https-wwx-roblox.com
 httpss--www--roblox.com
 httpss--www-roblox.com
 httpss-roblox.com

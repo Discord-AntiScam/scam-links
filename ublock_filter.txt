@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-18T14:47:58Z
+! Updated: 2025-08-18T17:46:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -32972,6 +32972,7 @@ tollan.xyz
 ton-reward.com
 toncoin.hair
 toncoinsbot.pro
+tondrop.bittraderltd.com
 tonscoins.com
 toolblox.org
 toolkit.the-red-hand.com

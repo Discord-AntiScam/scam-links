@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-18T13:21:14Z
+! Updated: 2025-08-18T14:47:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2305,6 +2305,7 @@ captchabot.wtf
 captchabotauth.app
 captchabotauth.com
 captchabotdata.xyz
+captchabotdiscords.xyz
 captchabotentry.com
 captchabotguild.com
 captchabots-verify.xyz

@@ -2301,6 +2301,7 @@ captchabot.wtf
 captchabotauth.app
 captchabotauth.com
 captchabotdata.xyz
+captchabotdiscords.xyz
 captchabotentry.com
 captchabotguild.com
 captchabots-verify.xyz

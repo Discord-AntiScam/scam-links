@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-19T18:55:26Z
+! Updated: 2025-08-19T21:05:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1231,6 +1231,7 @@ be-hypesquad-formcom.com
 be-hypesquad-register.com
 be-moderator.com
 be-new-hypesquad-again.com
+beamers.si
 beaming.fun
 beamreward.com
 beargetawayoftheclearwater.com

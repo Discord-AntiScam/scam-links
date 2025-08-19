@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-19T06:45:28Z
+! Updated: 2025-08-19T06:45:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15032,6 +15032,7 @@ mxed8.cc
 mxed9.cc
 mxmcheats.online
 mxs-collabland.pages.dev
+my-collab-land.com
 my-cs2nfts.com
 my-discord-gift.com
 my-discord.xyz

@@ -6735,6 +6735,7 @@ discordbot.athulop1.repl.co
 discordbot.click
 discordbot.su
 discordbotads.com
+discordbotcaptcha.sbs
 discordbotcaptcha.xyz
 discordbothost.com
 discordbotist.com

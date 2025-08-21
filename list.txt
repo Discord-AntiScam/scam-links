@@ -19012,6 +19012,7 @@ rpc-connectdappslaunchpadprotocol.vercel.app
 rpc-metafix.pages.dev
 rpc-protocolsync.online
 rpc-webprotocol.com
+rpc-webprotocol.online
 rpcapifixroot.org
 rpcbrowser.org
 rpcbrowsers.com

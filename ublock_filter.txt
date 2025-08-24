@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-24T15:53:13Z
+! Updated: 2025-08-24T17:08:38Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1952,6 +1952,7 @@ btcbulltokenhelp.pages.dev
 btcclicks.com
 btccrypto-online.com
 btcetha.cc
+btchyper2support.pages.dev
 btcoinminetrx.xyz
 btconline.io
 btcpool.io

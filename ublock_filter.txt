@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-23T20:29:03Z
+! Updated: 2025-08-24T08:24:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -5504,6 +5504,7 @@ discord-academys.tk
 discord-academyvotes.com
 discord-acc.ru
 discord-accept.com
+discord-access.icu
 discord-account.com
 discord-account.repl.co
 discord-accounts.com

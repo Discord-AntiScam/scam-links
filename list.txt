@@ -14667,6 +14667,7 @@ mintingprog8.vercel.app
 mintlebit.biz
 mintlink43.vercel.app
 mintmydrop2.vercel.app
+mintmydrop27.vercel.app
 mintmydrop5.vercel.app
 mintmysterypro.web.app
 mintnow3840.vercel.app

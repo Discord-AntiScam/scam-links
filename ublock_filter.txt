@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-25T19:19:49Z
+! Updated: 2025-08-26T00:19:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11633,6 +11633,7 @@ happydays05.site
 happydays06.site
 haqqex-captchabot.com
 harambetoken.top
+hardcore-wing-cb7e9d.netlify.app
 harzfriends.de
 hash-connects.com
 haste.monster

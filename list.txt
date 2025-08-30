@@ -10887,6 +10887,7 @@ game-steam-csgo.ru
 game-steamcsgo.ru
 game-toptournaments.ru
 game-tournaments.net.ru
+game-trade-platform.vercel.app
 game0061.asia
 gameb-platform.com
 gameclaim.codes

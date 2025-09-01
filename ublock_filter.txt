@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-08-31T19:17:36Z
+! Updated: 2025-09-01T00:47:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34461,6 +34461,7 @@ vctroad.com
 vctset.com
 vctvalorant.com
 veafd.biz.id
+vebowex.com
 veiyosgfx.000webhostapp.com
 vellyad.my.id
 velo-gift.com

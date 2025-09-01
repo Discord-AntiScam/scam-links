@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-01T09:04:30Z
+! Updated: 2025-09-01T15:19:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18034,6 +18034,7 @@ rektguy-nft.xyz
 relationinfos0.wixsite.com
 relayednode-deploy.pages.dev
 reliable-skin.com
+remittixdapps.pages.dev
 remontidekor.ru
 remotenodeauth.pages.dev
 removalspam.click

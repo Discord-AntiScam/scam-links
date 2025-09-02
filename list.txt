@@ -9293,6 +9293,7 @@ dyno.cat
 dyno.cfd
 dyno.com.co
 dyno.com.de
+dyno.fi
 dyno.fm
 dyno.fo
 dyno.gl

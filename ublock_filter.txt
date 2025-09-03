@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-02T22:13:41Z
+! Updated: 2025-09-03T03:44:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14085,6 +14085,7 @@ lucky-giftbox18.vercel.app
 lucky-giftbox20.vercel.app
 lucky-giftbox23.vercel.app
 lucky-giftbox8.vercel.app
+lucky-mint.vercel.app
 lucky4wins.club
 luckybox-nft19.vercel.app
 luckybox-nft20.vercel.app

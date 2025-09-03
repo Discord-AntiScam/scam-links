@@ -11586,6 +11586,7 @@ guild-system.net
 guildassist.re
 guildassistant.click
 guildautomation.com
+guildbit.net
 guildbot.org
 guildcheck.net
 guildera.xyz
@@ -35774,7 +35775,6 @@ zondervirus.nl
 zoneforyourprize.life
 zoomexwallet.com
 zuckerbergbonus.com
-zuki-bot.vercel.app
 zukibird.vercel.app
 zuku-nfts.com
 zvideo-live.com

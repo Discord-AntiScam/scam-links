@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-03T06:47:41Z
+! Updated: 2025-09-03T06:47:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11590,6 +11590,7 @@ guild-system.net
 guildassist.re
 guildassistant.click
 guildautomation.com
+guildbit.net
 guildbot.org
 guildcheck.net
 guildera.xyz
@@ -35778,7 +35779,6 @@ zondervirus.nl
 zoneforyourprize.life
 zoomexwallet.com
 zuckerbergbonus.com
-zuki-bot.vercel.app
 zukibird.vercel.app
 zuku-nfts.com
 zvideo-live.com

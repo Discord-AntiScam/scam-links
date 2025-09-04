@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-03T19:27:26Z
+! Updated: 2025-09-04T05:49:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -343,6 +343,7 @@ adtr1.com
 adulttdates.com
 adultxxxblog11.in
 adverdirect.com
+adzap-wip.com
 aeth.app
 aeth.gift
 aeth.gifts

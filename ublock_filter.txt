@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-04T18:17:54Z
+! Updated: 2025-09-04T19:02:05Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35791,6 +35791,7 @@ zoneforyourprize.life
 zoomexwallet.com
 zuckerbergbonus.com
 zuki-bird.vercel.app
+zuki-bots.vercel.app
 zukibird.vercel.app
 zukibot.vercel.app
 zuku-nfts.com

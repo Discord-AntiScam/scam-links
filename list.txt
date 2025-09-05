@@ -15886,6 +15886,7 @@ nft-boxpool.web.app
 nft-captchabot-security.com
 nft-clickgrab.vercel.app
 nft-g-opensea.vercel.app
+nft-giftbox-steel.vercel.app
 nft-giftbox15-kohl.vercel.app
 nft-giftbox16-neon.vercel.app
 nft-giftbox2-silk.vercel.app

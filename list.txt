@@ -16698,6 +16698,7 @@ openseaclaims83.vercel.app
 openseaclaimzx.vercel.app
 openseacsdi.vercel.app
 openseacsjdb.vercel.app
+openseacsjo.vercel.app
 openseacsob.vercel.app
 openseaczai.vercel.app
 openseaczas.vercel.app

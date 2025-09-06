@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-06T19:54:26Z
+! Updated: 2025-09-06T19:54:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35046,6 +35046,7 @@ welcome-hypesquad-test.tk
 welcome-hypesquad.gq
 welcome-hypesquad.tk
 welcome-hypeteam.gq
+welcome-matrica.app
 welcome-register-squad.ml
 welcome-restorecord.ru
 welcome-subscribers-hypesquad.com

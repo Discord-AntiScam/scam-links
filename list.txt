@@ -9402,6 +9402,7 @@ dynogg.gs
 dynogg.link
 dynogiveaway.com
 dynohelp.net
+dynojoin.vercel.app
 dynolink.co
 dynoo.bid
 dynoo.org

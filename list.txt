@@ -9290,6 +9290,7 @@ dyno-verify.gg
 dyno-verify.net
 dyno-verify.online
 dyno-verify.xyz
+dyno-welcome.vercel.app
 dyno.asia
 dyno.authtoken-b78sj2d59cdd8bb7cd.repl.co
 dyno.autos

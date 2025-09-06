@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-06T17:24:48Z
+! Updated: 2025-09-06T19:20:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17644,6 +17644,7 @@ pubguccmobilefree.cf
 pubgve.asia
 pubgvn.asia
 pubgvo.asia
+pubgweix.vip
 pubgweiz.asia
 pubgwesk.art
 pubgwk.com

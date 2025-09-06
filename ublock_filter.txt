@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-06T08:04:07Z
+! Updated: 2025-09-06T08:10:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2789,6 +2789,7 @@ cliscord-nitro.xyz
 cliscord.site
 cliscordl.online
 cliscordl.ru
+clk.li
 clk.rtpdn*.com
 clkepd.com
 cll-collab-land.app

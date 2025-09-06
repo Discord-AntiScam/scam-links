@@ -9265,6 +9265,7 @@ dyno-gate.com
 dyno-gg.com
 dyno-gg.in
 dyno-gg.link
+dyno-join.vercel.app
 dyno-oauth2.xyz
 dyno-premium.xyz
 dyno-prove.us

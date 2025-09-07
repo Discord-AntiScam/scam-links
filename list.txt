@@ -16721,6 +16721,7 @@ openseae.com
 openseaft.vercel.app
 openseagid.vercel.app
 openseagjd.vercel.app
+openseagsc.vercel.app
 openseagso.vercel.app
 openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev
 opensealimitd9.vercel.app

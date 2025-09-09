@@ -11608,6 +11608,7 @@ guildian.org
 guildme.live
 guildmember.xyz
 guildrestore.xyz
+guildrole-sync.com
 guildrole.com
 guildrole.xyz
 guildshield.net

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-08T21:15:39Z
+! Updated: 2025-09-09T00:26:50Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9409,6 +9409,7 @@ dynohelp.net
 dynojoin.vercel.app
 dynojoining.vercel.app
 dynolink.co
+dynomember.vercel.app
 dynoo.bid
 dynoo.org
 dynopremium.app

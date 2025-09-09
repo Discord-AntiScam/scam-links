@@ -18733,6 +18733,7 @@ roblox.com.vc
 roblox.com.vu
 roblox.com.zm
 roblox.de.com
+roblox.do
 roblox.et
 roblox.eu.com
 roblox.eus

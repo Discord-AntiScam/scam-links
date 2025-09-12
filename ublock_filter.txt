@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-10T22:05:13Z
+! Updated: 2025-09-12T05:01:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14703,6 +14703,7 @@ mintfree102.bittraderltd.com
 mintingprog8.vercel.app
 mintlebit.biz
 mintlink43.vercel.app
+mintluckiest32.vercel.app
 mintmydrop12.vercel.app
 mintmydrop2.vercel.app
 mintmydrop27.vercel.app

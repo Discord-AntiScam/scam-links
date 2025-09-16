@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-16T18:58:25Z
+! Updated: 2025-09-16T18:58:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2700,6 +2700,7 @@ claim-paalai.xyz
 claim-polyhedra.net
 claim-polyhedra.network
 claim-polyhedra.org
+claim-ponke.pages.dev
 claim-pork.com
 claim-pork.pages.dev
 claim-porkcoin.org
@@ -2732,7 +2733,6 @@ claiming-requests-web3.xyz
 claiminghypixel.net
 claimlayerzero.net
 claimmyownnft.web.app
-claimneiro.pages.dev
 claimnft-box.web.app
 claimnftboxes.firebaseapp.com
 claimnftboxes.web.app

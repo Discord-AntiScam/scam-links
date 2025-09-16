@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-16T16:23:29Z
+! Updated: 2025-09-16T17:53:15Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35105,6 +35105,7 @@ whitelist-polyhedranetwork.com
 wholedailyfeed.com
 wick-app.site
 wick-bot.cam
+wick-bot.com
 wick-bot.fun
 wick-bot.github.io
 wick-bot.online

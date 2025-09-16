@@ -2728,6 +2728,7 @@ claiming-requests-web3.xyz
 claiminghypixel.net
 claimlayerzero.net
 claimmyownnft.web.app
+claimneiro.pages.dev
 claimnft-box.web.app
 claimnftboxes.firebaseapp.com
 claimnftboxes.web.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-20T09:14:09Z
+! Updated: 2025-09-21T00:12:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17895,6 +17895,7 @@ recruitment-moderator.com
 recruitment-to-hypesquad.com
 rectifiersecure-smartapp.pages.dev
 rectifyblockchain.pages.dev
+rectifytoken.com
 redeem-manta.com
 redeem-valorant.com
 redeem192841.com

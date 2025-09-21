@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-21T00:12:26Z
+! Updated: 2025-09-21T00:12:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34188,6 +34188,7 @@ uvaezhylg.top
 uvo-channels.com
 uvo-world.com
 uwww-roblox.com
+v-collab-land-asset.com
 v-dyno.xyz
 v-hypixel.com
 v-mee6.xyz

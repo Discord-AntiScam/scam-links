@@ -11608,6 +11608,7 @@ guildbit.net
 guildbot.org
 guildcheck.net
 guildera.xyz
+guildguard-sync.com
 guildguardbot.cc
 guildguardbot.xyz
 guildguardpro.com

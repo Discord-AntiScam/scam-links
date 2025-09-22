@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-22T16:21:03Z
+! Updated: 2025-09-22T17:01:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11344,6 +11344,7 @@ gimmos.xyz
 ginedis.com
 giopodike.gq
 girlssohorny.net
+gitcoin-passport.com
 gitdhube.com
 gitf-staem-dic0rd.xyz
 gitfs-discord.ru

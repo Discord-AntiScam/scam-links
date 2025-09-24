@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-24T11:23:20Z
+! Updated: 2025-09-24T11:26:53Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -547,6 +547,7 @@ anleitung-unterstutzung-konto.netlify.app
 annintus.com
 announcing-examacademy.com
 announcing-recruitmentacademy.com
+anoma.news
 anonymousrop.live
 anti-bot-chillbearclub.deno.dev
 anti-bot-verification.xyz

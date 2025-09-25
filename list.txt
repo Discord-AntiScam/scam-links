@@ -2555,6 +2555,7 @@ chainlink-connect-app-secure.pages.dev
 chainlink.am
 chainlink.limited
 chainlink.website
+chainopera.foundation
 chainpads.web.app
 chains-analytics.web.app
 chains-estimate.web.app

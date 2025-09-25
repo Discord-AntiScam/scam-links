@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-25T21:30:57Z
+! Updated: 2025-09-25T21:32:25Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11694,6 +11694,7 @@ hd-xxxclassic.club
 hdiscord.com
 hdiscordapp.com
 hdvideoforums.org
+headshotarena.com
 headsnettsal.gq
 healthystyle.info
 heartmedia.biz

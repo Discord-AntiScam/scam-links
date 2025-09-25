@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-25T00:27:16Z
+! Updated: 2025-09-25T10:28:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35528,6 +35528,7 @@ www.invitemoderatordiscord.com
 www.levelupsteam.site
 www.luckycrush.ga
 www.mekaversecollection.com
+www.poweredworkart.shop
 www.r.oblox.co.cm
 www.r.oblox.com.im
 www.r.oblox.eu

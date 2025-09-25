@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-25T10:28:55Z
+! Updated: 2025-09-25T11:20:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17011,6 +17011,7 @@ paperhold-net.web.app
 paperholder-ethereum.web.app
 paperholder-network.web.app
 paperholding-ethereum.web.app
+paradlgm.cc
 paradlgm.com
 paragonlootz.com
 paranoid.pro

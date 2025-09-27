@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-09-27T21:17:39Z
+! Updated: 2025-09-27T21:18:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35519,6 +35519,7 @@ www.claim-your-nitro.com
 www.claim.robuxat.com
 www.claimnitro.me
 www.communitybuildcreate.com
+www.communitybuildcreator.com
 www.communitycreatordev.com
 www.communitydevshop.com
 www.creditscpfree.website

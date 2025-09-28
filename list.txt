@@ -19420,6 +19420,7 @@ s.team-a.xyz
 s.team-aaf.com
 s.team-cnw.com
 s.team-cvt.com
+s.team-cxv.com
 s.team-cxv.pro
 s.team-cxz.pro
 s.team-ftn.com

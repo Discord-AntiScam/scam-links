@@ -3022,6 +3022,7 @@ collab-security.land
 collab-sync.land
 collab-token.com
 collab-verify.land
+collab-walletgate-land.com
 collab-webapp.com
 collab-wl-land.com
 collab.ac

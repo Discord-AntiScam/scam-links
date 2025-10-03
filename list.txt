@@ -19434,6 +19434,7 @@ s.team-ftn.com
 s.team-hi.com
 s.team-ichigo.com
 s.team-jv.com
+s.team-kg.com
 s.team-l.me
 s.team-l.sbs
 s.team-le.com

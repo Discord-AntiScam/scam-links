@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-03T19:25:08Z
+! Updated: 2025-10-03T21:18:54Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15893,6 +15893,7 @@ new-valorant.com
 new-x-giveaway.top
 new.discord-academy.repl.co
 new.mychaelknight.com
+new.raze-x-leaggue.com
 newapply-events.gq
 newcs2.com
 newcs2.pro

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-03T22:37:40Z
+! Updated: 2025-10-04T02:08:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14113,6 +14113,7 @@ loyal.wf
 loyalty-polyhedra.network
 loyaltys.online
 loycoins.com
+lp-chaingpt.net
 lp3xc.site
 lpsteamcommunity.com
 lroblox.org

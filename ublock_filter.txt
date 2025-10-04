@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-04T02:22:44Z
+! Updated: 2025-10-04T02:23:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15080,6 +15080,7 @@ muskbtc.io
 muskbtc.tech
 muskcase.com
 muskcoins.org
+muskcord.com
 muskcryptos.net
 muskcryptplatform.us
 muskday.io

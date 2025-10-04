@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-04T02:53:07Z
+! Updated: 2025-10-04T02:54:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15094,6 +15094,7 @@ muskgate.com
 muskgets.net
 muskgets.org
 muskgive.fun
+muskgiveaway.vercel.app
 muskgiveawaycrypto.com
 muskinvest.org
 musklink.org

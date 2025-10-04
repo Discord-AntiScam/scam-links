@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-04T02:51:30Z
+! Updated: 2025-10-04T02:52:21Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33305,6 +33305,7 @@ trktrk.club
 tronexchangevalidate.pages.dev
 truepnl-giveaway.info
 trulove.guru
+trumpusa.live
 trust-swapx.com
 trust-wallet-chi.vercel.app
 trust-web3.com

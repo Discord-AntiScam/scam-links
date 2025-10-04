@@ -1137,6 +1137,7 @@ authorizationify.click
 authorize-collab.land
 authorize-collab.top
 authorize-collab.vip
+authorize-collab.xyz
 authorize-roblox.com
 authpostbase.com
 authsaffiras.cloud

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-04T02:56:23Z
+! Updated: 2025-10-04T02:57:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35690,6 +35690,7 @@ x2-promo.net
 x2-spacex.com
 x2-tesla.com
 x2-tesla.tech
+x2025.pages.dev
 x2bitcoin.net
 x2bonus.com
 x2bonus.net

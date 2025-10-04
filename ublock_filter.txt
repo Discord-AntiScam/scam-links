@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-04T15:20:15Z
+! Updated: 2025-10-04T17:11:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10990,6 +10990,7 @@ gate-satoshi.com
 gate-undeads-club.com
 gatekava.link
 gatekava.live
+gatepass-land.com
 gates-satoshivm.com
 gateway-collab.com
 gateway-system.net

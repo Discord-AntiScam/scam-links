@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-05T09:32:23Z
+! Updated: 2025-10-05T21:13:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33056,6 +33056,7 @@ tetherstable.net
 tetherstable.org
 tewerel.gq
 texaswhitetailfever.com
+tf2live.com
 tf2snow.pro
 tf2trades.shop
 tf2warroom.com

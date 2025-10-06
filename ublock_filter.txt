@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-06T13:55:28Z
+! Updated: 2025-10-06T13:55:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -359,6 +359,7 @@ affix-cup.link
 affixarena.com
 affixcup.it
 afhwarranty.com
+afun-bett.com
 again-hype-events.ga
 agency-support-poilcy.com
 agixgift.com

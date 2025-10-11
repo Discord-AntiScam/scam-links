@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-11T16:19:57Z
+! Updated: 2025-10-11T23:20:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16489,6 +16489,7 @@ numpix.com
 nv-box.com
 nv-drop.com
 nv2023.com
+nvluw2dsal.servegame.com
 nyalacornily.cam
 nylachristina.com
 nyw-hypesquadteam.com

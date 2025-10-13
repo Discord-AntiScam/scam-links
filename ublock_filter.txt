@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-13T16:29:05Z
+! Updated: 2025-10-13T16:29:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -692,6 +692,7 @@ api86-collab.land
 apicollab.land
 apidaap.pages.dev
 apilond.com
+apimanagerredirect.vercel.app
 apirepair.autoprin.com
 apis-collabland.com
 apis-roblox.com
@@ -20162,7 +20163,6 @@ signups-hypesquad-formularys.com
 signups-of-hypeteams.com
 signups-portalgaming.com
 signups-to-hypesquad.com
-signwallet-land.com
 siites-roblox.com
 silo.claims
 siltes-roblox.com

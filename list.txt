@@ -688,6 +688,7 @@ api86-collab.land
 apicollab.land
 apidaap.pages.dev
 apilond.com
+apimanagerredirect.vercel.app
 apirepair.autoprin.com
 apis-collabland.com
 apis-roblox.com
@@ -20158,7 +20159,6 @@ signups-hypesquad-formularys.com
 signups-of-hypeteams.com
 signups-portalgaming.com
 signups-to-hypesquad.com
-signwallet-land.com
 siites-roblox.com
 silo.claims
 siltes-roblox.com

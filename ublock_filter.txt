@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-13T08:19:29Z
+! Updated: 2025-10-13T10:45:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1231,6 +1231,7 @@ baseservicedomain.net
 baseservicedomain.org
 baseswaap.top
 baslerkislaya.com
+battlemag.es
 baxtrion.com
 bayc-event.net
 baymack.com

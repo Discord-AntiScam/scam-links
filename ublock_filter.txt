@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-13T20:25:56Z
+! Updated: 2025-10-13T20:26:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15071,6 +15071,7 @@ msverify.dev
 msx2.top
 msx2btc.net
 mt216.asia
+mtsbank.myvnc.com
 multairdrops.com
 multiadblock.com
 multiairdrops.com

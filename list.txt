@@ -11632,6 +11632,7 @@ guild-captchas.site
 guild-collab.land
 guild-era.web.app
 guild-gate.click
+guild-guard.pro
 guild-guard.xyz
 guild-lookup.xyz
 guild-protect.xyz

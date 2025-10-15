@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-15T07:24:49Z
+! Updated: 2025-10-15T17:10:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35931,6 +35931,7 @@ zaglotyz.net.ru
 zajtrkhisa.xyz
 zakryma.ru
 zamanula.ru
+zap-land.com
 zbysdw.com
 zctrack.com
 zdcombo.ru

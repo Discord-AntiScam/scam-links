@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-15T22:37:50Z
+! Updated: 2025-10-15T22:38:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34849,6 +34849,7 @@ viearad.top
 vieared.top
 viearod.top
 vieartd.top
+view-asset.com
 viewc.site
 viirused.ee
 vincere-drops.pro

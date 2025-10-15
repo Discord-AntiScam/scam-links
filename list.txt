@@ -19526,6 +19526,7 @@ s.teamo.cfd
 s.teamq.cfd
 s.teamr.sbs
 s.teams-li.com
+s.teams-ru.com
 s.teams.ci
 s.teams.ht
 s.teams.tl

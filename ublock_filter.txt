@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-16T15:41:10Z
+! Updated: 2025-10-16T19:37:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16020,6 +16020,7 @@ nft-giftclaim16.vercel.app
 nft-giftclaim18.vercel.app
 nft-giftclaim29.vercel.app
 nft-hedgies.com
+nft-hunt2.vercel.app
 nft-imints.com
 nft-lucky-b0x14.vercel.app
 nft-luckybox14-mu.vercel.app

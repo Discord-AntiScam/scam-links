@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-16T06:28:19Z
+! Updated: 2025-10-16T11:07:09Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15853,6 +15853,7 @@ network-layerzero.app
 network-polyhedra.com
 network-uniswap.web.app
 networkpolyhedra.net
+networks-uniswap.web.app
 networksui.com
 new-academy-forms-renew-testers-moderetors-connect.com
 new-apply-beta.com

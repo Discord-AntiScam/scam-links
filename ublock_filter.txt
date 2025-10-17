@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-17T10:16:24Z
+! Updated: 2025-10-17T10:58:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12666,6 +12666,7 @@ hypsquad-invitation.com
 hypsquad-join.gq
 hyro-wickbot.com
 hyrohl-wickbot.com
+hyrowickbot.com
 hythelis.com
 hytopia-claim.com
 hytopia.app

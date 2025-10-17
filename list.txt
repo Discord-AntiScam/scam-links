@@ -12662,6 +12662,7 @@ hypsquad-invitation.com
 hypsquad-join.gq
 hyro-wickbot.com
 hyrohl-wickbot.com
+hyrowickbot.com
 hythelis.com
 hytopia-claim.com
 hytopia.app

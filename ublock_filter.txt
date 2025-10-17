@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-17T06:51:07Z
+! Updated: 2025-10-17T10:16:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3191,6 +3191,7 @@ communitygameshop.com
 communitygamesusers.com
 communitygive.site
 communityinfoworkshops.com
+communitymarketsdevs.com
 communitysteam.ru
 communitystoreskin.com
 communitystoreskins.com

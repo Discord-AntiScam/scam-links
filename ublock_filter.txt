@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-17T10:58:02Z
+! Updated: 2025-10-17T19:10:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2592,6 +2592,7 @@ champvalorant.com
 chancenow.io
 changetournament.ru
 channel1.byethost24.com
+chaptca.bot
 chaptcha.bot
 chat-gpt22.com
 chat-gpt23.com

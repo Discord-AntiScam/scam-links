@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-18T16:15:12Z
+! Updated: 2025-10-18T22:26:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17437,6 +17437,7 @@ power-sk1n.net.ru
 poweredartshop.icu
 poweredcommunity.com
 poweredgamedev.com
+powereditemart.shop
 powereduserart.shop
 poweredworkshop.com
 poweredworkshoparts.com

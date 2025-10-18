@@ -14009,7 +14009,6 @@ live-airdrops.com
 live-openseafreenft779.vercel.app
 live-pepe.com
 live-tokensmintnow20.vercel.app
-live-tokensmintnow22.vercel.app
 live-tokensmintnow26.vercel.app
 live-tokensmintnow27.vercel.app
 live-tokensmintnow28.vercel.app
@@ -14017,6 +14016,7 @@ live-tokensmintnow3.vercel.app
 live-tokensmintnow30.vercel.app
 live-tokensmintnow4.vercel.app
 live-tokensmintnow5.vercel.app
+live-tokensmintnow8.vercel.app
 live-zetachain.com
 liveboxmints6.vercel.app
 livechainsync.pro

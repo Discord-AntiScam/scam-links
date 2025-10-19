@@ -3034,6 +3034,7 @@ collab-redirection.com
 collab-safe-land.com
 collab-security.land
 collab-sig-land.com
+collab-sig-wallet-land.com
 collab-sync.land
 collab-token.com
 collab-verify.land

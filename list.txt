@@ -3002,6 +3002,7 @@ collab-land-mine.com
 collab-land-nodex.com
 collab-land-nonce.com
 collab-land-rares.com
+collab-land-sig-wallet.com
 collab-land-spark.com
 collab-land-switch.com
 collab-land-txe.com

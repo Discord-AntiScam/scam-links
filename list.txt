@@ -14815,6 +14815,7 @@ mintmydrop27.vercel.app
 mintmydrop44.vercel.app
 mintmydrop5.vercel.app
 mintmysterypro.web.app
+mintnew-toknso7.vercel.app
 mintnow3840.vercel.app
 mintopenseapro32.vercel.app
 mintpool-box.firebaseapp.com

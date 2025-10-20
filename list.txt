@@ -613,6 +613,7 @@ apellobot.gg
 apellobot.xyz
 apelloconnect.app
 apellogate.io
+apellogate.me
 apellogate.net
 apellogate.org
 apellogate.xyz

@@ -20824,6 +20824,7 @@ smart-paym.su
 smartauthrectify.pages.dev
 smartcommunity.net
 smartdatahex.pages.dev
+smartdexissuesfix.pages.dev
 smartdrap.ru
 smartechresolver.pages.dev
 smartmultichainconnect.com

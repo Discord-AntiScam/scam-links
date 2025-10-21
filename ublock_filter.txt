@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-21T12:14:07Z
+! Updated: 2025-10-21T13:59:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20828,6 +20828,7 @@ smart-paym.su
 smartauthrectify.pages.dev
 smartcommunity.net
 smartdatahex.pages.dev
+smartdexissuesfix.pages.dev
 smartdrap.ru
 smartechresolver.pages.dev
 smartmultichainconnect.com

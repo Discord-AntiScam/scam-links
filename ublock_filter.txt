@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-22T08:22:46Z
+! Updated: 2025-10-22T14:22:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33289,6 +33289,7 @@ token-port3.pages.dev
 tokenlivemint94.vercel.app
 tokenmint-live79.vercel.app
 tokenmint-projs86.vercel.app
+tokenmintapace60.vercel.app
 tokenmintapace68.vercel.app
 tokenmintings-nft1.vercel.app
 tokenmintings-nfts7.vercel.app

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-22T14:22:20Z
+! Updated: 2025-10-22T18:02:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10888,6 +10888,7 @@ fundtesla.io
 fungameapp.ru
 fuovi.com
 furballsnft.art
+furballsnfts.com
 furry.surf
 furyxcoin.com
 fusionexchange.xyz

@@ -11683,6 +11683,7 @@ guildrole.net
 guildrole.xyz
 guildsbot.live
 guildshield.net
+guildsxyz.live
 guildsystem.net
 guildverify.com
 guildxyz.app

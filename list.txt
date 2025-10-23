@@ -33292,6 +33292,7 @@ tokenmintapace68.vercel.app
 tokenmintapace70.vercel.app
 tokenmintapace71.vercel.app
 tokenmintapace72.vercel.app
+tokenmintapace81.vercel.app
 tokenmintings-nft1.vercel.app
 tokenmintings-nfts7.vercel.app
 tokens-circle.net

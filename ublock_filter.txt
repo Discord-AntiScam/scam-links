@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-23T16:35:44Z
+! Updated: 2025-10-23T20:16:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19589,6 +19589,7 @@ s.teams-si.com
 s.teams.ci
 s.teams.ht
 s.teams.tl
+s.teamss.cfd
 s.teamuri.com
 s.teamv.cfd
 s.teamvu.world

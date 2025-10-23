@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-22T22:59:08Z
+! Updated: 2025-10-23T00:13:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10359,6 +10359,7 @@ fergodex.com
 feskins.com
 fex-galxe.site
 feysg6hs.s-qn.my.id
+fgfr4hf44fhf.duckdns.org
 fi-connect-space.tech
 fictiongroin.com
 fighterera.online

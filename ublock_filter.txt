@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-23T20:31:12Z
+! Updated: 2025-10-24T08:37:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9057,6 +9057,7 @@ dream-valorant.com
 dreamcoin24.com
 dreamfragger.pro
 dreamone.online
+drgamesgg.github.io
 driscord.gift
 driscord.ru
 driscord.ru.com

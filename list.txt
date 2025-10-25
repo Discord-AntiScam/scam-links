@@ -14027,6 +14027,7 @@ live-airdrop.com
 live-airdrop.xyz
 live-airdrops.com
 live-openseafreenft779.vercel.app
+live-openseamints31.vercel.app
 live-pepe.com
 live-tokensmintnow20.vercel.app
 live-tokensmintnow26.vercel.app

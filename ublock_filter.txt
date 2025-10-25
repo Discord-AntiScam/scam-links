@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-25T16:17:07Z
+! Updated: 2025-10-25T17:16:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17013,6 +17013,7 @@ org-m.pro
 org-roblox.com
 organization-discord.com
 organogold-business.com
+origin.latamairlines.com
 os-roblox.com
 osiedloweprzekazy.click
 oskarbit.com

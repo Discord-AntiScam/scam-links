@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-25T05:52:38Z
+! Updated: 2025-10-25T05:52:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11663,7 +11663,6 @@ guild-sledgehammer.app
 guild-system-bot.com
 guild-system-verif.app
 guild-system.net
-guildapp.live
 guildassist.re
 guildassistant.click
 guildautomation.com
@@ -11794,6 +11793,7 @@ hexenbesen-gerst.de
 hexgift.net
 hexpool.net
 heymint.org
+heymintbot.com
 heyreap3r.xyz
 hffp.ru
 hfrhbomosa.com

@@ -11659,7 +11659,6 @@ guild-sledgehammer.app
 guild-system-bot.com
 guild-system-verif.app
 guild-system.net
-guildapp.live
 guildassist.re
 guildassistant.click
 guildautomation.com
@@ -11790,6 +11789,7 @@ hexenbesen-gerst.de
 hexgift.net
 hexpool.net
 heymint.org
+heymintbot.com
 heyreap3r.xyz
 hffp.ru
 hfrhbomosa.com

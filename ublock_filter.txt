@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-25T08:23:30Z
+! Updated: 2025-10-25T08:26:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35915,6 +35915,7 @@ xmasvalorant.eu
 xmoonup.com
 xn--chin-6na.link
 xn--collab-lnd-x5a.com
+xn--cptcha-ita.bot
 xn--discod-fib.com
 xn--discor-12a.com
 xn--dos-fna.net

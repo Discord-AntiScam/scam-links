@@ -15296,6 +15296,7 @@ mysrerybox.vercel.app
 mysrv.us
 myst-island.com
 mysterubox.vercel.app
+mystery-box-flax.vercel.app
 mystery-box-sandy.vercel.app
 mystery-box2.vercel.app
 mystery-box8-opal.vercel.app

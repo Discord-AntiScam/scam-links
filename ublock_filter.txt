@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-26T04:33:48Z
+! Updated: 2025-10-26T08:24:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20309,6 +20309,7 @@ skin-baron.pro
 skin-baron.top
 skin-boxes.com
 skin-case.ru
+skin-cs2.ru
 skin-csgo-2023.pro
 skin-drops.com
 skin-faze.ru

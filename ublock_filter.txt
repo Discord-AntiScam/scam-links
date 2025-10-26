@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-26T01:28:26Z
+! Updated: 2025-10-26T03:28:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17845,6 +17845,7 @@ pumptokenrewards.web.app
 pumr-fun-login-discord-wallet-verif.vercel.app
 punks-2023.com
 pupok.link
+pupunya.duckdns.org
 pupvotes.xyz
 purplehoodie.com
 putffer.fi

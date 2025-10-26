@@ -2256,6 +2256,7 @@ captcha.systems
 captcha.tf
 captcha.tips
 captcha.tools
+captcha.vercel.app
 captcha.wiki
 captcha.works
 captcha.ws

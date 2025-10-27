@@ -1902,6 +1902,7 @@ botverifier.online
 botverifier.xyz
 botverify-protecting.xyz
 botverify.online
+botverify.vercel.app
 botverifycom.ru
 botvulcan.com
 botwick.site

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-27T03:31:51Z
+! Updated: 2025-10-27T04:28:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34762,6 +34762,7 @@ vamox.shop
 vanarchaiin.com
 varbloox.com
 varfabit.com
+vault-land.com
 vault-pulse.online
 vault-pulse.ru
 vaultcord.digital

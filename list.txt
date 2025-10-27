@@ -34921,6 +34921,7 @@ verifycaptcha-bot.online
 verifycaptcha-bot.site
 verifycaptcha.net
 verifycaptcha.org
+verifycaptcha.vercel.app
 verifycaptcha.xyz
 verifycaptchabot.site
 verifycaptchas.xyz

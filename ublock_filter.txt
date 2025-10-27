@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-10-27T10:57:12Z
+! Updated: 2025-10-27T12:30:55Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11671,6 +11671,7 @@ guild-sledgehammer.app
 guild-system-bot.com
 guild-system-verif.app
 guild-system.net
+guild-verify.vercel.app
 guildassist.re
 guildassistant.click
 guildautomation.com

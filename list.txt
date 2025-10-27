@@ -14052,6 +14052,7 @@ live-openseamints88.vercel.app
 live-openseasmint12.vercel.app
 live-openseasmint13.vercel.app
 live-openseasmint14.vercel.app
+live-openseasmint15.vercel.app
 live-openseasmint29.vercel.app
 live-pepe.com
 live-tokensmintnow20.vercel.app

@@ -11697,6 +11697,7 @@ guildshield.net
 guildsxyz.live
 guildsystem.net
 guildverify.com
+guildverify.vercel.app
 guildxyz.app
 guildxyz.com
 guildxyz.live

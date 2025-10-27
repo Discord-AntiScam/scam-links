@@ -34882,6 +34882,7 @@ verify-dircord-captch.ru
 verify-discord.com
 verify-dyno.com
 verify-dyno.xyz
+verify-guild.vercel.app
 verify-hypixel.onrender.com
 verify-login-captchabot.org
 verify-login-prottect.online

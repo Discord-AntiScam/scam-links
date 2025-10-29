@@ -14858,6 +14858,7 @@ mint-sweetnftbox.web.app
 mintblockchain-rewards.vercel.app
 mintfree100.vercel.app
 mintfree102.bittraderltd.com
+minting-box02-pearl.vercel.app
 mintingprog8.vercel.app
 mintingsession-now6.vercel.app
 mintlebit.biz

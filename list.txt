@@ -19634,6 +19634,7 @@ s.teamq.cfd
 s.teamr.sbs
 s.teams-li.com
 s.teams-p.com
+s.teams-pi.com
 s.teams-ru.com
 s.teams-si.com
 s.teams.ci

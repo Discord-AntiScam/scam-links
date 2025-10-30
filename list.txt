@@ -14830,6 +14830,7 @@ mint-nftbox025-eight.vercel.app
 mint-nftbox07-chi.vercel.app
 mint-nftbox20-three.vercel.app
 mint-nftbox42.vercel.app
+mint-nftbox8-nine.vercel.app
 mint-nftbox9-phi.vercel.app
 mint-nftpoligon.firebaseapp.com
 mint-nowopenseaeth.firebaseapp.com

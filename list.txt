@@ -14878,6 +14878,7 @@ mintingnow-opnsea34.vercel.app
 mintingnow-opnsea36.vercel.app
 mintingnow-opnsea52.vercel.app
 mintingnow-opnsea53.vercel.app
+mintingnow-opnsea54.vercel.app
 mintingprog8.vercel.app
 mintingsession-now6.vercel.app
 mintlebit.biz

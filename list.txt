@@ -14870,6 +14870,7 @@ minting-box3.vercel.app
 minting-box5.vercel.app
 minting-box6.vercel.app
 minting-box7.vercel.app
+mintingnow-opnsea21.vercel.app
 mintingprog8.vercel.app
 mintingsession-now6.vercel.app
 mintlebit.biz

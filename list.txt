@@ -35441,6 +35441,7 @@ wick-verifycation.ru
 wick.direct
 wickapp.fun
 wickauth.com
+wickbot-2mhj6trw9efq.vercel.app
 wickbot-verify.xyz
 wickbot.cc
 wickbot.co

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-01T12:22:44Z
+! Updated: 2025-11-01T12:47:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2561,6 +2561,7 @@ ceo-space-x.net
 ceoinbase.com
 certified-collab.land
 certified-moderating-school.com
+certify-land.com
 certifycryptojob.online
 ceters.net
 cex-3m-shib-giveaway.bounty-connect.live

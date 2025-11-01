@@ -22583,6 +22583,7 @@ steam.workshopcosmeticsdetil.com
 steam.workshopdetailscosmetic.com
 steam.workshopinfoitemwickedrose.com
 steam.workshopinfoview.com
+steam.workshopitemviews.com
 steam.workshopswickedrose.com
 steam.workshopviewinfo.com
 steam.workshopvoteskinspack.com

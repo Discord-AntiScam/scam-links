@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-02T08:33:06Z
+! Updated: 2025-11-02T09:11:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1966,7 +1966,6 @@ bridgecybria.io
 briofex.com
 bro4.biz
 bronsky.kiev
-brothersskins.com
 brvr235fy.xyz
 bsh.gg
 bt96301.asia

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-02T21:24:57Z
+! Updated: 2025-11-02T22:40:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20351,6 +20351,7 @@ singup-moderator.com
 singup-moderators.com
 singup-modmail.com
 singup-satoshivm.com
+sisalohy.ru
 sisyphean-milligram.000webhostapp.com
 site-roblox.co
 site-roblox.net

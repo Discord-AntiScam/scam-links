@@ -1995,6 +1995,7 @@ bugbounty-invite.dev
 bugfixserver.pages.dev
 bullcoin24.com
 bumexbit.com
+bundle-measurements.com
 bundle-valorant.fun
 bundle.valplays.com
 bundlevalorant.com

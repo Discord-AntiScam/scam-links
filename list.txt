@@ -35483,7 +35483,6 @@ wickbot-2mhj6trw9efq.vercel.app
 wickbot-6a2hjcxv3mn29.vercel.app
 wickbot-7kpqr9mnx2vl.vercel.app
 wickbot-af3ht8wyj5ed.vercel.app
-wickbot-h6hg9unj3wqn.vercel.app
 wickbot-verify.xyz
 wickbot.cc
 wickbot.co
@@ -35491,6 +35490,7 @@ wickbot.fun
 wickbot.in
 wickbot.info
 wickbot.ink
+wickbot.net
 wickbot.online
 wickbot.pro
 wickbot.pw

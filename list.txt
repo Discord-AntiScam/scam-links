@@ -1573,6 +1573,7 @@ blasze.com
 blasze.tk
 block-node.com
 blockchain-mainnet.pages.dev
+blockchain-netnodes.vercel.app
 blockchainmainetdapps.pages.dev
 blockchainsupportdapps.pages.dev
 blockchainsynchronize.pages.dev

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-04T03:47:35Z
+! Updated: 2025-11-04T03:47:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1186,7 +1186,6 @@ awirabigmoneyroll.xyz
 awirabigmoneyrolls.xyz
 axdsz.pro
 axelarnetwork.app
-axelarnetwork.org
 axelcap.io
 axone-airdrop.com
 axs.gift
@@ -11714,6 +11713,7 @@ guildrole.com
 guildrole.net
 guildrole.xyz
 guildsbot.live
+guildsbot.pro
 guildshield.net
 guildstown.live
 guildsxyz.live

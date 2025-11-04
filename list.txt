@@ -1182,7 +1182,6 @@ awirabigmoneyroll.xyz
 awirabigmoneyrolls.xyz
 axdsz.pro
 axelarnetwork.app
-axelarnetwork.org
 axelcap.io
 axone-airdrop.com
 axs.gift
@@ -11710,6 +11709,7 @@ guildrole.com
 guildrole.net
 guildrole.xyz
 guildsbot.live
+guildsbot.pro
 guildshield.net
 guildstown.live
 guildsxyz.live

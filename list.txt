@@ -4578,6 +4578,7 @@ decentralizedblockprotocol.netlify.app
 decentralizedrestore.pages.dev
 decentralizedweb3.onrender.com
 decentralizehubfix.firebaseapp.com
+decentralizenets.pages.dev
 decentrausdchartfil.pages.dev
 decentrazerofusion.pages.dev
 decisive-hammerhead-passive.glitch.me

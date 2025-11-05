@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-04T17:10:37Z
+! Updated: 2025-11-05T03:56:45Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15343,6 +15343,7 @@ mynftmint-session17.vercel.app
 mynltro.com
 myo2-billingref332.com
 mypic.icu
+myprojectmintings01.vercel.app
 myrestorecord-verifier.xyz
 myriad.fun
 myrolls.monster

@@ -14910,6 +14910,7 @@ mintnew-toknso7.vercel.app
 mintnew-toknso8.vercel.app
 mintnew-toknso9.vercel.app
 mintnow3840.vercel.app
+mintopenseapro-live70.vercel.app
 mintopenseapro32.vercel.app
 mintpool-box.firebaseapp.com
 mintpool-box.web.app

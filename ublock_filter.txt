@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-06T11:46:17Z
+! Updated: 2025-11-06T15:16:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3555,6 +3555,7 @@ cs-dark.org.ru
 cs-dump.org.ru
 cs-esports.link
 cs-exeword.xyz
+cs-gift.com
 cs-gift.pro
 cs-gifts.net
 cs-go-roll.com

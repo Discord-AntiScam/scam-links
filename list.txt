@@ -19712,6 +19712,7 @@ s.teampm.cfd
 s.teampp.cfd
 s.teamq.cfd
 s.teamr.sbs
+s.teams-a.com
 s.teams-c.com
 s.teams-ij.com
 s.teams-l.com

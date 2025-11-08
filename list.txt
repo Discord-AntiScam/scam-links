@@ -5520,7 +5520,6 @@ discorcl.app
 discorcl.art
 discorcl.click
 discorcl.club
-discorcl.com
 discorcl.fun
 discorcl.ga
 discorcl.gift

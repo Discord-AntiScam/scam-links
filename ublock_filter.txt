@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-11T14:10:17Z
+! Updated: 2025-11-11T14:10:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3061,6 +3061,7 @@ collab-safe-land.com
 collab-security.land
 collab-sig-land.com
 collab-sig-wallet-land.com
+collab-stellar-land.com
 collab-sync.land
 collab-token.com
 collab-verify.land

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-11T13:17:18Z
+! Updated: 2025-11-11T14:10:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11827,6 +11827,7 @@ heymint.org
 heymint.top
 heymintbot.com
 heymintbot.xyz
+heymintportal.io
 heymintv1.xyz
 heyreap3r.xyz
 hffp.ru

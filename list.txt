@@ -11688,6 +11688,7 @@ guildassistant.click
 guildautomation.com
 guildbit.net
 guildbot.app
+guildbot.cfd
 guildbot.live
 guildbot.org
 guildbots.live

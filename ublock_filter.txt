@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-12T14:59:50Z
+! Updated: 2025-11-12T15:36:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -15412,6 +15412,7 @@ mystery1click8.vercel.app
 mysterybocsr.vercel.app
 mysterybox-350.vercel.app
 mysterybox-freeclaim.vercel.app
+mysterybox-gft29.vercel.app
 mysterybox-ii15.vercel.app
 mysterybox-mint-claim.vercel.app
 mysterybox-nft-weld.vercel.app

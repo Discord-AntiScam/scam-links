@@ -2160,6 +2160,7 @@ captcha-login.id
 captcha-lookup.xyz
 captcha-lookup.xyz?path=verification
 captcha-owls-of-fortune.fr
+captcha-oylqrvmp.vercel.app
 captcha-protect.online
 captcha-protect.xyz
 captcha-protections-bot.xyz

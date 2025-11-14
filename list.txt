@@ -14022,9 +14022,10 @@ limited-tknmint90.vercel.app
 limited-tknmint91.vercel.app
 limited-tknmint92.vercel.app
 limited-tknmint94.vercel.app
+limitedfast-giftbx21.vercel.app
+limitedfast-giftbx23.vercel.app
 limitedfast-giftbx56.vercel.app
 limitedfast-giftbx64.vercel.app
-limitedfast-giftbx69.vercel.app
 limopenseapro730.vercel.app
 limota.vn
 linae-build.com

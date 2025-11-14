@@ -6481,6 +6481,7 @@ discord-trackingbot.com
 discord-trackingbot.fun
 discord-tradingview.click
 discord-tradingview.com
+discord-tradingview.netlify.app
 discord-true.com
 discord-trustandsafety.com
 discord-tube.website

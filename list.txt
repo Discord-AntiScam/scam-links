@@ -2152,6 +2152,7 @@ captcha-detection-bot.ru
 captcha-discord.com
 captcha-dyno.com
 captcha-forta.org
+captcha-gtjvpxrq.vercel.app
 captcha-guild.click
 captcha-guild.xyz
 captcha-info.com

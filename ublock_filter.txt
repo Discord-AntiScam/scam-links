@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-14T06:21:59Z
+! Updated: 2025-11-14T12:03:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10831,6 +10831,7 @@ freelisskins.ru
 freelive-tokens.com
 freeluckygj.top
 freemalware.com
+freenft-getmimts.vercel.app
 freenitro-comsteam.ru
 freenitro-dicsord.com
 freenitro-gift.xyz

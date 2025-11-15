@@ -1629,6 +1629,7 @@ bloxiesofficial.com
 bloxlink.bot
 bloxlink.co
 bloxlink.eu
+bloxlink.fun
 bloxlink.in
 bloxlink.name
 bloxlink.online

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-17T09:36:57Z
+! Updated: 2025-11-17T13:23:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9047,6 +9047,7 @@ dognis1vwlcfz.cloudfront.net
 dogsairdropton.xyz
 dogschain.info
 dohapls.com
+dojoker2.duckdns.org
 domenckiberaktivworldtpz.tk
 dominosllc.com
 dominospizza-nl.com

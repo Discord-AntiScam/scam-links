@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-17T09:36:15Z
+! Updated: 2025-11-17T09:36:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -21064,6 +21064,7 @@ softgaz.ru
 sol-land.com
 sol-sensei.com
 solanamemecoinairdropclaim.pages.dev
+solanexsupport.pages.dev
 solarpunk.invite87515.com
 solheimweb.com
 solicitation-hypesquad.ga

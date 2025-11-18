@@ -2102,6 +2102,7 @@ captcha-auth.com
 captcha-authentication.xyz
 captcha-authorisation.com
 captcha-auto.com
+captcha-axwqldmp.vercel.app
 captcha-bmrvqlxt.vercel.app
 captcha-bot-auth.org
 captcha-bot-check.ru

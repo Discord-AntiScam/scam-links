@@ -17984,6 +17984,7 @@ pubgworker.club
 pubgyio.com
 pubgzh-cn.vip
 public-event.ml
+public-mint1.vercel.app
 pudgy-pudgy20.vercel.app
 pudgypenguins.network
 pudgyy10.vercel.app

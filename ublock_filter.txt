@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-19T15:04:21Z
+! Updated: 2025-11-19T23:31:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17988,6 +17988,7 @@ pubgworker.club
 pubgyio.com
 pubgzh-cn.vip
 public-event.ml
+public-mint1.vercel.app
 pudgy-pudgy20.vercel.app
 pudgypenguins.network
 pudgyy10.vercel.app

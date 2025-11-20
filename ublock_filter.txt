@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-20T17:12:32Z
+! Updated: 2025-11-20T17:40:58Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18837,6 +18837,7 @@ robiox-web.com
 robiox.asia
 robiox.cam
 robiox.click
+robiox.co
 robiox.co.uk
 robiox.com.am
 robiox.com.by

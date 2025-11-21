@@ -2157,6 +2157,7 @@ captcha-defender.top
 captcha-detection-bot.ru
 captcha-discord.com
 captcha-dyno.com
+captcha-fmrqvlxt.vercel.app
 captcha-forta.org
 captcha-gqvlrtpm.vercel.app
 captcha-gtjvpxrq.vercel.app

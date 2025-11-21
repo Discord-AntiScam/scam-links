@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-21T10:45:46Z
+! Updated: 2025-11-21T11:09:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11635,6 +11635,7 @@ gotv-meow.com
 gotyouripboi.com
 gowlex.com
 gp-valorant.com
+gr11tech.sbs
 grab-satoshivm.io
 grabify.link
 grabify.world

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-21T15:26:31Z
+! Updated: 2025-11-21T18:14:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19968,6 +19968,7 @@ scrolli.io
 scrolllayerbank.pages.dev
 scteamcommunity.com
 scwanmei.ru
+sdagsahsdh.duckdns.org
 sdcuu.net
 sdeamccmmunnlty.com
 sdeamcoommnumnlty.com

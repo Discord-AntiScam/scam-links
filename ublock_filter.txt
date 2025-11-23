@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-23T11:54:07Z
+! Updated: 2025-11-23T12:57:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -21093,6 +21093,7 @@ solanamemecoinairdropclaim.pages.dev
 solanexaisupport.pages.dev
 solanexsupport.pages.dev
 solarpunk.invite87515.com
+solaxytokennode.pages.dev
 solheimweb.com
 solicitation-hypesquad.ga
 solicitationfor-events.com

@@ -2159,6 +2159,7 @@ captcha-discord.com
 captcha-dyno.com
 captcha-fmrqvlxt.vercel.app
 captcha-forta.org
+captcha-globaldollar.com
 captcha-gqvlrtpm.vercel.app
 captcha-gtjvpxrq.vercel.app
 captcha-guild.click

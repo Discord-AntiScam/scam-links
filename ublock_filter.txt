@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-24T18:16:30Z
+! Updated: 2025-11-24T19:29:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -8,6 +8,7 @@
 0pensea-gifts-013.vercel.app
 0pensea-gifts-017.vercel.app
 0penseamint-ip.vercel.app
+0pnsepro.live
 0www-roblox.com
 0x-11a.pages.dev
 0x000-ticket-mod.rf.gd

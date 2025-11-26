@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-26T18:17:48Z
+! Updated: 2025-11-26T20:16:44Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35264,6 +35264,7 @@ voting-moderator-academy.com
 voting-renzoprotocol.com
 vouxebit.com
 vp8106.asia
+vrcplugin.com
 vremechko.org
 vremyamn.ru
 vrfy-brhot.info

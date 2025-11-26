@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-25T18:51:18Z
+! Updated: 2025-11-26T15:04:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11854,6 +11854,7 @@ hex-claim.org
 hexenbesen-gerst.de
 hexgift.net
 hexpool.net
+heymint.land
 heymint.org
 heymint.top
 heymintbot.com

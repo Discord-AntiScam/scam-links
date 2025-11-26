@@ -19107,6 +19107,7 @@ roblox.gr
 roblox.gr.com
 roblox.gs
 roblox.gt
+roblox.hair
 roblox.help
 roblox.hk.com
 roblox.ht

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-27T16:45:38Z
+! Updated: 2025-11-27T19:42:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12903,6 +12903,7 @@ illuvium-season.com
 illuvium-v2.io
 ilonbotomonification.space
 image-gamersss.ru
+imagesds.com
 imageshare.best
 immo1914.vercel.app
 immortal.st

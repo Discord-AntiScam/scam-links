@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-28T17:41:36Z
+! Updated: 2025-11-28T17:41:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -4603,6 +4603,7 @@ deadlock-get.com
 debank-bonus.com
 debank.es
 debank.website
+debridge-airdrop.com
 debug-rpcsupport.surge.sh
 debugdecentralize.pages.dev
 debugging-techfuzz.online

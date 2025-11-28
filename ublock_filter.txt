@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-28T08:28:04Z
+! Updated: 2025-11-28T17:41:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1071,6 +1071,7 @@ asstrecovdapcoin.pages.dev
 assuredcloudguard.info
 astacoin.com
 asteam.gq
+asterdexe.org
 astolfo.live
 astra-bin.ru
 astralcoinex.com

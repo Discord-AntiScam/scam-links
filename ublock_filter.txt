@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-29T11:39:14Z
+! Updated: 2025-11-29T11:56:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1040,6 +1040,7 @@ arkmdrop.com
 arobloxx.com
 aroronetfi.gq
 arrakis.exchange
+artdevtool.com
 arthyadtracker.info
 arthyredir.com
 article-cryptonews.com

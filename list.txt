@@ -11741,7 +11741,6 @@ guildian.org
 guildjoin.vercel.app
 guildme.live
 guildmember.xyz
-guildpro.app
 guildrestore.xyz
 guildrole-sync.com
 guildrole.com
@@ -33148,6 +33147,7 @@ team-form.com
 team-gma.com
 team-gucci.com
 team-h.cc
+team-hmgt.com
 team-hypesquad-events.gq
 team-hypesquad-integration.com
 team-hypesquad-solicitacion.com

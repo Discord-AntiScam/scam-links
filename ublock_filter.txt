@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-11-29T11:10:02Z
+! Updated: 2025-11-29T11:39:14Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14141,6 +14141,7 @@ listed-livegrabs91.vercel.app
 listingopensea.org
 listycommunity.ru
 litance-viestside.icu
+livaction-mintgft11.vercel.app
 live-airdrop.com
 live-airdrop.xyz
 live-airdrops.com

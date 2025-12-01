@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-01T05:30:27Z
+! Updated: 2025-12-01T05:44:19Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17209,6 +17209,7 @@ ournewsafte.biz
 ourp.asia
 ourtra-de.com
 outbuck.com
+outline-issues.chat
 outlqqk.webflow.io
 output-nitro.com
 outsidersnitro.ru

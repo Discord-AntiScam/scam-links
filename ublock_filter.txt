@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-01T05:12:59Z
+! Updated: 2025-12-01T05:17:40Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -737,6 +737,7 @@ app-jdl.ru
 app-ldsigin.com
 app-lido.live
 app-mee6.xyz
+app-metasignals.io
 app-moderation-join.com
 app-moderator.com
 app-nitro.com

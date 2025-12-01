@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-01T20:20:36Z
+! Updated: 2025-12-01T22:34:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12154,6 +12154,7 @@ hyper-tournament.xyz
 hyperegister.com
 hyperegister.online
 hyperegisterevents.ga
+hyperliquid-traces.xyz
 hyperliquid-trackers.xyz
 hypernitro.ru
 hypersquad-dc.events

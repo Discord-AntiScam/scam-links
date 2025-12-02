@@ -2559,6 +2559,7 @@ catchaverifybot.ru
 cathchabot.com
 catizen-rewards.pages.dev
 catizen.one
+catpcha-bots.site
 catpcha.vercel.app
 catpchabot.cc
 catpchabot.com

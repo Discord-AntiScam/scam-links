@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-03T12:05:49Z
+! Updated: 2025-12-03T15:56:26Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17666,6 +17666,7 @@ postreceive.com
 postsale.cloud
 postsupport.net
 potato-tf.com
+potatos-tf.com
 power-sk1n.net.ru
 poweredartshop.icu
 poweredcommunity.com

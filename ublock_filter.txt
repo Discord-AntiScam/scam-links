@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-04T19:07:27Z
+! Updated: 2025-12-04T19:07:39Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -34775,6 +34775,7 @@ valo-drop.com
 valo-fight.com
 valo-fine.com
 valo-gift.com
+valo-grab.com
 valo-jot.top
 valo-rant.site
 valo-riot.shop

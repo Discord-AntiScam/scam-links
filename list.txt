@@ -19500,6 +19500,7 @@ rpc-webprotocol.com
 rpc-webprotocol.online
 rpcapifixroot.org
 rpcbrowser.org
+rpcbrowserlaunchpad.vercel.app
 rpcbrowsers.com
 rpcconfigtech.com
 rpcdefi-support.com

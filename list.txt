@@ -2767,6 +2767,7 @@ claim-openmint.web.app
 claim-opensa.firebaseapp.com
 claim-openstery.firebaseapp.com
 claim-openstery.web.app
+claim-opportunity09.vercel.app
 claim-paalai.xyz
 claim-polyhedra.net
 claim-polyhedra.network

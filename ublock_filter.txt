@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-08T19:06:27Z
+! Updated: 2025-12-08T19:41:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12166,6 +12166,7 @@ hyperliquid-leaderboards.xyz
 hyperliquid-traces.xyz
 hyperliquid-trackers.xyz
 hyperliquid-viewer.xyz
+hyperliquidview.xyz
 hypernitro.ru
 hypersquad-dc.events
 hypersquad-event.online

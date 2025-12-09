@@ -15326,6 +15326,7 @@ multibits.trading
 multichain-web.pages.dev
 multichainx.live
 multidappvalidator.vercel.app
+multidefichans.pages.dev
 multisyncvalidator.com
 multiversechainx.com
 multiweb3dapps.vercel.app

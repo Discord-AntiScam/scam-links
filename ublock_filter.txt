@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-10T00:17:24Z
+! Updated: 2025-12-10T00:19:43Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10464,6 +10464,7 @@ first-x-drops.top
 firtonesroll.ru.com
 fiscord.com
 fixall.io
+fixdfghj.com
 fixupwallets.pages.dev
 fixxdapp.pages.dev
 fixxprotocol.xyz

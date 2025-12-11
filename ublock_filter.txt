@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-11T14:13:58Z
+! Updated: 2025-12-11T18:02:08Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2701,6 +2701,7 @@ chestuwygli.com
 chic-pothos-10e942.netlify.app
 chillbearcheck.com
 chillbearclub.info
+chimerical-vacherin-838b62.netlify.app
 chintsressels.com
 chipnex.com
 chosen-events.gq

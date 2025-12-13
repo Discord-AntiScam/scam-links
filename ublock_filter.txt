@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-13T16:04:18Z
+! Updated: 2025-12-13T16:10:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35786,6 +35786,7 @@ winnings-agix.net
 winonecup.com
 winrbx1s1.pw
 winter-chain.link
+winter-gifts.cfd
 winter-smile.com
 winter2023.fun
 winthis.skin

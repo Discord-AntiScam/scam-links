@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-13T21:11:24Z
+! Updated: 2025-12-14T12:22:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35289,6 +35289,7 @@ vesnexchange.com
 veve-starknet.pages.dev
 vexabit.com
 vexstria.vercel.app
+veyro.cc
 vfgrse.com
 vhoru.com.ua
 vianaralar.gq

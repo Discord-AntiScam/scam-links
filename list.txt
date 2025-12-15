@@ -12171,6 +12171,7 @@ hyperegisterevents.ga
 hyperliquid-leaderboards.xyz
 hyperliquid-lookup.xyz
 hyperliquid-traces.xyz
+hyperliquid-tracing.web.app
 hyperliquid-trackers.xyz
 hyperliquid-viewer.xyz
 hyperliquidlookups.xyz

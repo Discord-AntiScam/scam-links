@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-16T15:42:11Z
+! Updated: 2025-12-16T18:19:20Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33339,6 +33339,7 @@ terlaby.com
 term-finance.top
 terms-review36.com
 termse.space
+terodex.com
 tesbtc.com
 teschek.top
 tesignca.gq

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-16T15:35:23Z
+! Updated: 2025-12-16T15:35:30Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16083,6 +16083,7 @@ neirov2soldoge.pages.dev
 nekamigos.com
 neo-tokyo-gaming.pages.dev
 neo.gift
+neobet.top
 neodrive.ru
 neotokyo-event.codes
 neowex.com

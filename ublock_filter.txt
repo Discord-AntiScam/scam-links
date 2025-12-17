@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-17T10:43:13Z
+! Updated: 2025-12-17T10:47:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11311,6 +11311,7 @@ gift-agix.com
 gift-altlayer.io
 gift-arhives.org
 gift-badlion.store
+gift-card.cfd
 gift-cards.cfd
 gift-dicord.online
 gift-dicord.ru

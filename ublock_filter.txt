@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-17T04:17:58Z
+! Updated: 2025-12-17T04:21:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1460,6 +1460,7 @@ binance-k.com
 binance.com.vn
 binancedrop.online
 binanceus.valekiralamaistanbul.com
+bingibet.com
 bingotrades.com
 bingstyle.com
 bintexdao.com

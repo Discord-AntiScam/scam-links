@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T21:50:10Z
+! Updated: 2025-12-18T21:59:06Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9940,6 +9940,7 @@ erc20-nglch-bridge-glitch.finance
 erc404pandora.vercel.app
 eree9.000webhostapp.com
 es-csgo.com
+eschallenger.pro
 eseacsgo.com
 eseacsgo.net
 esibeta.com

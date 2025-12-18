@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T18:54:46Z
+! Updated: 2025-12-18T19:32:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -173,6 +173,7 @@
 6roblox.com
 72.61.181.207
 765611990581412.asia
+777play.top
 793215-bittrex.com
 7a1fe62a-discorcd-app.com
 7a1fe62a-www.discorcd-app.com

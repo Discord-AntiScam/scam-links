@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T19:45:16Z
+! Updated: 2025-12-18T20:11:27Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10035,6 +10035,7 @@ etharbitragebot.com
 ethbot.info
 ethbycb.com
 ethema.org
+ethena-app.com
 ethena-fi.app
 ethenaclaim.xyz
 ether-porkcoin.com

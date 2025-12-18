@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T21:59:06Z
+! Updated: 2025-12-18T22:01:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2833,6 +2833,7 @@ claimpepev2.com
 claimpolyhedra.top
 claimrectifydrops.web.app
 claimrektarb.net
+claimrewardairdrop.pages.dev
 claims-bigeyes.com
 claims-hypesquad.com
 claims-hypixel.gift

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T20:11:27Z
+! Updated: 2025-12-18T21:26:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10437,6 +10437,7 @@ fdgdfgdf.space
 fdiscord.com
 feathergift.store
 featu.re
+fecepunch.pro
 fedxexpress.store
 feediskord.com
 feel-lucky-havah.pro

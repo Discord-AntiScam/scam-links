@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T18:50:47Z
+! Updated: 2025-12-18T18:54:46Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10973,6 +10973,7 @@ fulldiscord.com
 fullnltro.com
 fun-csgo.online
 fun-csgo.ru
+fun-devstream.live
 funcaptcha.games
 fundr0peur.space
 fundtesla.io

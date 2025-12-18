@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-17T21:01:15Z
+! Updated: 2025-12-18T18:46:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -10791,6 +10791,7 @@ fowephwo.ru
 foxcryptoby.com
 foxechange.com
 foxmods.xyz
+foxowex.com
 fozebit.com
 fps-booster.pw
 fr-authacces.com

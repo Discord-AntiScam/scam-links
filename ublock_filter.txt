@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T18:46:47Z
+! Updated: 2025-12-18T18:50:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19966,6 +19966,7 @@ samsungnitro.xyz
 samsungnitro.y0host.com
 sanpaliax.github.io
 santa.bitxskins.com
+santasbet.com
 santoshialini.github.io
 saphione.com
 saphire-nft-official.com

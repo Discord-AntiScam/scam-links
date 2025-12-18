@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T19:43:01Z
+! Updated: 2025-12-18T19:45:16Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -16089,6 +16089,7 @@ near-part.ru
 necnatela.gq
 needcryptojob.com
 needjobcord.com
+nefodex.com
 neftyblocks.xyz
 neir.asia
 neirocoin.com

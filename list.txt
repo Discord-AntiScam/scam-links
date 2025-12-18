@@ -15529,6 +15529,7 @@ mysterybox-gft18.vercel.app
 mysterybox-gft29.vercel.app
 mysterybox-ii15.vercel.app
 mysterybox-mint-claim.vercel.app
+mysterybox-nft-ox.vercel.app
 mysterybox-nft-vd.vercel.app
 mysterybox-nft-weld.vercel.app
 mysterybox-nft.online

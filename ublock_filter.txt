@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-19T04:03:37Z
+! Updated: 2025-12-19T06:00:24Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -36410,6 +36410,7 @@ xxxhubs.xyz
 xxxn-bot.com
 xxxnsfw.xyz
 xxzxd.com
+xynteraptosether.top
 xyzdiiscord-app.com
 xyzdiscord-get.shop
 xyzdiscordapp.xyz

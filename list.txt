@@ -1152,6 +1152,7 @@ authentication-collab.land
 authenticationsapp.pages.dev
 authentifyme.xyz
 authguild.app
+authguild.pro
 authme.pro
 authmee6.com
 authmee6.net

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-19T18:58:17Z
+! Updated: 2025-12-19T20:15:42Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2955,6 +2955,7 @@ coin-portals.web.app
 coin-spacex.com
 coinbap.com
 coinbapo.com
+coinbase-pro-digital.wstd.io
 coinbase-walletconnectv4.vercel.app
 coinbasediscord.com
 coinbaseoc.com

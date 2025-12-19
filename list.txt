@@ -2951,6 +2951,7 @@ coin-portals.web.app
 coin-spacex.com
 coinbap.com
 coinbapo.com
+coinbase-pro-digital.wstd.io
 coinbase-walletconnectv4.vercel.app
 coinbasediscord.com
 coinbaseoc.com

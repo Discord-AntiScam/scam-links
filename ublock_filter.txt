@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-19T06:11:29Z
+! Updated: 2025-12-19T08:38:37Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17670,6 +17670,7 @@ porkcolns.com
 pornblox.ru.com
 pornverify.info
 portaisgaming.com
+portal-audius.com
 portal-blockchain.web.app
 portal-coin.pages.dev
 portal-coin.web.app

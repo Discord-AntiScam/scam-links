@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-19T18:04:52Z
+! Updated: 2025-12-19T18:58:17Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1421,6 +1421,7 @@ between-events.ga
 between-events.gq
 between-events.ml
 betwintrack.com
+betzz.site
 bexdaotrade.com
 beyondtheradar.com
 bghyty.firebaseapp.com

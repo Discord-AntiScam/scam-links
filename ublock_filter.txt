@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-18T23:00:02Z
+! Updated: 2025-12-19T00:47:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13187,6 +13187,7 @@ japan1-05.xyz
 japan1-06.xyz
 jarblox.com
 jashautchord.com
+jayhfn33pt.slovoyage.com
 jd2.ru
 jd6090.asia
 jebyjw7bs.s-qn.my.id

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-20T16:07:22Z
+! Updated: 2025-12-20T16:12:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33177,6 +33177,7 @@ synckava.club
 synckava.top
 synckava.xyz
 syncoiresolver.pages.dev
+syncportaldapp.com
 syncronizationdapp.pages.dev
 syncsactivate.web.app
 syncswap-fnd.xyz

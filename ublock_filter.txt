@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-20T06:16:22Z
+! Updated: 2025-12-20T06:21:29Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33870,6 +33870,7 @@ triumph.tk
 triumphantplace.com
 trktrk.club
 tronexchangevalidate.pages.dev
+trontool.net
 truepnl-giveaway.info
 trulove.guru
 trumpbtc.top

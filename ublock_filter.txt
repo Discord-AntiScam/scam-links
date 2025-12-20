@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-20T06:43:28Z
+! Updated: 2025-12-20T06:46:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2105,6 +2105,7 @@ caltendly.click
 caltendly.xyz
 camebit.com
 campaign.bcns.ai
+campaundfenence.org
 cancel95483-coinbase.com
 cancersolana.com
 cap-bot.com

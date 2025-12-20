@@ -22300,6 +22300,7 @@ staisticdiscord.com
 stake-ator.app
 stake-caga.web.app
 stake-hychain.com
+stake-jup.com
 stake-satoshivm.com
 stake-shido.com
 stake50m.com

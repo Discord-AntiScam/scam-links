@@ -1613,6 +1613,7 @@ blockchainsupportdapps.pages.dev
 blockchainsynchronize.pages.dev
 blockchainsyncs.pages.dev
 blockchaiweb.pages.dev
+blockdexnet.world
 blockdexrectification.pages.dev
 blockdexresolve.pages.dev
 blockdexsolution.pages.dev

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-20T13:08:31Z
+! Updated: 2025-12-20T13:10:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -436,6 +436,7 @@ airdrop-venom.one
 airdrop-wormhole.vercel.app
 airdrop-yogapetz.cc
 airdrop-zkfair.network
+airdrop-zkp.org
 airdrop.homes
 airdroplayerzero.top
 airdroploot.com

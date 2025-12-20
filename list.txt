@@ -1127,6 +1127,7 @@ auth-bot-protect.online
 auth-bot-restorecord.xyz
 auth-captchabot.com
 auth-china.com
+auth-co.com
 auth-collab.top
 auth-collab.vip
 auth-collab.xyz

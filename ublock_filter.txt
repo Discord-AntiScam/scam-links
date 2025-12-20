@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-19T20:15:49Z
+! Updated: 2025-12-20T06:16:22Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1231,6 +1231,7 @@ baby-roshan.top
 babybome.pages.dev
 babycranial.com
 babydogec.site
+babylonlabs.bet
 backupcord.online
 bad-bunnies-nft.com
 bad-bunnies-nfts.com

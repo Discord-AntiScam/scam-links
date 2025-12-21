@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-21T20:54:14Z
+! Updated: 2025-12-21T20:54:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18863,6 +18863,7 @@ reward-csgo.com
 reward-graph.com
 reward-hypixel.net
 reward-ocean.net
+reward-pcpe.com
 reward-pepe.org
 reward-rtfkt.com
 reward-satoshivm.io

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-20T23:32:43Z
+! Updated: 2025-12-21T01:23:11Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2579,6 +2579,7 @@ cashcsgo.ru
 cashout.monster
 cashtesla2023.com
 cashy.monster
+casino-bet365.top
 casino-royal.cfd
 castaways-gg.xyz
 catacult.online

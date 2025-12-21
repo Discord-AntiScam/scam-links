@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-21T20:59:09Z
+! Updated: 2025-12-21T22:43:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -200,6 +200,7 @@
 9roblox.com
 aacsgo.com
 aaroblox.com
+aav-vote.com
 aave-faq.pro
 aavesloan.com
 abesdgsasg.xyz

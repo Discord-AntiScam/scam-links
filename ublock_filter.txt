@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-21T16:36:43Z
+! Updated: 2025-12-21T16:36:48Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -50,6 +50,7 @@
 19igkjgwndapi.ru
 19irjnillkigersogb.ru
 19mngebhapi.ru
+1bigwin.click
 1captcha.site
 1elon.com
 1gerjshgs.ru
@@ -35917,7 +35918,6 @@ womeniovers.net
 wondadev.com
 wonder-project3.vercel.app
 wonderhall.net
-woonex.cc
 wooxcoin.com
 wop-intevents.ml
 woq.free.hr

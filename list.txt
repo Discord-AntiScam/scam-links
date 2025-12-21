@@ -18363,6 +18363,7 @@ recruitment-hypesquad.tk
 recruitment-moderator.com
 recruitment-to-hypesquad.com
 rectifiersecure-smartapp.pages.dev
+rectify.pages.dev
 rectifyblockchain.pages.dev
 rectifytoken.com
 redeem-manta.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-21T03:09:01Z
+! Updated: 2025-12-21T12:06:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -20622,6 +20622,7 @@ simplenavi-csgoplus.com
 simplenitro.com
 simplenitro.gift
 simpler-cs2.com
+simppeli.casino
 sinder8.com
 singularity-net.space
 singup-discordmoderator.com

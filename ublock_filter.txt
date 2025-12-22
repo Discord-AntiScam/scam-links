@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-22T13:18:04Z
+! Updated: 2025-12-22T13:20:36Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -21251,6 +21251,7 @@ smeacommunity.com.au
 smitecommunity.org
 smowsgiving-newyear.com
 snaps-farcana.com
+snapshot-brevis.network
 snapshot-rhino.fi
 sneammcommnunlty.com
 snexon.com

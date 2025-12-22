@@ -1164,6 +1164,7 @@ authenticationsapp.pages.dev
 authentifyme.xyz
 authguild.app
 authguild.pro
+authguildguard.xyz
 authme.pro
 authmee6.com
 authmee6.net

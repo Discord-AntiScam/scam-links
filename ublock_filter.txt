@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-21T22:54:43Z
+! Updated: 2025-12-22T06:55:47Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9946,6 +9946,7 @@ entry-tsukimi.com
 entry.deno.dev
 entrylayerzero.com
 entrylayerzero.net
+enuswin.com
 envy-magic.com
 eonrift.io
 ephmr.top

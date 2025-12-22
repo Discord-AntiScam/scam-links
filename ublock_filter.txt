@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-22T13:20:36Z
+! Updated: 2025-12-22T13:24:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1423,6 +1423,7 @@ betblitz-csgo.com
 betcsgodrop.space
 betradux.com
 betrase.gq
+betrium.live
 betsity.xyz
 betskins.pl
 betterxbit.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-22T13:24:00Z
+! Updated: 2025-12-22T13:26:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -19830,6 +19830,7 @@ rustgiveway.com
 rustgiveway.ru
 rustgo.fun
 rustgun.ru
+rusthorizon.net
 rusthunter.com
 rusti-cated.com
 rusticated-event.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-22T13:13:33Z
+! Updated: 2025-12-22T13:17:56Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -2821,6 +2821,7 @@ claim-steth.net
 claim-topg.com
 claim-topia.com
 claim-usdcoin.net
+claim-wallstreet.pages.dev
 claim-webopensea.web.app
 claim-your-nitro.com
 claim-zkf.com

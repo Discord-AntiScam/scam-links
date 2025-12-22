@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-22T20:13:54Z
+! Updated: 2025-12-22T20:14:02Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -36599,6 +36599,7 @@ zkfair.events
 zkfair.zone
 zkgirlpolyhedra.network
 zkloyalty.com
+zkpass.live
 zkpolyhedra.app
 zkpolyhedra.com
 zkpolyhedra.net

@@ -12230,6 +12230,7 @@ hyperliquid-lookup.xyz
 hyperliquid-traces.xyz
 hyperliquid-tracing.web.app
 hyperliquid-trackers.xyz
+hyperliquid-v4-app.com
 hyperliquid-viewer.xyz
 hyperliquidlookups.xyz
 hyperliquidview.xyz

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-24T03:06:22Z
+! Updated: 2025-12-24T07:06:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -12862,6 +12862,7 @@ hytopianft.net
 hytopianft.xyz
 i-claim4.vercel.app
 i-no.ru
+i-pad.pages.dev
 i-roblox.com
 i1nch-com.pages.dev
 iamnaughty.com

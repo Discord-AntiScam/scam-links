@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-25T10:22:38Z
+! Updated: 2025-12-25T10:30:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11723,6 +11723,7 @@ gotournamentscs.ru
 gotrumpmemes.com
 gotv-meow.com
 gotyouripboi.com
+govpaymentconnect.com
 gowlex.com
 gp-valorant.com
 gr11tech.sbs

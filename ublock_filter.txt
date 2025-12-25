@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-25T10:30:07Z
+! Updated: 2025-12-25T17:39:01Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -14418,6 +14418,7 @@ lootcs.com
 lootquestor.com
 loots-nitro.gq
 lootship.ga
+lootspinning.com
 lootweapons.com
 lopcadogt.gq
 lopmidelroticu.gq

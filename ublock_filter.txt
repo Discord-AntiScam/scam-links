@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-25T10:30:00Z
+! Updated: 2025-12-25T10:30:07Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -17875,6 +17875,7 @@ pro-mintpool.firebaseapp.com
 pro-mintpool.web.app
 pro-openseanow.firebaseapp.com
 pro-openseanow.web.app
+probable-markets.pro
 problastpro.com
 procaptchaverify.ru
 proclaim-opensea.web.app

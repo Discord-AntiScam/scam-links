@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-26T13:27:29Z
+! Updated: 2025-12-26T13:58:03Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33931,6 +33931,7 @@ transistionbase-sync.pages.dev
 tratbc.com
 travel-vago-malaysia.4p-0p.com
 trdoffz.pp.ru
+treasury-land.com
 trekovod.com
 trestleprotocol.net
 trfcbooost.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-27T15:45:07Z
+! Updated: 2025-12-27T15:45:12Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -21564,6 +21564,7 @@ spin-cases.com
 spin-pump.fun
 spin-valorant.pro
 spin4skins.com
+spincore.world
 spinforlulz.com
 spins-cases.com
 spinvalorant.pro
@@ -33220,7 +33221,6 @@ swissborgclaim.com
 swtest.ru
 swww-roblox.com
 sychronizerpcfix.online
-sykaaa.casino
 symbiotic-captcha.net
 sync-7xr.pages.dev
 sync-chainhub.pages.dev
@@ -35269,6 +35269,7 @@ vctset.com
 vctvalorant.com
 veafd.biz.id
 vebowex.com
+vegasgrand.casino
 veiyosgfx.000webhostapp.com
 vellyad.my.id
 velo-gift.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-27T10:34:38Z
+! Updated: 2025-12-27T10:38:34Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -35777,6 +35777,7 @@ web3mint.cc
 web3nodeconnection.org
 web3resq.com
 web3secure.online
+web3securenetwork.com
 web3slugs.com
 web3taskon.click
 web3whales.website

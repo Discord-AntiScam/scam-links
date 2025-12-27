@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-27T10:50:49Z
+! Updated: 2025-12-27T11:14:31Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1326,6 +1326,7 @@ bemefirst.herokuapp.com
 bemoderators.com
 benaughty.com
 beomex.com
+beorix.cc
 bequence.com
 berachain-launchpad.com
 berachain-site.com

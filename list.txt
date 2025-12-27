@@ -36459,6 +36459,7 @@ xlauncher-apps.com
 xmarscoin.com
 xmasvalorant.eu
 xmoonup.com
+xn--captch-nta.bot
 xn--chin-6na.link
 xn--collab-lnd-x5a.com
 xn--cptcha-ita.bot

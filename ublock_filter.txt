@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-27T21:14:00Z
+! Updated: 2025-12-28T15:00:18Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1318,6 +1318,7 @@ beefyv.com
 begigachad.ru
 begigantchad.ru
 beginner-moderator-formulary.com
+begofex.com
 beincrypto.legal
 beincryptollc.com
 bej.cbe.ac.tz

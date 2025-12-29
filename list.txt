@@ -16369,6 +16369,7 @@ nft-hedgies.com
 nft-hunt2.vercel.app
 nft-imints.com
 nft-lucky-b0x14.vercel.app
+nft-luckybox-08.vercel.app
 nft-luckybox14-mu.vercel.app
 nft-luckybox18-eta.vercel.app
 nft-luckybox19-alpha.vercel.app

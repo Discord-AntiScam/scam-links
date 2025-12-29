@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-28T21:26:33Z
+! Updated: 2025-12-29T03:53:04Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3922,6 +3922,7 @@ cs2twch.ru
 cs2twitch.org
 cs2twitch.pro
 cs2twitch.ru
+cs2twitch.sbs
 cs2twitcn.com
 cs2twltch.tv
 cs2twltchs.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-29T03:53:04Z
+! Updated: 2025-12-29T12:52:51Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -11687,6 +11687,7 @@ gocups.ru
 god-zmei.ru
 godkota.ru
 godkozy.ru
+godrex.club
 godrop.live
 gofrodex.com
 gofullpremium.com

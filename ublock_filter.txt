@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-29T12:52:51Z
+! Updated: 2025-12-29T15:24:28Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -9771,6 +9771,7 @@ eligibility-hytopia.co
 eligibility-polyhedra.network
 eligible-jup.fun
 eligible-jup.guru
+eligible-jup.rocks
 eligible-jup.world
 eligible-pumpfun.com
 elisaesport-cs2.com

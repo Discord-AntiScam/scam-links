@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-30T17:48:02Z
+! Updated: 2025-12-30T17:50:00Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13892,6 +13892,7 @@ kuminaluna.xyz
 kunai-valorant.com
 kunaio.vip
 kupikod.xyz
+kurumi-chan.xyz
 kwww-roblox.com
 l-roblox.com
 l2mainet.xyz

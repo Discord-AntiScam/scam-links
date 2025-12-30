@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-30T14:35:55Z
+! Updated: 2025-12-30T17:43:52Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -21258,6 +21258,7 @@ slites-roblox.com
 slleamcommunity.ru
 slore-sleanpowerecl.xyz
 slotdog.us
+slotingonline.com
 slotroll.us
 slowerwave.cyou
 slreamcommunntiy.org

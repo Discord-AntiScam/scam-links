@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-31T20:18:02Z
+! Updated: 2025-12-31T20:18:13Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -1361,6 +1361,7 @@ bestsecretflirt.com
 bestskins.org.ru
 beststeam.gq
 bestwinexperience.com
+bet365-casino.rest
 beta-acces.xyz
 beta-access.club
 beta-access.dev

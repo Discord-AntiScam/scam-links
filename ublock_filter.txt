@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-31T20:06:17Z
+! Updated: 2025-12-31T20:09:59Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -13092,6 +13092,7 @@ invest-digest.com
 invest2x.com
 investing-bank.com
 investing-fund.com
+investtrump.io
 invisbilefriends.com
 invit-wavecs2.net
 invitation-hype-squad-events-join.com

@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2025-12-31T20:20:17Z
+! Updated: 2025-12-31T20:22:32Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -3002,6 +3002,7 @@ coincatchaud.com
 coincosm.com
 coindeko.com
 coinderex.com
+coindeskweb3rectification.netlify.app
 coindesux.com
 coindexis.com
 coinemusk.com

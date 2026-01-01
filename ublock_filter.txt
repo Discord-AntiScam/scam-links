@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2026-01-01T15:33:03Z
+! Updated: 2026-01-01T17:34:23Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -18032,6 +18032,7 @@ ptchabot.com
 ptookaih.net
 ptphqv.top
 pu4.biz
+pub-04afe1d15f4d4bb697366342af1b0a62.r2.dev
 pub-1f9bb5f4523840e990f568ef6df2cd67.r2.dev
 pub-2a0115a9249b484eaf60f62a5e351cbc.r2.dev
 pub-341f5624d2bc4c8297dedbe9f6b13d25.r2.dev

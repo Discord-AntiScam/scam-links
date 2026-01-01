@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2026-01-01T20:02:30Z
+! Updated: 2026-01-01T20:02:41Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -33238,6 +33238,7 @@ surl.li
 survey-arbitrium.com
 survey-tracking-69.com
 survey2you.bid
+sushi-swap.biz
 sushiswmap.com
 sushivswap.com
 sushiwab.com

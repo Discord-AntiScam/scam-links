@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2026-01-01T23:47:20Z
+! Updated: 2026-01-02T10:46:49Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -36519,6 +36519,7 @@ xertomex.com
 xesa-nitro.com
 xess-nitro.com
 xfxcheats.online
+xgamb.cc
 xget-exchange.com
 xgive.sbs
 xgreen-exchange.com

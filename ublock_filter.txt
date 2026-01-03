@@ -1,5 +1,5 @@
 ! Title: Discord AntiScam List
-! Updated: 2026-01-03T12:42:03Z
+! Updated: 2026-01-03T12:42:10Z
 ! Expires: 1 day
 ! Homepage: https://github.com/Discord-AntiScam/scam-links
 08us2w100ps.top
@@ -36053,6 +36053,7 @@ workshop.com.co
 workshopapps.com
 workshopartisthub.com
 workshopawardsvoted.com
+workshopcommunityrare.com
 workshopdetailpack.com
 workshopdetailskin.com
 workshopdevcontent.com
